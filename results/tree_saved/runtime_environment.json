@@ -1,0 +1,14 @@
+{
+  "python": "3.11.15",
+  "numpy": "1.26.4",
+  "pandas": "3.0.3",
+  "scipy": "1.17.1",
+  "sklearn": "1.9.0",
+  "xgboost": "3.2.0",
+  "lightgbm": "4.6.0",
+  "rdkit": "2026.03.3",
+  "logical_cpus": 28,
+  "platform": "Windows-10-10.0.26200-SP0",
+  "estimator_n_jobs": -1,
+  "concurrent_fits": 1
+}

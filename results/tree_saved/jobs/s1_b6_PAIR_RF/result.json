@@ -1,0 +1,29 @@
+{
+  "job_id": "s1_b6_PAIR_RF",
+  "seed": 1,
+  "block": 6,
+  "model": "PAIR_RF",
+  "status": "COMPLETED",
+  "n_train": 1302,
+  "n_test": 159,
+  "elapsed_s": 0.32643169999937527,
+  "peak_process_working_set_bytes": 515190784,
+  "feature": "X_pair",
+  "estimator_random_state": 1,
+  "metrics": {
+    "R2": 0.47774062663083716,
+    "standard_R2": 0.47774062663083716,
+    "MAE": 1.2580277089062788,
+    "Spearman": 0.7077664867682938
+  },
+  "best_null": "additive",
+  "best_null_R2": 0.447440726857964,
+  "margin_R2": 0.030299899772873173,
+  "standard_best_null": "additive",
+  "standard_best_null_R2": 0.447440726857964,
+  "standard_margin_R2": 0.030299899772873173,
+  "runner_sha": "a3bc6472bd8829439c184570f7e3ee70a1ce55f8cc9477c433afe025f025c5c2",
+  "features_sha": "aba2079691057051406b0cd419f0656e298ddc42a5f1e89ada507065341e62db",
+  "predictions_sha": "a533faaa159e44c9380ef3ef848ecfe41f5b05c26ce5210efc88b8109db524da",
+  "membership_sha": "5b4eb90552d29d264e021d38edd2b0c8eb9d020aa7ddd62b9cd5a092e9ccd0c1"
+}

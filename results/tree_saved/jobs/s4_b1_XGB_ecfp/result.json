@@ -1,0 +1,29 @@
+{
+  "job_id": "s4_b1_XGB_ecfp",
+  "seed": 4,
+  "block": 1,
+  "model": "XGB_ecfp",
+  "status": "COMPLETED",
+  "n_train": 1357,
+  "n_test": 128,
+  "elapsed_s": 1.0092082000046503,
+  "peak_process_working_set_bytes": 525385728,
+  "feature": "X_ecfp",
+  "estimator_random_state": 4,
+  "metrics": {
+    "R2": 0.4002952575683594,
+    "standard_R2": 0.4002952575683594,
+    "MAE": 1.2098309993743896,
+    "Spearman": 0.6160753883665164
+  },
+  "best_null": "guest_only_RF",
+  "best_null_R2": 0.3027033950729492,
+  "margin_R2": 0.09759186249541019,
+  "standard_best_null": "guest_only_RF",
+  "standard_best_null_R2": 0.3027033950729492,
+  "standard_margin_R2": 0.09759186249541019,
+  "runner_sha": "a3bc6472bd8829439c184570f7e3ee70a1ce55f8cc9477c433afe025f025c5c2",
+  "features_sha": "aba2079691057051406b0cd419f0656e298ddc42a5f1e89ada507065341e62db",
+  "predictions_sha": "9030e29bafc223af2e6ed9501a3aac187436a58d1121f4774a74b773ceb0fb30",
+  "membership_sha": "252dc0200693071b02117e60b0e4eaf6bb4132a8b55924cfbfdcb81fda354b4e"
+}

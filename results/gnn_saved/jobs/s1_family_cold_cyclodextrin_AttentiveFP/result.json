@@ -1,0 +1,26 @@
+{
+  "job_id": "s1_family_cold_cyclodextrin_AttentiveFP",
+  "seed": 1,
+  "model": "AttentiveFP",
+  "regime": "family_cold",
+  "fold": "cyclodextrin",
+  "status": "COMPLETED",
+  "flag": "ok",
+  "n_train": 1727,
+  "n_val": 304,
+  "n_test": 352,
+  "mu": 4.16577672958374,
+  "sd": 2.111159609390259,
+  "best_epoch": 235,
+  "stop_epoch": 265,
+  "best_validation_mae": 0.9256521463394165,
+  "elapsed_s": 21.75,
+  "peak_allocated_bytes": 1429901824,
+  "predictions_sha": "52b39a5f8f11fc639b2c6219b08259617d82081e480c463cb6de2a30b89ac959",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": -2.5006120204925537,
+    "MAE": 1.7340035438537598,
+    "Spearman": 0.33007651041551017
+  }
+}

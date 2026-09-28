@@ -1,0 +1,26 @@
+{
+  "job_id": "s0_family_cold_calixarene_GINE",
+  "seed": 0,
+  "model": "GINE",
+  "regime": "family_cold",
+  "fold": "calixarene",
+  "status": "COMPLETED",
+  "flag": "ok",
+  "n_train": 1570,
+  "n_val": 277,
+  "n_test": 536,
+  "mu": 4.090092182159424,
+  "sd": 2.1707611547241212,
+  "best_epoch": 112,
+  "stop_epoch": 142,
+  "best_validation_mae": 1.0399004220962524,
+  "elapsed_s": 4.139999999999418,
+  "peak_allocated_bytes": 503258624,
+  "predictions_sha": "16c67dfd3882d7de484b3bf7730e4ca0242e162318fa2db3ee528e3e8bb20890",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": 0.07178187370300293,
+    "MAE": 1.1512577533721924,
+    "Spearman": 0.5231333515034443
+  }
+}

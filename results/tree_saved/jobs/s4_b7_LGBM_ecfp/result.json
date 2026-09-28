@@ -1,0 +1,29 @@
+{
+  "job_id": "s4_b7_LGBM_ecfp",
+  "seed": 4,
+  "block": 7,
+  "model": "LGBM_ecfp",
+  "status": "COMPLETED",
+  "n_train": 1526,
+  "n_test": 76,
+  "elapsed_s": 1.1845011999830604,
+  "peak_process_working_set_bytes": 530640896,
+  "feature": "X_ecfp",
+  "estimator_random_state": 4,
+  "metrics": {
+    "R2": 0.2750242307444096,
+    "standard_R2": 0.2750242307444096,
+    "MAE": 1.336479842473415,
+    "Spearman": 0.49604232457039743
+  },
+  "best_null": "sim_knn_k5",
+  "best_null_R2": 0.2681589951258996,
+  "margin_R2": 0.006865235618510046,
+  "standard_best_null": "sim_knn_k5",
+  "standard_best_null_R2": 0.2681589951258996,
+  "standard_margin_R2": 0.006865235618510046,
+  "runner_sha": "a3bc6472bd8829439c184570f7e3ee70a1ce55f8cc9477c433afe025f025c5c2",
+  "features_sha": "aba2079691057051406b0cd419f0656e298ddc42a5f1e89ada507065341e62db",
+  "predictions_sha": "58f61078ca895a7924e52c4d238c4f8441599ae0f0a84afe3c85555312fa9715",
+  "membership_sha": "042f47d232f6279715b08e887b738e1f4e76b4d01162c44f7c456eedaece0a34"
+}

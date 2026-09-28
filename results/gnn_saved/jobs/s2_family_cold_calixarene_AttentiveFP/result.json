@@ -1,0 +1,26 @@
+{
+  "job_id": "s2_family_cold_calixarene_AttentiveFP",
+  "seed": 2,
+  "model": "AttentiveFP",
+  "regime": "family_cold",
+  "fold": "calixarene",
+  "status": "COMPLETED",
+  "flag": "ok",
+  "n_train": 1570,
+  "n_val": 277,
+  "n_test": 536,
+  "mu": 4.079554557800293,
+  "sd": 2.1701374517211915,
+  "best_epoch": 269,
+  "stop_epoch": 299,
+  "best_validation_mae": 0.9317921996116638,
+  "elapsed_s": 29.89100000000326,
+  "peak_allocated_bytes": 1433389568,
+  "predictions_sha": "f32512c5a4918f337dcdd218d963c22f3262554450fc8eaded8ace1fc135b561",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": 0.08945256471633911,
+    "MAE": 1.1731908321380615,
+    "Spearman": 0.5690261856901453
+  }
+}

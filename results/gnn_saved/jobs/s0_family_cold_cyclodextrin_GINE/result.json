@@ -1,0 +1,26 @@
+{
+  "job_id": "s0_family_cold_cyclodextrin_GINE",
+  "seed": 0,
+  "model": "GINE",
+  "regime": "family_cold",
+  "fold": "cyclodextrin",
+  "status": "COMPLETED",
+  "flag": "ok",
+  "n_train": 1727,
+  "n_val": 304,
+  "n_test": 352,
+  "mu": 4.1362152099609375,
+  "sd": 2.083768652511597,
+  "best_epoch": 59,
+  "stop_epoch": 89,
+  "best_validation_mae": 1.0563842058181763,
+  "elapsed_s": 5.4539999999979045,
+  "peak_allocated_bytes": 503661056,
+  "predictions_sha": "c2e4b25a960214916e46a5e97345a9096f1dd3892fd580226e5a7733d98b839c",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": -1.0239968299865723,
+    "MAE": 1.2770272493362427,
+    "Spearman": 0.5042789683524344
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "job_id": "s3_guest_cold_1_GINE",
+  "seed": 3,
+  "model": "GINE",
+  "regime": "guest_cold",
+  "fold": "1",
+  "status": "COMPLETED",
+  "flag": "ok",
+  "n_train": 1621,
+  "n_val": 285,
+  "n_test": 477,
+  "mu": 3.9311342239379883,
+  "sd": 1.9779018626937865,
+  "best_epoch": 62,
+  "stop_epoch": 92,
+  "best_validation_mae": 1.0522865056991577,
+  "elapsed_s": 5.453000000008615,
+  "peak_allocated_bytes": 504062976,
+  "predictions_sha": "7eb415903a006aeebbcaac65890bc665c551e8487d93862f294776e0861a0a0e",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": 0.6180015206336975,
+    "MAE": 1.0013587474822998,
+    "Spearman": 0.7403304737017445
+  }
+}

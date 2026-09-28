@@ -1,0 +1,391 @@
+{
+  "schema_version": "canonical-model-stage-config-v1",
+  "build_id": "canonical_rebuild_20260802_model_stage_deterministic_v1",
+  "status": "SOURCE_ONLY_AWAITING_FRESH_INDEPENDENT_REVIEW",
+  "project_root": ".",
+  "build_root": "results/canonical_cpu",
+  "canonical_interpreter": "python",
+  "source_review_gate": {
+    "required_for_real_execution": true,
+    "acceptance_path": "manifests/model_stage_source_acceptance_deterministic_v1.json",
+    "required_schema_version": "canonical-model-stage-source-acceptance-deterministic-v1",
+    "required_manifest_schema_version": "canonical-model-stage-source-manifest-deterministic-v1",
+    "required_status": "PASS",
+    "required_reviewer_role": "INDEPENDENT_REVIEWER",
+    "source_manifest_path": "manifests/model_stage_source_manifest_deterministic_v1.json",
+    "load_bearing_project_relative_paths": [
+      "repro/canonical_rebuild_20260802/config/model_stage_config.json",
+      "repro/canonical_rebuild_20260802/docs/model_stage_execution_card_deterministic_v1.md",
+      "repro/canonical_rebuild_20260802/scripts/build_model_features.py",
+      "repro/canonical_rebuild_20260802/scripts/run_external_fold_models.py",
+      "repro/canonical_rebuild_20260802/scripts/compare_cpu_repeats.py",
+      "repro/canonical_rebuild_20260802/scripts/model_stage_driver.py",
+      "repro/canonical_rebuild_20260802/scripts/common.py",
+      "repro/canonical_rebuild_20260802/scripts/check_deterministic_cpu_contract.py",
+      "repro/canonical_rebuild_20260802/scripts/compare_gnn_repeats.py",
+      "repro/canonical_rebuild_20260802/config/canonical_rebuild_config.json",
+      "repro/canonical_rebuild_20260802/folds/folds_host_canonical.csv",
+      "repro/canonical_rebuild_20260802/folds/folds_guest_canonical.csv",
+      "repro/canonical_rebuild_20260802/folds/folds_double_canonical.csv",
+      "repro/source_scripts/suprabench_baselines_modern.py",
+      "salvage_stage2/suprabench_bap_clean_cond.csv",
+      "salvage_stage2/suprabench_bap_clean.csv",
+      "repro/folds/folds_random.csv",
+      "repro/folds/folds_family_cold.csv",
+      "repro/folds/host_id_map.csv",
+      "repro/folds/guest_id_map.csv",
+      "repro/canonical_rebuild_20260802/features/frozen/feature_manifest.json",
+      "repro/canonical_rebuild_20260802/manifests/feature_stage_acceptance.json",
+      "repro/canonical_rebuild_20260802/manifests/model_stage_source_manifest.json",
+      "repro/canonical_rebuild_20260802/manifests/model_stage_source_acceptance.json",
+      "repro/canonical_rebuild_20260802/manifests/model_stage_protected_baseline_deterministic_v1.json",
+      "repro/canonical_rebuild_20260802/manifests/model_stage_source_manifest_deterministic_v1.json"
+    ],
+    "rule": "The fresh verifier alone creates acceptance. Runtime recomputes every listed file SHA, requires the source manifest to bind every listed file except itself, and requires acceptance to bind every listed file including the current source manifest. Any post-acceptance edit fails closed."
+  },
+  "accepted_frozen_feature_authority": {
+    "policy": "CONSUME_EXISTING_ACCEPTED_FEATURES_ONLY_NEVER_REBUILD",
+    "feature_directory": "features/frozen",
+    "manifest": {
+      "path": "features/frozen/feature_manifest.json",
+      "bytes": 2086,
+      "sha256": "0C7439A2BD1FF9F5E067EF0608A68A846D980361C61B532C167E8C444BC49A78",
+      "schema_version": "canonical-model-feature-manifest-v1",
+      "source_config_sha256": "E474388CE3BCC1A826157D79B57CC501C493C5D42B6B857BE76C6F2646B66D3A"
+    },
+    "acceptance": {
+      "path": "manifests/feature_stage_acceptance.json",
+      "bytes": 5362,
+      "sha256": "FE0D1AAFA82F3396C8BEF84193DC9255E4C51F960D7255575B97A36F76B0828C",
+      "schema_version": "feature-stage-acceptance-1.0",
+      "status": "ACCEPTED",
+      "reviewer_role": "independent-feature-stage-verifier-v7"
+    },
+    "legacy_source_acceptance": {
+      "path": "manifests/model_stage_source_acceptance.json",
+      "bytes": 2865,
+      "sha256": "06C44278D8A29417334B25BD241B00A06EF02BA1D520CA34A4EFEFC9147D8C78"
+    }
+  },
+  "accepted_stage2_authority": {
+    "config": {
+      "path": "config/canonical_rebuild_config.json",
+      "sha256": "153C7E7180ADE887CCC011AC2170AB98C8BE1F7F20550E98A8B2ED1447B4A71F"
+    },
+    "folds": {
+      "host_cold": {
+        "path": "folds/folds_host_canonical.csv",
+        "sha256": "A8F8D0E1B411FADCD9125A437C9B0BD3C1B454309AB4077F76E083D5A2226ED7"
+      },
+      "guest_cold": {
+        "path": "folds/folds_guest_canonical.csv",
+        "sha256": "48C70058BB4D00D08C849901C288A6CC43571E6105E15D475388EBCAFDCFD23C"
+      },
+      "double_cold": {
+        "path": "folds/folds_double_canonical.csv",
+        "sha256": "37D529B2F7EA7B07BB3F4EC18DB8FE8AA0C2BB1550AF6C65C41299770633DE22"
+      }
+    },
+    "gnn_comparator": {
+      "path": "scripts/compare_gnn_repeats.py",
+      "sha256": "BB872AB28339172A495176D588469622713E217E6A51C2CF8AF4F1EB19DC7D51"
+    },
+    "shared_common": {
+      "path": "scripts/common.py",
+      "sha256": "EC9DE6FD05C7481F8F84E5AA59AA5FC7575EBBC5C1D99E85B6E7E01949087883"
+    }
+  },
+  "semantic_source": {
+    "path": "repro/source_scripts/suprabench_baselines_modern.py",
+    "sha256": "EB69E44398021875FA7603AADCA99A6C1F68E1DB5D029E0E75120D2F7F7382A2",
+    "policy": "READ_ONLY_EXTRACT_ONLY_NEVER_IMPORT_OR_EXECUTE",
+    "locked_sections": {
+      "features": "lines 56-155",
+      "gnn_models": "lines 157-213",
+      "classical_and_null_models": "lines 215-247"
+    }
+  },
+  "runtime_versions": {
+    "python": "3.11.15",
+    "numpy": "1.26.4",
+    "pandas": "3.0.3",
+    "scipy": "1.17.1",
+    "scikit_learn": "1.9.0",
+    "rdkit": "2026.03.3",
+    "torch": "2.11.0+cu128",
+    "torch_geometric": "2.8.0",
+    "xgboost": "3.2.0",
+    "lightgbm": "4.6.0"
+  },
+  "inputs": {
+    "clean_cond": {
+      "path": "salvage_stage2/suprabench_bap_clean_cond.csv",
+      "sha256": "56AF035C649CA5772675DE608772918482CA7F74F12A91EFCC50E44FC80EE900",
+      "required_header": ["host_smiles", "guest_smiles", "y", "host_name", "family", "source", "solvent_bucket", "temp_bucket", "ph_bucket", "temp_C", "ph_val"]
+    },
+    "clean_base": {
+      "path": "salvage_stage2/suprabench_bap_clean.csv",
+      "sha256": "C9301B153733E847902AC7F0535802BC00AAA0BBE962673F53BC9A99EAAA1F28",
+      "required_header": ["host_smiles", "guest_smiles", "y", "host_name", "family"]
+    },
+    "folds_random": {
+      "path": "repro/folds/folds_random.csv",
+      "sha256": "64ADEA7E030BD7B756965D2FC9F40C74A8BE0B4AFD74EF5AEB074ABD61564848",
+      "required_header": ["split", "fold", "role", "row_index", "host_id", "guest_id", "host_name", "family", "y"]
+    },
+    "folds_family_cold": {
+      "path": "repro/folds/folds_family_cold.csv",
+      "sha256": "12C99D8DF84E238C603D22B68536BA88E30A00F1F05D0DDA4F2DE24C51040E02",
+      "required_header": ["split", "held_family", "role", "row_index", "host_id", "guest_id", "host_name", "y", "flag"]
+    },
+    "host_id_map": {
+      "path": "repro/folds/host_id_map.csv",
+      "sha256": "2286010652FE0AD54D2C8EE152A76C57A3F755C8535E2CC0888929FDC34DF634",
+      "required_header": ["host_id", "host_smiles", "n_host_names", "host_names"]
+    },
+    "guest_id_map": {
+      "path": "repro/folds/guest_id_map.csv",
+      "sha256": "3448A3366FE7CC7B0BC2246D0A703C76BA7AE0241739473CFD096A749B513002",
+      "required_header": ["guest_id", "guest_smiles"]
+    }
+  },
+  "row_authority": {
+    "definition": "zero-based physical data-row position in SHA-gated clean_cond",
+    "expected_rows": 2383,
+    "expected_row_index_range": [0, 2382],
+    "crosscheck": "folds_random contains each physical row_index exactly once as random/test across folds 0..4 and its host_id/guest_id resolve to the exact clean_cond SMILES through the SHA-gated ID maps",
+    "parquet_row": "FORBIDDEN"
+  },
+  "fold_consumption": {
+    "policy": "CONSUME_ONLY_NEVER_CONSTRUCT_OR_CHANGE",
+    "schema": ["split", "fold_index", "seed", "role", "row_index", "host_id", "guest_id", "canonical_host_sha256", "canonical_guest_sha256"],
+    "accepted_roles": {
+      "host_cold": ["train", "test"],
+      "guest_cold": ["train", "test"],
+      "double_cold": ["train", "test", "neither"]
+    },
+    "legacy_ledgers": {
+      "folds_random": "SHA-gated row-authority crosscheck only; never execute as an affected canonical block",
+      "folds_family_cold": "SHA-gated frozen provenance only; never execute as an affected canonical block"
+    }
+  },
+  "feature_schema": {
+    "descriptor_names": ["MW", "LogP", "TPSA", "HBD", "HBA", "RotB", "Ring", "ArRing", "FrCSP3", "Heavy", "Charge"],
+    "pair_descriptor_columns": [
+      "host_MW", "host_LogP", "host_TPSA", "host_HBD", "host_HBA", "host_RotB", "host_Ring", "host_ArRing", "host_FrCSP3", "host_Heavy", "host_Charge",
+      "guest_MW", "guest_LogP", "guest_TPSA", "guest_HBD", "guest_HBA", "guest_RotB", "guest_Ring", "guest_ArRing", "guest_FrCSP3", "guest_Heavy", "guest_Charge",
+      "MW_sum", "guest_MW_over_host_MW", "host_Heavy_minus_guest_Heavy", "guest_Heavy_over_host_Heavy", "Charge_product", "Charge_sum", "abs_TPSA_difference", "host_HBD_plus_guest_HBA", "host_HBA_plus_guest_HBD", "LogP_sum"
+    ],
+    "pair_descriptor_dimension": 32,
+    "safe_divisor_floor": 1e-6,
+    "ecfp": {
+      "radius": 2,
+      "bits_per_entity": 1024,
+      "ordering": "host bits 0..1023 then guest bits 0..1023",
+      "dimension": 2048
+    },
+    "condition_one_hot": {
+      "source_columns": ["source", "solvent_bucket", "temp_bucket", "ph_bucket"],
+      "columns": ["source_cb7_supplement", "source_eupmc", "solvent_bucket_D2O", "solvent_bucket_buffer", "solvent_bucket_complex", "solvent_bucket_missing", "solvent_bucket_other", "solvent_bucket_water", "temp_bucket_missing", "temp_bucket_other", "temp_bucket_~25", "ph_bucket_acidic", "ph_bucket_basic", "ph_bucket_missing", "ph_bucket_neutral"],
+      "dimension": 15,
+      "construction": "pandas.get_dummies on the four string-cast columns in source order; exact columns asserted"
+    },
+    "source_one_hot": {
+      "columns": ["source_cb7_supplement", "source_eupmc"],
+      "dimension": 2,
+      "construction": "pandas.get_dummies on source cast to string; exact columns asserted"
+    },
+    "three_dimensional_pair": {
+      "columns": [
+        "host_MW", "host_LogP", "host_TPSA", "host_HBD", "host_HBA", "host_RotB", "host_Ring", "host_ArRing", "host_FrCSP3", "host_Heavy", "host_Charge",
+        "guest_MW", "guest_LogP", "guest_TPSA", "guest_HBD", "guest_HBA", "guest_RotB", "guest_Ring", "guest_ArRing", "guest_FrCSP3", "guest_Heavy", "guest_Charge",
+        "MW_sum", "guest_MW_over_host_MW", "host_Heavy_minus_guest_Heavy", "guest_Heavy_over_host_Heavy", "Charge_product", "Charge_sum", "abs_TPSA_difference", "host_HBD_plus_guest_HBA", "host_HBA_plus_guest_HBD", "LogP_sum",
+        "guest_Asphericity", "guest_Eccentricity", "guest_InertialShapeFactor", "guest_NPR1", "guest_NPR2", "guest_RadiusOfGyration", "guest_SpherocityIndex", "guest_PMI1", "guest_PMI2", "guest_PMI3"
+      ],
+      "dimension": 42,
+      "guest_order": "first appearance in physical row-authority order",
+      "embedding": "ETKDGv3 with randomSeed=0, useRandomCoords=True, maxIterations=200",
+      "heavy_atom_gate": "return missing when guest has more than 70 heavy atoms",
+      "optimization": "attempt MMFFOptimizeMolecule with maxIters=200; ignore optimization exceptions",
+      "wall_clock_cutoff_seconds": 240,
+      "cutoff_semantics": "check elapsed time before each next guest; an already-started embedding may finish after 240 seconds",
+      "missing_policy": "component-wise median of successful embeddings; all-zero length-10 vector only if no embedding succeeds",
+      "generation": "exactly once, freeze SHA-256, both CPU repeats consume the same ledger",
+      "cross_machine_byte_identity_claim": "FORBIDDEN"
+    },
+    "graph": {
+      "atom_dimension": 48,
+      "edge_dimension": 6,
+      "element_allowlist": [6, 7, 8, 16, 15, 9, 17, 35, 53, 11, 5, 14, 1, 3, 19, 20, 30, 64],
+      "atom_order": "element one-hot+other, clipped degree 0..6 one-hot+other, clipped formal charge -2..2 one-hot+other, hybridization S/SP/SP2/SP3/SP3D/SP3D2 one-hot+other, aromatic, ring, clipped total H 0..4 one-hot+other",
+      "edge_order": "bond type SINGLE/DOUBLE/TRIPLE/AROMATIC one-hot with unknown mapped to SINGLE, conjugated, ring",
+      "molecule_order": "first appearance of raw source SMILES; canonical hashes control fold grouping only and do not rewrite source-faithful molecular features"
+    }
+  },
+  "model_roster": {
+    "ordered": ["PAIR_RF", "ECFP_RF", "XGB_pair", "XGB_ecfp", "LGBM_pair", "LGBM_ecfp", "3D_pair_RF", "GINE", "AttentiveFP", "sim_knn_k5", "additive", "host_only_RF", "guest_only_RF", "cond_only_RF", "source_only_RF"],
+    "cpu_output_models": ["PAIR_RF", "ECFP_RF", "XGB_pair", "XGB_ecfp", "LGBM_pair", "LGBM_ecfp", "3D_pair_RF", "sim_knn_k5", "additive", "host_only_RF", "guest_only_RF", "cond_only_RF", "source_only_RF"],
+    "gnn_output_models": ["GINE", "AttentiveFP"],
+    "cpu_fits_per_block": 11,
+    "gnn_fits_per_block": 2
+  },
+  "model_recipes": {
+    "rf": {"n_estimators": 300, "n_jobs": 1, "random_state": 0, "max_features": "sqrt"},
+    "xgboost": {"n_estimators": 600, "max_depth": 6, "learning_rate": 0.05, "subsample": 0.8, "colsample_bytree": 0.8, "reg_lambda": 1.0, "n_jobs": 1, "random_state": 0, "tree_method": "hist"},
+    "lightgbm": {"n_estimators": 600, "num_leaves": 63, "learning_rate": 0.05, "subsample": 0.8, "colsample_bytree": 0.8, "subsample_freq": 1, "reg_lambda": 1.0, "n_jobs": 1, "num_threads": 1, "random_state": 0, "verbose": -1},
+    "sim_knn_k5": {"k": 5, "combined_similarity": "(host_tanimoto + guest_tanimoto) / 2", "neighbor_selection": "numpy.argpartition(-combined, min(k, len(combined)-1))[:k]", "weight": "combined_similarity + 1e-6"},
+    "additive": {"formula": "host_only_RF + guest_only_RF - mean(y_train)", "additional_fit": false},
+    "gnn": {
+      "training_seed": 0,
+      "validation_seed": 0,
+      "device": "cuda if torch.cuda.is_available() else cpu",
+      "max_epochs": 300,
+      "patience": 30,
+      "validation_fraction": 0.15,
+      "minimum_validation_rows": 20,
+      "target_scale": "(y - training_mean) / (training_std + 1e-6)",
+      "optimizer": "torch.optim.Adam",
+      "learning_rate": 0.001,
+      "weight_decay": 0.00001,
+      "loss": "mean squared error on standardized training target",
+      "early_stop_improvement": 0.0001,
+      "selection_metric": "validation MAE in unscaled y",
+      "pair_head": "concat(host, guest, host*guest, abs(host-guest)) -> Linear(512,256) -> ReLU -> Dropout(0.1) -> Linear(256,1)",
+      "GINE": "Linear(48,128); 3 x GINEConv(MLP 128->256->128, edge_dim=6) + BatchNorm + ReLU + Dropout(0.1); global mean pool",
+      "AttentiveFP": "in=48 hidden=128 out=128 edge=6 layers=3 timesteps=2 dropout=0.1",
+      "determinism": "source-faithful torch.manual_seed(0) and numpy.RandomState(0) validation split only; do not add deterministic-algorithm flags not present in semantic source"
+    }
+  },
+  "execution_scope": {
+    "splits": ["host_cold", "guest_cold", "double_cold"],
+    "blocks": {"host_cold": [0, 1, 2, 3, 4], "guest_cold": [0, 1, 2, 3, 4], "double_cold": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]},
+    "total_blocks": 22,
+    "test_appearances": {"host_cold": 2383, "guest_cold": 2383, "double_cold": 1716, "total": 6482},
+    "fits_per_repeat": {"cpu": 242, "gnn": 44},
+    "p4_five_seed_sensitivity": "RETIRED_NOT_AN_EXECUTION_TARGET"
+  },
+  "prediction_contract": {
+    "schema": ["split", "block_id", "fold_index", "seed", "model", "row_index", "host_id", "guest_id", "canonical_host_sha256", "canonical_guest_sha256", "y_true", "y_pred"],
+    "split_order": ["host_cold", "guest_cold", "double_cold"],
+    "block_order": "numeric fold_index ascending",
+    "model_order": ["PAIR_RF", "ECFP_RF", "XGB_pair", "XGB_ecfp", "LGBM_pair", "LGBM_ecfp", "3D_pair_RF", "GINE", "AttentiveFP", "sim_knn_k5", "additive", "host_only_RF", "guest_only_RF", "cond_only_RF", "source_only_RF"],
+    "row_order": "row_index ascending within model block",
+    "block_id": {"host_cold": "host_cold/fold_<fold_index>", "guest_cold": "guest_cold/fold_<fold_index>", "double_cold": "double_cold/seed_<seed>"},
+    "seed": {"host_cold": "empty", "guest_cold": "empty", "double_cold": "base-10 integer equal to fold_index"},
+    "numeric_serialization": ".17g",
+    "encoding": "UTF-8 without BOM",
+    "line_endings": "LF",
+    "delimiter": ","
+  },
+  "similarity_contract": {
+    "schema": ["split", "block_id", "fold_index", "seed", "row_index", "max_pair_similarity"],
+    "cardinality": 6482,
+    "order": "split order, numeric block order, row_index ascending",
+    "numeric_serialization": ".17g",
+    "encoding": "UTF-8 without BOM",
+    "line_endings": "LF",
+    "delimiter": "tab"
+  },
+  "metrics_contract": {
+    "schema": ["scope", "split", "block_id", "fold_index", "seed", "model", "n", "mae", "r2", "spearman", "r2_status", "spearman_status"],
+    "scopes": ["model_block", "model_split_aggregate"],
+    "definitions": {
+      "mae": "mean(abs(y_true-y_pred))",
+      "r2": "source-faithful R2; UNKNOWN when target has fewer than two distinct values or prediction standard deviation is at most 1e-9",
+      "spearman": "scipy.stats.spearmanr(y_true,y_pred).statistic; UNKNOWN when not finite"
+    },
+    "numeric_serialization": ".17g",
+    "undefined_serialization": "empty field",
+    "encoding": "UTF-8 without BOM",
+    "line_endings": "LF",
+    "delimiter": "tab"
+  },
+  "repeat_policy": {
+    "cpu": "run_a and run_b are separate processes; predictions, metrics, and similarity ledgers must be byte-identical; run_a is primary",
+    "gnn": "run_a and run_b are separate fixed-seed processes; preserve both; run_a is predeclared primary",
+    "gnn_comparator": "use only the SHA-gated accepted comparator and its prelocked tolerance",
+    "forbidden": ["average repeats", "select the favorable repeat", "automatic retry", "tolerance widening"]
+  },
+  "deterministic_cpu_contract": {
+    "enabled_engines": ["cpu"],
+    "enabled_driver_stages": ["preflight", "cpu-a", "cpu-b", "cpu-compare"],
+    "subprocess_environment": {
+      "OMP_NUM_THREADS": "1",
+      "MKL_NUM_THREADS": "1",
+      "OPENBLAS_NUM_THREADS": "1",
+      "NUMEXPR_NUM_THREADS": "1",
+      "BLIS_NUM_THREADS": "1"
+    },
+    "estimator_threads": {
+      "sklearn_random_forest_n_jobs": 1,
+      "xgboost_n_jobs": 1,
+      "lightgbm_n_jobs": 1,
+      "lightgbm_num_threads": 1
+    },
+    "scientific_semantics": "Estimator roster, non-thread hyperparameters, folds, frozen features, seeds, ordering, .17g serialization, and metric definitions are unchanged.",
+    "direct_runner_execution": "CPU execution fails closed unless every required thread environment variable is exactly 1.",
+    "protected_legacy_paths": [
+      "runs/model_cpu_run_a",
+      "runs/model_cpu_run_b",
+      "results/model_cpu_repeat_comparison",
+      "logs/model_stage",
+      "logs/model_stage_events.jsonl",
+      "runtime/model_stage",
+      "manifests/model_stage_source_manifest.json",
+      "manifests/model_stage_source_acceptance.json"
+    ]
+  },
+  "outputs": {
+    "feature_frozen": "features/frozen",
+    "cpu_run_a": "runs/model_cpu_deterministic_v1_run_a",
+    "cpu_run_b": "runs/model_cpu_deterministic_v1_run_b",
+    "cpu_comparison": "results/model_cpu_deterministic_v1_repeat_comparison",
+    "gnn_run_a": "runs/model_gnn_run_a",
+    "gnn_run_b": "runs/model_gnn_run_b",
+    "gnn_comparison": "results/gnn_repeat_comparison",
+    "primary": "results/model_primary",
+    "log_root": "logs/model_stage_deterministic_v1",
+    "event_log": "logs/model_stage_events_deterministic_v1.jsonl",
+    "runtime_root": "runtime/model_stage_deterministic_v1"
+  },
+  "atomic_output_policy": {
+    "rule": "Each producing stage writes a unique work directory under build root, fsyncs files, then renames to an absent final directory. Existing final directories are never overwritten. Failed work directories remain isolated for diagnosis.",
+    "gnn_comparison": "The SHA-gated comparator writes only to a unique driver-owned work directory. Comparator exit 0, exact output file set, manifest PASS, exact A/B roles/paths/live prediction SHAs, validated schema/membership, execution-source SHAs, and comparison TSV name/SHA/bytes/strict UTF-8/LF are required before one rename to the absent final directory.",
+    "external_temp_or_cache": "FORBIDDEN"
+  },
+  "driver_stages": ["preflight", "cpu-a", "cpu-b", "cpu-compare"],
+  "impact_estimate": {
+    "existing_files_modified": 0,
+    "affected_blocks_per_repeat": 22,
+    "cpu_fits_per_repeat": 242,
+    "gnn_fits_per_repeat": 44,
+    "cpu_prediction_rows_per_repeat": 84266,
+    "gnn_prediction_rows_per_repeat": 12964,
+    "primary_prediction_rows": 97230,
+    "similarity_rows": 6482,
+    "planning_runtime": "Feature freeze: 240-second pre-start cutoff plus the final attempted embedding and 2D/graph work. CPU and GNN wall time is machine-dependent and must be measured; no exact wall-clock claim is inferable without executing the reviewed source.",
+    "planning_storage": "Approximately 60-120 MiB for the frozen feature bundle plus approximately 90-180 MiB for both CPU repeats, both GNN repeats, comparisons, logs, and primary ledgers. Exact bytes are recorded after each stage."
+  },
+  "resolved_authority": {
+    "gnn_atom_feature_dimension": {
+      "canonical_decision": "source-faithful atom48/edge6",
+      "semantic_source_evidence": "suprabench_baselines_modern.py lines 128-140: 19 element + 8 degree + 6 charge + 7 hybridization + 2 aromatic/ring + 6 hydrogen = 48",
+      "invented_feature": "FORBIDDEN"
+    }
+  },
+  "forbidden_actions": [
+    "construct_or_change_folds",
+    "execute_random_or_family_cold_as_affected_blocks",
+    "use_parquet_row",
+    "import_or_execute_semantic_source",
+    "read_legacy_result_json",
+    "run_p4_five_seed_sensitivity",
+    "write_outside_build_root",
+    "write_python_bytecode",
+    "overwrite_accepted_stage_outputs",
+    "rebuild_frozen_features",
+    "execute_gnn_or_assemble_under_deterministic_v1",
+    "write_protected_legacy_evidence_paths",
+    "emit_formal_prose_or_result_claims"
+  ]
+}

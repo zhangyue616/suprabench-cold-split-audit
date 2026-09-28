@@ -1,0 +1,51 @@
+{
+  "artifacts_excluding_manifest": [
+    {
+      "bytes": 5704,
+      "path": "feature_schema.json",
+      "sha256": "9CF6CFA44B7E6B9F25C18D6EDAFDEBC5344D3313D4311EB2222496CA4A28F34E"
+    },
+    {
+      "bytes": 10475860,
+      "path": "graph_features.npz",
+      "sha256": "1346C26022A7E854C28DB6EFB166138532A9766D34F007B8B9F59D93F42C7BB4"
+    },
+    {
+      "bytes": 283790,
+      "path": "guest_3d_ledger.tsv",
+      "sha256": "811DF63CB233F980415AA0F6C8CEE01E11C30030CE23F43F5214E3F9FBC6FD5D"
+    },
+    {
+      "bytes": 30519868,
+      "path": "tabular_features.npz",
+      "sha256": "FFE6D344116E6A4CE36C0E90709666848F2319ACD516C6FE2A54DA47612D5310"
+    }
+  ],
+  "canonical_fold_sha256": {
+    "double_cold": "37D529B2F7EA7B07BB3F4EC18DB8FE8AA0C2BB1550AF6C65C41299770633DE22",
+    "guest_cold": "48C70058BB4D00D08C849901C288A6CC43571E6105E15D475388EBCAFDCFD23C",
+    "host_cold": "A8F8D0E1B411FADCD9125A437C9B0BD3C1B454309AB4077F76E083D5A2226ED7"
+  },
+  "input_sha256": {
+    "clean_base": "C9301B153733E847902AC7F0535802BC00AAA0BBE962673F53BC9A99EAAA1F28",
+    "clean_cond": "56AF035C649CA5772675DE608772918482CA7F74F12A91EFCC50E44FC80EE900",
+    "folds_family_cold": "12C99D8DF84E238C603D22B68536BA88E30A00F1F05D0DDA4F2DE24C51040E02",
+    "folds_random": "64ADEA7E030BD7B756965D2FC9F40C74A8BE0B4AFD74EF5AEB074ABD61564848",
+    "guest_id_map": "3448A3366FE7CC7B0BC2246D0A703C76BA7AE0241739473CFD096A749B513002",
+    "host_id_map": "2286010652FE0AD54D2C8EE152A76C57A3F755C8535E2CC0888929FDC34DF634"
+  },
+  "row_count": 2383,
+  "schema_version": "canonical-model-feature-manifest-v1",
+  "source_config_sha256": "E474388CE3BCC1A826157D79B57CC501C493C5D42B6B857BE76C6F2646B66D3A",
+  "three_dimensional": {
+    "attempted_guest_count": 1164,
+    "cross_machine_byte_identity_claim": "FORBIDDEN",
+    "embedded_guest_count": 1131,
+    "ledger_sha256": "811DF63CB233F980415AA0F6C8CEE01E11C30030CE23F43F5214E3F9FBC6FD5D",
+    "median_filled_guest_count": 33,
+    "runtime_seconds": 59.625
+  },
+  "total_runtime_seconds": 62.5,
+  "unique_guest_count": 1164,
+  "unique_host_count": 189
+}

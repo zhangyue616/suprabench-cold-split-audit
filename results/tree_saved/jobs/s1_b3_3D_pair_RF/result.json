@@ -1,0 +1,29 @@
+{
+  "job_id": "s1_b3_3D_pair_RF",
+  "seed": 1,
+  "block": 3,
+  "model": "3D_pair_RF",
+  "status": "COMPLETED",
+  "n_train": 1370,
+  "n_test": 165,
+  "elapsed_s": 0.2976900000066962,
+  "peak_process_working_set_bytes": 515190784,
+  "feature": "X_pair3d",
+  "estimator_random_state": 1,
+  "metrics": {
+    "R2": 0.15393744757786865,
+    "standard_R2": 0.15393744757786865,
+    "MAE": 0.9687832594099479,
+    "Spearman": 0.4904664872899751
+  },
+  "best_null": "host_only_RF",
+  "best_null_R2": 0.06255374201827146,
+  "margin_R2": 0.09138370555959718,
+  "standard_best_null": "host_only_RF",
+  "standard_best_null_R2": 0.06255374201827146,
+  "standard_margin_R2": 0.09138370555959718,
+  "runner_sha": "a3bc6472bd8829439c184570f7e3ee70a1ce55f8cc9477c433afe025f025c5c2",
+  "features_sha": "aba2079691057051406b0cd419f0656e298ddc42a5f1e89ada507065341e62db",
+  "predictions_sha": "4cd8db368a82c1b2110e0e5ad01ea1660deec3adc9cf4059469d3719316cfee7",
+  "membership_sha": "a74c7feca9977ea3c30deca6f43fd108fd86926688af4119a23bd75da52677cf"
+}

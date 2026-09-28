@@ -1,0 +1,46 @@
+{
+  "_provenance": "Verbatim from suprabench_baselines_modern.py (PyG GINE/AttentiveFP, L157-213, 245-247, 261-264) and suprabench_smoke1_gnn.py (pure-torch GIN, L82-130, 198-200). Legacy original-run aggregate GNN numbers are retained in suprabench_baselines_modern_results.json; they are not canonical-identity CPU authority.",
+  "_note": "GINE and AttentiveFP row-level predictions are absent. Their scores are legacy original-run, aggregate-only results. The current repro/scripts/dump_fold_predictions.py --run path does not execute or export either GNN, and no GNN belongs to the canonical-identity CPU interface.",
+  "shared_pair_architecture": {
+    "encoder_shared_between_host_and_guest": true,
+    "embedding_dim_d": 128,
+    "pair_head": "Linear(4*d -> 256) -> ReLU -> Dropout(0.1) -> Linear(256 -> 1)",
+    "pair_combination": "concat[ a, b, a*b, abs(a-b) ]  where a=enc(host), b=enc(guest)"
+  },
+  "GINE": {
+    "framework": "torch_geometric.nn.GINEConv",
+    "layers_L": 3, "hidden_d": 128, "dropout": 0.1,
+    "conv_mlp": "Sequential(Linear(d,2d), ReLU, Linear(2d,d)) with edge_dim=EDIM(6)",
+    "norm": "BatchNorm1d(d) per layer", "activation": "ReLU", "readout": "global_mean_pool",
+    "atom_feature_dim": 48, "edge_feature_dim": 6
+  },
+  "AttentiveFP": {
+    "framework": "torch_geometric.nn.AttentiveFP",
+    "in_channels": 48, "hidden_channels": 128, "out_channels": 128, "edge_dim": 6,
+    "num_layers": 3, "num_timesteps": 2, "dropout": 0.1
+  },
+  "smoke1_pure_torch_GIN": {
+    "_note": "the first/lighter GNN used in suprabench_smoke1_gnn.py (no PyG dependency); reports double-cold R2~0.258",
+    "lin0": "Linear(fdim, 128)",
+    "layers_L": 3, "hidden_d": 128, "dropout": 0.1,
+    "layer_mlp": "Sequential(Linear(d,d), BatchNorm1d(d), ReLU, Linear(d,d))",
+    "aggregation": "index_add over edges with learnable eps per layer ((1+eps)*h + sum_neighbors)",
+    "readout": "mean pool over atoms"
+  },
+  "training": {
+    "optimizer": "Adam", "lr": 0.001, "weight_decay": 1e-05,
+    "loss": "MSE on standardized y",
+    "max_epochs": 300, "patience": 30, "early_stop_metric": "validation MAE (denormalized)",
+    "val_fraction": 0.15,
+    "val_size": "GINE/AFP: max(20, int(0.15*len(train)));  smoke1-GIN: max(30, int(0.15*len(train)))",
+    "seed": 0, "torch_manual_seed": 0,
+    "y_standardization": "per-train-fold mu,sd (computed on the training portion only)",
+    "identical_budget_across_all_splits_and_folds": true
+  },
+  "_meta_from_canonical_run": {
+    "source": "suprabench_baselines_modern_results.json _meta.gnn_budget",
+    "gnn_budget": {"max_epoch": 300, "patience": 30, "lr": 0.001, "val_frac": 0.15, "d": 128, "L": 3},
+    "device": "cuda (RTX 5090)", "torch": "2.11.0+cu128", "torch_geometric": "2.8.0",
+    "gnn_seed_variance": "suprabench_sim_null.py P4 ran 5 model-seeds x 12 double-cold folds (L214-222)"
+  }
+}

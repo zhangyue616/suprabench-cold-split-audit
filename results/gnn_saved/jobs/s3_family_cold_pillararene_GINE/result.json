@@ -1,0 +1,26 @@
+{
+  "job_id": "s3_family_cold_pillararene_GINE",
+  "seed": 3,
+  "model": "GINE",
+  "regime": "family_cold",
+  "fold": "pillararene",
+  "status": "COMPLETED",
+  "flag": "NO_CONCLUSION_small",
+  "n_train": 1978,
+  "n_val": 348,
+  "n_test": 57,
+  "mu": 3.886035680770874,
+  "sd": 2.0106459127197267,
+  "best_epoch": 53,
+  "stop_epoch": 83,
+  "best_validation_mae": 0.9634929895401001,
+  "elapsed_s": 4.985000000000582,
+  "peak_allocated_bytes": 505405952,
+  "predictions_sha": "318c48d41e6a25688b9f154d7bc334939c65a3dc0c741151a2c53561082632ce",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": -6.604010105133057,
+    "MAE": 2.52791428565979,
+    "Spearman": -0.01928405907414234
+  }
+}

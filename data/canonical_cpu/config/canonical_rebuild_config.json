@@ -1,0 +1,387 @@
+{
+  "schema_version": "canonical-rebuild-config-v1",
+  "build_id": "canonical_rebuild_20260802",
+  "project_root": ".",
+  "build_root": "results/canonical_cpu",
+  "canonical_interpreter": "python",
+  "execution_authority": {
+    "inference_mode": "descriptive_A",
+    "p4_five_seed_gnn_sensitivity": "RETIRED_NOT_IN_THIS_BUILD",
+    "primary_gnn_repeat": "run_a",
+    "verification_gnn_repeat": "run_b",
+    "forbidden_outputs": [
+      "population_confidence_intervals",
+      "population_p_values",
+      "wilcoxon_tests",
+      "bootstrap_significance",
+      "robustness_claims"
+    ]
+  },
+  "runtime_versions": {
+    "python": "3.11.15",
+    "numpy": "1.26.4",
+    "pandas": "3.0.3",
+    "scipy": "1.17.1",
+    "scikit_learn": "1.9.0",
+    "rdkit": "2026.03.3",
+    "torch": "2.11.0+cu128",
+    "torch_geometric": "2.8.0",
+    "xgboost": "3.2.0",
+    "lightgbm": "4.6.0"
+  },
+  "identity_policy": {
+    "policy_id": "rdkit_2026.03.3_canonical_isomeric_preserve_fragments_charge_isotopes_stereo",
+    "parser": "Chem.MolFromSmiles(raw, sanitize=True)",
+    "serializer": "Chem.MolToSmiles(mol, canonical=True, isomericSmiles=True)",
+    "canonical_key": "lowercase_sha256_utf8_of_canonical_isomeric_smiles",
+    "group_order": "lexicographic_lowercase_sha256",
+    "preserve_fragments": true,
+    "preserve_formal_charge": true,
+    "preserve_isotopes": true,
+    "preserve_defined_stereo": true,
+    "salt_stripping": false,
+    "neutralization": false,
+    "tautomer_canonicalization": false,
+    "parse_failure": "STOP"
+  },
+  "inputs": {
+    "folds_random": {
+      "path": "repro/folds/folds_random.csv",
+      "sha256": "64ADEA7E030BD7B756965D2FC9F40C74A8BE0B4AFD74EF5AEB074ABD61564848",
+      "projected_columns": ["split", "fold", "role", "row_index", "host_id", "guest_id"],
+      "expected_rows": 2383,
+      "write_policy": "READ_ONLY_BYTE_PRESERVED"
+    },
+    "folds_family_cold": {
+      "path": "repro/folds/folds_family_cold.csv",
+      "sha256": "12C99D8DF84E238C603D22B68536BA88E30A00F1F05D0DDA4F2DE24C51040E02",
+      "write_policy": "READ_ONLY_BYTE_PRESERVED"
+    },
+    "host_id_map": {
+      "path": "repro/folds/host_id_map.csv",
+      "sha256": "2286010652FE0AD54D2C8EE152A76C57A3F755C8535E2CC0888929FDC34DF634",
+      "projected_columns": ["host_id", "host_smiles"],
+      "expected_rows": 189
+    },
+    "guest_id_map": {
+      "path": "repro/folds/guest_id_map.csv",
+      "sha256": "3448A3366FE7CC7B0BC2246D0A703C76BA7AE0241739473CFD096A749B513002",
+      "projected_columns": ["guest_id", "guest_smiles"],
+      "expected_rows": 1164
+    },
+    "clean_cond": {
+      "path": "salvage_stage2/suprabench_bap_clean_cond.csv",
+      "sha256": "56AF035C649CA5772675DE608772918482CA7F74F12A91EFCC50E44FC80EE900",
+      "projected_columns": [
+        "host_smiles",
+        "guest_smiles",
+        "y",
+        "source",
+        "family",
+        "solvent_bucket",
+        "temp_bucket",
+        "ph_bucket"
+      ],
+      "row_index_definition": "zero_based_physical_data_row_position"
+    },
+    "clean_base": {
+      "path": "salvage_stage2/suprabench_bap_clean.csv",
+      "sha256": "C9301B153733E847902AC7F0535802BC00AAA0BBE962673F53BC9A99EAAA1F28",
+      "parity_gate": "source-faithful clean_cond versus clean_base core-row parity; any mismatch STOP"
+    },
+    "canonical_alias_map": {
+      "path": "repro/source_results/canonical_identity_alias_map_2026-08-01.tsv",
+      "sha256": "82967407C3B2D99B847CD47A54576F5BE68651DA7E643395C371889B5EC32C14"
+    },
+    "canonical_recurrence": {
+      "path": "repro/source_results/canonical_identity_recurrence_2026-08-01.tsv",
+      "sha256": "228E73C84B3A8401B6A550C25AF874A84C942A009AA18EEC76B4D8A34CC63C96"
+    },
+    "canonical_gate_script": {
+      "path": "repro/source_scripts/canonical_identity_gate_2026-08-01.py",
+      "sha256": "0F6BCBC82BA0795485EA62581585C031666593CCEC1E1584A5AB5EF4E77FB0F7"
+    },
+    "canonical_gate_report": {
+      "path": "docs/canonical_identity_gate_report_2026-08-01.md",
+      "sha256": "4C2F70C63757D5C83212B9A3DC32DA0192B1E2168B05549A982A4B14460E9D93"
+    },
+    "canonical_gate_verifier": {
+      "path": "docs/canonical_identity_verifier_2026-08-01.md",
+      "sha256": "C2EBBB9B86EE9A89947FD24B89BCEDE731E181540B59FC90F66C9F0E4790E9D1"
+    }
+  },
+  "row_authority": {
+    "source": "folds_random",
+    "expected_rows": 2383,
+    "required_split": "random",
+    "required_role": "test",
+    "required_folds": [0, 1, 2, 3, 4],
+    "row_index_unique": true,
+    "physical_row_crosscheck": "clean_cond host_smiles and guest_smiles map exactly to authority host_id and guest_id",
+    "parquet_row": "FORBIDDEN"
+  },
+  "fold_definitions": {
+    "random": {
+      "action": "REFERENCE_UNCHANGED",
+      "byte_preserved": true
+    },
+    "family_cold": {
+      "action": "REFERENCE_UNCHANGED",
+      "byte_preserved": true
+    },
+    "host_cold": {
+      "split": "host_cold",
+      "method": "sklearn.model_selection.GroupKFold",
+      "n_splits": 5,
+      "groups": "canonical_host_sha256",
+      "materialized_roles": ["train", "test"]
+    },
+    "guest_cold": {
+      "split": "guest_cold",
+      "method": "sklearn.model_selection.GroupKFold",
+      "n_splits": 5,
+      "groups": "canonical_guest_sha256",
+      "materialized_roles": ["train", "test"]
+    },
+    "double_cold": {
+      "split": "double_cold",
+      "attempted_seeds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "rng": "numpy.random.RandomState(seed)",
+      "candidate_order": "lexicographic_lowercase_sha256",
+      "holdout_fraction": 0.25,
+      "holdout_count_rule": "max(1, int(0.25 * n_canonical_groups))",
+      "expected_canonical_host_groups": 188,
+      "expected_canonical_guest_groups": 1152,
+      "expected_held_host_groups": 47,
+      "expected_held_guest_groups": 288,
+      "stratification": false,
+      "balancing": false,
+      "test_rule": "held_host_AND_held_guest",
+      "train_rule": "unheld_host_AND_unheld_guest",
+      "neither_rule": "exactly_one_axis_held",
+      "validity": {
+        "minimum_test_rows": 25,
+        "minimum_distinct_finite_test_targets": 2,
+        "minimum_train_rows": 50,
+        "any_invalid_seed": "STOP_WHOLE_BUILD",
+        "replacement_seed": "FORBIDDEN"
+      },
+      "fold_index": "seed",
+      "materialized_roles": ["train", "test", "neither"]
+    }
+  },
+  "fold_output_schema": [
+    "split",
+    "fold_index",
+    "seed",
+    "role",
+    "row_index",
+    "host_id",
+    "guest_id",
+    "canonical_host_sha256",
+    "canonical_guest_sha256"
+  ],
+  "fold_output_order": "fold_index ascending; role train, test, neither where applicable; row_index ascending within role",
+  "held_group_output_schema": [
+    "split",
+    "fold_index",
+    "seed",
+    "entity_type",
+    "canonical_sha256",
+    "raw_member_ids"
+  ],
+  "held_group_output_order": "fold_index ascending; entity_type host then guest; canonical_sha256 ascending; raw_member_ids numeric ascending and pipe-delimited",
+  "model_roster": {
+    "strong_models": [
+      "PAIR_RF",
+      "ECFP_RF",
+      "XGB_pair",
+      "XGB_ecfp",
+      "LGBM_pair",
+      "LGBM_ecfp",
+      "3D_pair_RF",
+      "GINE",
+      "AttentiveFP"
+    ],
+    "null_models": [
+      "sim_knn_k5",
+      "additive",
+      "host_only_RF",
+      "guest_only_RF",
+      "cond_only_RF",
+      "source_only_RF"
+    ],
+    "expected_total": 15,
+    "affected_splits": ["host_cold", "guest_cold", "double_cold"],
+    "expected_blocks_by_split": {
+      "host_cold": 5,
+      "guest_cold": 5,
+      "double_cold": 12
+    },
+    "expected_evaluation_blocks": 22
+  },
+  "model_execution_gates": {
+    "condition_features": "one-hot encodings of solvent_bucket, temp_bucket, and ph_bucket from SHA-gated clean_cond",
+    "source_features": "one-hot encoding of source from SHA-gated clean_cond",
+    "three_dimensional_features": {
+      "source_recipe": "legacy source-faithful feature construction",
+      "guest_order": "first appearance in SHA-gated row-authority order",
+      "embedding": "ETKDGv3",
+      "embedding_seed": 0,
+      "wall_clock_cutoff_seconds": 240,
+      "missing_feature_policy": "median_fill_as_legacy",
+      "execution": "generate once before model runs and freeze as a versioned SHA-256 ledger",
+      "cpu_run_a": "consume the same frozen ledger",
+      "cpu_run_b": "consume the same frozen ledger",
+      "ledger_rebuild_between_repeats": "FORBIDDEN",
+      "required_ledger_evidence": ["runtime_seconds", "attempted_guest_count", "embedded_guest_count", "median_filled_guest_count", "sha256"],
+      "cross_machine_byte_reproducibility_claim": "FORBIDDEN"
+    },
+    "status": "LOCKED"
+  },
+  "prediction_output_contract": {
+    "schema_version": "canonical-predictions-v1",
+    "rows": "test appearances only; one row per model and test appearance",
+    "columns": [
+      "split",
+      "block_id",
+      "fold_index",
+      "seed",
+      "model",
+      "row_index",
+      "host_id",
+      "guest_id",
+      "canonical_host_sha256",
+      "canonical_guest_sha256",
+      "y_true",
+      "y_pred"
+    ],
+    "split_order": ["host_cold", "guest_cold", "double_cold"],
+    "block_order": "numeric fold_index ascending within split",
+    "model_order": [
+      "PAIR_RF",
+      "ECFP_RF",
+      "XGB_pair",
+      "XGB_ecfp",
+      "LGBM_pair",
+      "LGBM_ecfp",
+      "3D_pair_RF",
+      "GINE",
+      "AttentiveFP",
+      "sim_knn_k5",
+      "additive",
+      "host_only_RF",
+      "guest_only_RF",
+      "cond_only_RF",
+      "source_only_RF"
+    ],
+    "row_order_within_model_block": "row_index ascending",
+    "float_format": ".17g",
+    "integer_format": "base-10 without leading zeros",
+    "host_guest_seed_representation": "empty field",
+    "double_seed_representation": "base-10 integer equal to fold_index",
+    "encoding": "UTF-8 without BOM",
+    "line_endings": "LF",
+    "delimiter": "comma",
+    "block_id_convention": {
+      "host_cold": "host_cold/fold_<fold_index>",
+      "guest_cold": "guest_cold/fold_<fold_index>",
+      "double_cold": "double_cold/seed_<seed>"
+    }
+  },
+  "similarity_ledger_contract": {
+    "schema_version": "max-pair-similarity-ledger-v1",
+    "definition": "maximum combined host/guest similarity from the locked sim_knn_k5 routine",
+    "cardinality": "exactly once per test appearance, not duplicated by model",
+    "columns": [
+      "split",
+      "block_id",
+      "fold_index",
+      "seed",
+      "row_index",
+      "max_pair_similarity"
+    ],
+    "row_order": "prediction split order, numeric block order, row_index ascending",
+    "float_format": ".17g",
+    "host_guest_seed_representation": "empty field",
+    "double_seed_representation": "base-10 integer equal to fold_index",
+    "encoding": "UTF-8 without BOM",
+    "line_endings": "LF",
+    "delimiter": "tab",
+    "acceptance": "input/fold SHA, exact row membership, exact order, and ledger SHA must be persisted and independently verified before low-sim derivation"
+  },
+  "gnn_repeat_acceptance": {
+    "status": "PRELOCKED_BEFORE_TRAINING",
+    "models": ["GINE", "AttentiveFP"],
+    "run_a_role": "PREDECLARED_PRIMARY",
+    "run_b_role": "VERIFICATION_ONLY",
+    "same_fixed_training_seed": 0,
+    "same_fixed_validation_seed": 0,
+    "fresh_processes": true,
+    "retain_both_outputs": true,
+    "selection_or_averaging": "FORBIDDEN",
+    "required_prediction_schema": [
+      "split",
+      "block_id",
+      "fold_index",
+      "seed",
+      "model",
+      "row_index",
+      "host_id",
+      "guest_id",
+      "canonical_host_sha256",
+      "canonical_guest_sha256",
+      "y_true",
+      "y_pred"
+    ],
+    "block_id_convention": {
+      "host_cold": "host_cold/fold_<fold_index>",
+      "guest_cold": "guest_cold/fold_<fold_index>",
+      "double_cold": "double_cold/seed_<seed>"
+    },
+    "row_order": "EXACT_MATCH_REQUIRED",
+    "y_true": "EXACT_TEXT_AND_NUMERIC_EQUALITY_REQUIRED",
+    "finite_y_pred": true,
+    "metric_definitions": {
+      "mae": "mean(abs(y_true - y_pred))",
+      "rmse": "sqrt(mean((y_true - y_pred)^2))",
+      "r2": "1 - sum((y_true-y_pred)^2)/sum((y_true-mean(y_true))^2); UNKNOWN when n<2 or target is constant",
+      "spearman": "scipy.stats.spearmanr(y_true,y_pred).statistic; UNKNOWN when n<2 or target or prediction is constant",
+      "p95_absolute_prediction_difference": "numpy.quantile(abs(pred_a-pred_b), 0.95, method='linear')"
+    },
+    "per_model_block_thresholds": {
+      "prediction_repeat_mae_max_logKa": 0.05,
+      "prediction_repeat_rmse_max_logKa": 0.075,
+      "prediction_repeat_p95_abs_max_logKa": 0.15,
+      "prediction_repeat_max_abs_max_logKa": 0.5,
+      "absolute_delta_block_mae_max_logKa": 0.03,
+      "absolute_delta_block_r2_max": 0.03,
+      "absolute_delta_block_spearman_max": 0.03
+    },
+    "per_model_split_thresholds": {
+      "absolute_delta_aggregate_mae_max_logKa": 0.02,
+      "absolute_delta_aggregate_r2_max": 0.02,
+      "absolute_delta_aggregate_spearman_max": 0.02
+    },
+    "hard_failures": [
+      "missing_or_extra_row",
+      "row_reorder",
+      "schema_mismatch",
+      "model_or_block_membership_mismatch",
+      "y_true_text_or_numeric_mismatch",
+      "nan_or_infinite_prediction",
+      "asymmetric_metric_definedness",
+      "any_single_threshold_exceeded"
+    ],
+    "on_failure": "NONZERO_EXIT_STOP",
+    "automatic_retry": false,
+    "tolerance_widening": false
+  },
+  "outputs": {
+    "fold_run_a": "runs/fold_run_a",
+    "fold_run_b": "runs/fold_run_b",
+    "fold_primary": "folds",
+    "fold_execution_log": "logs/fold_execution.tsv",
+    "gnn_comparison_root": "results/gnn_repeat_comparison"
+  }
+}

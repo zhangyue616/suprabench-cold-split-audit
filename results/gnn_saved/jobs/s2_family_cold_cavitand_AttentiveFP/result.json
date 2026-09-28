@@ -1,0 +1,26 @@
+{
+  "job_id": "s2_family_cold_cavitand_AttentiveFP",
+  "seed": 2,
+  "model": "AttentiveFP",
+  "regime": "family_cold",
+  "fold": "cavitand",
+  "status": "COMPLETED",
+  "flag": "NO_CONCLUSION_small",
+  "n_train": 1959,
+  "n_val": 345,
+  "n_test": 79,
+  "mu": 3.989750385284424,
+  "sd": 2.092574165893555,
+  "best_epoch": 273,
+  "stop_epoch": 299,
+  "best_validation_mae": 0.7852920293807983,
+  "elapsed_s": 29.625,
+  "peak_allocated_bytes": 1433524736,
+  "predictions_sha": "be1dd92c9b0c3333ff95e8ffb8c9a8a5ea54c02cdcfc8bcf7b3a13f4153ca815",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": -0.48185694217681885,
+    "MAE": 1.5759999752044678,
+    "Spearman": 0.3
+  }
+}

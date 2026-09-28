@@ -1,0 +1,26 @@
+{
+  "job_id": "s1_family_cold_pillararene_AttentiveFP",
+  "seed": 1,
+  "model": "AttentiveFP",
+  "regime": "family_cold",
+  "fold": "pillararene",
+  "status": "COMPLETED",
+  "flag": "NO_CONCLUSION_small",
+  "n_train": 1978,
+  "n_val": 348,
+  "n_test": 57,
+  "mu": 3.9096693992614746,
+  "sd": 2.059557245803833,
+  "best_epoch": 272,
+  "stop_epoch": 299,
+  "best_validation_mae": 0.7894282937049866,
+  "elapsed_s": 32.5,
+  "peak_allocated_bytes": 1430305280,
+  "predictions_sha": "59f2ea785f1add67d6cb66f73f3840bac5fd4682d56f4898cf1424cea733cc09",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": -5.551313877105713,
+    "MAE": 2.1902406215667725,
+    "Spearman": -0.05010614340945219
+  }
+}

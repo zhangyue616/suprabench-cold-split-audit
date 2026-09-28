@@ -1,0 +1,26 @@
+{
+  "job_id": "s1_double_cold_7_GINE",
+  "seed": 1,
+  "model": "GINE",
+  "regime": "double_cold",
+  "fold": "7",
+  "status": "COMPLETED",
+  "flag": "ok",
+  "n_train": 1298,
+  "n_val": 228,
+  "n_test": 76,
+  "mu": 3.948432445526123,
+  "sd": 2.037457035614014,
+  "best_epoch": 61,
+  "stop_epoch": 91,
+  "best_validation_mae": 0.9508375525474548,
+  "elapsed_s": 5.312999999994645,
+  "peak_allocated_bytes": 505131008,
+  "predictions_sha": "0facbe915d2c16975efa8fa8f7c55798064685b99fdd5b1a88c8a42dfc2b0b16",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": 0.3442932963371277,
+    "MAE": 1.1897022724151611,
+    "Spearman": 0.5746119196016587
+  }
+}

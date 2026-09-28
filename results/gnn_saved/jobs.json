@@ -1,0 +1,2452 @@
+[
+  {
+    "job_id": "s0_double_cold_0_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s0_double_cold_0_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s0_double_cold_1_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s0_double_cold_1_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s0_double_cold_2_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s0_double_cold_2_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s0_double_cold_3_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s0_double_cold_3_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s0_double_cold_4_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s0_double_cold_4_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s0_double_cold_5_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "5"
+  },
+  {
+    "job_id": "s0_double_cold_5_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "5"
+  },
+  {
+    "job_id": "s0_double_cold_6_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "6"
+  },
+  {
+    "job_id": "s0_double_cold_6_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "6"
+  },
+  {
+    "job_id": "s0_double_cold_7_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "7"
+  },
+  {
+    "job_id": "s0_double_cold_7_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "7"
+  },
+  {
+    "job_id": "s0_double_cold_8_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "8"
+  },
+  {
+    "job_id": "s0_double_cold_8_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "8"
+  },
+  {
+    "job_id": "s0_double_cold_9_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "9"
+  },
+  {
+    "job_id": "s0_double_cold_9_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "9"
+  },
+  {
+    "job_id": "s0_double_cold_10_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "10"
+  },
+  {
+    "job_id": "s0_double_cold_10_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "10"
+  },
+  {
+    "job_id": "s0_double_cold_11_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "11"
+  },
+  {
+    "job_id": "s0_double_cold_11_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "11"
+  },
+  {
+    "job_id": "s0_random_0_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "0"
+  },
+  {
+    "job_id": "s0_random_0_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "0"
+  },
+  {
+    "job_id": "s0_random_1_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "1"
+  },
+  {
+    "job_id": "s0_random_1_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "1"
+  },
+  {
+    "job_id": "s0_random_2_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "2"
+  },
+  {
+    "job_id": "s0_random_2_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "2"
+  },
+  {
+    "job_id": "s0_random_3_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "3"
+  },
+  {
+    "job_id": "s0_random_3_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "3"
+  },
+  {
+    "job_id": "s0_random_4_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "4"
+  },
+  {
+    "job_id": "s0_random_4_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "4"
+  },
+  {
+    "job_id": "s0_host_cold_0_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s0_host_cold_0_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s0_host_cold_1_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s0_host_cold_1_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s0_host_cold_2_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s0_host_cold_2_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s0_host_cold_3_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s0_host_cold_3_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s0_host_cold_4_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s0_host_cold_4_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s0_guest_cold_0_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s0_guest_cold_0_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s0_guest_cold_1_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s0_guest_cold_1_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s0_guest_cold_2_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s0_guest_cold_2_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s0_guest_cold_3_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s0_guest_cold_3_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s0_guest_cold_4_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s0_guest_cold_4_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s0_family_cold_calixarene_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "calixarene"
+  },
+  {
+    "job_id": "s0_family_cold_calixarene_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "calixarene"
+  },
+  {
+    "job_id": "s0_family_cold_cavitand_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cavitand"
+  },
+  {
+    "job_id": "s0_family_cold_cavitand_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cavitand"
+  },
+  {
+    "job_id": "s0_family_cold_crown_ether_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "crown_ether"
+  },
+  {
+    "job_id": "s0_family_cold_crown_ether_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "crown_ether"
+  },
+  {
+    "job_id": "s0_family_cold_cucurbituril_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cucurbituril"
+  },
+  {
+    "job_id": "s0_family_cold_cucurbituril_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cucurbituril"
+  },
+  {
+    "job_id": "s0_family_cold_cyclodextrin_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cyclodextrin"
+  },
+  {
+    "job_id": "s0_family_cold_cyclodextrin_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cyclodextrin"
+  },
+  {
+    "job_id": "s0_family_cold_cyclophane_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cyclophane"
+  },
+  {
+    "job_id": "s0_family_cold_cyclophane_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cyclophane"
+  },
+  {
+    "job_id": "s0_family_cold_other_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "other"
+  },
+  {
+    "job_id": "s0_family_cold_other_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "other"
+  },
+  {
+    "job_id": "s0_family_cold_pillararene_GINE",
+    "seed": 0,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "pillararene"
+  },
+  {
+    "job_id": "s0_family_cold_pillararene_AttentiveFP",
+    "seed": 0,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "pillararene"
+  },
+  {
+    "job_id": "s1_double_cold_0_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s1_double_cold_0_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s1_double_cold_1_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s1_double_cold_1_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s1_double_cold_2_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s1_double_cold_2_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s1_double_cold_3_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s1_double_cold_3_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s1_double_cold_4_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s1_double_cold_4_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s1_double_cold_5_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "5"
+  },
+  {
+    "job_id": "s1_double_cold_5_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "5"
+  },
+  {
+    "job_id": "s1_double_cold_6_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "6"
+  },
+  {
+    "job_id": "s1_double_cold_6_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "6"
+  },
+  {
+    "job_id": "s1_double_cold_7_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "7"
+  },
+  {
+    "job_id": "s1_double_cold_7_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "7"
+  },
+  {
+    "job_id": "s1_double_cold_8_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "8"
+  },
+  {
+    "job_id": "s1_double_cold_8_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "8"
+  },
+  {
+    "job_id": "s1_double_cold_9_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "9"
+  },
+  {
+    "job_id": "s1_double_cold_9_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "9"
+  },
+  {
+    "job_id": "s1_double_cold_10_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "10"
+  },
+  {
+    "job_id": "s1_double_cold_10_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "10"
+  },
+  {
+    "job_id": "s1_double_cold_11_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "11"
+  },
+  {
+    "job_id": "s1_double_cold_11_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "11"
+  },
+  {
+    "job_id": "s1_random_0_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "0"
+  },
+  {
+    "job_id": "s1_random_0_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "0"
+  },
+  {
+    "job_id": "s1_random_1_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "1"
+  },
+  {
+    "job_id": "s1_random_1_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "1"
+  },
+  {
+    "job_id": "s1_random_2_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "2"
+  },
+  {
+    "job_id": "s1_random_2_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "2"
+  },
+  {
+    "job_id": "s1_random_3_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "3"
+  },
+  {
+    "job_id": "s1_random_3_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "3"
+  },
+  {
+    "job_id": "s1_random_4_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "4"
+  },
+  {
+    "job_id": "s1_random_4_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "4"
+  },
+  {
+    "job_id": "s1_host_cold_0_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s1_host_cold_0_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s1_host_cold_1_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s1_host_cold_1_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s1_host_cold_2_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s1_host_cold_2_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s1_host_cold_3_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s1_host_cold_3_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s1_host_cold_4_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s1_host_cold_4_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s1_guest_cold_0_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s1_guest_cold_0_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s1_guest_cold_1_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s1_guest_cold_1_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s1_guest_cold_2_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s1_guest_cold_2_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s1_guest_cold_3_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s1_guest_cold_3_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s1_guest_cold_4_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s1_guest_cold_4_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s1_family_cold_calixarene_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "calixarene"
+  },
+  {
+    "job_id": "s1_family_cold_calixarene_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "calixarene"
+  },
+  {
+    "job_id": "s1_family_cold_cavitand_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cavitand"
+  },
+  {
+    "job_id": "s1_family_cold_cavitand_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cavitand"
+  },
+  {
+    "job_id": "s1_family_cold_crown_ether_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "crown_ether"
+  },
+  {
+    "job_id": "s1_family_cold_crown_ether_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "crown_ether"
+  },
+  {
+    "job_id": "s1_family_cold_cucurbituril_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cucurbituril"
+  },
+  {
+    "job_id": "s1_family_cold_cucurbituril_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cucurbituril"
+  },
+  {
+    "job_id": "s1_family_cold_cyclodextrin_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cyclodextrin"
+  },
+  {
+    "job_id": "s1_family_cold_cyclodextrin_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cyclodextrin"
+  },
+  {
+    "job_id": "s1_family_cold_cyclophane_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cyclophane"
+  },
+  {
+    "job_id": "s1_family_cold_cyclophane_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cyclophane"
+  },
+  {
+    "job_id": "s1_family_cold_other_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "other"
+  },
+  {
+    "job_id": "s1_family_cold_other_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "other"
+  },
+  {
+    "job_id": "s1_family_cold_pillararene_GINE",
+    "seed": 1,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "pillararene"
+  },
+  {
+    "job_id": "s1_family_cold_pillararene_AttentiveFP",
+    "seed": 1,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "pillararene"
+  },
+  {
+    "job_id": "s2_double_cold_0_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s2_double_cold_0_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s2_double_cold_1_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s2_double_cold_1_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s2_double_cold_2_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s2_double_cold_2_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s2_double_cold_3_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s2_double_cold_3_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s2_double_cold_4_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s2_double_cold_4_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s2_double_cold_5_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "5"
+  },
+  {
+    "job_id": "s2_double_cold_5_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "5"
+  },
+  {
+    "job_id": "s2_double_cold_6_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "6"
+  },
+  {
+    "job_id": "s2_double_cold_6_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "6"
+  },
+  {
+    "job_id": "s2_double_cold_7_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "7"
+  },
+  {
+    "job_id": "s2_double_cold_7_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "7"
+  },
+  {
+    "job_id": "s2_double_cold_8_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "8"
+  },
+  {
+    "job_id": "s2_double_cold_8_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "8"
+  },
+  {
+    "job_id": "s2_double_cold_9_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "9"
+  },
+  {
+    "job_id": "s2_double_cold_9_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "9"
+  },
+  {
+    "job_id": "s2_double_cold_10_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "10"
+  },
+  {
+    "job_id": "s2_double_cold_10_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "10"
+  },
+  {
+    "job_id": "s2_double_cold_11_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "11"
+  },
+  {
+    "job_id": "s2_double_cold_11_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "11"
+  },
+  {
+    "job_id": "s2_random_0_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "0"
+  },
+  {
+    "job_id": "s2_random_0_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "0"
+  },
+  {
+    "job_id": "s2_random_1_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "1"
+  },
+  {
+    "job_id": "s2_random_1_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "1"
+  },
+  {
+    "job_id": "s2_random_2_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "2"
+  },
+  {
+    "job_id": "s2_random_2_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "2"
+  },
+  {
+    "job_id": "s2_random_3_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "3"
+  },
+  {
+    "job_id": "s2_random_3_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "3"
+  },
+  {
+    "job_id": "s2_random_4_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "4"
+  },
+  {
+    "job_id": "s2_random_4_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "4"
+  },
+  {
+    "job_id": "s2_host_cold_0_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s2_host_cold_0_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s2_host_cold_1_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s2_host_cold_1_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s2_host_cold_2_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s2_host_cold_2_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s2_host_cold_3_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s2_host_cold_3_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s2_host_cold_4_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s2_host_cold_4_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s2_guest_cold_0_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s2_guest_cold_0_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s2_guest_cold_1_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s2_guest_cold_1_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s2_guest_cold_2_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s2_guest_cold_2_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s2_guest_cold_3_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s2_guest_cold_3_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s2_guest_cold_4_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s2_guest_cold_4_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s2_family_cold_calixarene_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "calixarene"
+  },
+  {
+    "job_id": "s2_family_cold_calixarene_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "calixarene"
+  },
+  {
+    "job_id": "s2_family_cold_cavitand_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cavitand"
+  },
+  {
+    "job_id": "s2_family_cold_cavitand_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cavitand"
+  },
+  {
+    "job_id": "s2_family_cold_crown_ether_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "crown_ether"
+  },
+  {
+    "job_id": "s2_family_cold_crown_ether_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "crown_ether"
+  },
+  {
+    "job_id": "s2_family_cold_cucurbituril_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cucurbituril"
+  },
+  {
+    "job_id": "s2_family_cold_cucurbituril_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cucurbituril"
+  },
+  {
+    "job_id": "s2_family_cold_cyclodextrin_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cyclodextrin"
+  },
+  {
+    "job_id": "s2_family_cold_cyclodextrin_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cyclodextrin"
+  },
+  {
+    "job_id": "s2_family_cold_cyclophane_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cyclophane"
+  },
+  {
+    "job_id": "s2_family_cold_cyclophane_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cyclophane"
+  },
+  {
+    "job_id": "s2_family_cold_other_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "other"
+  },
+  {
+    "job_id": "s2_family_cold_other_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "other"
+  },
+  {
+    "job_id": "s2_family_cold_pillararene_GINE",
+    "seed": 2,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "pillararene"
+  },
+  {
+    "job_id": "s2_family_cold_pillararene_AttentiveFP",
+    "seed": 2,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "pillararene"
+  },
+  {
+    "job_id": "s3_double_cold_0_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s3_double_cold_0_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s3_double_cold_1_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s3_double_cold_1_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s3_double_cold_2_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s3_double_cold_2_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s3_double_cold_3_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s3_double_cold_3_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s3_double_cold_4_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s3_double_cold_4_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s3_double_cold_5_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "5"
+  },
+  {
+    "job_id": "s3_double_cold_5_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "5"
+  },
+  {
+    "job_id": "s3_double_cold_6_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "6"
+  },
+  {
+    "job_id": "s3_double_cold_6_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "6"
+  },
+  {
+    "job_id": "s3_double_cold_7_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "7"
+  },
+  {
+    "job_id": "s3_double_cold_7_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "7"
+  },
+  {
+    "job_id": "s3_double_cold_8_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "8"
+  },
+  {
+    "job_id": "s3_double_cold_8_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "8"
+  },
+  {
+    "job_id": "s3_double_cold_9_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "9"
+  },
+  {
+    "job_id": "s3_double_cold_9_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "9"
+  },
+  {
+    "job_id": "s3_double_cold_10_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "10"
+  },
+  {
+    "job_id": "s3_double_cold_10_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "10"
+  },
+  {
+    "job_id": "s3_double_cold_11_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "11"
+  },
+  {
+    "job_id": "s3_double_cold_11_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "11"
+  },
+  {
+    "job_id": "s3_random_0_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "0"
+  },
+  {
+    "job_id": "s3_random_0_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "0"
+  },
+  {
+    "job_id": "s3_random_1_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "1"
+  },
+  {
+    "job_id": "s3_random_1_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "1"
+  },
+  {
+    "job_id": "s3_random_2_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "2"
+  },
+  {
+    "job_id": "s3_random_2_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "2"
+  },
+  {
+    "job_id": "s3_random_3_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "3"
+  },
+  {
+    "job_id": "s3_random_3_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "3"
+  },
+  {
+    "job_id": "s3_random_4_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "4"
+  },
+  {
+    "job_id": "s3_random_4_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "4"
+  },
+  {
+    "job_id": "s3_host_cold_0_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s3_host_cold_0_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s3_host_cold_1_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s3_host_cold_1_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s3_host_cold_2_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s3_host_cold_2_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s3_host_cold_3_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s3_host_cold_3_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s3_host_cold_4_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s3_host_cold_4_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s3_guest_cold_0_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s3_guest_cold_0_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s3_guest_cold_1_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s3_guest_cold_1_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s3_guest_cold_2_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s3_guest_cold_2_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s3_guest_cold_3_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s3_guest_cold_3_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s3_guest_cold_4_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s3_guest_cold_4_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s3_family_cold_calixarene_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "calixarene"
+  },
+  {
+    "job_id": "s3_family_cold_calixarene_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "calixarene"
+  },
+  {
+    "job_id": "s3_family_cold_cavitand_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cavitand"
+  },
+  {
+    "job_id": "s3_family_cold_cavitand_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cavitand"
+  },
+  {
+    "job_id": "s3_family_cold_crown_ether_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "crown_ether"
+  },
+  {
+    "job_id": "s3_family_cold_crown_ether_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "crown_ether"
+  },
+  {
+    "job_id": "s3_family_cold_cucurbituril_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cucurbituril"
+  },
+  {
+    "job_id": "s3_family_cold_cucurbituril_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cucurbituril"
+  },
+  {
+    "job_id": "s3_family_cold_cyclodextrin_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cyclodextrin"
+  },
+  {
+    "job_id": "s3_family_cold_cyclodextrin_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cyclodextrin"
+  },
+  {
+    "job_id": "s3_family_cold_cyclophane_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cyclophane"
+  },
+  {
+    "job_id": "s3_family_cold_cyclophane_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cyclophane"
+  },
+  {
+    "job_id": "s3_family_cold_other_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "other"
+  },
+  {
+    "job_id": "s3_family_cold_other_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "other"
+  },
+  {
+    "job_id": "s3_family_cold_pillararene_GINE",
+    "seed": 3,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "pillararene"
+  },
+  {
+    "job_id": "s3_family_cold_pillararene_AttentiveFP",
+    "seed": 3,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "pillararene"
+  },
+  {
+    "job_id": "s4_double_cold_0_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s4_double_cold_0_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s4_double_cold_1_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s4_double_cold_1_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s4_double_cold_2_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s4_double_cold_2_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s4_double_cold_3_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s4_double_cold_3_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s4_double_cold_4_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s4_double_cold_4_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s4_double_cold_5_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "5"
+  },
+  {
+    "job_id": "s4_double_cold_5_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "5"
+  },
+  {
+    "job_id": "s4_double_cold_6_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "6"
+  },
+  {
+    "job_id": "s4_double_cold_6_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "6"
+  },
+  {
+    "job_id": "s4_double_cold_7_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "7"
+  },
+  {
+    "job_id": "s4_double_cold_7_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "7"
+  },
+  {
+    "job_id": "s4_double_cold_8_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "8"
+  },
+  {
+    "job_id": "s4_double_cold_8_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "8"
+  },
+  {
+    "job_id": "s4_double_cold_9_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "9"
+  },
+  {
+    "job_id": "s4_double_cold_9_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "9"
+  },
+  {
+    "job_id": "s4_double_cold_10_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "10"
+  },
+  {
+    "job_id": "s4_double_cold_10_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "10"
+  },
+  {
+    "job_id": "s4_double_cold_11_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "double_cold",
+    "fold": "11"
+  },
+  {
+    "job_id": "s4_double_cold_11_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "double_cold",
+    "fold": "11"
+  },
+  {
+    "job_id": "s4_random_0_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "0"
+  },
+  {
+    "job_id": "s4_random_0_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "0"
+  },
+  {
+    "job_id": "s4_random_1_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "1"
+  },
+  {
+    "job_id": "s4_random_1_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "1"
+  },
+  {
+    "job_id": "s4_random_2_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "2"
+  },
+  {
+    "job_id": "s4_random_2_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "2"
+  },
+  {
+    "job_id": "s4_random_3_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "3"
+  },
+  {
+    "job_id": "s4_random_3_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "3"
+  },
+  {
+    "job_id": "s4_random_4_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "random",
+    "fold": "4"
+  },
+  {
+    "job_id": "s4_random_4_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "random",
+    "fold": "4"
+  },
+  {
+    "job_id": "s4_host_cold_0_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s4_host_cold_0_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s4_host_cold_1_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s4_host_cold_1_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s4_host_cold_2_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s4_host_cold_2_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s4_host_cold_3_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s4_host_cold_3_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s4_host_cold_4_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "host_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s4_host_cold_4_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "host_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s4_guest_cold_0_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s4_guest_cold_0_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "0"
+  },
+  {
+    "job_id": "s4_guest_cold_1_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s4_guest_cold_1_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "1"
+  },
+  {
+    "job_id": "s4_guest_cold_2_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s4_guest_cold_2_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "2"
+  },
+  {
+    "job_id": "s4_guest_cold_3_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s4_guest_cold_3_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "3"
+  },
+  {
+    "job_id": "s4_guest_cold_4_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "guest_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s4_guest_cold_4_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "guest_cold",
+    "fold": "4"
+  },
+  {
+    "job_id": "s4_family_cold_calixarene_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "calixarene"
+  },
+  {
+    "job_id": "s4_family_cold_calixarene_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "calixarene"
+  },
+  {
+    "job_id": "s4_family_cold_cavitand_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cavitand"
+  },
+  {
+    "job_id": "s4_family_cold_cavitand_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cavitand"
+  },
+  {
+    "job_id": "s4_family_cold_crown_ether_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "crown_ether"
+  },
+  {
+    "job_id": "s4_family_cold_crown_ether_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "crown_ether"
+  },
+  {
+    "job_id": "s4_family_cold_cucurbituril_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cucurbituril"
+  },
+  {
+    "job_id": "s4_family_cold_cucurbituril_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cucurbituril"
+  },
+  {
+    "job_id": "s4_family_cold_cyclodextrin_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cyclodextrin"
+  },
+  {
+    "job_id": "s4_family_cold_cyclodextrin_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cyclodextrin"
+  },
+  {
+    "job_id": "s4_family_cold_cyclophane_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "cyclophane"
+  },
+  {
+    "job_id": "s4_family_cold_cyclophane_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "cyclophane"
+  },
+  {
+    "job_id": "s4_family_cold_other_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "other"
+  },
+  {
+    "job_id": "s4_family_cold_other_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "other"
+  },
+  {
+    "job_id": "s4_family_cold_pillararene_GINE",
+    "seed": 4,
+    "model": "GINE",
+    "regime": "family_cold",
+    "fold": "pillararene"
+  },
+  {
+    "job_id": "s4_family_cold_pillararene_AttentiveFP",
+    "seed": 4,
+    "model": "AttentiveFP",
+    "regime": "family_cold",
+    "fold": "pillararene"
+  }
+]

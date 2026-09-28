@@ -1,0 +1,31 @@
+{
+  "schema_version": "public-stage-b-reference-v1",
+  "state": "STAGE_B_FROZEN",
+  "frozen_at_utc": "2026-09-27T21:29:19Z",
+  "files": {
+    "ANALYSIS_CONTRACT.json": {
+      "bytes": 15058,
+      "sha256": "34e8d13872a2aba8e423dd6bea394491c3afc8397d9423dcbdc5a45f7d20dfef"
+    },
+    "APPEARANCE_CLASSIFICATION_MASKS.csv": {
+      "bytes": 48682763,
+      "sha256": "8f403f838cdaedc67079526745a32a132fd9e59036b0028efab8c33ee63b4571"
+    }
+  },
+  "adaptation": {
+    "scope": "membership_source column only",
+    "reason": "Replace six machine-local fold source strings with the corresponding public repository-relative fold paths.",
+    "original_source": {
+      "bytes": 52041937,
+      "sha256": "11745b426a3b4e21eed2518183125526650ab83b612e74ced003d48dc918ec13"
+    },
+    "public_file": {
+      "bytes": 48682763,
+      "sha256": "8f403f838cdaedc67079526745a32a132fd9e59036b0028efab8c33ee63b4571"
+    },
+    "data_rows": 92624,
+    "columns_total": 23,
+    "columns_value_identical_except_membership_source": 22,
+    "line_endings_and_csv_serialization": "preserved by exact byte-substring replacement"
+  }
+}

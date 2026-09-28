@@ -1,0 +1,26 @@
+{
+  "job_id": "s1_random_3_GINE",
+  "seed": 1,
+  "model": "GINE",
+  "regime": "random",
+  "fold": "3",
+  "status": "COMPLETED",
+  "flag": "ok",
+  "n_train": 1621,
+  "n_val": 286,
+  "n_test": 476,
+  "mu": 3.9323244094848633,
+  "sd": 2.0777752862701417,
+  "best_epoch": 105,
+  "stop_epoch": 135,
+  "best_validation_mae": 0.9389797449111938,
+  "elapsed_s": 3.8439999999973224,
+  "peak_allocated_bytes": 506075136,
+  "predictions_sha": "fc4b44b0680e0dc84d692daa6ae70c447808ce2bdd3ca7fb3892040d5f1f9032",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": 0.5638117790222168,
+    "MAE": 0.9085376262664795,
+    "Spearman": 0.7820006098013255
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "job_id": "s2_family_cold_cyclophane_GINE",
+  "seed": 2,
+  "model": "GINE",
+  "regime": "family_cold",
+  "fold": "cyclophane",
+  "status": "COMPLETED",
+  "flag": "NO_CONCLUSION_small",
+  "n_train": 2002,
+  "n_val": 353,
+  "n_test": 28,
+  "mu": 3.9332826137542725,
+  "sd": 2.0603137479553224,
+  "best_epoch": 165,
+  "stop_epoch": 195,
+  "best_validation_mae": 0.9190846681594849,
+  "elapsed_s": 7.10899999999674,
+  "peak_allocated_bytes": 506613248,
+  "predictions_sha": "f515a9d79cd86396cfcb5a55ef2b6d6822c4bf31ca989d39ce2564d9dd433dc3",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": -0.285666823387146,
+    "MAE": 0.9503297805786133,
+    "Spearman": 0.6981912091890168
+  }
+}

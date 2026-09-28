@@ -1,0 +1,2384 @@
+split,fold,role,row_index,host_id,guest_id,host_name,family,y
+host_cold,0,test,3,2,3,Cucurbit[5]uril,cucurbituril,4.0828
+host_cold,0,test,7,6,7,exo-Octa Acid,other,0.9638
+host_cold,0,test,12,11,12,Cucurbit[8]uril,cucurbituril,6.1611
+host_cold,0,test,14,13,14,Monohydroxycucurbit[7]uril,cucurbituril,9.1461
+host_cold,0,test,17,11,17,Cucurbit[8]uril,cucurbituril,5.4331
+host_cold,0,test,25,19,25,Dodeca(4-carboxybenzyl)bambus[6]uril,other,1.5776
+host_cold,0,test,26,20,26,carboxylate pillar[6]arene,pillararene,4.9666
+host_cold,0,test,31,24,31,hexasodium p-sulfonatocalix[6]arene,calixarene,2.7497
+host_cold,0,test,34,11,34,Cucurbit[8]uril,cucurbituril,7.0122
+host_cold,0,test,38,11,38,Cucurbit[8]uril,cucurbituril,3.0
+host_cold,0,test,39,27,39,tetrakis(trimethylammonium) chloride cavitand,cavitand,3.8127
+host_cold,0,test,40,11,40,Cucurbit[8]uril,cucurbituril,4.2763
+host_cold,0,test,44,11,44,Cucurbit[8]uril,cucurbituril,6.5378
+host_cold,0,test,49,11,48,Cucurbit[8]uril,cucurbituril,3.6021
+host_cold,0,test,52,11,51,Cucurbit[8]uril,cucurbituril,4.5194
+host_cold,0,test,58,20,0,carboxylate pillar[6]arene,pillararene,6.1523
+host_cold,0,test,71,11,69,Cucurbit[8]uril,cucurbituril,3.0
+host_cold,0,test,73,41,71,tetracyanoresorcin[4]arene,other,4.1761
+host_cold,0,test,75,11,73,Cucurbit[8]uril,cucurbituril,5.1901
+host_cold,0,test,83,11,80,Cucurbit[8]uril,cucurbituril,6.6721
+host_cold,0,test,93,11,89,Cucurbit[8]uril,cucurbituril,4.3116
+host_cold,0,test,96,13,92,Monohydroxycucurbit[7]uril,cucurbituril,7.2041
+host_cold,0,test,103,11,97,Cucurbit[8]uril,cucurbituril,4.4507
+host_cold,0,test,104,11,98,Cucurbit[8]uril,cucurbituril,5.1988
+host_cold,0,test,109,54,102,Molecular Tweezer-sodium diacetate,other,3.2575
+host_cold,0,test,112,11,103,Cucurbit[8]uril,cucurbituril,8.8678
+host_cold,0,test,117,55,108,p-sulfonatocalix[8]arene-(mono aminoethyl-substituted),calixarene,2.9096
+host_cold,0,test,133,11,118,Cucurbit[8]uril,cucurbituril,4.2517
+host_cold,0,test,139,11,123,Cucurbit[8]uril,cucurbituril,10.7709
+host_cold,0,test,140,60,124,syn oxatube,other,8.3802
+host_cold,0,test,147,11,129,Cucurbit[8]uril,cucurbituril,4.7101
+host_cold,0,test,151,20,131,carboxylate pillar[6]arene,pillararene,6.2989
+host_cold,0,test,152,2,132,Cucurbit[5]uril,cucurbituril,2.3139
+host_cold,0,test,153,27,133,tetrakis(trimethylammonium) chloride cavitand,cavitand,2.4624
+host_cold,0,test,154,11,134,Cucurbit[8]uril,cucurbituril,5.1662
+host_cold,0,test,155,11,135,Cucurbit[8]uril,cucurbituril,5.9685
+host_cold,0,test,157,20,42,carboxylate pillar[6]arene,pillararene,7.3243
+host_cold,0,test,164,11,142,Cucurbit[8]uril,cucurbituril,6.885
+host_cold,0,test,165,11,143,Cucurbit[8]uril,cucurbituril,3.76
+host_cold,0,test,167,11,145,Cucurbit[8]uril,cucurbituril,8.3617
+host_cold,0,test,170,11,148,Cucurbit[8]uril,cucurbituril,3.4403
+host_cold,0,test,171,11,149,Cucurbit[8]uril,cucurbituril,6.143
+host_cold,0,test,172,2,150,Cucurbit[5]uril,cucurbituril,3.4743
+host_cold,0,test,174,11,152,Cucurbit[8]uril,cucurbituril,3.3424
+host_cold,0,test,175,20,153,carboxylate pillar[6]arene,pillararene,5.6385
+host_cold,0,test,184,11,160,Cucurbit[8]uril,cucurbituril,4.6173
+host_cold,0,test,188,11,164,Cucurbit[8]uril,cucurbituril,2.5852
+host_cold,0,test,194,11,169,Cucurbit[8]uril,cucurbituril,5.4297
+host_cold,0,test,202,11,176,Cucurbit[8]uril,cucurbituril,5.3948
+host_cold,0,test,205,74,50,5-[4-(2-dihydroxyboryl-benzyl-N-methylamino)-butyroylamino]-m-xylylene bisphosphonic acid dimethyl ester dilithium salt,other,2.3696
+host_cold,0,test,206,11,179,Cucurbit[8]uril,cucurbituril,3.9031
+host_cold,0,test,208,20,181,carboxylate pillar[6]arene,pillararene,7.4232
+host_cold,0,test,212,24,184,hexasodium p-sulfonatocalix[6]arene,calixarene,3.28
+host_cold,0,test,213,11,185,Cucurbit[8]uril,cucurbituril,4.2304
+host_cold,0,test,217,11,188,Cucurbit[8]uril,cucurbituril,4.9064
+host_cold,0,test,218,54,189,Molecular Tweezer-sodium diacetate,other,3.154
+host_cold,0,test,220,11,191,Cucurbit[8]uril,cucurbituril,3.63
+host_cold,0,test,221,11,192,Cucurbit[8]uril,cucurbituril,5.7197
+host_cold,0,test,225,11,195,Cucurbit[8]uril,cucurbituril,5.5092
+host_cold,0,test,230,27,199,tetrakis(trimethylammonium) chloride cavitand,cavitand,1.3979
+host_cold,0,test,240,20,141,carboxylate pillar[6]arene,pillararene,6.1959
+host_cold,0,test,242,79,96,Methylcarboxylate-substituted Calix[4]arene,calixarene,2.2
+host_cold,0,test,243,11,207,Cucurbit[8]uril,cucurbituril,3.8948
+host_cold,0,test,244,11,208,Cucurbit[8]uril,cucurbituril,6.29
+host_cold,0,test,245,80,46,Amphipilic Cholin-alkyl-subsituted Calix[4]arene,calixarene,6.3617
+host_cold,0,test,247,24,209,hexasodium p-sulfonatocalix[6]arene,calixarene,3.21
+host_cold,0,test,249,11,211,Cucurbit[8]uril,cucurbituril,3.0
+host_cold,0,test,256,11,217,Cucurbit[8]uril,cucurbituril,6.3979
+host_cold,0,test,264,83,220,"Napthalene-monofunctionalized cucurbit[6]uril, Cucurbituril[6]",cucurbituril,2.9956
+host_cold,0,test,265,83,221,"Napthalene-monofunctionalized cucurbit[6]uril, Cucurbituril[6]",cucurbituril,4.469
+host_cold,0,test,267,60,223,syn oxatube,other,5.4914
+host_cold,0,test,268,11,22,Cucurbit[8]uril,cucurbituril,3.0
+host_cold,0,test,270,11,225,Cucurbit[8]uril,cucurbituril,5.2148
+host_cold,0,test,276,11,230,Cucurbit[8]uril,cucurbituril,4.3295
+host_cold,0,test,288,11,239,Cucurbit[8]uril,cucurbituril,4.0414
+host_cold,0,test,290,88,240,dodecakis(5‐carboxypentyl-2‐hydroxyethylamide)bambus[6]uril,other,7.1139
+host_cold,0,test,298,11,244,Cucurbit[8]uril,cucurbituril,6.6812
+host_cold,0,test,304,11,248,Cucurbit[8]uril,cucurbituril,4.6628
+host_cold,0,test,305,11,249,Cucurbit[8]uril,cucurbituril,5.092
+host_cold,0,test,307,11,251,Cucurbit[8]uril,cucurbituril,5.6233
+host_cold,0,test,311,13,252,Monohydroxycucurbit[7]uril,cucurbituril,5.7782
+host_cold,0,test,312,11,253,Cucurbit[8]uril,cucurbituril,4.946
+host_cold,0,test,321,90,260,Guanidinocalix[5]arene pentadodecyl ether,calixarene,5.415
+host_cold,0,test,325,11,263,Cucurbit[8]uril,cucurbituril,3.3617
+host_cold,0,test,328,27,147,tetrakis(trimethylammonium) chloride cavitand,cavitand,3.0247
+host_cold,0,test,334,90,269,Guanidinocalix[5]arene pentadodecyl ether,calixarene,6.7853
+host_cold,0,test,339,11,272,Cucurbit[8]uril,cucurbituril,3.7033
+host_cold,0,test,340,11,273,Cucurbit[8]uril,cucurbituril,3.716
+host_cold,0,test,356,11,184,Cucurbit[8]uril,cucurbituril,3.8451
+host_cold,0,test,361,97,286,p-sulfocalixmethylcalix[4]arene,calixarene,4.0969
+host_cold,0,test,364,24,288,hexasodium p-sulfonatocalix[6]arene,calixarene,3.21
+host_cold,0,test,365,24,289,hexasodium p-sulfonatocalix[6]arene,calixarene,3.22
+host_cold,0,test,380,60,298,syn oxatube,other,6.2553
+host_cold,0,test,382,11,300,Cucurbit[8]uril,cucurbituril,5.2007
+host_cold,0,test,385,55,126,p-sulfonatocalix[8]arene-(mono aminoethyl-substituted),calixarene,2.3181
+host_cold,0,test,387,11,303,Cucurbit[8]uril,cucurbituril,6.0
+host_cold,0,test,392,11,307,Cucurbit[8]uril,cucurbituril,5.301
+host_cold,0,test,397,11,311,Cucurbit[8]uril,cucurbituril,6.6021
+host_cold,0,test,405,19,240,Dodeca(4-carboxybenzyl)bambus[6]uril,other,6.6391
+host_cold,0,test,406,11,316,Cucurbit[8]uril,cucurbituril,3.0
+host_cold,0,test,411,11,318,Cucurbit[8]uril,cucurbituril,3.5521
+host_cold,0,test,417,27,53,tetrakis(trimethylammonium) chloride cavitand,cavitand,2.0422
+host_cold,0,test,423,11,327,Cucurbit[8]uril,cucurbituril,6.2041
+host_cold,0,test,425,11,329,Cucurbit[8]uril,cucurbituril,5.2899
+host_cold,0,test,430,11,85,Cucurbit[8]uril,cucurbituril,7.0185
+host_cold,0,test,436,11,335,Cucurbit[8]uril,cucurbituril,1.69
+host_cold,0,test,437,99,178,p-sulfonatocalix[8]arene-(mono cyanomethyl-substituted),calixarene,2.8254
+host_cold,0,test,450,24,343,hexasodium p-sulfonatocalix[6]arene,calixarene,2.3802
+host_cold,0,test,452,11,344,Cucurbit[8]uril,cucurbituril,6.8654
+host_cold,0,test,453,11,345,Cucurbit[8]uril,cucurbituril,6.5911
+host_cold,0,test,454,11,346,Cucurbit[8]uril,cucurbituril,5.8121
+host_cold,0,test,468,60,356,syn oxatube,other,4.8325
+host_cold,0,test,469,11,357,Cucurbit[8]uril,cucurbituril,3.0
+host_cold,0,test,470,11,358,Cucurbit[8]uril,cucurbituril,4.2304
+host_cold,0,test,473,11,360,Cucurbit[8]uril,cucurbituril,5.7559
+host_cold,0,test,477,11,364,Cucurbit[8]uril,cucurbituril,6.3222
+host_cold,0,test,479,11,365,Cucurbit[8]uril,cucurbituril,3.8062
+host_cold,0,test,490,11,171,Cucurbit[8]uril,cucurbituril,6.0
+host_cold,0,test,491,11,372,Cucurbit[8]uril,cucurbituril,5.5185
+host_cold,0,test,493,11,315,Cucurbit[8]uril,cucurbituril,3.9375
+host_cold,0,test,498,11,377,Cucurbit[8]uril,cucurbituril,6.0492
+host_cold,0,test,499,74,378,5-[4-(2-dihydroxyboryl-benzyl-N-methylamino)-butyroylamino]-m-xylylene bisphosphonic acid dimethyl ester dilithium salt,other,3.5366
+host_cold,0,test,511,20,92,carboxylate pillar[6]arene,pillararene,7.4969
+host_cold,0,test,512,108,387,Inverted Cucurbit[7]uril,cucurbituril,6.3424
+host_cold,0,test,516,99,57,p-sulfonatocalix[8]arene-(mono cyanomethyl-substituted),calixarene,1.4771
+host_cold,0,test,517,55,215,p-sulfonatocalix[8]arene-(mono aminoethyl-substituted),calixarene,1.7482
+host_cold,0,test,520,109,201,"4,7,10,16,19,22,27,30-Octaoxa-1,13-diazabicyclo[11.11.8]dotriacontan-28-ylmethanol",other,2.0
+host_cold,0,test,527,41,394,tetracyanoresorcin[4]arene,other,3.3222
+host_cold,0,test,530,55,72,p-sulfonatocalix[8]arene-(mono aminoethyl-substituted),calixarene,2.8698
+host_cold,0,test,532,108,397,Inverted Cucurbit[7]uril,cucurbituril,4.4151
+host_cold,0,test,548,113,406,bisurea-receptor-F,other,3.8299
+host_cold,0,test,552,11,410,Cucurbit[8]uril,cucurbituril,4.946
+host_cold,0,test,557,83,109,"Napthalene-monofunctionalized cucurbit[6]uril, Cucurbituril[6]",cucurbituril,3.2553
+host_cold,0,test,560,11,402,Cucurbit[8]uril,cucurbituril,9.7924
+host_cold,0,test,570,11,418,Cucurbit[8]uril,cucurbituril,6.5581
+host_cold,0,test,577,11,423,Cucurbit[8]uril,cucurbituril,5.1131
+host_cold,0,test,578,11,424,Cucurbit[8]uril,cucurbituril,5.7924
+host_cold,0,test,579,79,425,Methylcarboxylate-substituted Calix[4]arene,calixarene,2.25
+host_cold,0,test,580,11,426,Cucurbit[8]uril,cucurbituril,6.2553
+host_cold,0,test,583,99,108,p-sulfonatocalix[8]arene-(mono cyanomethyl-substituted),calixarene,2.6284
+host_cold,0,test,587,11,430,Cucurbit[8]uril,cucurbituril,5.6513
+host_cold,0,test,589,2,432,Cucurbit[5]uril,cucurbituril,4.73
+host_cold,0,test,590,119,433,perylene- bridged bis(b-cyclodextrin)s,cyclodextrin,6.7281
+host_cold,0,test,598,2,438,Cucurbit[5]uril,cucurbituril,0.4997
+host_cold,0,test,599,20,140,carboxylate pillar[6]arene,pillararene,5.0212
+host_cold,0,test,611,11,445,Cucurbit[8]uril,cucurbituril,4.7324
+host_cold,0,test,613,11,446,Cucurbit[8]uril,cucurbituril,6.1246
+host_cold,0,test,619,11,450,Cucurbit[8]uril,cucurbituril,6.0492
+host_cold,0,test,621,11,452,Cucurbit[8]uril,cucurbituril,6.1482
+host_cold,0,test,629,11,62,Cucurbit[8]uril,cucurbituril,3.4377
+host_cold,0,test,634,11,458,Cucurbit[8]uril,cucurbituril,3.8751
+host_cold,0,test,646,2,465,Cucurbit[5]uril,cucurbituril,3.9847
+host_cold,0,test,653,19,183,Dodeca(4-carboxybenzyl)bambus[6]uril,other,6.6335
+host_cold,0,test,670,109,76,"4,7,10,16,19,22,27,30-Octaoxa-1,13-diazabicyclo[11.11.8]dotriacontan-28-ylmethanol",other,3.65
+host_cold,0,test,673,11,477,Cucurbit[8]uril,cucurbituril,3.6811
+host_cold,0,test,677,99,18,p-sulfonatocalix[8]arene-(mono cyanomethyl-substituted),calixarene,2.301
+host_cold,0,test,684,2,483,Cucurbit[5]uril,cucurbituril,3.2068
+host_cold,0,test,693,11,490,Cucurbit[8]uril,cucurbituril,5.2148
+host_cold,0,test,700,109,13,"4,7,10,16,19,22,27,30-Octaoxa-1,13-diazabicyclo[11.11.8]dotriacontan-28-ylmethanol",other,2.0
+host_cold,0,test,702,11,495,Cucurbit[8]uril,cucurbituril,4.86
+host_cold,0,test,703,108,496,Inverted Cucurbit[7]uril,cucurbituril,3.8195
+host_cold,0,test,705,11,498,Cucurbit[8]uril,cucurbituril,4.4771
+host_cold,0,test,707,127,26,Dodecakis(5‐carboxypentyl)bambus[6]uril,other,3.2304
+host_cold,0,test,715,11,387,Cucurbit[8]uril,cucurbituril,9.4942
+host_cold,0,test,716,128,78,C39H41N5O2,other,2.5105
+host_cold,0,test,719,13,504,Monohydroxycucurbit[7]uril,cucurbituril,6.3222
+host_cold,0,test,720,2,505,Cucurbit[5]uril,cucurbituril,3.0371
+host_cold,0,test,727,11,508,Cucurbit[8]uril,cucurbituril,5.8859
+host_cold,0,test,728,24,509,hexasodium p-sulfonatocalix[6]arene,calixarene,2.42
+host_cold,0,test,729,74,22,5-[4-(2-dihydroxyboryl-benzyl-N-methylamino)-butyroylamino]-m-xylylene bisphosphonic acid dimethyl ester dilithium salt,other,2.6174
+host_cold,0,test,730,6,328,exo-Octa Acid,other,5.6201
+host_cold,0,test,733,11,511,Cucurbit[8]uril,cucurbituril,3.7727
+host_cold,0,test,741,54,439,Molecular Tweezer-sodium diacetate,other,2.932
+host_cold,0,test,742,11,515,Cucurbit[8]uril,cucurbituril,6.8744
+host_cold,0,test,745,11,518,Cucurbit[8]uril,cucurbituril,5.2272
+host_cold,0,test,763,11,528,Cucurbit[8]uril,cucurbituril,4.2304
+host_cold,0,test,764,11,529,Cucurbit[8]uril,cucurbituril,3.9886
+host_cold,0,test,768,83,313,"Napthalene-monofunctionalized cucurbit[6]uril, Cucurbituril[6]",cucurbituril,6.0
+host_cold,0,test,771,6,411,exo-Octa Acid,other,4.2718
+host_cold,0,test,789,11,133,Cucurbit[8]uril,cucurbituril,2.55
+host_cold,0,test,791,11,540,Cucurbit[8]uril,cucurbituril,9.4314
+host_cold,0,test,793,11,541,Cucurbit[8]uril,cucurbituril,3.8325
+host_cold,0,test,796,11,543,Cucurbit[8]uril,cucurbituril,4.8808
+host_cold,0,test,799,83,496,"Napthalene-monofunctionalized cucurbit[6]uril, Cucurbituril[6]",cucurbituril,3.2304
+host_cold,0,test,802,137,547,p-sulfocalixmethylcalix[5]arene,calixarene,5.2625
+host_cold,0,test,803,11,548,Cucurbit[8]uril,cucurbituril,10.2304
+host_cold,0,test,811,11,553,Cucurbit[8]uril,cucurbituril,4.8231
+host_cold,0,test,815,20,555,carboxylate pillar[6]arene,pillararene,7.721
+host_cold,0,test,816,11,556,Cucurbit[8]uril,cucurbituril,2.64
+host_cold,0,test,820,24,301,hexasodium p-sulfonatocalix[6]arene,calixarene,3.73
+host_cold,0,test,825,11,560,Cucurbit[8]uril,cucurbituril,8.5051
+host_cold,0,test,829,11,562,Cucurbit[8]uril,cucurbituril,6.4472
+host_cold,0,test,836,140,523,calix[4]arene bis-hydroxymethylphosphous acid,calixarene,3.8637
+host_cold,0,test,837,11,567,Cucurbit[8]uril,cucurbituril,6.8633
+host_cold,0,test,839,27,568,tetrakis(trimethylammonium) chloride cavitand,cavitand,1.6532
+host_cold,0,test,842,11,570,Cucurbit[8]uril,cucurbituril,8.8388
+host_cold,0,test,850,19,575,Dodeca(4-carboxybenzyl)bambus[6]uril,other,5.4914
+host_cold,0,test,851,27,576,tetrakis(trimethylammonium) chloride cavitand,cavitand,1.1761
+host_cold,0,test,853,83,574,"Napthalene-monofunctionalized cucurbit[6]uril, Cucurbituril[6]",cucurbituril,2.8573
+host_cold,0,test,854,55,57,p-sulfonatocalix[8]arene-(mono aminoethyl-substituted),calixarene,1.8325
+host_cold,0,test,855,11,577,Cucurbit[8]uril,cucurbituril,7.9385
+host_cold,0,test,859,11,580,Cucurbit[8]uril,cucurbituril,2.1461
+host_cold,0,test,861,11,582,Cucurbit[8]uril,cucurbituril,6.8129
+host_cold,0,test,863,13,583,Monohydroxycucurbit[7]uril,cucurbituril,5.5798
+host_cold,0,test,875,11,590,Cucurbit[8]uril,cucurbituril,5.1527
+host_cold,0,test,877,11,592,Cucurbit[8]uril,cucurbituril,4.1348
+host_cold,0,test,878,79,593,Methylcarboxylate-substituted Calix[4]arene,calixarene,1.7
+host_cold,0,test,881,19,595,Dodeca(4-carboxybenzyl)bambus[6]uril,other,3.0414
+host_cold,0,test,883,11,596,Cucurbit[8]uril,cucurbituril,3.5754
+host_cold,0,test,887,11,598,Cucurbit[8]uril,cucurbituril,5.9368
+host_cold,0,test,893,97,476,p-sulfocalixmethylcalix[4]arene,calixarene,5.3424
+host_cold,0,test,896,11,601,Cucurbit[8]uril,cucurbituril,6.2788
+host_cold,0,test,900,74,171,5-[4-(2-dihydroxyboryl-benzyl-N-methylamino)-butyroylamino]-m-xylylene bisphosphonic acid dimethyl ester dilithium salt,other,2.6253
+host_cold,0,test,903,11,606,Cucurbit[8]uril,cucurbituril,8.0414
+host_cold,0,test,912,11,610,Cucurbit[8]uril,cucurbituril,6.7959
+host_cold,0,test,918,11,614,Cucurbit[8]uril,cucurbituril,6.2041
+host_cold,0,test,923,11,618,Cucurbit[8]uril,cucurbituril,11.9191
+host_cold,0,test,933,2,622,Cucurbit[5]uril,cucurbituril,1.8573
+host_cold,0,test,934,83,623,"Napthalene-monofunctionalized cucurbit[6]uril, Cucurbituril[6]",cucurbituril,3.4624
+host_cold,0,test,936,11,625,Cucurbit[8]uril,cucurbituril,2.73
+host_cold,0,test,941,11,626,Cucurbit[8]uril,cucurbituril,3.0
+host_cold,0,test,944,11,203,Cucurbit[8]uril,cucurbituril,4.0814
+host_cold,0,test,945,11,627,Cucurbit[8]uril,cucurbituril,4.1139
+host_cold,0,test,946,11,22,Cucurbit[8]uril,cucurbituril,3.0
+host_cold,0,test,947,20,419,carboxylate pillar[6]arene,pillararene,6.1303
+host_cold,0,test,959,11,43,Cucurbit[8]uril,cucurbituril,5.7033
+host_cold,0,test,960,88,575,dodecakis(5‐carboxypentyl-2‐hydroxyethylamide)bambus[6]uril,other,6.9191
+host_cold,0,test,962,11,634,Cucurbit[8]uril,cucurbituril,5.2967
+host_cold,0,test,964,108,477,Inverted Cucurbit[7]uril,cucurbituril,5.0294
+host_cold,0,test,965,11,635,Cucurbit[8]uril,cucurbituril,5.2041
+host_cold,0,test,968,148,224,"6I-O-(8-hydroxyquinoline)-2I,31- di-O-methylhexakis(2II-VII,3II-VII,6II-VII- tri-O-methyl)-B-cyclodextrin",cyclodextrin,3.5172
+host_cold,0,test,969,149,516,Guanidinium Chloride,other,1.0
+host_cold,0,test,978,24,642,hexasodium p-sulfonatocalix[6]arene,calixarene,3.16
+host_cold,0,test,981,11,644,Cucurbit[8]uril,cucurbituril,3.1461
+host_cold,0,test,990,11,648,Cucurbit[8]uril,cucurbituril,3.6812
+host_cold,0,test,994,11,651,Cucurbit[8]uril,cucurbituril,4.8976
+host_cold,0,test,996,27,653,tetrakis(trimethylammonium) chloride cavitand,cavitand,1.4914
+host_cold,0,test,998,11,654,Cucurbit[8]uril,cucurbituril,8.2788
+host_cold,0,test,1002,11,657,Cucurbit[8]uril,cucurbituril,3.9614
+host_cold,0,test,1008,74,37,5-[4-(2-dihydroxyboryl-benzyl-N-methylamino)-butyroylamino]-m-xylylene bisphosphonic acid dimethyl ester dilithium salt,other,2.8401
+host_cold,0,test,1012,11,662,Cucurbit[8]uril,cucurbituril,3.7873
+host_cold,0,test,1017,11,664,Cucurbit[8]uril,cucurbituril,6.4472
+host_cold,0,test,1019,11,665,Cucurbit[8]uril,cucurbituril,5.0
+host_cold,0,test,1025,11,667,Cucurbit[8]uril,cucurbituril,9.8129
+host_cold,0,test,1032,90,670,Guanidinocalix[5]arene pentadodecyl ether,calixarene,5.8633
+host_cold,0,test,1036,2,672,Cucurbit[5]uril,cucurbituril,2.7324
+host_cold,0,test,1037,11,673,Cucurbit[8]uril,cucurbituril,4.5085
+host_cold,0,test,1038,11,141,Cucurbit[8]uril,cucurbituril,8.301
+host_cold,0,test,1045,127,82,Dodecakis(5‐carboxypentyl)bambus[6]uril,other,3.4393
+host_cold,0,test,1048,19,521,Dodeca(4-carboxybenzyl)bambus[6]uril,other,2.7805
+host_cold,0,test,1058,2,361,Cucurbit[5]uril,cucurbituril,1.3856
+host_cold,0,test,1073,20,546,carboxylate pillar[6]arene,pillararene,7.8261
+host_cold,0,test,1078,11,688,Cucurbit[8]uril,cucurbituril,8.9018
+host_cold,0,test,1097,11,697,Cucurbit[8]uril,cucurbituril,3.716
+host_cold,0,test,1111,2,156,Cucurbit[5]uril,cucurbituril,3.9395
+host_cold,0,test,1114,11,702,Cucurbit[8]uril,cucurbituril,6.0212
+host_cold,0,test,1121,60,706,syn oxatube,other,3.9731
+host_cold,0,test,1124,11,709,Cucurbit[8]uril,cucurbituril,4.3979
+host_cold,0,test,1129,13,42,Monohydroxycucurbit[7]uril,cucurbituril,10.9868
+host_cold,0,test,1130,11,712,Cucurbit[8]uril,cucurbituril,7.3662
+host_cold,0,test,1137,11,715,Cucurbit[8]uril,cucurbituril,2.699
+host_cold,0,test,1146,11,196,Cucurbit[8]uril,cucurbituril,3.7501
+host_cold,0,test,1155,11,721,Cucurbit[8]uril,cucurbituril,5.9931
+host_cold,0,test,1158,11,722,Cucurbit[8]uril,cucurbituril,9.716
+host_cold,0,test,1162,108,723,Inverted Cucurbit[7]uril,cucurbituril,6.9542
+host_cold,0,test,1166,11,725,Cucurbit[8]uril,cucurbituril,4.1004
+host_cold,0,test,1167,11,726,Cucurbit[8]uril,cucurbituril,5.5207
+host_cold,0,test,1174,11,728,Cucurbit[8]uril,cucurbituril,5.5855
+host_cold,0,test,1184,90,734,Guanidinocalix[5]arene pentadodecyl ether,calixarene,5.2553
+host_cold,0,test,1190,11,736,Cucurbit[8]uril,cucurbituril,8.0607
+host_cold,0,test,1191,11,328,Cucurbit[8]uril,cucurbituril,10.9868
+host_cold,0,test,1203,11,743,Cucurbit[8]uril,cucurbituril,3.301
+host_cold,0,test,1206,2,745,Cucurbit[5]uril,cucurbituril,3.3784
+host_cold,0,test,1209,11,747,Cucurbit[8]uril,cucurbituril,4.2675
+host_cold,0,test,1212,11,750,Cucurbit[8]uril,cucurbituril,5.8249
+host_cold,0,test,1215,11,296,Cucurbit[8]uril,cucurbituril,4.7993
+host_cold,0,test,1218,11,754,Cucurbit[8]uril,cucurbituril,4.13
+host_cold,0,test,1223,11,755,Cucurbit[8]uril,cucurbituril,3.4472
+host_cold,0,test,1224,11,756,Cucurbit[8]uril,cucurbituril,5.6275
+host_cold,0,test,1237,11,761,Cucurbit[8]uril,cucurbituril,5.2157
+host_cold,0,test,1259,99,215,p-sulfonatocalix[8]arene-(mono cyanomethyl-substituted),calixarene,1.8062
+host_cold,0,test,1261,41,231,tetracyanoresorcin[4]arene,other,4.6721
+host_cold,0,test,1262,113,472,bisurea-receptor-F,other,3.3692
+host_cold,0,test,1264,6,459,exo-Octa Acid,other,4.1004
+host_cold,0,test,1267,11,775,Cucurbit[8]uril,cucurbituril,2.9
+host_cold,0,test,1270,11,778,Cucurbit[8]uril,cucurbituril,5.9031
+host_cold,0,test,1277,20,328,carboxylate pillar[6]arene,pillararene,10.567
+host_cold,0,test,1282,11,781,Cucurbit[8]uril,cucurbituril,5.8573
+host_cold,0,test,1287,20,301,carboxylate pillar[6]arene,pillararene,5.2718
+host_cold,0,test,1288,20,488,carboxylate pillar[6]arene,pillararene,7.9279
+host_cold,0,test,1307,2,787,Cucurbit[5]uril,cucurbituril,2.4043
+host_cold,0,test,1317,11,793,Cucurbit[8]uril,cucurbituril,3.8451
+host_cold,0,test,1321,11,794,Cucurbit[8]uril,cucurbituril,6.0
+host_cold,0,test,1324,11,796,Cucurbit[8]uril,cucurbituril,6.1553
+host_cold,0,test,1326,11,797,Cucurbit[8]uril,cucurbituril,6.6902
+host_cold,0,test,1337,11,50,Cucurbit[8]uril,cucurbituril,4.1505
+host_cold,0,test,1342,11,266,Cucurbit[8]uril,cucurbituril,3.4771
+host_cold,0,test,1349,11,714,Cucurbit[8]uril,cucurbituril,11.7782
+host_cold,0,test,1355,11,805,Cucurbit[8]uril,cucurbituril,11.0792
+host_cold,0,test,1361,11,92,Cucurbit[8]uril,cucurbituril,5.6914
+host_cold,0,test,1364,2,809,Cucurbit[5]uril,cucurbituril,2.6335
+host_cold,0,test,1369,11,811,Cucurbit[8]uril,cucurbituril,6.017
+host_cold,0,test,1372,162,171,(2-((((10-formylanthracen-9-yl)methyl)(methyl)amino)methyl)phenyl)boronic acid,other,3.7574
+host_cold,0,test,1381,163,815,oligoethylene glycol functionalized guanidinocalixarene,calixarene,5.3747
+host_cold,0,test,1382,2,816,Cucurbit[5]uril,cucurbituril,2.0212
+host_cold,0,test,1385,148,347,"6I-O-(8-hydroxyquinoline)-2I,31- di-O-methylhexakis(2II-VII,3II-VII,6II-VII- tri-O-methyl)-B-cyclodextrin",cyclodextrin,4.0294
+host_cold,0,test,1387,11,818,Cucurbit[8]uril,cucurbituril,7.0
+host_cold,0,test,1391,83,793,"Napthalene-monofunctionalized cucurbit[6]uril, Cucurbituril[6]",cucurbituril,3.8388
+host_cold,0,test,1399,11,825,Cucurbit[8]uril,cucurbituril,3.8062
+host_cold,0,test,1403,11,827,Cucurbit[8]uril,cucurbituril,5.6776
+host_cold,0,test,1407,11,830,Cucurbit[8]uril,cucurbituril,6.4624
+host_cold,0,test,1411,11,106,Cucurbit[8]uril,cucurbituril,7.4843
+host_cold,0,test,1413,11,834,Cucurbit[8]uril,cucurbituril,6.85
+host_cold,0,test,1424,108,178,Inverted Cucurbit[7]uril,cucurbituril,3.9395
+host_cold,0,test,1428,11,838,Cucurbit[8]uril,cucurbituril,6.2553
+host_cold,0,test,1429,13,839,Monohydroxycucurbit[7]uril,cucurbituril,6.1461
+host_cold,0,test,1431,11,336,Cucurbit[8]uril,cucurbituril,1.0
+host_cold,0,test,1432,11,841,Cucurbit[8]uril,cucurbituril,3.0
+host_cold,0,test,1436,11,844,Cucurbit[8]uril,cucurbituril,6.301
+host_cold,0,test,1438,60,845,syn oxatube,other,6.3222
+host_cold,0,test,1440,2,663,Cucurbit[5]uril,cucurbituril,3.936
+host_cold,0,test,1448,11,848,Cucurbit[8]uril,cucurbituril,6.6021
+host_cold,0,test,1449,11,849,Cucurbit[8]uril,cucurbituril,4.4162
+host_cold,0,test,1452,20,305,carboxylate pillar[6]arene,pillararene,7.8241
+host_cold,0,test,1456,2,850,Cucurbit[5]uril,cucurbituril,2.6064
+host_cold,0,test,1463,83,852,"Napthalene-monofunctionalized cucurbit[6]uril, Cucurbituril[6]",cucurbituril,3.5315
+host_cold,0,test,1474,6,832,exo-Octa Acid,other,2.6
+host_cold,0,test,1482,83,178,"Napthalene-monofunctionalized cucurbit[6]uril, Cucurbituril[6]",cucurbituril,3.2041
+host_cold,0,test,1491,11,858,Cucurbit[8]uril,cucurbituril,5.8261
+host_cold,0,test,1499,11,863,Cucurbit[8]uril,cucurbituril,5.6809
+host_cold,0,test,1518,11,650,Cucurbit[8]uril,cucurbituril,6.2788
+host_cold,0,test,1524,11,870,Cucurbit[8]uril,cucurbituril,6.8573
+host_cold,0,test,1527,11,872,Cucurbit[8]uril,cucurbituril,5.1515
+host_cold,0,test,1542,11,877,Cucurbit[8]uril,cucurbituril,6.5224
+host_cold,0,test,1556,11,879,Cucurbit[8]uril,cucurbituril,6.699
+host_cold,0,test,1562,19,882,Dodeca(4-carboxybenzyl)bambus[6]uril,other,3.8129
+host_cold,0,test,1564,11,883,Cucurbit[8]uril,cucurbituril,7.2041
+host_cold,0,test,1570,99,523,p-sulfonatocalix[8]arene-(mono cyanomethyl-substituted),calixarene,1.5051
+host_cold,0,test,1577,11,886,Cucurbit[8]uril,cucurbituril,6.2227
+host_cold,0,test,1596,11,889,Cucurbit[8]uril,cucurbituril,7.2788
+host_cold,0,test,1600,11,892,Cucurbit[8]uril,cucurbituril,5.3096
+host_cold,0,test,1603,11,894,Cucurbit[8]uril,cucurbituril,5.9401
+host_cold,0,test,1610,11,497,Cucurbit[8]uril,cucurbituril,3.4425
+host_cold,0,test,1613,11,898,Cucurbit[8]uril,cucurbituril,4.645
+host_cold,0,test,1615,113,456,bisurea-receptor-F,other,3.6821
+host_cold,0,test,1619,19,699,Dodeca(4-carboxybenzyl)bambus[6]uril,other,5.6812
+host_cold,0,test,1626,19,904,Dodeca(4-carboxybenzyl)bambus[6]uril,other,7.7404
+host_cold,0,test,1627,113,175,bisurea-receptor-F,other,2.3802
+host_cold,0,test,1633,11,174,Cucurbit[8]uril,cucurbituril,3.0414
+host_cold,0,test,1641,11,911,Cucurbit[8]uril,cucurbituril,6.3424
+host_cold,0,test,1648,2,915,Cucurbit[5]uril,cucurbituril,2.4544
+host_cold,0,test,1657,11,917,Cucurbit[8]uril,cucurbituril,0.0
+host_cold,0,test,1660,11,919,Cucurbit[8]uril,cucurbituril,6.3979
+host_cold,0,test,1665,127,699,Dodecakis(5‐carboxypentyl)bambus[6]uril,other,3.6532
+host_cold,0,test,1673,11,91,Cucurbit[8]uril,cucurbituril,8.9133
+host_cold,0,test,1686,20,571,carboxylate pillar[6]arene,pillararene,7.6385
+host_cold,0,test,1692,19,928,Dodeca(4-carboxybenzyl)bambus[6]uril,other,4.4771
+host_cold,0,test,1695,11,929,Cucurbit[8]uril,cucurbituril,3.7924
+host_cold,0,test,1698,27,931,tetrakis(trimethylammonium) chloride cavitand,cavitand,2.017
+host_cold,0,test,1702,11,934,Cucurbit[8]uril,cucurbituril,11.1644
+host_cold,0,test,1703,11,935,Cucurbit[8]uril,cucurbituril,7.1139
+host_cold,0,test,1707,11,939,Cucurbit[8]uril,cucurbituril,4.7782
+host_cold,0,test,1708,11,940,Cucurbit[8]uril,cucurbituril,6.3424
+host_cold,0,test,1712,109,161,"4,7,10,16,19,22,27,30-Octaoxa-1,13-diazabicyclo[11.11.8]dotriacontan-28-ylmethanol",other,2.0
+host_cold,0,test,1718,20,246,carboxylate pillar[6]arene,pillararene,7.4579
+host_cold,0,test,1720,20,130,carboxylate pillar[6]arene,pillararene,7.415
+host_cold,0,test,1734,11,97,Cucurbit[8]uril,cucurbituril,5.0207
+host_cold,0,test,1736,11,950,Cucurbit[8]uril,cucurbituril,4.699
+host_cold,0,test,1739,108,109,Inverted Cucurbit[7]uril,cucurbituril,4.2041
+host_cold,0,test,1740,20,238,carboxylate pillar[6]arene,pillararene,7.2041
+host_cold,0,test,1741,148,198,"6I-O-(8-hydroxyquinoline)-2I,31- di-O-methylhexakis(2II-VII,3II-VII,6II-VII- tri-O-methyl)-B-cyclodextrin",cyclodextrin,3.8727
+host_cold,0,test,1747,6,954,exo-Octa Acid,other,5.1206
+host_cold,0,test,1749,11,955,Cucurbit[8]uril,cucurbituril,6.248
+host_cold,0,test,1750,11,956,Cucurbit[8]uril,cucurbituril,3.9031
+host_cold,0,test,1753,11,958,Cucurbit[8]uril,cucurbituril,4.1139
+host_cold,0,test,1755,2,960,Cucurbit[5]uril,cucurbituril,2.5563
+host_cold,0,test,1757,109,88,"4,7,10,16,19,22,27,30-Octaoxa-1,13-diazabicyclo[11.11.8]dotriacontan-28-ylmethanol",other,2.0
+host_cold,0,test,1766,11,963,Cucurbit[8]uril,cucurbituril,5.7033
+host_cold,0,test,1768,24,875,hexasodium p-sulfonatocalix[6]arene,calixarene,3.25
+host_cold,0,test,1773,11,350,Cucurbit[8]uril,cucurbituril,3.301
+host_cold,0,test,1779,19,968,Dodeca(4-carboxybenzyl)bambus[6]uril,other,6.3424
+host_cold,0,test,1783,11,694,Cucurbit[8]uril,cucurbituril,3.5499
+host_cold,0,test,1792,55,523,p-sulfonatocalix[8]arene-(mono aminoethyl-substituted),calixarene,1.4472
+host_cold,0,test,1794,11,973,Cucurbit[8]uril,cucurbituril,6.6021
+host_cold,0,test,1800,170,861,"Trisodium 8-eicosyloxypyrene-1,3,6-trisulfonate",other,6.3222
+host_cold,0,test,1801,97,547,p-sulfocalixmethylcalix[4]arene,calixarene,5.179
+host_cold,0,test,1809,109,63,"4,7,10,16,19,22,27,30-Octaoxa-1,13-diazabicyclo[11.11.8]dotriacontan-28-ylmethanol",other,0.6998
+host_cold,0,test,1811,11,503,Cucurbit[8]uril,cucurbituril,2.86
+host_cold,0,test,1814,11,53,Cucurbit[8]uril,cucurbituril,2.49
+host_cold,0,test,1815,148,962,"6I-O-(8-hydroxyquinoline)-2I,31- di-O-methylhexakis(2II-VII,3II-VII,6II-VII- tri-O-methyl)-B-cyclodextrin",cyclodextrin,3.94
+host_cold,0,test,1818,11,507,Cucurbit[8]uril,cucurbituril,2.66
+host_cold,0,test,1837,11,986,Cucurbit[8]uril,cucurbituril,6.1644
+host_cold,0,test,1839,55,18,p-sulfonatocalix[8]arene-(mono aminoethyl-substituted),calixarene,2.6263
+host_cold,0,test,1842,11,989,Cucurbit[8]uril,cucurbituril,7.1461
+host_cold,0,test,1843,20,402,carboxylate pillar[6]arene,pillararene,6.4579
+host_cold,0,test,1846,109,115,"4,7,10,16,19,22,27,30-Octaoxa-1,13-diazabicyclo[11.11.8]dotriacontan-28-ylmethanol",other,2.0
+host_cold,0,test,1853,11,991,Cucurbit[8]uril,cucurbituril,3.3741
+host_cold,0,test,1862,11,997,Cucurbit[8]uril,cucurbituril,6.7959
+host_cold,0,test,1863,24,525,hexasodium p-sulfonatocalix[6]arene,calixarene,3.19
+host_cold,0,test,1865,83,926,"Napthalene-monofunctionalized cucurbit[6]uril, Cucurbituril[6]",cucurbituril,4.8692
+host_cold,0,test,1874,11,1000,Cucurbit[8]uril,cucurbituril,6.3766
+host_cold,0,test,1876,11,104,Cucurbit[8]uril,cucurbituril,4.2041
+host_cold,0,test,1882,83,350,"Napthalene-monofunctionalized cucurbit[6]uril, Cucurbituril[6]",cucurbituril,4.5441
+host_cold,0,test,1883,173,179,Tetraphosphonate cyclophane,cyclophane,3.1761
+host_cold,0,test,1884,2,1003,Cucurbit[5]uril,cucurbituril,1.9395
+host_cold,0,test,1886,11,1004,Cucurbit[8]uril,cucurbituril,9.8388
+host_cold,0,test,1894,11,1008,Cucurbit[8]uril,cucurbituril,6.3222
+host_cold,0,test,1898,11,3,Cucurbit[8]uril,cucurbituril,4.0828
+host_cold,0,test,1900,2,1009,Cucurbit[5]uril,cucurbituril,3.71
+host_cold,0,test,1911,24,282,hexasodium p-sulfonatocalix[6]arene,calixarene,3.64
+host_cold,0,test,1912,11,1012,Cucurbit[8]uril,cucurbituril,6.5539
+host_cold,0,test,1913,176,764,Resorcin[4]arene,other,5.3617
+host_cold,0,test,1916,55,56,p-sulfonatocalix[8]arene-(mono aminoethyl-substituted),calixarene,1.8325
+host_cold,0,test,1921,11,621,Cucurbit[8]uril,cucurbituril,3.0
+host_cold,0,test,1927,27,1017,tetrakis(trimethylammonium) chloride cavitand,cavitand,1.301
+host_cold,0,test,1931,127,904,Dodecakis(5‐carboxypentyl)bambus[6]uril,other,5.9085
+host_cold,0,test,1937,108,828,Inverted Cucurbit[7]uril,cucurbituril,5.9445
+host_cold,0,test,1939,11,1021,Cucurbit[8]uril,cucurbituril,5.6021
+host_cold,0,test,1940,162,22,(2-((((10-formylanthracen-9-yl)methyl)(methyl)amino)methyl)phenyl)boronic acid,other,3.7033
+host_cold,0,test,1944,11,1022,Cucurbit[8]uril,cucurbituril,4.2553
+host_cold,0,test,1946,11,401,Cucurbit[8]uril,cucurbituril,2.72
+host_cold,0,test,1952,109,21,"4,7,10,16,19,22,27,30-Octaoxa-1,13-diazabicyclo[11.11.8]dotriacontan-28-ylmethanol",other,2.0
+host_cold,0,test,1954,2,725,Cucurbit[5]uril,cucurbituril,4.1584
+host_cold,0,test,1956,11,2,Cucurbit[8]uril,cucurbituril,3.31
+host_cold,0,test,1960,2,1024,Cucurbit[5]uril,cucurbituril,6.2569
+host_cold,0,test,1966,11,1027,Cucurbit[8]uril,cucurbituril,3.6335
+host_cold,0,test,1974,11,1029,Cucurbit[8]uril,cucurbituril,4.1584
+host_cold,0,test,1979,60,1030,syn oxatube,other,11.1461
+host_cold,0,test,1981,162,50,(2-((((10-formylanthracen-9-yl)methyl)(methyl)amino)methyl)phenyl)boronic acid,other,3.3032
+host_cold,0,test,1984,11,1031,Cucurbit[8]uril,cucurbituril,10.7619
+host_cold,0,test,1988,11,194,Cucurbit[8]uril,cucurbituril,2.67
+host_cold,0,test,1999,11,1034,Cucurbit[8]uril,cucurbituril,11.0453
+host_cold,0,test,2005,11,249,Cucurbit[8]uril,cucurbituril,5.3741
+host_cold,0,test,2021,182,301,Acyclic di-(sodium(3-((4-(2-azidoethoxy)naphthalen-1-yl)oxy)propane-1-sulfonate)-functionalizedCucurbiturils (tetrameric glycourilunit),cucurbituril,3.609
+host_cold,0,test,2023,11,780,Cucurbit[8]uril,cucurbituril,2.32
+host_cold,0,test,2032,20,641,carboxylate pillar[6]arene,pillararene,7.1847
+host_cold,0,test,2035,54,128,Molecular Tweezer-sodium diacetate,other,1.4771
+host_cold,0,test,2036,11,294,Cucurbit[8]uril,cucurbituril,2.97
+host_cold,0,test,2037,11,1041,Cucurbit[8]uril,cucurbituril,9.301
+host_cold,0,test,2038,137,476,p-sulfocalixmethylcalix[5]arene,calixarene,6.2068
+host_cold,0,test,2040,41,764,tetracyanoresorcin[4]arene,other,6.6294
+host_cold,0,test,2044,173,1042,Tetraphosphonate cyclophane,cyclophane,2.1271
+host_cold,0,test,2051,83,923,"Napthalene-monofunctionalized cucurbit[6]uril, Cucurbituril[6]",cucurbituril,4.0792
+host_cold,0,test,2052,83,977,"Napthalene-monofunctionalized cucurbit[6]uril, Cucurbituril[6]",cucurbituril,2.6532
+host_cold,0,test,2053,128,45,C39H41N5O2,other,1.9395
+host_cold,0,test,2055,54,766,Molecular Tweezer-sodium diacetate,other,3.2156
+host_cold,0,test,2062,11,1046,Cucurbit[8]uril,cucurbituril,12.0414
+host_cold,0,test,2064,11,992,Cucurbit[8]uril,cucurbituril,11.1761
+host_cold,0,test,2066,2,1048,Cucurbit[5]uril,cucurbituril,2.5
+host_cold,0,test,2068,6,173,exo-Octa Acid,other,2.5
+host_cold,0,test,2072,137,286,p-sulfocalixmethylcalix[5]arene,calixarene,4.0969
+host_cold,0,test,2073,79,658,Methylcarboxylate-substituted Calix[4]arene,calixarene,1.7
+host_cold,0,test,2074,11,114,Cucurbit[8]uril,cucurbituril,3.0
+host_cold,0,test,2075,11,1049,Cucurbit[8]uril,cucurbituril,8.143
+host_cold,0,test,2080,83,661,"Napthalene-monofunctionalized cucurbit[6]uril, Cucurbituril[6]",cucurbituril,6.0
+host_cold,0,test,2081,11,1051,Cucurbit[8]uril,cucurbituril,5.0
+host_cold,0,test,2082,11,369,Cucurbit[8]uril,cucurbituril,5.7672
+host_cold,0,test,2086,11,1053,Cucurbit[8]uril,cucurbituril,3.0792
+host_cold,0,test,2096,109,229,"4,7,10,16,19,22,27,30-Octaoxa-1,13-diazabicyclo[11.11.8]dotriacontan-28-ylmethanol",other,2.0
+host_cold,0,test,2106,99,72,p-sulfonatocalix[8]arene-(mono cyanomethyl-substituted),calixarene,2.8195
+host_cold,0,test,2107,11,1056,Cucurbit[8]uril,cucurbituril,4.4683
+host_cold,0,test,2110,83,1050,"Napthalene-monofunctionalized cucurbit[6]uril, Cucurbituril[6]",cucurbituril,6.0
+host_cold,0,test,2111,74,37,5-[4-(2-dihydroxyboryl-benzyl-N-methylamino)-butyroylamino]-m-xylylene bisphosphonic acid dimethyl ester dilithium salt,other,2.5403
+host_cold,0,test,2112,11,243,Cucurbit[8]uril,cucurbituril,3.44
+host_cold,0,test,2114,13,1058,Monohydroxycucurbit[7]uril,cucurbituril,8.0792
+host_cold,0,test,2120,55,178,p-sulfonatocalix[8]arene-(mono aminoethyl-substituted),calixarene,2.9854
+host_cold,0,test,2126,11,890,Cucurbit[8]uril,cucurbituril,9.9138
+host_cold,0,test,2127,11,419,Cucurbit[8]uril,cucurbituril,5.5798
+host_cold,0,test,2128,2,1061,Cucurbit[5]uril,cucurbituril,4.9697
+host_cold,0,test,2141,24,440,hexasodium p-sulfonatocalix[6]arene,calixarene,3.47
+host_cold,0,test,2143,11,382,Cucurbit[8]uril,cucurbituril,1.0
+host_cold,0,test,2147,187,425,p-Sulfonatocalix[4]arene bis(carboxymethoxy)-substituted,calixarene,2.6
+host_cold,0,test,2151,24,314,hexasodium p-sulfonatocalix[6]arene,calixarene,3.3
+host_cold,0,test,2152,90,949,Guanidinocalix[5]arene pentadodecyl ether,calixarene,7.2788
+host_cold,0,test,2153,11,853,Cucurbit[8]uril,cucurbituril,3.95
+host_cold,0,test,2155,99,56,p-sulfonatocalix[8]arene-(mono cyanomethyl-substituted),calixarene,1.9494
+host_cold,0,test,2156,99,126,p-sulfonatocalix[8]arene-(mono cyanomethyl-substituted),calixarene,2.2529
+host_cold,1,test,11,10,11,Molecular Tweezer-lithium diphosphate,other,4.7558
+host_cold,1,test,13,12,13,[3.3.3]Cryptand,other,2.0
+host_cold,1,test,18,16,18,p-sulfonatocalix[4]arene-(mono aminoethyl-substituted),calixarene,2.3118
+host_cold,1,test,21,12,21,[3.3.3]Cryptand,other,2.0
+host_cold,1,test,27,21,27,p-sulfonatocalix[4]arene-(bromosulfonamide-substituted),calixarene,5.3222
+host_cold,1,test,55,33,54,Positand 1,other,6.8579
+host_cold,1,test,59,16,57,p-sulfonatocalix[4]arene-(mono aminoethyl-substituted),calixarene,2.3181
+host_cold,1,test,68,39,66,Mono[2-O-(2-hydroxypropyl)]-β-Cyclodextrin,cyclodextrin,3.5843
+host_cold,1,test,79,44,21,"4,7,13,16,21-Pentaoxa-1,10-diazabicyclo[8.8.5]tricosane",other,7.3502
+host_cold,1,test,81,45,78,Calix[4]arene,calixarene,3.301
+host_cold,1,test,82,46,79,4-sulfocalix[4]arene sodium salt,calixarene,3.2299
+host_cold,1,test,84,46,81,4-sulfocalix[4]arene sodium salt,calixarene,3.9143
+host_cold,1,test,95,50,91,cucurbit[7]uril-hexaethylene glycol-berberine conjugate,cucurbituril,7.8908
+host_cold,1,test,114,46,105,4-sulfocalix[4]arene sodium salt,calixarene,7.1761
+host_cold,1,test,138,59,122,2-[[Methyl[5-[2-oxo-3-formyl-7-(diethylamino)-2H-1-benzopyran-4-yl]pentyl]amino]methyl]phenylboronic acid,other,0.9024
+host_cold,1,test,145,62,127,15-crown-5,crown_ether,4.0
+host_cold,1,test,149,45,21,Calix[4]arene,calixarene,3.4616
+host_cold,1,test,156,64,136,Oxatub[4]arene TA4,other,6.1875
+host_cold,1,test,160,33,139,Positand 1,other,3.5563
+host_cold,1,test,163,66,141,"Acyclic (sodium 3,3'-(1,4-phenylenebis(oxy))bis(propane-1-sulfonate) Cucurbiturils (tetrameric Glycouril units)",cucurbituril,5.6532
+host_cold,1,test,178,46,155,4-sulfocalix[4]arene sodium salt,calixarene,3.4298
+host_cold,1,test,185,45,161,Calix[4]arene,calixarene,3.1745
+host_cold,1,test,186,46,162,4-sulfocalix[4]arene sodium salt,calixarene,5.4624
+host_cold,1,test,187,71,163,Perylene-Bridged Bis(b-cyclodextrin),cyclodextrin,4.5986
+host_cold,1,test,211,76,95,Mono[6-(R(-)-1-hydroxymethylpropylamino)-6-deoxy]β-Cyclodextrin,cyclodextrin,3.5915
+host_cold,1,test,246,45,201,Calix[4]arene,calixarene,1.8741
+host_cold,1,test,254,82,215,p-sulfonatocalix[6]arene-(mono amidomethyl-substituted),calixarene,1.9638
+host_cold,1,test,258,45,170,Calix[4]arene,calixarene,5.415
+host_cold,1,test,261,76,61,Mono[6-(R(-)-1-hydroxymethylpropylamino)-6-deoxy]β-Cyclodextrin,cyclodextrin,4.2279
+host_cold,1,test,279,45,229,Calix[4]arene,calixarene,1.9022
+host_cold,1,test,282,87,234,Zorb[4]arene,other,5.3617
+host_cold,1,test,289,45,115,Calix[4]arene,calixarene,2.0304
+host_cold,1,test,294,33,53,Positand 1,other,2.0792
+host_cold,1,test,301,33,157,Positand 1,other,3.6277
+host_cold,1,test,313,45,71,Calix[4]arene,calixarene,4.7782
+host_cold,1,test,323,91,63,"4,7,13,16,21,24-Hexaoxa-1,10-diazabicyclo[8.8.8]hexacosane",other,4.3502
+host_cold,1,test,335,16,108,p-sulfonatocalix[4]arene-(mono aminoethyl-substituted),calixarene,2.6503
+host_cold,1,test,338,46,271,4-sulfocalix[4]arene sodium salt,calixarene,3.7176
+host_cold,1,test,348,93,22,(2-(((anthracen-9-ylmethyl)(methyl)amino)methyl)phenyl)boronic acid,other,3.7597
+host_cold,1,test,353,82,56,p-sulfonatocalix[6]arene-(mono amidomethyl-substituted),calixarene,2.1461
+host_cold,1,test,359,33,23,Positand 1,other,3.1101
+host_cold,1,test,363,45,31,Calix[4]arene,calixarene,3.3833
+host_cold,1,test,367,16,215,p-sulfonatocalix[4]arene-(mono aminoethyl-substituted),calixarene,1.9956
+host_cold,1,test,370,64,234,Oxatub[4]arene TA4,other,5.4786
+host_cold,1,test,373,64,293,Oxatub[4]arene TA4,other,6.1987
+host_cold,1,test,379,64,297,Oxatub[4]arene TA4,other,5.2253
+host_cold,1,test,384,46,302,4-sulfocalix[4]arene sodium salt,calixarene,4.0086
+host_cold,1,test,386,82,126,p-sulfonatocalix[6]arene-(mono amidomethyl-substituted),calixarene,2.5658
+host_cold,1,test,396,87,310,Zorb[4]arene,other,5.5315
+host_cold,1,test,398,87,312,Zorb[4]arene,other,2.5428
+host_cold,1,test,399,45,313,Calix[4]arene,calixarene,5.4314
+host_cold,1,test,410,45,108,Calix[4]arene,calixarene,3.4472
+host_cold,1,test,415,10,102,Molecular Tweezer-lithium diphosphate,other,4.7635
+host_cold,1,test,451,59,178,2-[[Methyl[5-[2-oxo-3-formyl-7-(diethylamino)-2H-1-benzopyran-4-yl]pentyl]amino]methyl]phenylboronic acid,other,0.8055
+host_cold,1,test,462,87,352,Zorb[4]arene,other,4.9345
+host_cold,1,test,466,102,171,"Cyclobis(paraquat-1,4-phenylene) tetrakis(hexafluorophosphate)",other,3.0294
+host_cold,1,test,503,16,72,p-sulfonatocalix[4]arene-(mono aminoethyl-substituted),calixarene,2.3139
+host_cold,1,test,507,46,384,4-sulfocalix[4]arene sodium salt,calixarene,3.1822
+host_cold,1,test,522,46,391,4-sulfocalix[4]arene sodium salt,calixarene,1.8633
+host_cold,1,test,540,66,402,"Acyclic (sodium 3,3'-(1,4-phenylenebis(oxy))bis(propane-1-sulfonate) Cucurbiturils (tetrameric Glycouril units)",cucurbituril,6.7634
+host_cold,1,test,547,112,406,bisurea-receptor-Cl,other,3.8976
+host_cold,1,test,558,46,66,4-sulfocalix[4]arene sodium salt,calixarene,2.7544
+host_cold,1,test,562,87,293,Zorb[4]arene,other,5.0792
+host_cold,1,test,582,45,286,Calix[4]arene,calixarene,4.4795
+host_cold,1,test,585,33,428,Positand 1,other,3.2752
+host_cold,1,test,588,118,431,anti-Thiourea Naphthotube,other,5.8573
+host_cold,1,test,597,21,275,p-sulfonatocalix[4]arene-(bromosulfonamide-substituted),calixarene,5.1139
+host_cold,1,test,605,45,13,Calix[4]arene,calixarene,2.3117
+host_cold,1,test,609,45,443,Calix[4]arene,calixarene,4.4014
+host_cold,1,test,623,64,454,Oxatub[4]arene TA4,other,3.2472
+host_cold,1,test,627,33,99,Positand 1,other,3.5069
+host_cold,1,test,632,66,301,"Acyclic (sodium 3,3'-(1,4-phenylenebis(oxy))bis(propane-1-sulfonate) Cucurbiturils (tetrameric Glycouril units)",cucurbituril,4.3802
+host_cold,1,test,636,10,189,Molecular Tweezer-lithium diphosphate,other,4.3714
+host_cold,1,test,640,87,460,Zorb[4]arene,other,4.8062
+host_cold,1,test,641,66,461,"Acyclic (sodium 3,3'-(1,4-phenylenebis(oxy))bis(propane-1-sulfonate) Cucurbiturils (tetrameric Glycouril units)",cucurbituril,6.7924
+host_cold,1,test,645,123,464,Sulfonated azocalix[4]arene,calixarene,6.3222
+host_cold,1,test,657,59,171,2-[[Methyl[5-[2-oxo-3-formyl-7-(diethylamino)-2H-1-benzopyran-4-yl]pentyl]amino]methyl]phenylboronic acid,other,3.5315
+host_cold,1,test,658,87,469,Zorb[4]arene,other,2.6702
+host_cold,1,test,659,91,229,"4,7,13,16,21,24-Hexaoxa-1,10-diazabicyclo[8.8.8]hexacosane",other,3.9
+host_cold,1,test,664,124,472,bisurea-receptor-NO2,other,3.7657
+host_cold,1,test,682,10,482,Molecular Tweezer-lithium diphosphate,other,5.4425
+host_cold,1,test,687,46,485,4-sulfocalix[4]arene sodium salt,calixarene,2.5353
+host_cold,1,test,711,46,501,4-sulfocalix[4]arene sodium salt,calixarene,1.8325
+host_cold,1,test,713,46,262,4-sulfocalix[4]arene sodium salt,calixarene,3.7067
+host_cold,1,test,714,64,502,Oxatub[4]arene TA4,other,5.5315
+host_cold,1,test,721,59,37,2-[[Methyl[5-[2-oxo-3-formyl-7-(diethylamino)-2H-1-benzopyran-4-yl]pentyl]amino]methyl]phenylboronic acid,other,3.8129
+host_cold,1,test,724,129,91,cucurbit[7]uril-tetraethylene glycol-berberine conjugate,cucurbituril,7.9873
+host_cold,1,test,731,46,421,4-sulfocalix[4]arene sodium salt,calixarene,3.6255
+host_cold,1,test,748,45,520,Calix[4]arene,calixarene,2.3222
+host_cold,1,test,750,64,312,Oxatub[4]arene TA4,other,2.5465
+host_cold,1,test,753,132,512,"Tris[2,3-quinoxalinediylbis(oxyethyleneoxyethyleneoxyethyleneoxy)]triphenylene and Dibenzylammonium guest",other,2.3424
+host_cold,1,test,754,44,161,"4,7,13,16,21-Pentaoxa-1,10-diazabicyclo[8.8.5]tricosane",other,2.0
+host_cold,1,test,762,45,527,Calix[4]arene,calixarene,3.141
+host_cold,1,test,776,46,533,4-sulfocalix[4]arene sodium salt,calixarene,5.8062
+host_cold,1,test,781,129,535,cucurbit[7]uril-tetraethylene glycol-berberine conjugate,cucurbituril,4.4942
+host_cold,1,test,786,45,178,Calix[4]arene,calixarene,3.0
+host_cold,1,test,797,136,544,Dimetoxinaphtaleneglycoluril tetramer,other,4.0792
+host_cold,1,test,822,124,456,bisurea-receptor-NO2,other,4.0253
+host_cold,1,test,838,16,178,p-sulfonatocalix[4]arene-(mono aminoethyl-substituted),calixarene,2.3054
+host_cold,1,test,841,45,72,Calix[4]arene,calixarene,2.7482
+host_cold,1,test,843,46,509,4-sulfocalix[4]arene sodium salt,calixarene,2.6191
+host_cold,1,test,909,146,353,6-O-alpha-D-glucosyl-β-Cyclodextrin,cyclodextrin,3.1644
+host_cold,1,test,911,147,609,ExBox.4Cl,other,4.7709
+host_cold,1,test,928,46,31,4-sulfocalix[4]arene sodium salt,calixarene,2.8116
+host_cold,1,test,943,46,476,4-sulfocalix[4]arene sodium salt,calixarene,6.6797
+host_cold,1,test,948,50,313,cucurbit[7]uril-hexaethylene glycol-berberine conjugate,cucurbituril,3.5714
+host_cold,1,test,966,46,636,4-sulfocalix[4]arene sodium salt,calixarene,5.699
+host_cold,1,test,973,82,18,p-sulfonatocalix[6]arene-(mono amidomethyl-substituted),calixarene,2.7033
+host_cold,1,test,975,66,455,"Acyclic (sodium 3,3'-(1,4-phenylenebis(oxy))bis(propane-1-sulfonate) Cucurbiturils (tetrameric Glycouril units)",cucurbituril,5.6721
+host_cold,1,test,984,64,646,Oxatub[4]arene TA4,other,4.5999
+host_cold,1,test,992,136,650,Dimetoxinaphtaleneglycoluril tetramer,other,6.1139
+host_cold,1,test,999,87,136,Zorb[4]arene,other,5.6528
+host_cold,1,test,1011,82,523,p-sulfonatocalix[6]arene-(mono amidomethyl-substituted),calixarene,1.6628
+host_cold,1,test,1013,33,663,Positand 1,other,2.1165
+host_cold,1,test,1018,39,46,Mono[2-O-(2-hydroxypropyl)]-β-Cyclodextrin,cyclodextrin,2.415
+host_cold,1,test,1026,46,587,4-sulfocalix[4]arene sodium salt,calixarene,4.73
+host_cold,1,test,1033,87,671,Zorb[4]arene,other,4.3617
+host_cold,1,test,1065,112,472,bisurea-receptor-Cl,other,3.4281
+host_cold,1,test,1071,64,684,Oxatub[4]arene TA4,other,2.0212
+host_cold,1,test,1084,50,691,cucurbit[7]uril-hexaethylene glycol-berberine conjugate,cucurbituril,4.3171
+host_cold,1,test,1088,64,693,Oxatub[4]arene TA4,other,4.5038
+host_cold,1,test,1095,44,201,"4,7,13,16,21-Pentaoxa-1,10-diazabicyclo[8.8.5]tricosane",other,2.5
+host_cold,1,test,1098,129,691,cucurbit[7]uril-tetraethylene glycol-berberine conjugate,cucurbituril,4.4135
+host_cold,1,test,1110,46,701,4-sulfocalix[4]arene sodium salt,calixarene,3.8169
+host_cold,1,test,1113,45,497,Calix[4]arene,calixarene,2.6811
+host_cold,1,test,1115,87,703,Zorb[4]arene,other,4.9445
+host_cold,1,test,1117,64,704,Oxatub[4]arene TA4,other,2.5391
+host_cold,1,test,1127,91,161,"4,7,13,16,21,24-Hexaoxa-1,10-diazabicyclo[8.8.8]hexacosane",other,2.0
+host_cold,1,test,1133,45,551,Calix[4]arene,calixarene,4.5479
+host_cold,1,test,1144,112,456,bisurea-receptor-Cl,other,3.7419
+host_cold,1,test,1145,50,344,cucurbit[7]uril-hexaethylene glycol-berberine conjugate,cucurbituril,8.1271
+host_cold,1,test,1157,45,449,Calix[4]arene,calixarene,5.3846
+host_cold,1,test,1177,64,729,Oxatub[4]arene TA4,other,2.5378
+host_cold,1,test,1185,46,735,4-sulfocalix[4]arene sodium salt,calixarene,3.699
+host_cold,1,test,1196,46,400,4-sulfocalix[4]arene sodium salt,calixarene,4.1051
+host_cold,1,test,1213,87,751,Zorb[4]arene,other,5.2788
+host_cold,1,test,1221,12,161,[3.3.3]Cryptand,other,2.0
+host_cold,1,test,1231,46,760,4-sulfocalix[4]arene sodium salt,calixarene,6.9685
+host_cold,1,test,1233,160,231,p-sulfonatocalix[4]arene-(tosylamide-substituted),calixarene,2.7559
+host_cold,1,test,1255,45,770,Calix[4]arene,calixarene,4.3075
+host_cold,1,test,1268,87,776,Zorb[4]arene,other,5.0792
+host_cold,1,test,1274,33,257,Positand 1,other,3.3351
+host_cold,1,test,1278,33,39,Positand 1,other,3.5051
+host_cold,1,test,1285,45,661,Calix[4]arene,calixarene,6.8513
+host_cold,1,test,1286,87,782,Zorb[4]arene,other,2.7709
+host_cold,1,test,1296,59,682,2-[[Methyl[5-[2-oxo-3-formyl-7-(diethylamino)-2H-1-benzopyran-4-yl]pentyl]amino]methyl]phenylboronic acid,other,0.8325
+host_cold,1,test,1312,45,301,Calix[4]arene,calixarene,4.5502
+host_cold,1,test,1315,45,791,Calix[4]arene,calixarene,4.5777
+host_cold,1,test,1320,160,178,p-sulfonatocalix[4]arene-(tosylamide-substituted),calixarene,1.4771
+host_cold,1,test,1323,91,13,"4,7,13,16,21,24-Hexaoxa-1,10-diazabicyclo[8.8.8]hexacosane",other,2.0
+host_cold,1,test,1328,82,72,p-sulfonatocalix[6]arene-(mono amidomethyl-substituted),calixarene,2.7896
+host_cold,1,test,1333,64,671,Oxatub[4]arene TA4,other,5.0828
+host_cold,1,test,1344,45,88,Calix[4]arene,calixarene,3.3918
+host_cold,1,test,1347,161,803,"heptakis(2,6-di-methyl)-β-Cyclodextrine",cyclodextrin,2.7993
+host_cold,1,test,1348,12,115,[3.3.3]Cryptand,other,2.0
+host_cold,1,test,1352,129,804,cucurbit[7]uril-tetraethylene glycol-berberine conjugate,cucurbituril,3.7313
+host_cold,1,test,1358,102,806,"Cyclobis(paraquat-1,4-phenylene) tetrakis(hexafluorophosphate)",other,3.8525
+host_cold,1,test,1363,87,808,Zorb[4]arene,other,4.7324
+host_cold,1,test,1388,10,819,Molecular Tweezer-lithium diphosphate,other,4.985
+host_cold,1,test,1392,45,221,Calix[4]arene,calixarene,4.9542
+host_cold,1,test,1409,10,128,Molecular Tweezer-lithium diphosphate,other,4.7402
+host_cold,1,test,1423,46,837,4-sulfocalix[4]arene sodium salt,calixarene,1.6435
+host_cold,1,test,1444,91,76,"4,7,13,16,21,24-Hexaoxa-1,10-diazabicyclo[8.8.8]hexacosane",other,9.4997
+host_cold,1,test,1447,87,847,Zorb[4]arene,other,5.3424
+host_cold,1,test,1451,91,201,"4,7,13,16,21,24-Hexaoxa-1,10-diazabicyclo[8.8.8]hexacosane",other,2.0
+host_cold,1,test,1454,64,781,Oxatub[4]arene TA4,other,3.4701
+host_cold,1,test,1458,33,683,Positand 1,other,4.847
+host_cold,1,test,1468,136,90,Dimetoxinaphtaleneglycoluril tetramer,other,6.2788
+host_cold,1,test,1469,112,175,bisurea-receptor-Cl,other,2.4624
+host_cold,1,test,1470,45,76,Calix[4]arene,calixarene,3.8299
+host_cold,1,test,1493,82,108,p-sulfonatocalix[6]arene-(mono amidomethyl-substituted),calixarene,3.3049
+host_cold,1,test,1506,64,339,Oxatub[4]arene TA4,other,2.9699
+host_cold,1,test,1508,59,22,2-[[Methyl[5-[2-oxo-3-formyl-7-(diethylamino)-2H-1-benzopyran-4-yl]pentyl]amino]methyl]phenylboronic acid,other,3.699
+host_cold,1,test,1512,50,804,cucurbit[7]uril-hexaethylene glycol-berberine conjugate,cucurbituril,3.524
+host_cold,1,test,1516,82,178,p-sulfonatocalix[6]arene-(mono amidomethyl-substituted),calixarene,3.0983
+host_cold,1,test,1521,64,869,Oxatub[4]arene TA4,other,3.9954
+host_cold,1,test,1525,102,22,"Cyclobis(paraquat-1,4-phenylene) tetrakis(hexafluorophosphate)",other,2.7782
+host_cold,1,test,1546,45,471,Calix[4]arene,calixarene,3.5149
+host_cold,1,test,1550,46,878,4-sulfocalix[4]arene sodium salt,calixarene,4.8241
+host_cold,1,test,1552,10,309,Molecular Tweezer-lithium diphosphate,other,4.0682
+host_cold,1,test,1558,64,881,Oxatub[4]arene TA4,other,3.387
+host_cold,1,test,1560,39,353,Mono[2-O-(2-hydroxypropyl)]-β-Cyclodextrin,cyclodextrin,3.3802
+host_cold,1,test,1565,12,88,[3.3.3]Cryptand,other,2.0
+host_cold,1,test,1573,124,406,bisurea-receptor-NO2,other,4.3909
+host_cold,1,test,1575,46,885,4-sulfocalix[4]arene sodium salt,calixarene,4.699
+host_cold,1,test,1583,10,439,Molecular Tweezer-lithium diphosphate,other,4.3891
+host_cold,1,test,1588,64,887,Oxatub[4]arene TA4,other,2.5821
+host_cold,1,test,1609,93,50,(2-(((anthracen-9-ylmethyl)(methyl)amino)methyl)phenyl)boronic acid,other,3.3075
+host_cold,1,test,1622,44,115,"4,7,13,16,21-Pentaoxa-1,10-diazabicyclo[8.8.5]tricosane",other,3.95
+host_cold,1,test,1635,16,56,p-sulfonatocalix[4]arene-(mono aminoethyl-substituted),calixarene,2.4886
+host_cold,1,test,1645,16,15,p-sulfonatocalix[4]arene-(mono aminoethyl-substituted),calixarene,3.7497
+host_cold,1,test,1650,12,201,[3.3.3]Cryptand,other,2.0
+host_cold,1,test,1663,102,50,"Cyclobis(paraquat-1,4-phenylene) tetrakis(hexafluorophosphate)",other,3.5855
+host_cold,1,test,1671,46,343,4-sulfocalix[4]arene sodium salt,calixarene,2.2227
+host_cold,1,test,1674,44,88,"4,7,13,16,21-Pentaoxa-1,10-diazabicyclo[8.8.5]tricosane",other,6.9499
+host_cold,1,test,1679,71,924,Perylene-Bridged Bis(b-cyclodextrin),cyclodextrin,3.959
+host_cold,1,test,1689,168,96,p-Sulfonato calix[4]arene (bis(2-ethoxyethoxy)-substituted),calixarene,3.4
+host_cold,1,test,1693,66,140,"Acyclic (sodium 3,3'-(1,4-phenylenebis(oxy))bis(propane-1-sulfonate) Cucurbiturils (tetrameric Glycouril units)",cucurbituril,5.9868
+host_cold,1,test,1705,169,937,"2,3:6,7:10,11-tris[2,3-quinoxalinediylbis(oxyethyleneoxyethyleneoxyethyleneoxy)]triphenylene",other,5.238
+host_cold,1,test,1709,91,21,"4,7,13,16,21,24-Hexaoxa-1,10-diazabicyclo[8.8.8]hexacosane",other,8.0
+host_cold,1,test,1722,45,63,Calix[4]arene,calixarene,2.0858
+host_cold,1,test,1727,76,759,Mono[6-(R(-)-1-hydroxymethylpropylamino)-6-deoxy]β-Cyclodextrin,cyclodextrin,3.4465
+host_cold,1,test,1738,168,425,p-Sulfonato calix[4]arene (bis(2-ethoxyethoxy)-substituted),calixarene,2.6
+host_cold,1,test,1743,87,952,Zorb[4]arene,other,2.7193
+host_cold,1,test,1751,124,175,bisurea-receptor-NO2,other,2.7634
+host_cold,1,test,1754,45,959,Calix[4]arene,calixarene,5.0
+host_cold,1,test,1759,16,523,p-sulfonatocalix[4]arene-(mono aminoethyl-substituted),calixarene,1.6335
+host_cold,1,test,1760,64,751,Oxatub[4]arene TA4,other,5.6866
+host_cold,1,test,1765,46,301,4-sulfocalix[4]arene sodium salt,calixarene,4.1399
+host_cold,1,test,1776,147,966,ExBox.4Cl,other,5.0607
+host_cold,1,test,1778,64,967,Oxatub[4]arene TA4,other,4.6767
+host_cold,1,test,1793,160,476,p-sulfonatocalix[4]arene-(tosylamide-substituted),calixarene,5.7193
+host_cold,1,test,1796,44,76,"4,7,13,16,21-Pentaoxa-1,10-diazabicyclo[8.8.5]tricosane",other,6.301
+host_cold,1,test,1798,45,975,Calix[4]arene,calixarene,2.0976
+host_cold,1,test,1799,147,976,ExBox.4Cl,other,4.6128
+host_cold,1,test,1807,46,979,4-sulfocalix[4]arene sodium salt,calixarene,2.9335
+host_cold,1,test,1808,45,231,Calix[4]arene,calixarene,5.1139
+host_cold,1,test,1825,147,983,ExBox.4Cl,other,4.7324
+host_cold,1,test,1826,45,984,Calix[4]arene,calixarene,5.3979
+host_cold,1,test,1832,129,313,cucurbit[7]uril-tetraethylene glycol-berberine conjugate,cucurbituril,3.842
+host_cold,1,test,1838,16,126,p-sulfonatocalix[4]arene-(mono aminoethyl-substituted),calixarene,2.4533
+host_cold,1,test,1848,93,171,(2-(((anthracen-9-ylmethyl)(methyl)amino)methyl)phenyl)boronic acid,other,3.8193
+host_cold,1,test,1850,12,229,[3.3.3]Cryptand,other,2.0
+host_cold,1,test,1881,87,1002,Zorb[4]arene,other,4.1139
+host_cold,1,test,1893,16,337,p-sulfonatocalix[4]arene-(mono aminoethyl-substituted),calixarene,2.6232
+host_cold,1,test,1897,33,6,Positand 1,other,4.4843
+host_cold,1,test,1899,123,66,Sulfonated azocalix[4]arene,calixarene,6.0792
+host_cold,1,test,1901,10,1010,Molecular Tweezer-lithium diphosphate,other,5.1335
+host_cold,1,test,1902,46,30,4-sulfocalix[4]arene sodium salt,calixarene,4.2529
+host_cold,1,test,1907,175,516,1-[5-(methoxycarbonyl)-1H-pyrrole-2-ylcarbonyl]guanidinium,other,2.9731
+host_cold,1,test,1923,64,310,Oxatub[4]arene TA4,other,5.9258
+host_cold,1,test,1924,64,847,Oxatub[4]arene TA4,other,5.8189
+host_cold,1,test,1932,76,198,Mono[6-(R(-)-1-hydroxymethylpropylamino)-6-deoxy]β-Cyclodextrin,cyclodextrin,3.9723
+host_cold,1,test,1935,91,115,"4,7,13,16,21,24-Hexaoxa-1,10-diazabicyclo[8.8.8]hexacosane",other,5.3997
+host_cold,1,test,1942,66,768,"Acyclic (sodium 3,3'-(1,4-phenylenebis(oxy))bis(propane-1-sulfonate) Cucurbiturils (tetrameric Glycouril units)",cucurbituril,5.6812
+host_cold,1,test,1947,45,394,Calix[4]arene,calixarene,4.301
+host_cold,1,test,1948,129,344,cucurbit[7]uril-tetraethylene glycol-berberine conjugate,cucurbituril,7.4579
+host_cold,1,test,1961,21,27,p-sulfonatocalix[4]arene-(bromoamide-substituted),calixarene,6.0414
+host_cold,1,test,1970,87,502,Zorb[4]arene,other,4.6335
+host_cold,1,test,1971,39,803,Mono[2-O-(2-hydroxypropyl)]-β-Cyclodextrin,cyclodextrin,2.9294
+host_cold,1,test,1975,46,236,4-sulfocalix[4]arene sodium salt,calixarene,1.9243
+host_cold,1,test,1976,44,63,"4,7,13,16,21-Pentaoxa-1,10-diazabicyclo[8.8.5]tricosane",other,2.55
+host_cold,1,test,1980,44,13,"4,7,13,16,21-Pentaoxa-1,10-diazabicyclo[8.8.5]tricosane",other,2.0
+host_cold,1,test,1994,66,0,"Acyclic (sodium 3,3'-(1,4-phenylenebis(oxy))bis(propane-1-sulfonate) Cucurbiturils (tetrameric Glycouril units)",cucurbituril,6.9243
+host_cold,1,test,1996,181,523,7-(diethylamino)-2-oxochromene-3-carbaldehyde,other,0.0
+host_cold,1,test,2003,44,229,"4,7,13,16,21-Pentaoxa-1,10-diazabicyclo[8.8.5]tricosane",other,5.3997
+host_cold,1,test,2013,50,535,cucurbit[7]uril-hexaethylene glycol-berberine conjugate,cucurbituril,4.6064
+host_cold,1,test,2019,82,57,p-sulfonatocalix[6]arene-(mono amidomethyl-substituted),calixarene,2.0969
+host_cold,1,test,2020,91,88,"4,7,13,16,21,24-Hexaoxa-1,10-diazabicyclo[8.8.8]hexacosane",other,4.3997
+host_cold,1,test,2024,12,63,[3.3.3]Cryptand,other,0.4997
+host_cold,1,test,2027,102,536,"Cyclobis(paraquat-1,4-phenylene) tetrakis(hexafluorophosphate)",other,3.1903
+host_cold,1,test,2056,59,542,2-[[Methyl[5-[2-oxo-3-formyl-7-(diethylamino)-2H-1-benzopyran-4-yl]pentyl]amino]methyl]phenylboronic acid,other,2.3979
+host_cold,1,test,2078,82,337,p-sulfonatocalix[6]arene-(mono amidomethyl-substituted),calixarene,2.3711
+host_cold,1,test,2098,102,37,"Cyclobis(paraquat-1,4-phenylene) tetrakis(hexafluorophosphate)",other,3.1703
+host_cold,1,test,2108,10,1057,Molecular Tweezer-lithium diphosphate,other,4.2253
+host_cold,1,test,2119,39,532,Mono[2-O-(2-hydroxypropyl)]-β-Cyclodextrin,cyclodextrin,3.4814
+host_cold,1,test,2123,87,1060,Zorb[4]arene,other,3.6721
+host_cold,1,test,2129,21,275,p-sulfonatocalix[4]arene-(bromoamide-substituted),calixarene,6.5051
+host_cold,1,test,2131,46,1062,4-sulfocalix[4]arene sodium salt,calixarene,6.3979
+host_cold,1,test,2142,186,516,1-[5-(carbamoylmethylcarbamoyl)-1h-pyrrole-2-ylcarbonyl]guanidinium,other,2.8325
+host_cold,1,test,2161,82,15,p-sulfonatocalix[6]arene-(mono amidomethyl-substituted),calixarene,3.4007
+host_cold,1,test,2167,188,201,Cucurbit[7]uril,cucurbituril,1.415
+host_cold,1,test,2168,188,775,Cucurbit[7]uril,cucurbituril,2.9004
+host_cold,1,test,2169,188,229,Cucurbit[7]uril,cucurbituril,2.145
+host_cold,1,test,2170,188,1069,Cucurbit[7]uril,cucurbituril,4.4364
+host_cold,1,test,2171,188,344,Cucurbit[7]uril,cucurbituril,10.3944
+host_cold,1,test,2172,188,1070,Cucurbit[7]uril,cucurbituril,5.7482
+host_cold,1,test,2173,188,1071,Cucurbit[7]uril,cucurbituril,6.9489
+host_cold,1,test,2174,188,1072,Cucurbit[7]uril,cucurbituril,5.8129
+host_cold,1,test,2175,188,1073,Cucurbit[7]uril,cucurbituril,7.4432
+host_cold,1,test,2176,188,1074,Cucurbit[7]uril,cucurbituril,6.7993
+host_cold,1,test,2177,188,1075,Cucurbit[7]uril,cucurbituril,4.5991
+host_cold,1,test,2178,188,34,Cucurbit[7]uril,cucurbituril,7.1335
+host_cold,1,test,2179,188,88,Cucurbit[7]uril,cucurbituril,3.1461
+host_cold,1,test,2180,188,252,Cucurbit[7]uril,cucurbituril,5.8976
+host_cold,1,test,2181,188,1076,Cucurbit[7]uril,cucurbituril,5.3617
+host_cold,1,test,2182,188,650,Cucurbit[7]uril,cucurbituril,6.2504
+host_cold,1,test,2183,188,613,Cucurbit[7]uril,cucurbituril,3.2304
+host_cold,1,test,2184,188,313,Cucurbit[7]uril,cucurbituril,8.5048
+host_cold,1,test,2185,188,1077,Cucurbit[7]uril,cucurbituril,7.301
+host_cold,1,test,2186,188,244,Cucurbit[7]uril,cucurbituril,6.5085
+host_cold,1,test,2187,188,800,Cucurbit[7]uril,cucurbituril,7.2798
+host_cold,1,test,2188,188,402,Cucurbit[7]uril,cucurbituril,5.6721
+host_cold,1,test,2189,188,1078,Cucurbit[7]uril,cucurbituril,4.6184
+host_cold,1,test,2190,188,1058,Cucurbit[7]uril,cucurbituril,8.1461
+host_cold,1,test,2191,188,1079,Cucurbit[7]uril,cucurbituril,6.4624
+host_cold,1,test,2192,188,702,Cucurbit[7]uril,cucurbituril,6.5818
+host_cold,1,test,2193,188,507,Cucurbit[7]uril,cucurbituril,3.375
+host_cold,1,test,2194,188,1080,Cucurbit[7]uril,cucurbituril,8.1825
+host_cold,1,test,2195,188,536,Cucurbit[7]uril,cucurbituril,4.8351
+host_cold,1,test,2196,188,372,Cucurbit[7]uril,cucurbituril,6.1761
+host_cold,1,test,2197,188,133,Cucurbit[7]uril,cucurbituril,3.505
+host_cold,1,test,2198,188,208,Cucurbit[7]uril,cucurbituril,6.42
+host_cold,1,test,2199,188,284,Cucurbit[7]uril,cucurbituril,9.3222
+host_cold,1,test,2200,188,1012,Cucurbit[7]uril,cucurbituril,6.7251
+host_cold,1,test,2201,188,944,Cucurbit[7]uril,cucurbituril,3.3743
+host_cold,1,test,2202,188,1081,Cucurbit[7]uril,cucurbituril,6.0414
+host_cold,1,test,2203,188,725,Cucurbit[7]uril,cucurbituril,8.699
+host_cold,1,test,2204,188,1082,Cucurbit[7]uril,cucurbituril,2.301
+host_cold,1,test,2205,188,1083,Cucurbit[7]uril,cucurbituril,8.7243
+host_cold,1,test,2206,188,665,Cucurbit[7]uril,cucurbituril,5.9101
+host_cold,1,test,2207,188,161,Cucurbit[7]uril,cucurbituril,1.6232
+host_cold,1,test,2208,188,598,Cucurbit[7]uril,cucurbituril,8.9705
+host_cold,1,test,2209,188,62,Cucurbit[7]uril,cucurbituril,2.7848
+host_cold,1,test,2210,188,78,Cucurbit[7]uril,cucurbituril,2.3424
+host_cold,1,test,2211,188,1084,Cucurbit[7]uril,cucurbituril,8.415
+host_cold,1,test,2212,188,73,Cucurbit[7]uril,cucurbituril,3.9031
+host_cold,1,test,2213,188,1085,Cucurbit[7]uril,cucurbituril,15.0792
+host_cold,1,test,2214,188,418,Cucurbit[7]uril,cucurbituril,9.4238
+host_cold,1,test,2215,188,178,Cucurbit[7]uril,cucurbituril,2.9395
+host_cold,1,test,2216,188,1086,Cucurbit[7]uril,cucurbituril,6.8808
+host_cold,1,test,2217,188,992,Cucurbit[7]uril,cucurbituril,6.4782
+host_cold,1,test,2218,188,1087,Cucurbit[7]uril,cucurbituril,4.8681
+host_cold,1,test,2219,188,1088,Cucurbit[7]uril,cucurbituril,3.8287
+host_cold,1,test,2220,188,1089,Cucurbit[7]uril,cucurbituril,7.8451
+host_cold,1,test,2221,188,397,Cucurbit[7]uril,cucurbituril,3.0792
+host_cold,1,test,2222,188,1090,Cucurbit[7]uril,cucurbituril,9.0212
+host_cold,1,test,2223,188,899,Cucurbit[7]uril,cucurbituril,14.0
+host_cold,1,test,2224,188,1091,Cucurbit[7]uril,cucurbituril,5.301
+host_cold,1,test,2225,188,1092,Cucurbit[7]uril,cucurbituril,3.0086
+host_cold,1,test,2226,188,897,Cucurbit[7]uril,cucurbituril,2.5378
+host_cold,1,test,2227,188,1093,Cucurbit[7]uril,cucurbituril,3.2826
+host_cold,1,test,2228,188,145,Cucurbit[7]uril,cucurbituril,5.9294
+host_cold,1,test,2229,188,1094,Cucurbit[7]uril,cucurbituril,3.3139
+host_cold,1,test,2230,188,114,Cucurbit[7]uril,cucurbituril,5.0
+host_cold,1,test,2231,188,1095,Cucurbit[7]uril,cucurbituril,4.3173
+host_cold,1,test,2232,188,1096,Cucurbit[7]uril,cucurbituril,9.1614
+host_cold,1,test,2233,188,889,Cucurbit[7]uril,cucurbituril,7.301
+host_cold,1,test,2234,188,462,Cucurbit[7]uril,cucurbituril,5.7756
+host_cold,1,test,2235,188,251,Cucurbit[7]uril,cucurbituril,3.8195
+host_cold,1,test,2236,188,560,Cucurbit[7]uril,cucurbituril,6.6812
+host_cold,1,test,2237,188,1066,Cucurbit[7]uril,cucurbituril,2.8202
+host_cold,1,test,2238,188,162,Cucurbit[7]uril,cucurbituril,4.8751
+host_cold,1,test,2239,188,1097,Cucurbit[7]uril,cucurbituril,6.0
+host_cold,1,test,2240,188,1098,Cucurbit[7]uril,cucurbituril,6.0
+host_cold,1,test,2241,188,260,Cucurbit[7]uril,cucurbituril,5.3617
+host_cold,1,test,2242,188,780,Cucurbit[7]uril,cucurbituril,3.54
+host_cold,1,test,2243,188,1099,Cucurbit[7]uril,cucurbituril,6.7993
+host_cold,1,test,2244,188,1100,Cucurbit[7]uril,cucurbituril,7.1461
+host_cold,1,test,2245,188,294,Cucurbit[7]uril,cucurbituril,4.179
+host_cold,1,test,2246,188,1101,Cucurbit[7]uril,cucurbituril,5.301
+host_cold,1,test,2247,188,540,Cucurbit[7]uril,cucurbituril,14.2304
+host_cold,1,test,2248,188,143,Cucurbit[7]uril,cucurbituril,4.9873
+host_cold,1,test,2249,188,790,Cucurbit[7]uril,cucurbituril,12.0
+host_cold,1,test,2250,188,1102,Cucurbit[7]uril,cucurbituril,3.6628
+host_cold,1,test,2251,188,1103,Cucurbit[7]uril,cucurbituril,3.4472
+host_cold,1,test,2252,188,63,Cucurbit[7]uril,cucurbituril,2.7634
+host_cold,1,test,2253,188,171,Cucurbit[7]uril,cucurbituril,5.6684
+host_cold,1,test,2254,188,66,Cucurbit[7]uril,cucurbituril,5.3546
+host_cold,1,test,2255,188,1104,Cucurbit[7]uril,cucurbituril,6.0969
+host_cold,1,test,2256,188,972,Cucurbit[7]uril,cucurbituril,3.9685
+host_cold,1,test,2257,188,194,Cucurbit[7]uril,cucurbituril,3.4
+host_cold,1,test,2258,188,732,Cucurbit[7]uril,cucurbituril,8.3617
+host_cold,1,test,2259,188,250,Cucurbit[7]uril,cucurbituril,7.0414
+host_cold,1,test,2260,188,714,Cucurbit[7]uril,cucurbituril,5.4472
+host_cold,1,test,2261,188,243,Cucurbit[7]uril,cucurbituril,4.42
+host_cold,1,test,2262,188,380,Cucurbit[7]uril,cucurbituril,3.0
+host_cold,1,test,2263,188,583,Cucurbit[7]uril,cucurbituril,5.6021
+host_cold,1,test,2264,188,141,Cucurbit[7]uril,cucurbituril,5.7709
+host_cold,1,test,2265,188,53,Cucurbit[7]uril,cucurbituril,3.4099
+host_cold,1,test,2266,188,1105,Cucurbit[7]uril,cucurbituril,4.741
+host_cold,1,test,2267,188,770,Cucurbit[7]uril,cucurbituril,4.3911
+host_cold,1,test,2268,188,9,Cucurbit[7]uril,cucurbituril,11.1139
+host_cold,1,test,2269,188,21,Cucurbit[7]uril,cucurbituril,3.6435
+host_cold,1,test,2270,188,1106,Cucurbit[7]uril,cucurbituril,5.7482
+host_cold,1,test,2271,188,1107,Cucurbit[7]uril,cucurbituril,8.4857
+host_cold,1,test,2272,188,1108,Cucurbit[7]uril,cucurbituril,4.2504
+host_cold,1,test,2273,188,115,Cucurbit[7]uril,cucurbituril,1.8513
+host_cold,1,test,2274,188,1109,Cucurbit[7]uril,cucurbituril,5.6628
+host_cold,1,test,2275,188,211,Cucurbit[7]uril,cucurbituril,1.0414
+host_cold,1,test,2276,188,1110,Cucurbit[7]uril,cucurbituril,14.301
+host_cold,1,test,2277,188,985,Cucurbit[7]uril,cucurbituril,4.9138
+host_cold,1,test,2278,188,1111,Cucurbit[7]uril,cucurbituril,5.9031
+host_cold,1,test,2279,188,1112,Cucurbit[7]uril,cucurbituril,4.1461
+host_cold,1,test,2280,188,1113,Cucurbit[7]uril,cucurbituril,5.9287
+host_cold,1,test,2281,188,1114,Cucurbit[7]uril,cucurbituril,6.2788
+host_cold,1,test,2282,188,556,Cucurbit[7]uril,cucurbituril,3.425
+host_cold,1,test,2283,188,1004,Cucurbit[7]uril,cucurbituril,12.3406
+host_cold,1,test,2284,188,532,Cucurbit[7]uril,cucurbituril,4.5302
+host_cold,1,test,2285,188,1115,Cucurbit[7]uril,cucurbituril,5.4771
+host_cold,1,test,2286,188,1116,Cucurbit[7]uril,cucurbituril,4.7987
+host_cold,1,test,2287,188,853,Cucurbit[7]uril,cucurbituril,5.0306
+host_cold,1,test,2288,188,1117,Cucurbit[7]uril,cucurbituril,6.3365
+host_cold,1,test,2289,188,104,Cucurbit[7]uril,cucurbituril,7.1271
+host_cold,1,test,2290,188,1118,Cucurbit[7]uril,cucurbituril,4.4822
+host_cold,1,test,2291,188,154,Cucurbit[7]uril,cucurbituril,2.69
+host_cold,1,test,2292,188,1119,Cucurbit[7]uril,cucurbituril,6.5563
+host_cold,1,test,2293,188,1120,Cucurbit[7]uril,cucurbituril,7.7853
+host_cold,1,test,2294,188,1121,Cucurbit[7]uril,cucurbituril,6.6776
+host_cold,1,test,2295,188,694,Cucurbit[7]uril,cucurbituril,4.2041
+host_cold,1,test,2296,188,1122,Cucurbit[7]uril,cucurbituril,6.2996
+host_cold,1,test,2297,188,103,Cucurbit[7]uril,cucurbituril,5.4024
+host_cold,1,test,2298,188,1123,Cucurbit[7]uril,cucurbituril,4.4362
+host_cold,1,test,2299,188,577,Cucurbit[7]uril,cucurbituril,4.7701
+host_cold,1,test,2300,188,955,Cucurbit[7]uril,cucurbituril,7.2279
+host_cold,1,test,2301,188,1124,Cucurbit[7]uril,cucurbituril,6.9494
+host_cold,1,test,2302,188,91,Cucurbit[7]uril,cucurbituril,12.6232
+host_cold,1,test,2303,188,131,Cucurbit[7]uril,cucurbituril,7.1461
+host_cold,1,test,2304,188,221,Cucurbit[7]uril,cucurbituril,4.5051
+host_cold,1,test,2305,188,1125,Cucurbit[7]uril,cucurbituril,6.7482
+host_cold,1,test,2306,188,1126,Cucurbit[7]uril,cucurbituril,3.7475
+host_cold,1,test,2307,188,1127,Cucurbit[7]uril,cucurbituril,6.5256
+host_cold,1,test,2308,188,363,Cucurbit[7]uril,cucurbituril,6.9191
+host_cold,1,test,2309,188,1128,Cucurbit[7]uril,cucurbituril,3.4914
+host_cold,1,test,2310,188,42,Cucurbit[7]uril,cucurbituril,11.0414
+host_cold,1,test,2311,188,1129,Cucurbit[7]uril,cucurbituril,7.3795
+host_cold,1,test,2312,188,1130,Cucurbit[7]uril,cucurbituril,8.7924
+host_cold,1,test,2313,188,1131,Cucurbit[7]uril,cucurbituril,0.0
+host_cold,1,test,2314,188,634,Cucurbit[7]uril,cucurbituril,5.2742
+host_cold,1,test,2315,188,768,Cucurbit[7]uril,cucurbituril,4.699
+host_cold,1,test,2316,188,504,Cucurbit[7]uril,cucurbituril,6.5441
+host_cold,1,test,2317,188,1132,Cucurbit[7]uril,cucurbituril,5.3617
+host_cold,1,test,2318,188,335,Cucurbit[7]uril,cucurbituril,2.3404
+host_cold,1,test,2319,188,438,Cucurbit[7]uril,cucurbituril,1.9443
+host_cold,1,test,2320,188,1133,Cucurbit[7]uril,cucurbituril,6.4771
+host_cold,1,test,2321,188,419,Cucurbit[7]uril,cucurbituril,6.7404
+host_cold,1,test,2322,188,256,Cucurbit[7]uril,cucurbituril,4.79
+host_cold,1,test,2323,188,268,Cucurbit[7]uril,cucurbituril,2.8926
+host_cold,1,test,2324,188,14,Cucurbit[7]uril,cucurbituril,9.5185
+host_cold,1,test,2325,188,890,Cucurbit[7]uril,cucurbituril,12.6075
+host_cold,1,test,2326,188,191,Cucurbit[7]uril,cucurbituril,4.5499
+host_cold,1,test,2327,188,470,Cucurbit[7]uril,cucurbituril,2.13
+host_cold,1,test,2328,188,859,Cucurbit[7]uril,cucurbituril,4.2304
+host_cold,1,test,2329,188,184,Cucurbit[7]uril,cucurbituril,3.1139
+host_cold,1,test,2330,188,1134,Cucurbit[7]uril,cucurbituril,11.2304
+host_cold,1,test,2331,188,1135,Cucurbit[7]uril,cucurbituril,3.4314
+host_cold,1,test,2332,188,2,Cucurbit[7]uril,cucurbituril,4.1295
+host_cold,1,test,2333,188,401,Cucurbit[7]uril,cucurbituril,3.24
+host_cold,1,test,2334,188,811,Cucurbit[7]uril,cucurbituril,6.8062
+host_cold,1,test,2335,188,1136,Cucurbit[7]uril,cucurbituril,5.0414
+host_cold,1,test,2336,188,1137,Cucurbit[7]uril,cucurbituril,4.3495
+host_cold,1,test,2337,188,1138,Cucurbit[7]uril,cucurbituril,5.3598
+host_cold,1,test,2338,188,1139,Cucurbit[7]uril,cucurbituril,14.8899
+host_cold,1,test,2339,188,360,Cucurbit[7]uril,cucurbituril,6.2788
+host_cold,1,test,2340,188,22,Cucurbit[7]uril,cucurbituril,4.2405
+host_cold,1,test,2341,188,675,Cucurbit[7]uril,cucurbituril,2.49
+host_cold,1,test,2342,188,1140,Cucurbit[7]uril,cucurbituril,5.9031
+host_cold,1,test,2343,188,1141,Cucurbit[7]uril,cucurbituril,10.0792
+host_cold,1,test,2344,188,688,Cucurbit[7]uril,cucurbituril,6.2788
+host_cold,1,test,2345,188,1142,Cucurbit[7]uril,cucurbituril,5.6128
+host_cold,1,test,2346,188,1143,Cucurbit[7]uril,cucurbituril,3.301
+host_cold,1,test,2347,188,1144,Cucurbit[7]uril,cucurbituril,5.6021
+host_cold,1,test,2348,188,13,Cucurbit[7]uril,cucurbituril,2.8388
+host_cold,1,test,2349,188,1145,Cucurbit[7]uril,cucurbituril,6.7993
+host_cold,1,test,2350,188,1146,Cucurbit[7]uril,cucurbituril,2.4472
+host_cold,1,test,2351,188,1147,Cucurbit[7]uril,cucurbituril,3.4587
+host_cold,1,test,2352,188,828,Cucurbit[7]uril,cucurbituril,9.3222
+host_cold,1,test,2353,188,870,Cucurbit[7]uril,cucurbituril,7.0792
+host_cold,1,test,2354,188,1148,Cucurbit[7]uril,cucurbituril,4.8129
+host_cold,1,test,2355,188,329,Cucurbit[7]uril,cucurbituril,3.0
+host_cold,1,test,2356,188,678,Cucurbit[7]uril,cucurbituril,5.2732
+host_cold,1,test,2357,188,712,Cucurbit[7]uril,cucurbituril,8.8299
+host_cold,1,test,2358,188,839,Cucurbit[7]uril,cucurbituril,6.2553
+host_cold,1,test,2359,188,1149,Cucurbit[7]uril,cucurbituril,9.7853
+host_cold,1,test,2360,188,1150,Cucurbit[7]uril,cucurbituril,9.0253
+host_cold,1,test,2361,188,1151,Cucurbit[7]uril,cucurbituril,7.4771
+host_cold,1,test,2362,188,174,Cucurbit[7]uril,cucurbituril,5.5709
+host_cold,1,test,2363,188,805,Cucurbit[7]uril,cucurbituril,6.6335
+host_cold,1,test,2364,188,1152,Cucurbit[7]uril,cucurbituril,6.6021
+host_cold,1,test,2365,188,1153,Cucurbit[7]uril,cucurbituril,5.8062
+host_cold,1,test,2366,188,625,Cucurbit[7]uril,cucurbituril,3.5
+host_cold,1,test,2367,188,1154,Cucurbit[7]uril,cucurbituril,7.0253
+host_cold,1,test,2368,188,1155,Cucurbit[7]uril,cucurbituril,5.9031
+host_cold,1,test,2369,188,558,Cucurbit[7]uril,cucurbituril,2.7782
+host_cold,1,test,2370,188,1156,Cucurbit[7]uril,cucurbituril,6.2923
+host_cold,1,test,2371,188,452,Cucurbit[7]uril,cucurbituril,3.0
+host_cold,1,test,2372,188,1157,Cucurbit[7]uril,cucurbituril,10.5911
+host_cold,1,test,2373,188,1158,Cucurbit[7]uril,cucurbituril,2.9294
+host_cold,1,test,2374,188,1159,Cucurbit[7]uril,cucurbituril,7.6348
+host_cold,1,test,2375,188,537,Cucurbit[7]uril,cucurbituril,7.2788
+host_cold,1,test,2376,188,1160,Cucurbit[7]uril,cucurbituril,5.2553
+host_cold,1,test,2377,188,503,Cucurbit[7]uril,cucurbituril,3.75
+host_cold,1,test,2378,188,567,Cucurbit[7]uril,cucurbituril,7.1461
+host_cold,1,test,2379,188,1161,Cucurbit[7]uril,cucurbituril,3.9823
+host_cold,1,test,2380,188,1162,Cucurbit[7]uril,cucurbituril,6.8261
+host_cold,1,test,2381,188,1163,Cucurbit[7]uril,cucurbituril,6.8808
+host_cold,1,test,2382,188,548,Cucurbit[7]uril,cucurbituril,6.0792
+host_cold,2,test,4,3,4,β-Cyclodextrin,cyclodextrin,3.4642
+host_cold,2,test,5,4,5,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-trimethylbenzene",other,1.9138
+host_cold,2,test,6,5,6,tetra-endo-ethyl octa acid,other,2.4352
+host_cold,2,test,19,3,19,β-Cyclodextrin,cyclodextrin,4.7007
+host_cold,2,test,20,3,20,β-Cyclodextrin,cyclodextrin,4.901
+host_cold,2,test,23,18,23,tetra-endo-methyl octa acid cavitand,cavitand,1.1461
+host_cold,2,test,24,3,24,β-Cyclodextrin,cyclodextrin,1.9777
+host_cold,2,test,28,18,28,tetra-endo-methyl octa acid cavitand,cavitand,1.9331
+host_cold,2,test,29,22,29,p-Sulfonatothiacalix[4]arene,calixarene,2.1959
+host_cold,2,test,30,23,30,α-Cyclodextrin,cyclodextrin,2.8014
+host_cold,2,test,32,3,32,β-Cyclodextrin,cyclodextrin,1.822
+host_cold,2,test,36,3,36,β-Cyclodextrin,cyclodextrin,2.8698
+host_cold,2,test,37,26,37,"5-[4-[2-(dihydroxyboryl)benzylaminomethyl]benzoylamino]-1,3-xylylenebis(phosphonic acid lithium methyl) ester salt",other,2.2634
+host_cold,2,test,41,23,41,α-Cyclodextrin,cyclodextrin,2.1111
+host_cold,2,test,42,3,42,β-Cyclodextrin,cyclodextrin,3.9367
+host_cold,2,test,47,23,46,α-Cyclodextrin,cyclodextrin,1.301
+host_cold,2,test,51,31,50,5-[4-(2-dihydroxyboryl-benzylamino)-butyroylamino]-m-xylylene bisphosphonic acid dimethyl ester dilithium salt,other,2.1718
+host_cold,2,test,61,36,59,Dicyclohexano-18-Crown-6,crown_ether,2.35
+host_cold,2,test,63,3,61,β-Cyclodextrin,cyclodextrin,3.6094
+host_cold,2,test,69,3,67,β-Cyclodextrin,cyclodextrin,3.4563
+host_cold,2,test,74,42,72,p-sulfonatocalix[4]arene-(mono amidomethyl-substituted),calixarene,2.3181
+host_cold,2,test,76,23,74,α-Cyclodextrin,cyclodextrin,2.1597
+host_cold,2,test,77,23,75,α-Cyclodextrin,cyclodextrin,2.3651
+host_cold,2,test,78,43,76,"4,7,13,18-Tetraoxa-1,10-diazabicyclo[8.5.5]icosane",other,2.0
+host_cold,2,test,85,47,82,Dodecakis(3‐carboxypropyl)bambus[6]uril,other,2.4682
+host_cold,2,test,87,3,84,β-Cyclodextrin,cyclodextrin,1.8022
+host_cold,2,test,88,3,85,β-Cyclodextrin,cyclodextrin,2.0715
+host_cold,2,test,92,36,88,Dicyclohexano-18-Crown-6,crown_ether,0.3997
+host_cold,2,test,98,3,94,β-Cyclodextrin,cyclodextrin,2.4786
+host_cold,2,test,106,18,99,tetra-endo-methyl octa acid cavitand,cavitand,1.8588
+host_cold,2,test,108,3,101,β-Cyclodextrin,cyclodextrin,1.0755
+host_cold,2,test,110,3,66,β-Cyclodextrin,cyclodextrin,3.7298
+host_cold,2,test,111,36,13,Dicyclohexano-18-Crown-6,crown_ether,1.2
+host_cold,2,test,115,23,106,α-Cyclodextrin,cyclodextrin,5.611
+host_cold,2,test,122,3,111,β-Cyclodextrin,cyclodextrin,5.0294
+host_cold,2,test,123,57,102,Molecular Tweezer-Sodium disulfonate,other,4.6769
+host_cold,2,test,129,22,79,p-Sulfonatothiacalix[4]arene,calixarene,2.1523
+host_cold,2,test,130,43,115,"4,7,13,18-Tetraoxa-1,10-diazabicyclo[8.5.5]icosane",other,2.0
+host_cold,2,test,132,23,117,α-Cyclodextrin,cyclodextrin,3.389
+host_cold,2,test,134,3,34,β-Cyclodextrin,cyclodextrin,5.0338
+host_cold,2,test,137,3,121,β-Cyclodextrin,cyclodextrin,5.0547
+host_cold,2,test,141,61,92,homoditopic doubly ethyl-bridged bis(p-sulfonatocalix[4]arene),calixarene,6.5551
+host_cold,2,test,142,4,114,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-trimethylbenzene",other,2.2068
+host_cold,2,test,143,3,125,β-Cyclodextrin,cyclodextrin,1.1461
+host_cold,2,test,144,42,126,p-sulfonatocalix[4]arene-(mono amidomethyl-substituted),calixarene,2.6928
+host_cold,2,test,161,65,140,carboxylate pillar[5]arene,pillararene,5.1818
+host_cold,2,test,166,23,144,α-Cyclodextrin,cyclodextrin,3.3758
+host_cold,2,test,176,68,27,p-sulfonatocalix[4]arene-(carboxysulfonamide-substituted),calixarene,6.7243
+host_cold,2,test,180,23,99,α-Cyclodextrin,cyclodextrin,1.1324
+host_cold,2,test,193,3,168,β-Cyclodextrin,cyclodextrin,2.0607
+host_cold,2,test,195,73,109,p-Sulfonatocalix[5]arene,calixarene,3.0086
+host_cold,2,test,197,31,171,5-[4-(2-dihydroxyboryl-benzylamino)-butyroylamino]-m-xylylene bisphosphonic acid dimethyl ester dilithium salt,other,2.3453
+host_cold,2,test,198,4,172,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-trimethylbenzene",other,1.0
+host_cold,2,test,199,18,173,tetra-endo-methyl octa acid cavitand,cavitand,4.9921
+host_cold,2,test,203,3,177,β-Cyclodextrin,cyclodextrin,4.6767
+host_cold,2,test,207,3,180,β-Cyclodextrin,cyclodextrin,2.4548
+host_cold,2,test,215,23,187,α-Cyclodextrin,cyclodextrin,1.8998
+host_cold,2,test,219,3,190,β-Cyclodextrin,cyclodextrin,3.7097
+host_cold,2,test,228,3,197,β-Cyclodextrin,cyclodextrin,2.5786
+host_cold,2,test,229,78,198,permethylated β-cyclodextrin,cyclodextrin,2.8887
+host_cold,2,test,233,3,193,β-Cyclodextrin,cyclodextrin,3.6086
+host_cold,2,test,235,3,202,β-Cyclodextrin,cyclodextrin,2.1206
+host_cold,2,test,237,3,204,β-Cyclodextrin,cyclodextrin,2.3979
+host_cold,2,test,239,3,180,β-Cyclodextrin,cyclodextrin,2.4857
+host_cold,2,test,257,23,125,α-Cyclodextrin,cyclodextrin,1.4814
+host_cold,2,test,262,3,54,β-Cyclodextrin,cyclodextrin,4.4409
+host_cold,2,test,263,3,219,β-Cyclodextrin,cyclodextrin,2.316
+host_cold,2,test,269,78,224,permethylated β-cyclodextrin,cyclodextrin,1.7853
+host_cold,2,test,271,84,226,p-sulfonatocalix[4]arene-(tetrakis(hexyloxy) substitued),calixarene,4.4314
+host_cold,2,test,274,23,154,α-Cyclodextrin,cyclodextrin,3.1599
+host_cold,2,test,280,3,232,β-Cyclodextrin,cyclodextrin,3.3783
+host_cold,2,test,281,23,233,α-Cyclodextrin,cyclodextrin,1.0969
+host_cold,2,test,284,22,236,p-Sulfonatothiacalix[4]arene,calixarene,1.7559
+host_cold,2,test,292,3,241,β-Cyclodextrin,cyclodextrin,2.0374
+host_cold,2,test,299,3,245,β-Cyclodextrin,cyclodextrin,1.9445
+host_cold,2,test,300,3,103,β-Cyclodextrin,cyclodextrin,2.7482
+host_cold,2,test,302,65,246,carboxylate pillar[5]arene,pillararene,7.5502
+host_cold,2,test,306,89,250,sulfobutylether7-β-cyclodextrin,cyclodextrin,5.1461
+host_cold,2,test,308,42,215,p-sulfonatocalix[4]arene-(mono amidomethyl-substituted),calixarene,2.0086
+host_cold,2,test,314,3,95,β-Cyclodextrin,cyclodextrin,3.3791
+host_cold,2,test,317,3,256,β-Cyclodextrin,cyclodextrin,2.0
+host_cold,2,test,326,23,264,α-Cyclodextrin,cyclodextrin,2.6365
+host_cold,2,test,336,73,270,p-Sulfonatocalix[5]arene,calixarene,4.7568
+host_cold,2,test,341,3,274,β-Cyclodextrin,cyclodextrin,1.8388
+host_cold,2,test,343,68,275,p-sulfonatocalix[4]arene-(carboxysulfonamide-substituted),calixarene,7.7903
+host_cold,2,test,344,22,276,p-Sulfonatothiacalix[4]arene,calixarene,4.1434
+host_cold,2,test,345,3,277,β-Cyclodextrin,cyclodextrin,2.8116
+host_cold,2,test,347,23,279,α-Cyclodextrin,cyclodextrin,2.0141
+host_cold,2,test,350,73,151,p-Sulfonatocalix[5]arene,calixarene,4.1987
+host_cold,2,test,358,96,284,Cucurbit[7]uril-tetramethylrhodamine conjugate,cucurbituril,7.3365
+host_cold,2,test,360,3,285,β-Cyclodextrin,cyclodextrin,3.1038
+host_cold,2,test,366,3,279,β-Cyclodextrin,cyclodextrin,2.568
+host_cold,2,test,371,3,291,β-Cyclodextrin,cyclodextrin,2.4352
+host_cold,2,test,377,3,296,β-Cyclodextrin,cyclodextrin,1.1038
+host_cold,2,test,389,65,305,carboxylate pillar[5]arene,pillararene,7.0531
+host_cold,2,test,393,3,308,β-Cyclodextrin,cyclodextrin,1.5798
+host_cold,2,test,394,89,91,sulfobutylether7-β-cyclodextrin,cyclodextrin,4.0719
+host_cold,2,test,402,3,315,β-Cyclodextrin,cyclodextrin,2.0682
+host_cold,2,test,407,22,31,p-Sulfonatothiacalix[4]arene,calixarene,1.3222
+host_cold,2,test,409,3,317,β-Cyclodextrin,cyclodextrin,1.9294
+host_cold,2,test,412,3,319,β-Cyclodextrin,cyclodextrin,4.247
+host_cold,2,test,413,36,320,Dicyclohexano-18-Crown-6,crown_ether,1.6
+host_cold,2,test,416,3,322,β-Cyclodextrin,cyclodextrin,2.5933
+host_cold,2,test,418,3,323,β-Cyclodextrin,cyclodextrin,2.1492
+host_cold,2,test,426,3,232,β-Cyclodextrin,cyclodextrin,3.4029
+host_cold,2,test,427,89,120,sulfobutylether7-β-cyclodextrin,cyclodextrin,3.3883
+host_cold,2,test,431,18,331,tetra-endo-methyl octa acid cavitand,cavitand,1.3703
+host_cold,2,test,435,23,334,α-Cyclodextrin,cyclodextrin,3.1801
+host_cold,2,test,438,3,187,β-Cyclodextrin,cyclodextrin,4.2021
+host_cold,2,test,441,73,286,p-Sulfonatocalix[5]arene,calixarene,4.1553
+host_cold,2,test,443,23,155,α-Cyclodextrin,cyclodextrin,2.4014
+host_cold,2,test,449,3,342,β-Cyclodextrin,cyclodextrin,2.3424
+host_cold,2,test,455,23,262,α-Cyclodextrin,cyclodextrin,1.5933
+host_cold,2,test,456,3,84,β-Cyclodextrin,cyclodextrin,1.8384
+host_cold,2,test,457,78,347,permethylated β-cyclodextrin,cyclodextrin,2.3579
+host_cold,2,test,460,101,350,"Acyclic sodium 3,3'-(naphthalene-1,4-diylbis(oxy))bis(propane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,5.2304
+host_cold,2,test,471,73,236,p-Sulfonatocalix[5]arene,calixarene,3.086
+host_cold,2,test,478,3,315,β-Cyclodextrin,cyclodextrin,2.0607
+host_cold,2,test,483,3,367,β-Cyclodextrin,cyclodextrin,2.8457
+host_cold,2,test,485,3,322,β-Cyclodextrin,cyclodextrin,2.5647
+host_cold,2,test,489,3,371,β-Cyclodextrin,cyclodextrin,3.9294
+host_cold,2,test,492,3,373,β-Cyclodextrin,cyclodextrin,3.1492
+host_cold,2,test,497,106,376,"5,11,17,23-Tetrakis-(hydroxymethoxyphosphoryl)- 25,26,27,28-tetrapropoxycalix[4]arene Tetralithium Salt",calixarene,1.0
+host_cold,2,test,501,107,380,"5,11,17,23- tetrakis[(p-carboxyphenyl)azo]-25,26,27,28-tetra-hydroxy calix[4]arene",calixarene,7.1461
+host_cold,2,test,505,42,15,p-sulfonatocalix[4]arene-(mono amidomethyl-substituted),calixarene,3.3522
+host_cold,2,test,506,47,383,Dodecakis(3‐carboxypropyl)bambus[6]uril,other,4.5619
+host_cold,2,test,521,26,22,"5-[4-[2-(dihydroxyboryl)benzylaminomethyl]benzoylamino]-1,3-xylylenebis(phosphonic acid lithium methyl) ester salt",other,2.2325
+host_cold,2,test,523,65,130,carboxylate pillar[5]arene,pillararene,6.0414
+host_cold,2,test,524,3,323,β-Cyclodextrin,cyclodextrin,2.243
+host_cold,2,test,528,3,395,β-Cyclodextrin,cyclodextrin,2.1673
+host_cold,2,test,533,3,184,β-Cyclodextrin,cyclodextrin,1.7324
+host_cold,2,test,537,73,400,p-Sulfonatocalix[5]arene,calixarene,3.2286
+host_cold,2,test,542,3,404,β-Cyclodextrin,cyclodextrin,1.3489
+host_cold,2,test,544,4,50,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-trimethylbenzene",other,1.0
+host_cold,2,test,545,18,157,tetra-endo-methyl octa acid cavitand,cavitand,4.1819
+host_cold,2,test,546,3,405,β-Cyclodextrin,cyclodextrin,3.7491
+host_cold,2,test,550,3,408,β-Cyclodextrin,cyclodextrin,1.5315
+host_cold,2,test,551,3,409,β-Cyclodextrin,cyclodextrin,2.1959
+host_cold,2,test,553,18,411,tetra-endo-methyl octa acid cavitand,cavitand,4.2839
+host_cold,2,test,555,3,412,β-Cyclodextrin,cyclodextrin,1.7924
+host_cold,2,test,559,3,120,β-Cyclodextrin,cyclodextrin,2.7289
+host_cold,2,test,563,3,413,β-Cyclodextrin,cyclodextrin,2.5302
+host_cold,2,test,574,73,421,p-Sulfonatocalix[5]arene,calixarene,2.6934
+host_cold,2,test,584,4,427,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-trimethylbenzene",other,1.0
+host_cold,2,test,593,3,435,β-Cyclodextrin,cyclodextrin,3.1649
+host_cold,2,test,594,3,436,β-Cyclodextrin,cyclodextrin,2.6075
+host_cold,2,test,600,23,23,α-Cyclodextrin,cyclodextrin,1.1901
+host_cold,2,test,604,3,441,β-Cyclodextrin,cyclodextrin,2.9356
+host_cold,2,test,607,89,442,sulfobutylether7-β-cyclodextrin,cyclodextrin,3.7027
+host_cold,2,test,612,121,275,"p-sulfonatocalix[4]arene-(2,4-dicarboxysulfonamide-substituted)",calixarene,5.7993
+host_cold,2,test,618,3,375,β-Cyclodextrin,cyclodextrin,1.0338
+host_cold,2,test,622,3,453,β-Cyclodextrin,cyclodextrin,2.0212
+host_cold,2,test,628,3,155,β-Cyclodextrin,cyclodextrin,2.9556
+host_cold,2,test,631,122,456,bisurea-receptor-OMe,other,3.4857
+host_cold,2,test,633,22,457,p-Sulfonatothiacalix[4]arene,calixarene,2.5391
+host_cold,2,test,635,73,384,p-Sulfonatocalix[5]arene,calixarene,2.5121
+host_cold,2,test,639,73,369,p-Sulfonatocalix[5]arene,calixarene,1.7649
+host_cold,2,test,647,3,466,β-Cyclodextrin,cyclodextrin,2.1523
+host_cold,2,test,648,42,337,p-sulfonatocalix[4]arene-(mono amidomethyl-substituted),calixarene,2.7324
+host_cold,2,test,649,3,467,β-Cyclodextrin,cyclodextrin,2.27
+host_cold,2,test,650,18,237,tetra-endo-methyl octa acid cavitand,cavitand,3.925
+host_cold,2,test,652,3,375,β-Cyclodextrin,cyclodextrin,0.9461
+host_cold,2,test,668,125,90,Dimetoxixylyleneglycoluril tetramer,other,5.7404
+host_cold,2,test,669,73,475,p-Sulfonatocalix[5]arene,calixarene,4.8921
+host_cold,2,test,671,84,476,p-sulfonatocalix[4]arene-(tetrakis(hexyloxy) substitued),calixarene,7.2443
+host_cold,2,test,672,3,280,β-Cyclodextrin,cyclodextrin,5.6046
+host_cold,2,test,674,68,231,p-sulfonatocalix[4]arene-(carboxysulfonamide-substituted),calixarene,3.4624
+host_cold,2,test,685,73,178,p-Sulfonatocalix[5]arene,calixarene,2.8457
+host_cold,2,test,706,36,499,Dicyclohexano-18-Crown-6,crown_ether,2.45
+host_cold,2,test,709,3,500,β-Cyclodextrin,cyclodextrin,4.9777
+host_cold,2,test,722,57,189,Molecular Tweezer-Sodium disulfonate,other,4.0613
+host_cold,2,test,726,36,21,Dicyclohexano-18-Crown-6,crown_ether,3.24
+host_cold,2,test,739,101,514,"Acyclic sodium 3,3'-(naphthalene-1,4-diylbis(oxy))bis(propane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,3.0414
+host_cold,2,test,743,131,516,1-[5-(ethylcarbamoyl)-1H-pyrrole-2-ylcarbonyl]guanidinium,other,2.8865
+host_cold,2,test,747,3,519,β-Cyclodextrin,cyclodextrin,2.2355
+host_cold,2,test,757,36,76,Dicyclohexano-18-Crown-6,crown_ether,3.6
+host_cold,2,test,758,23,525,α-Cyclodextrin,cyclodextrin,2.42
+host_cold,2,test,761,3,526,β-Cyclodextrin,cyclodextrin,3.3418
+host_cold,2,test,766,3,296,β-Cyclodextrin,cyclodextrin,1.233
+host_cold,2,test,774,3,532,β-Cyclodextrin,cyclodextrin,3.4741
+host_cold,2,test,778,125,212,Dimetoxixylyleneglycoluril tetramer,other,3.4624
+host_cold,2,test,779,3,534,β-Cyclodextrin,cyclodextrin,2.1072
+host_cold,2,test,780,3,317,β-Cyclodextrin,cyclodextrin,1.9345
+host_cold,2,test,792,23,288,α-Cyclodextrin,cyclodextrin,2.4499
+host_cold,2,test,795,3,344,β-Cyclodextrin,cyclodextrin,4.6791
+host_cold,2,test,805,73,104,p-Sulfonatocalix[5]arene,calixarene,1.3945
+host_cold,2,test,806,4,351,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-trimethylbenzene",other,1.8261
+host_cold,2,test,810,3,552,β-Cyclodextrin,cyclodextrin,3.3424
+host_cold,2,test,813,3,198,β-Cyclodextrin,cyclodextrin,3.6852
+host_cold,2,test,817,3,262,β-Cyclodextrin,cyclodextrin,2.4365
+host_cold,2,test,819,23,558,α-Cyclodextrin,cyclodextrin,1.301
+host_cold,2,test,833,78,413,permethylated β-cyclodextrin,cyclodextrin,3.2982
+host_cold,2,test,834,23,566,α-Cyclodextrin,cyclodextrin,1.9025
+host_cold,2,test,835,3,104,β-Cyclodextrin,cyclodextrin,2.992
+host_cold,2,test,844,141,372,Calixarene,calixarene,7.301
+host_cold,2,test,846,65,571,carboxylate pillar[5]arene,pillararene,7.6513
+host_cold,2,test,847,23,572,α-Cyclodextrin,cyclodextrin,3.2101
+host_cold,2,test,848,3,573,β-Cyclodextrin,cyclodextrin,3.5153
+host_cold,2,test,858,3,418,β-Cyclodextrin,cyclodextrin,3.9874
+host_cold,2,test,860,106,581,"5,11,17,23-Tetrakis-(hydroxymethoxyphosphoryl)- 25,26,27,28-tetrapropoxycalix[4]arene Tetralithium Salt",calixarene,1.6532
+host_cold,2,test,864,23,104,α-Cyclodextrin,cyclodextrin,1.699
+host_cold,2,test,867,3,497,β-Cyclodextrin,cyclodextrin,2.382
+host_cold,2,test,870,73,587,p-Sulfonatocalix[5]arene,calixarene,3.74
+host_cold,2,test,880,22,485,p-Sulfonatothiacalix[4]arene,calixarene,2.3655
+host_cold,2,test,882,145,0,Sugammadex,other,7.0212
+host_cold,2,test,885,3,597,β-Cyclodextrin,cyclodextrin,3.8035
+host_cold,2,test,886,65,181,carboxylate pillar[5]arene,pillararene,7.3243
+host_cold,2,test,888,122,406,bisurea-receptor-OMe,other,3.6749
+host_cold,2,test,891,57,11,Molecular Tweezer-Sodium disulfonate,other,4.4183
+host_cold,2,test,899,106,604,"5,11,17,23-Tetrakis-(hydroxymethoxyphosphoryl)- 25,26,27,28-tetrapropoxycalix[4]arene Tetralithium Salt",calixarene,1.0
+host_cold,2,test,901,42,56,p-sulfonatocalix[4]arene-(mono amidomethyl-substituted),calixarene,2.4378
+host_cold,2,test,904,141,178,Calixarene,calixarene,2.4771
+host_cold,2,test,916,23,612,α-Cyclodextrin,cyclodextrin,1.2355
+host_cold,2,test,919,3,615,β-Cyclodextrin,cyclodextrin,1.2788
+host_cold,2,test,920,3,616,β-Cyclodextrin,cyclodextrin,3.0095
+host_cold,2,test,924,36,63,Dicyclohexano-18-Crown-6,crown_ether,1.5
+host_cold,2,test,940,96,92,Cucurbit[7]uril-tetramethylrhodamine conjugate,cucurbituril,6.7959
+host_cold,2,test,942,23,139,α-Cyclodextrin,cyclodextrin,1.7519
+host_cold,2,test,949,3,628,β-Cyclodextrin,cyclodextrin,2.7619
+host_cold,2,test,951,3,629,β-Cyclodextrin,cyclodextrin,2.6335
+host_cold,2,test,961,18,281,tetra-endo-methyl octa acid cavitand,cavitand,4.3446
+host_cold,2,test,983,96,355,Cucurbit[7]uril-tetramethylrhodamine conjugate,cucurbituril,9.1875
+host_cold,2,test,987,42,18,p-sulfonatocalix[4]arene-(mono amidomethyl-substituted),calixarene,2.3243
+host_cold,2,test,988,3,250,β-Cyclodextrin,cyclodextrin,2.1139
+host_cold,2,test,997,18,444,tetra-endo-methyl octa acid cavitand,cavitand,4.3802
+host_cold,2,test,1003,42,523,p-sulfonatocalix[4]arene-(mono amidomethyl-substituted),calixarene,1.4771
+host_cold,2,test,1005,73,451,p-Sulfonatocalix[5]arene,calixarene,6.7709
+host_cold,2,test,1009,3,660,β-Cyclodextrin,cyclodextrin,2.6637
+host_cold,2,test,1021,23,103,α-Cyclodextrin,cyclodextrin,2.716
+host_cold,2,test,1023,73,92,p-Sulfonatocalix[5]arene,calixarene,5.3997
+host_cold,2,test,1024,23,666,α-Cyclodextrin,cyclodextrin,0.9031
+host_cold,2,test,1029,151,88,Uramildiacetic acid,other,8.3096
+host_cold,2,test,1031,3,669,β-Cyclodextrin,cyclodextrin,1.7344
+host_cold,2,test,1034,31,37,5-[4-(2-dihydroxyboryl-benzylamino)-butyroylamino]-m-xylylene bisphosphonic acid dimethyl ester dilithium salt,other,2.3997
+host_cold,2,test,1035,3,41,β-Cyclodextrin,cyclodextrin,4.0006
+host_cold,2,test,1039,43,201,"4,7,13,18-Tetraoxa-1,10-diazabicyclo[8.5.5]icosane",other,5.4997
+host_cold,2,test,1044,3,91,β-Cyclodextrin,cyclodextrin,3.9867
+host_cold,2,test,1051,3,677,β-Cyclodextrin,cyclodextrin,1.0792
+host_cold,2,test,1052,23,678,α-Cyclodextrin,cyclodextrin,2.4914
+host_cold,2,test,1056,23,500,α-Cyclodextrin,cyclodextrin,2.4472
+host_cold,2,test,1059,122,175,bisurea-receptor-OMe,other,2.2304
+host_cold,2,test,1068,65,546,carboxylate pillar[5]arene,pillararene,6.8156
+host_cold,2,test,1083,18,484,tetra-endo-methyl octa acid cavitand,cavitand,4.1072
+host_cold,2,test,1085,141,109,Calixarene,calixarene,2.5441
+host_cold,2,test,1091,23,215,α-Cyclodextrin,cyclodextrin,3.05
+host_cold,2,test,1096,3,629,β-Cyclodextrin,cyclodextrin,2.618
+host_cold,2,test,1100,22,325,p-Sulfonatothiacalix[4]arene,calixarene,2.4691
+host_cold,2,test,1104,18,700,tetra-endo-methyl octa acid cavitand,cavitand,3.96
+host_cold,2,test,1109,42,178,p-sulfonatocalix[4]arene-(mono amidomethyl-substituted),calixarene,2.7619
+host_cold,2,test,1112,23,477,α-Cyclodextrin,cyclodextrin,2.4099
+host_cold,2,test,1120,18,428,tetra-endo-methyl octa acid cavitand,cavitand,3.1474
+host_cold,2,test,1125,18,710,tetra-endo-methyl octa acid cavitand,cavitand,5.6532
+host_cold,2,test,1131,18,459,tetra-endo-methyl octa acid cavitand,cavitand,2.8627
+host_cold,2,test,1132,151,161,Uramildiacetic acid,other,8.1903
+host_cold,2,test,1138,31,37,5-[4-(2-dihydroxyboryl-benzylamino)-butyroylamino]-m-xylylene bisphosphonic acid dimethyl ester dilithium salt,other,2.525
+host_cold,2,test,1140,157,516,1-(1H-hyrrole-2-ylcarbonyl)guanidinium,other,2.1139
+host_cold,2,test,1143,3,716,β-Cyclodextrin,cyclodextrin,1.8293
+host_cold,2,test,1147,158,175,Pseudocyclopeptide iodide,other,2.15
+host_cold,2,test,1148,3,165,β-Cyclodextrin,cyclodextrin,0.9031
+host_cold,2,test,1150,73,718,p-Sulfonatocalix[5]arene,calixarene,3.3581
+host_cold,2,test,1156,3,291,β-Cyclodextrin,cyclodextrin,2.4176
+host_cold,2,test,1159,3,677,β-Cyclodextrin,cyclodextrin,1.0426
+host_cold,2,test,1160,73,547,p-Sulfonatocalix[5]arene,calixarene,5.4048
+host_cold,2,test,1164,159,476,p-sulfonatocalix[6]arene-(hexakis(hexyloxy) substituted),calixarene,5.7576
+host_cold,2,test,1168,26,50,"5-[4-[2-(dihydroxyboryl)benzylaminomethyl]benzoylamino]-1,3-xylylenebis(phosphonic acid lithium methyl) ester salt",other,1.7094
+host_cold,2,test,1173,121,27,"p-sulfonatocalix[4]arene-(2,4-dicarboxysulfonamide-substituted)",calixarene,6.301
+host_cold,2,test,1176,22,384,p-Sulfonatothiacalix[4]arene,calixarene,2.4638
+host_cold,2,test,1178,3,730,β-Cyclodextrin,cyclodextrin,2.3692
+host_cold,2,test,1179,3,731,β-Cyclodextrin,cyclodextrin,3.3811
+host_cold,2,test,1182,3,678,β-Cyclodextrin,cyclodextrin,3.4314
+host_cold,2,test,1189,65,419,carboxylate pillar[5]arene,pillararene,6.1399
+host_cold,2,test,1199,23,741,α-Cyclodextrin,cyclodextrin,2.6425
+host_cold,2,test,1200,18,717,tetra-endo-methyl octa acid cavitand,cavitand,3.2856
+host_cold,2,test,1219,106,351,"5,11,17,23-Tetrakis-(hydroxymethoxyphosphoryl)- 25,26,27,28-tetrapropoxycalix[4]arene Tetralithium Salt",calixarene,1.6532
+host_cold,2,test,1222,4,376,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-trimethylbenzene",other,0.0
+host_cold,2,test,1230,3,759,β-Cyclodextrin,cyclodextrin,3.3604
+host_cold,2,test,1232,125,650,Dimetoxixylyleneglycoluril tetramer,other,4.7924
+host_cold,2,test,1234,23,257,α-Cyclodextrin,cyclodextrin,2.0594
+host_cold,2,test,1235,31,22,5-[4-(2-dihydroxyboryl-benzylamino)-butyroylamino]-m-xylylene bisphosphonic acid dimethyl ester dilithium salt,other,2.3136
+host_cold,2,test,1243,57,766,Molecular Tweezer-Sodium disulfonate,other,3.1553
+host_cold,2,test,1247,3,628,β-Cyclodextrin,cyclodextrin,2.8189
+host_cold,2,test,1249,3,716,β-Cyclodextrin,cyclodextrin,1.7832
+host_cold,2,test,1250,89,768,sulfobutylether7-β-cyclodextrin,cyclodextrin,6.8055
+host_cold,2,test,1251,23,474,α-Cyclodextrin,cyclodextrin,2.99
+host_cold,2,test,1252,73,593,p-Sulfonatocalix[5]arene,calixarene,5.1004
+host_cold,2,test,1253,3,769,β-Cyclodextrin,cyclodextrin,3.9138
+host_cold,2,test,1256,3,771,β-Cyclodextrin,cyclodextrin,3.3469
+host_cold,2,test,1266,159,774,p-sulfonatocalix[6]arene-(hexakis(hexyloxy) substituted),calixarene,5.6721
+host_cold,2,test,1290,42,57,p-sulfonatocalix[4]arene-(mono amidomethyl-substituted),calixarene,2.5647
+host_cold,2,test,1291,3,784,β-Cyclodextrin,cyclodextrin,3.0792
+host_cold,2,test,1293,106,35,"5,11,17,23-Tetrakis-(hydroxymethoxyphosphoryl)- 25,26,27,28-tetrapropoxycalix[4]arene Tetralithium Salt",calixarene,1.7634
+host_cold,2,test,1297,158,406,Pseudocyclopeptide iodide,other,3.355
+host_cold,2,test,1303,3,597,β-Cyclodextrin,cyclodextrin,3.8082
+host_cold,2,test,1305,3,786,β-Cyclodextrin,cyclodextrin,1.9191
+host_cold,2,test,1306,23,428,α-Cyclodextrin,cyclodextrin,0.7782
+host_cold,2,test,1313,122,472,bisurea-receptor-OMe,other,3.0
+host_cold,2,test,1318,23,420,α-Cyclodextrin,cyclodextrin,3.0334
+host_cold,2,test,1322,5,795,tetra-endo-ethyl octa acid,other,3.2951
+host_cold,2,test,1329,36,115,Dicyclohexano-18-Crown-6,crown_ether,2.2
+host_cold,2,test,1341,3,554,β-Cyclodextrin,cyclodextrin,3.3222
+host_cold,2,test,1353,73,711,p-Sulfonatocalix[5]arene,calixarene,4.0
+host_cold,2,test,1360,3,675,β-Cyclodextrin,cyclodextrin,1.93
+host_cold,2,test,1367,18,393,tetra-endo-methyl octa acid cavitand,cavitand,3.0294
+host_cold,2,test,1371,151,201,Uramildiacetic acid,other,5.6096
+host_cold,2,test,1375,73,299,p-Sulfonatocalix[5]arene,calixarene,3.6
+host_cold,2,test,1377,3,813,β-Cyclodextrin,cyclodextrin,3.0607
+host_cold,2,test,1378,23,814,α-Cyclodextrin,cyclodextrin,1.3711
+host_cold,2,test,1379,22,282,p-Sulfonatothiacalix[4]arene,calixarene,3.27
+host_cold,2,test,1384,23,817,α-Cyclodextrin,cyclodextrin,1.2923
+host_cold,2,test,1386,18,139,tetra-endo-methyl octa acid cavitand,cavitand,3.402
+host_cold,2,test,1398,3,824,β-Cyclodextrin,cyclodextrin,3.7394
+host_cold,2,test,1400,4,652,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-trimethylbenzene",other,1.8129
+host_cold,2,test,1405,3,829,β-Cyclodextrin,cyclodextrin,3.2041
+host_cold,2,test,1406,36,201,Dicyclohexano-18-Crown-6,crown_ether,0.5999
+host_cold,2,test,1408,36,831,Dicyclohexano-18-Crown-6,crown_ether,2.75
+host_cold,2,test,1418,3,835,β-Cyclodextrin,cyclodextrin,1.9085
+host_cold,2,test,1419,3,493,β-Cyclodextrin,cyclodextrin,2.6021
+host_cold,2,test,1422,3,144,β-Cyclodextrin,cyclodextrin,2.6232
+host_cold,2,test,1425,22,271,p-Sulfonatothiacalix[4]arene,calixarene,2.7185
+host_cold,2,test,1427,23,523,α-Cyclodextrin,cyclodextrin,2.75
+host_cold,2,test,1430,3,840,β-Cyclodextrin,cyclodextrin,3.7292
+host_cold,2,test,1433,36,842,Dicyclohexano-18-Crown-6,crown_ether,4.8998
+host_cold,2,test,1434,18,6,tetra-endo-methyl octa acid cavitand,cavitand,4.8893
+host_cold,2,test,1442,3,846,β-Cyclodextrin,cyclodextrin,2.7513
+host_cold,2,test,1450,18,257,tetra-endo-methyl octa acid cavitand,cavitand,2.0149
+host_cold,2,test,1455,22,509,p-Sulfonatothiacalix[4]arene,calixarene,1.0792
+host_cold,2,test,1461,3,30,β-Cyclodextrin,cyclodextrin,2.7929
+host_cold,2,test,1475,3,277,β-Cyclodextrin,cyclodextrin,2.7803
+host_cold,2,test,1487,57,128,Molecular Tweezer-Sodium disulfonate,other,3.5185
+host_cold,2,test,1490,57,439,Molecular Tweezer-Sodium disulfonate,other,3.6444
+host_cold,2,test,1494,3,860,β-Cyclodextrin,cyclodextrin,2.0896
+host_cold,2,test,1496,141,861,Calixarene,calixarene,6.9243
+host_cold,2,test,1500,159,587,p-sulfonatocalix[6]arene-(hexakis(hexyloxy) substituted),calixarene,5.5911
+host_cold,2,test,1501,3,864,β-Cyclodextrin,cyclodextrin,2.6385
+host_cold,2,test,1502,78,660,permethylated β-cyclodextrin,cyclodextrin,3.2003
+host_cold,2,test,1526,3,871,β-Cyclodextrin,cyclodextrin,2.8451
+host_cold,2,test,1529,23,32,α-Cyclodextrin,cyclodextrin,2.5899
+host_cold,2,test,1530,3,186,β-Cyclodextrin,cyclodextrin,4.5105
+host_cold,2,test,1531,23,85,α-Cyclodextrin,cyclodextrin,1.7782
+host_cold,2,test,1532,3,873,β-Cyclodextrin,cyclodextrin,1.6628
+host_cold,2,test,1533,3,874,β-Cyclodextrin,cyclodextrin,2.0043
+host_cold,2,test,1537,3,24,β-Cyclodextrin,cyclodextrin,1.9731
+host_cold,2,test,1539,101,876,"Acyclic sodium 3,3'-(naphthalene-1,4-diylbis(oxy))bis(propane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,4.5441
+host_cold,2,test,1547,3,412,β-Cyclodextrin,cyclodextrin,1.7973
+host_cold,2,test,1548,3,536,β-Cyclodextrin,cyclodextrin,1.7259
+host_cold,2,test,1549,3,730,β-Cyclodextrin,cyclodextrin,2.3579
+host_cold,2,test,1551,3,395,β-Cyclodextrin,cyclodextrin,2.1732
+host_cold,2,test,1559,43,63,"4,7,13,18-Tetraoxa-1,10-diazabicyclo[8.5.5]icosane",other,2.0
+host_cold,2,test,1561,3,466,β-Cyclodextrin,cyclodextrin,2.1461
+host_cold,2,test,1566,101,221,"Acyclic sodium 3,3'-(naphthalene-1,4-diylbis(oxy))bis(propane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,4.2788
+host_cold,2,test,1571,31,378,5-[4-(2-dihydroxyboryl-benzylamino)-butyroylamino]-m-xylylene bisphosphonic acid dimethyl ester dilithium salt,other,3.2041
+host_cold,2,test,1578,43,13,"4,7,13,18-Tetraoxa-1,10-diazabicyclo[8.5.5]icosane",other,2.0
+host_cold,2,test,1594,3,888,β-Cyclodextrin,cyclodextrin,3.3255
+host_cold,2,test,1597,3,890,β-Cyclodextrin,cyclodextrin,3.1583
+host_cold,2,test,1602,3,893,β-Cyclodextrin,cyclodextrin,2.1139
+host_cold,2,test,1605,3,895,β-Cyclodextrin,cyclodextrin,1.2964
+host_cold,2,test,1608,23,896,α-Cyclodextrin,cyclodextrin,2.5775
+host_cold,2,test,1616,43,21,"4,7,13,18-Tetraoxa-1,10-diazabicyclo[8.5.5]icosane",other,2.0
+host_cold,2,test,1617,3,899,β-Cyclodextrin,cyclodextrin,3.87
+host_cold,2,test,1618,3,900,β-Cyclodextrin,cyclodextrin,2.4358
+host_cold,2,test,1620,3,901,β-Cyclodextrin,cyclodextrin,0.9986
+host_cold,2,test,1623,3,903,β-Cyclodextrin,cyclodextrin,2.2742
+host_cold,2,test,1624,3,407,β-Cyclodextrin,cyclodextrin,3.0386
+host_cold,2,test,1628,3,905,β-Cyclodextrin,cyclodextrin,1.6064
+host_cold,2,test,1629,3,906,β-Cyclodextrin,cyclodextrin,3.5274
+host_cold,2,test,1631,23,526,α-Cyclodextrin,cyclodextrin,1.8325
+host_cold,2,test,1636,3,908,β-Cyclodextrin,cyclodextrin,2.0969
+host_cold,2,test,1638,3,909,β-Cyclodextrin,cyclodextrin,2.5159
+host_cold,2,test,1642,3,803,β-Cyclodextrin,cyclodextrin,2.7135
+host_cold,2,test,1649,22,501,p-Sulfonatothiacalix[4]arene,calixarene,1.8261
+host_cold,2,test,1652,3,874,β-Cyclodextrin,cyclodextrin,2.0374
+host_cold,2,test,1654,73,29,p-Sulfonatocalix[5]arene,calixarene,2.1702
+host_cold,2,test,1655,3,916,β-Cyclodextrin,cyclodextrin,1.8407
+host_cold,2,test,1659,3,386,β-Cyclodextrin,cyclodextrin,2.7987
+host_cold,2,test,1662,167,920,Hydroxypropyl-β-Cyclodextrin,cyclodextrin,6.9823
+host_cold,2,test,1666,23,157,α-Cyclodextrin,cyclodextrin,1.358
+host_cold,2,test,1675,151,115,Uramildiacetic acid,other,1.94
+host_cold,2,test,1678,101,923,"Acyclic sodium 3,3'-(naphthalene-1,4-diylbis(oxy))bis(propane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,5.4314
+host_cold,2,test,1681,4,579,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-trimethylbenzene",other,2.0043
+host_cold,2,test,1683,3,184,β-Cyclodextrin,cyclodextrin,1.6721
+host_cold,2,test,1685,101,926,"Acyclic sodium 3,3'-(naphthalene-1,4-diylbis(oxy))bis(propane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,4.4771
+host_cold,2,test,1691,18,146,tetra-endo-methyl octa acid cavitand,cavitand,3.0531
+host_cold,2,test,1710,23,941,α-Cyclodextrin,cyclodextrin,0.8451
+host_cold,2,test,1714,3,943,β-Cyclodextrin,cyclodextrin,3.3284
+host_cold,2,test,1715,101,301,"Acyclic sodium 3,3'-(naphthalene-1,4-diylbis(oxy))bis(propane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,5.9741
+host_cold,2,test,1724,151,21,Uramildiacetic acid,other,6.9299
+host_cold,2,test,1725,3,944,β-Cyclodextrin,cyclodextrin,2.7694
+host_cold,2,test,1737,18,832,tetra-endo-methyl octa acid cavitand,cavitand,5.7093
+host_cold,2,test,1744,3,245,β-Cyclodextrin,cyclodextrin,1.9191
+host_cold,2,test,1748,23,94,α-Cyclodextrin,cyclodextrin,2.9258
+host_cold,2,test,1752,23,957,α-Cyclodextrin,cyclodextrin,3.0531
+host_cold,2,test,1763,78,962,permethylated β-cyclodextrin,cyclodextrin,2.2095
+host_cold,2,test,1767,3,629,β-Cyclodextrin,cyclodextrin,2.6034
+host_cold,2,test,1770,3,46,β-Cyclodextrin,cyclodextrin,1.9558
+host_cold,2,test,1771,3,390,β-Cyclodextrin,cyclodextrin,2.2095
+host_cold,2,test,1774,23,965,α-Cyclodextrin,cyclodextrin,2.8241
+host_cold,2,test,1781,3,969,β-Cyclodextrin,cyclodextrin,3.1722
+host_cold,2,test,1785,22,400,p-Sulfonatothiacalix[4]arene,calixarene,3.3334
+host_cold,2,test,1786,57,970,Molecular Tweezer-Sodium disulfonate,other,3.7966
+host_cold,2,test,1788,3,972,β-Cyclodextrin,cyclodextrin,2.985
+host_cold,2,test,1797,3,895,β-Cyclodextrin,cyclodextrin,1.5051
+host_cold,2,test,1804,101,977,"Acyclic sodium 3,3'-(naphthalene-1,4-diylbis(oxy))bis(propane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,3.9345
+host_cold,2,test,1805,3,978,β-Cyclodextrin,cyclodextrin,2.26
+host_cold,2,test,1810,3,36,β-Cyclodextrin,cyclodextrin,2.9917
+host_cold,2,test,1813,3,453,β-Cyclodextrin,cyclodextrin,1.9797
+host_cold,2,test,1817,26,171,"5-[4-[2-(dihydroxyboryl)benzylaminomethyl]benzoylamino]-1,3-xylylenebis(phosphonic acid lithium methyl) ester salt",other,2.2341
+host_cold,2,test,1819,18,795,tetra-endo-methyl octa acid cavitand,cavitand,5.1004
+host_cold,2,test,1821,89,981,sulfobutylether7-β-cyclodextrin,cyclodextrin,4.3324
+host_cold,2,test,1824,36,229,Dicyclohexano-18-Crown-6,crown_ether,1.7
+host_cold,2,test,1829,89,985,sulfobutylether7-β-cyclodextrin,cyclodextrin,8.9912
+host_cold,2,test,1834,3,369,β-Cyclodextrin,cyclodextrin,3.4281
+host_cold,2,test,1835,89,714,sulfobutylether7-β-cyclodextrin,cyclodextrin,4.8976
+host_cold,2,test,1836,18,820,tetra-endo-methyl octa acid cavitand,cavitand,3.7727
+host_cold,2,test,1844,3,353,β-Cyclodextrin,cyclodextrin,3.42
+host_cold,2,test,1851,23,519,α-Cyclodextrin,cyclodextrin,1.5611
+host_cold,2,test,1852,3,909,β-Cyclodextrin,cyclodextrin,2.5172
+host_cold,2,test,1854,96,992,Cucurbit[7]uril-tetramethylrhodamine conjugate,cucurbituril,6.444
+host_cold,2,test,1855,5,710,tetra-endo-ethyl octa acid,other,3.2742
+host_cold,2,test,1856,18,74,tetra-endo-methyl octa acid cavitand,cavitand,0.9542
+host_cold,2,test,1880,3,405,β-Cyclodextrin,cyclodextrin,3.8261
+host_cold,2,test,1888,174,516,2-Acetylguanidinium,other,1.699
+host_cold,2,test,1890,26,378,"5-[4-[2-(dihydroxyboryl)benzylaminomethyl]benzoylamino]-1,3-xylylenebis(phosphonic acid lithium methyl) ester salt",other,3.3118
+host_cold,2,test,1892,23,1007,α-Cyclodextrin,cyclodextrin,2.4771
+host_cold,2,test,1926,22,837,p-Sulfonatothiacalix[4]arene,calixarene,1.6902
+host_cold,2,test,1930,18,657,tetra-endo-methyl octa acid cavitand,cavitand,6.1732
+host_cold,2,test,1936,23,1020,α-Cyclodextrin,cyclodextrin,2.2068
+host_cold,2,test,1951,89,66,sulfobutylether7-β-cyclodextrin,cyclodextrin,6.4216
+host_cold,2,test,1963,3,1025,β-Cyclodextrin,cyclodextrin,1.2014
+host_cold,2,test,1965,3,168,β-Cyclodextrin,cyclodextrin,2.0682
+host_cold,2,test,1969,73,497,p-Sulfonatocalix[5]arene,calixarene,1.5428
+host_cold,2,test,1978,3,219,β-Cyclodextrin,cyclodextrin,2.2504
+host_cold,2,test,1983,5,657,tetra-endo-ethyl octa acid,other,3.7747
+host_cold,2,test,1986,84,587,p-sulfonatocalix[4]arene-(tetrakis(hexyloxy) substitued),calixarene,6.301
+host_cold,2,test,1987,36,975,Dicyclohexano-18-Crown-6,crown_ether,1.3501
+host_cold,2,test,1989,180,96,p-Sulfonatocalix[4]arene(tetrakis(2-ethoxyethoxy)-substituted),calixarene,2.4
+host_cold,2,test,1990,22,301,p-Sulfonatothiacalix[4]arene,calixarene,2.73
+host_cold,2,test,1992,3,1032,β-Cyclodextrin,cyclodextrin,1.2405
+host_cold,2,test,1993,3,138,β-Cyclodextrin,cyclodextrin,2.2041
+host_cold,2,test,1995,23,165,α-Cyclodextrin,cyclodextrin,1.9943
+host_cold,2,test,1997,3,1033,β-Cyclodextrin,cyclodextrin,1.3802
+host_cold,2,test,2000,43,88,"4,7,13,18-Tetraoxa-1,10-diazabicyclo[8.5.5]icosane",other,2.5
+host_cold,2,test,2001,22,421,p-Sulfonatothiacalix[4]arene,calixarene,2.6916
+host_cold,2,test,2002,3,965,β-Cyclodextrin,cyclodextrin,3.2504
+host_cold,2,test,2004,3,910,β-Cyclodextrin,cyclodextrin,1.9
+host_cold,2,test,2009,151,229,Uramildiacetic acid,other,3.33
+host_cold,2,test,2010,23,1036,α-Cyclodextrin,cyclodextrin,2.4502
+host_cold,2,test,2011,3,1037,β-Cyclodextrin,cyclodextrin,2.9191
+host_cold,2,test,2015,3,786,β-Cyclodextrin,cyclodextrin,1.9294
+host_cold,2,test,2022,73,837,p-Sulfonatocalix[5]arene,calixarene,3.3094
+host_cold,2,test,2026,68,178,p-sulfonatocalix[4]arene-(carboxysulfonamide-substituted),calixarene,2.0792
+host_cold,2,test,2029,42,108,p-sulfonatocalix[4]arene-(mono amidomethyl-substituted),calixarene,2.9243
+host_cold,2,test,2030,23,698,α-Cyclodextrin,cyclodextrin,1.1553
+host_cold,2,test,2047,3,1043,β-Cyclodextrin,cyclodextrin,3.5599
+host_cold,2,test,2048,23,910,α-Cyclodextrin,cyclodextrin,3.699
+host_cold,2,test,2050,3,1044,β-Cyclodextrin,cyclodextrin,2.5315
+host_cold,2,test,2063,101,852,"Acyclic sodium 3,3'-(naphthalene-1,4-diylbis(oxy))bis(propane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,5.0414
+host_cold,2,test,2070,3,846,β-Cyclodextrin,cyclodextrin,2.6893
+host_cold,2,test,2085,106,5,"5,11,17,23-Tetrakis-(hydroxymethoxyphosphoryl)- 25,26,27,28-tetrapropoxycalix[4]arene Tetralithium Salt",calixarene,1.8451
+host_cold,2,test,2087,4,415,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-trimethylbenzene",other,1.0
+host_cold,2,test,2088,43,161,"4,7,13,18-Tetraoxa-1,10-diazabicyclo[8.5.5]icosane",other,2.5
+host_cold,2,test,2089,151,76,Uramildiacetic acid,other,6.1303
+host_cold,2,test,2091,3,1054,β-Cyclodextrin,cyclodextrin,3.5752
+host_cold,2,test,2095,185,803,Mono[2-O-(2-hydroxyethyl)]-β-CD,cyclodextrin,2.8762
+host_cold,2,test,2103,3,274,β-Cyclodextrin,cyclodextrin,1.8513
+host_cold,2,test,2113,3,901,β-Cyclodextrin,cyclodextrin,1.0338
+host_cold,2,test,2115,3,741,β-Cyclodextrin,cyclodextrin,1.8808
+host_cold,2,test,2124,3,558,β-Cyclodextrin,cyclodextrin,3.1303
+host_cold,2,test,2130,43,229,"4,7,13,18-Tetraoxa-1,10-diazabicyclo[8.5.5]icosane",other,3.2
+host_cold,2,test,2135,3,360,β-Cyclodextrin,cyclodextrin,3.0492
+host_cold,2,test,2140,22,979,p-Sulfonatothiacalix[4]arene,calixarene,2.4654
+host_cold,2,test,2145,3,1063,β-Cyclodextrin,cyclodextrin,2.6454
+host_cold,2,test,2149,3,205,β-Cyclodextrin,cyclodextrin,2.6128
+host_cold,2,test,2154,3,408,β-Cyclodextrin,cyclodextrin,1.5563
+host_cold,2,test,2157,101,793,"Acyclic sodium 3,3'-(naphthalene-1,4-diylbis(oxy))bis(propane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,3.0414
+host_cold,2,test,2158,3,1065,β-Cyclodextrin,cyclodextrin,3.8881
+host_cold,2,test,2163,3,75,β-Cyclodextrin,cyclodextrin,3.6439
+host_cold,2,test,2164,106,942,"5,11,17,23-Tetrakis-(hydroxymethoxyphosphoryl)- 25,26,27,28-tetrapropoxycalix[4]arene Tetralithium Salt",calixarene,1.0
+host_cold,3,test,0,0,0,"Acyclic sodium 4,4'-(naphthalene-1,4-diyl)bis(butane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,9.5315
+host_cold,3,test,1,1,1,p-Sulfonatocalix[4]arene,calixarene,3.94
+host_cold,3,test,2,1,2,p-Sulfonatocalix[4]arene,calixarene,3.6088
+host_cold,3,test,16,15,16,Octa acid cavitand,cavitand,3.7332
+host_cold,3,test,33,1,33,p-Sulfonatocalix[4]arene,calixarene,1.301
+host_cold,3,test,35,25,35,"5,11,17,23-Tetrakis(dihydroxyphosphoryl)-25,26, 27,28-tetrapropoxycalix[4]arene",calixarene,2.0086
+host_cold,3,test,43,28,43,o-Xylyleneglycoluriltetramer,other,4.4279
+host_cold,3,test,45,29,5,"2-[13,29,32-Tris(carboxymethyl)-8,15,27,34-tetraoxo-2,21-dioxa-7,10,13,16,26,29,32,35-octazapentacyclo[34.2.2.23,6.217,20.222,25]hexatetraconta-1(38),3(46),4,6(45),17(44),18,20(43),22,24,36,39,41-dodecaen-10-yl]acetic acid",other,1.2
+host_cold,3,test,46,30,45,p-Sulfonatocalix[6]arene,calixarene,3.7316
+host_cold,3,test,48,1,47,p-Sulfonatocalix[4]arene,calixarene,5.0414
+host_cold,3,test,53,32,52,carboxylated azocalix[4]arene,calixarene,7.699
+host_cold,3,test,57,34,56,p-sulfonatocalix[4]arene-(mono-carboxymethyl-substituted),calixarene,2.6884
+host_cold,3,test,65,37,63,Ethylenediaminetetraacetic acid,other,0.5899
+host_cold,3,test,66,30,64,p-Sulfonatocalix[6]arene,calixarene,3.9902
+host_cold,3,test,72,40,70,p-immidazoliumcalix[4]arene-3C,calixarene,3.4268
+host_cold,3,test,80,1,77,p-Sulfonatocalix[4]arene,calixarene,3.5798
+host_cold,3,test,86,48,83,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,6.3539
+host_cold,3,test,89,1,81,p-Sulfonatocalix[4]arene,calixarene,3.5333
+host_cold,3,test,90,1,86,p-Sulfonatocalix[4]arene,calixarene,3.6575
+host_cold,3,test,91,1,87,p-Sulfonatocalix[4]arene,calixarene,2.65
+host_cold,3,test,100,53,95,Mono(6-amino-6-deoxy)-β-Cyclodextrin,cyclodextrin,3.317
+host_cold,3,test,101,1,96,p-Sulfonatocalix[4]arene,calixarene,4.5999
+host_cold,3,test,102,25,5,"5,11,17,23-Tetrakis(dihydroxyphosphoryl)-25,26, 27,28-tetrapropoxycalix[4]arene",calixarene,2.1614
+host_cold,3,test,105,1,72,p-Sulfonatocalix[4]arene,calixarene,2.7007
+host_cold,3,test,113,1,104,p-Sulfonatocalix[4]arene,calixarene,2.9714
+host_cold,3,test,116,15,107,Octa acid cavitand,cavitand,2.7348
+host_cold,3,test,118,1,109,p-Sulfonatocalix[4]arene,calixarene,3.2698
+host_cold,3,test,121,48,92,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,5.4487
+host_cold,3,test,124,1,112,p-Sulfonatocalix[4]arene,calixarene,4.4771
+host_cold,3,test,125,34,15,p-sulfonatocalix[4]arene-(mono-carboxymethyl-substituted),calixarene,3.4551
+host_cold,3,test,126,58,92,propyl sulfonated pillar[5]arene,pillararene,5.3096
+host_cold,3,test,127,1,113,p-Sulfonatocalix[4]arene,calixarene,1.5232
+host_cold,3,test,128,29,114,"2-[13,29,32-Tris(carboxymethyl)-8,15,27,34-tetraoxo-2,21-dioxa-7,10,13,16,26,29,32,35-octazapentacyclo[34.2.2.23,6.217,20.222,25]hexatetraconta-1(38),3(46),4,6(45),17(44),18,20(43),22,24,36,39,41-dodecaen-10-yl]acetic acid",other,1.2
+host_cold,3,test,135,30,119,p-Sulfonatocalix[6]arene,calixarene,5.0
+host_cold,3,test,148,63,126,p-sulfonatocalix[8]arene,calixarene,3.476
+host_cold,3,test,150,58,130,propyl sulfonated pillar[5]arene,pillararene,5.5224
+host_cold,3,test,158,15,137,Octa acid cavitand,cavitand,4.8613
+host_cold,3,test,159,1,138,p-Sulfonatocalix[4]arene,calixarene,4.2894
+host_cold,3,test,162,15,6,Octa acid cavitand,cavitand,4.2989
+host_cold,3,test,168,15,146,Octa acid cavitand,cavitand,3.3674
+host_cold,3,test,173,1,151,p-Sulfonatocalix[4]arene,calixarene,4.8802
+host_cold,3,test,181,15,157,Octa acid cavitand,cavitand,3.0532
+host_cold,3,test,183,70,159,Corral[5]arene,other,4.9974
+host_cold,3,test,190,15,166,Octa acid cavitand,cavitand,5.6021
+host_cold,3,test,196,1,170,p-Sulfonatocalix[4]arene,calixarene,4.0212
+host_cold,3,test,200,30,174,p-Sulfonatocalix[6]arene,calixarene,3.5465
+host_cold,3,test,201,30,175,p-Sulfonatocalix[6]arene,calixarene,3.2
+host_cold,3,test,214,77,186,bis(p-sulfonatocalix[4]arenes),calixarene,5.9899
+host_cold,3,test,223,1,193,p-Sulfonatocalix[4]arene,calixarene,3.3483
+host_cold,3,test,224,1,194,p-Sulfonatocalix[4]arene,calixarene,3.7466
+host_cold,3,test,226,63,81,p-sulfonatocalix[8]arene,calixarene,6.358
+host_cold,3,test,231,32,200,carboxylated azocalix[4]arene,calixarene,6.7482
+host_cold,3,test,232,30,85,p-Sulfonatocalix[6]arene,calixarene,3.96
+host_cold,3,test,234,37,201,Ethylenediaminetetraacetic acid,other,2.85
+host_cold,3,test,238,30,205,p-Sulfonatocalix[6]arene,calixarene,5.8202
+host_cold,3,test,248,48,210,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,5.705
+host_cold,3,test,250,48,205,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,7.5987
+host_cold,3,test,252,1,213,p-Sulfonatocalix[4]arene,calixarene,3.0414
+host_cold,3,test,260,48,81,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,5.4183
+host_cold,3,test,273,1,228,p-Sulfonatocalix[4]arene,calixarene,2.8808
+host_cold,3,test,275,1,229,p-Sulfonatocalix[4]arene,calixarene,2.3455
+host_cold,3,test,277,86,114,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-triethylbenzene",other,2.2504
+host_cold,3,test,278,1,231,p-Sulfonatocalix[4]arene,calixarene,4.3615
+host_cold,3,test,283,70,235,Corral[5]arene,other,6.9899
+host_cold,3,test,286,15,237,Octa acid cavitand,cavitand,3.8277
+host_cold,3,test,287,48,238,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,1.7559
+host_cold,3,test,291,37,21,Ethylenediaminetetraacetic acid,other,8.8
+host_cold,3,test,293,15,54,Octa acid cavitand,cavitand,6.9031
+host_cold,3,test,310,1,178,p-Sulfonatocalix[4]arene,calixarene,2.9353
+host_cold,3,test,315,1,254,p-Sulfonatocalix[4]arene,calixarene,5.301
+host_cold,3,test,316,1,255,p-Sulfonatocalix[4]arene,calixarene,4.2763
+host_cold,3,test,318,15,257,Octa acid cavitand,cavitand,2.004
+host_cold,3,test,319,1,258,p-Sulfonatocalix[4]arene,calixarene,1.34
+host_cold,3,test,329,77,92,singly ethyl-bridged bis(p-sulfonatocalix[4]arene),calixarene,7.0899
+host_cold,3,test,330,30,213,p-Sulfonatocalix[6]arene,calixarene,3.1004
+host_cold,3,test,337,30,78,p-Sulfonatocalix[6]arene,calixarene,3.847
+host_cold,3,test,346,92,278,WNBP,other,6.4574
+host_cold,3,test,351,30,193,p-Sulfonatocalix[6]arene,calixarene,4.4781
+host_cold,3,test,352,15,281,Octa acid cavitand,cavitand,4.1673
+host_cold,3,test,354,1,282,p-Sulfonatocalix[4]arene,calixarene,4.0396
+host_cold,3,test,357,95,157,"Hexakis(2,3,6-tri-o-methyl)-alpha-cyclodextrin",cyclodextrin,1.7199
+host_cold,3,test,369,32,290,carboxylated azocalix[4]arene,calixarene,2.3979
+host_cold,3,test,381,30,299,p-Sulfonatocalix[6]arene,calixarene,4.8998
+host_cold,3,test,383,0,301,"Acyclic sodium 4,4'-(naphthalene-1,4-diyl)bis(butane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,5.2553
+host_cold,3,test,390,1,56,p-Sulfonatocalix[4]arene,calixarene,2.8932
+host_cold,3,test,391,48,306,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,1.5798
+host_cold,3,test,403,30,96,p-Sulfonatocalix[6]arene,calixarene,4.4997
+host_cold,3,test,404,30,255,p-Sulfonatocalix[6]arene,calixarene,4.6016
+host_cold,3,test,420,63,64,p-sulfonatocalix[8]arene,calixarene,2.351
+host_cold,3,test,421,1,325,p-Sulfonatocalix[4]arene,calixarene,4.0016
+host_cold,3,test,432,30,332,p-Sulfonatocalix[6]arene,calixarene,3.0792
+host_cold,3,test,433,1,333,p-Sulfonatocalix[4]arene,calixarene,2.26
+host_cold,3,test,444,1,338,p-Sulfonatocalix[4]arene,calixarene,4.214
+host_cold,3,test,446,28,165,o-Xylyleneglycoluriltetramer,other,3.1139
+host_cold,3,test,447,15,340,Octa acid cavitand,cavitand,1.7075
+host_cold,3,test,458,1,348,p-Sulfonatocalix[4]arene,calixarene,4.9925
+host_cold,3,test,464,30,353,p-Sulfonatocalix[6]arene,calixarene,3.98
+host_cold,3,test,475,70,362,Corral[5]arene,other,5.9628
+host_cold,3,test,482,30,81,p-Sulfonatocalix[6]arene,calixarene,4.4254
+host_cold,3,test,487,1,369,p-Sulfonatocalix[4]arene,calixarene,2.9345
+host_cold,3,test,488,1,370,p-Sulfonatocalix[4]arene,calixarene,2.7256
+host_cold,3,test,494,30,250,p-Sulfonatocalix[6]arene,calixarene,5.9494
+host_cold,3,test,495,105,374,p-sulfonatocalix[4]arene-(strapped-ethyleneglycol-substituted),calixarene,4.0792
+host_cold,3,test,502,92,381,WNBP,other,6.517
+host_cold,3,test,508,48,385,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,4.7604
+host_cold,3,test,509,1,66,p-Sulfonatocalix[4]arene,calixarene,3.0218
+host_cold,3,test,510,92,386,WNBP,other,6.193
+host_cold,3,test,514,37,76,Ethylenediaminetetraacetic acid,other,7.7803
+host_cold,3,test,515,1,256,p-Sulfonatocalix[4]arene,calixarene,1.58
+host_cold,3,test,518,32,389,carboxylated azocalix[4]arene,calixarene,8.2041
+host_cold,3,test,525,1,392,p-Sulfonatocalix[4]arene,calixarene,1.2799
+host_cold,3,test,526,15,393,Octa acid cavitand,cavitand,4.5563
+host_cold,3,test,529,110,141,sulfonated pillar[7]arene,pillararene,6.8797
+host_cold,3,test,531,48,396,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,6.2577
+host_cold,3,test,535,1,215,p-Sulfonatocalix[4]arene,calixarene,3.22
+host_cold,3,test,536,1,399,p-Sulfonatocalix[4]arene,calixarene,3.8927
+host_cold,3,test,538,1,401,p-Sulfonatocalix[4]arene,calixarene,3.4399
+host_cold,3,test,541,70,403,Corral[5]arene,other,4.5635
+host_cold,3,test,543,111,96,p-Sulfonatocalix[4]arene (tetrakis(2-(dimethylamino)-2-oxoethoxy)-substituted),calixarene,3.3
+host_cold,3,test,561,110,305,sulfonated pillar[7]arene,pillararene,6.5563
+host_cold,3,test,565,86,415,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-triethylbenzene",other,1.0
+host_cold,3,test,568,1,205,p-Sulfonatocalix[4]arene,calixarene,5.1492
+host_cold,3,test,571,116,175,bisurea-receptor-NMe2,other,2.0
+host_cold,3,test,572,110,419,sulfonated pillar[7]arene,pillararene,6.4265
+host_cold,3,test,575,48,422,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,5.3096
+host_cold,3,test,581,86,351,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-triethylbenzene",other,1.8692
+host_cold,3,test,592,120,434,"6,6,19,19-tetramethyl-12,13,25,26-tetraoxo-2,6,10,15,19,23-hexaazatricyclo[22.2.0.011,14]hexacosa-1(24),11(14)-diene-6,19-diium",other,5.5051
+host_cold,3,test,596,63,108,p-sulfonatocalix[8]arene,calixarene,4.0043
+host_cold,3,test,601,63,337,p-sulfonatocalix[8]arene,calixarene,2.5051
+host_cold,3,test,603,1,440,p-Sulfonatocalix[4]arene,calixarene,3.21
+host_cold,3,test,606,1,57,p-Sulfonatocalix[4]arene,calixarene,3.1045
+host_cold,3,test,610,15,444,Octa acid cavitand,cavitand,3.4099
+host_cold,3,test,617,1,449,p-Sulfonatocalix[4]arene,calixarene,4.9801
+host_cold,3,test,620,1,451,p-Sulfonatocalix[4]arene,calixarene,6.2553
+host_cold,3,test,624,95,257,"Hexakis(2,3,6-tri-o-methyl)-alpha-cyclodextrin",cyclodextrin,1.9992
+host_cold,3,test,626,34,215,p-sulfonatocalix[4]arene-(mono-carboxymethyl-substituted),calixarene,1.9191
+host_cold,3,test,630,0,455,"Acyclic sodium 4,4'-(naphthalene-1,4-diyl)bis(butane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,5.3424
+host_cold,3,test,637,15,459,Octa acid cavitand,cavitand,3.1672
+host_cold,3,test,642,1,115,p-Sulfonatocalix[4]arene,calixarene,2.329
+host_cold,3,test,651,30,120,p-Sulfonatocalix[6]arene,calixarene,3.6812
+host_cold,3,test,654,77,92,bis(p-sulfonatocalix[4]arenes),calixarene,5.6304
+host_cold,3,test,661,95,99,"Hexakis(2,3,6-tri-o-methyl)-alpha-cyclodextrin",cyclodextrin,1.1505
+host_cold,3,test,662,1,471,p-Sulfonatocalix[4]arene,calixarene,4.4472
+host_cold,3,test,663,63,85,p-sulfonatocalix[8]arene,calixarene,5.4219
+host_cold,3,test,665,110,130,sulfonated pillar[7]arene,pillararene,6.6304
+host_cold,3,test,675,48,478,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,3.7924
+host_cold,3,test,678,48,480,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,3.9047
+host_cold,3,test,680,1,250,p-Sulfonatocalix[4]arene,calixarene,4.4472
+host_cold,3,test,683,116,406,bisurea-receptor-NMe2,other,3.4249
+host_cold,3,test,686,15,484,Octa acid cavitand,cavitand,3.7931
+host_cold,3,test,691,110,488,sulfonated pillar[7]arene,pillararene,6.4116
+host_cold,3,test,697,15,74,Octa acid cavitand,cavitand,1.2841
+host_cold,3,test,698,34,18,p-sulfonatocalix[4]arene-(mono-carboxymethyl-substituted),calixarene,2.2504
+host_cold,3,test,704,30,497,p-Sulfonatocalix[6]arene,calixarene,1.7419
+host_cold,3,test,710,110,402,sulfonated pillar[7]arene,pillararene,6.9708
+host_cold,3,test,712,86,50,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-triethylbenzene",other,0.0
+host_cold,3,test,718,1,503,p-Sulfonatocalix[4]arene,calixarene,3.752
+host_cold,3,test,723,15,506,Octa acid cavitand,cavitand,5.5119
+host_cold,3,test,732,1,510,p-Sulfonatocalix[4]arene,calixarene,1.5536
+host_cold,3,test,734,1,85,p-Sulfonatocalix[4]arene,calixarene,3.6067
+host_cold,3,test,735,130,512,"Bis[quinoxaline-2,3-diylbis[oxy(3,6-dioxaoctane-1,8-diyl)oxy]]-9,10-dipropylanthracene and on dibenzylammonium",other,2.1614
+host_cold,3,test,736,77,513,bis(p-sulfonatocalix[4]arenes),calixarene,6.0607
+host_cold,3,test,740,1,457,p-Sulfonatocalix[4]arene,calixarene,4.0806
+host_cold,3,test,752,1,27,p-Sulfonatocalix[4]arene,calixarene,6.7709
+host_cold,3,test,756,63,524,p-sulfonatocalix[8]arene,calixarene,1.4299
+host_cold,3,test,769,134,353,Mono(6-O-a-maltosyl)-β-Cyclodextrin,cyclodextrin,3.2529
+host_cold,3,test,770,30,353,Hexakis(butanyloxy)-p-Sulfonatocalix[6]arene,calixarene,4.3502
+host_cold,3,test,773,135,531,1-[5-(Carbamoylmethyl-isopropyl-carbamoyl)-1H-pyrrole-2-ylcarbonyl]guanidinium,other,2.5441
+host_cold,3,test,775,86,376,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-triethylbenzene",other,1.0
+host_cold,3,test,777,30,15,p-Sulfonatocalix[6]arene,calixarene,2.549
+host_cold,3,test,785,63,538,p-sulfonatocalix[8]arene,calixarene,4.8062
+host_cold,3,test,787,1,120,p-Sulfonatocalix[4]arene,calixarene,3.7853
+host_cold,3,test,788,116,472,bisurea-receptor-NMe2,other,2.9031
+host_cold,3,test,790,1,539,p-Sulfonatocalix[4]arene,calixarene,4.3282
+host_cold,3,test,798,30,33,p-Sulfonatocalix[6]arene,calixarene,1.9777
+host_cold,3,test,801,48,546,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,4.2765
+host_cold,3,test,808,1,551,p-Sulfonatocalix[4]arene,calixarene,2.605
+host_cold,3,test,809,110,546,sulfonated pillar[7]arene,pillararene,6.5185
+host_cold,3,test,818,1,557,p-Sulfonatocalix[4]arene,calixarene,3.0777
+host_cold,3,test,824,30,559,p-Sulfonatocalix[6]arene,calixarene,4.8095
+host_cold,3,test,857,29,579,"2-[13,29,32-Tris(carboxymethyl)-8,15,27,34-tetraoxo-2,21-dioxa-7,10,13,16,26,29,32,35-octazapentacyclo[34.2.2.23,6.217,20.222,25]hexatetraconta-1(38),3(46),4,6(45),17(44),18,20(43),22,24,36,39,41-dodecaen-10-yl]acetic acid",other,1.6
+host_cold,3,test,862,1,314,p-Sulfonatocalix[4]arene,calixarene,2.99
+host_cold,3,test,865,15,584,Octa acid cavitand,cavitand,3.8482
+host_cold,3,test,868,58,305,propyl sulfonated pillar[5]arene,pillararene,5.5988
+host_cold,3,test,871,32,588,carboxylated azocalix[4]arene,calixarene,5.301
+host_cold,3,test,876,144,591,Potassium iodide,other,5.0899
+host_cold,3,test,879,135,594,1-[5-(Carbamoylmethyl-isopropyl-carbamoyl)-1H-pyrrole-2-ylcarbonyl]guanidinium,other,2.9685
+host_cold,3,test,884,25,376,"5,11,17,23-Tetrakis(dihydroxyphosphoryl)-25,26, 27,28-tetrapropoxycalix[4]arene",calixarene,1.0414
+host_cold,3,test,889,1,105,p-Sulfonatocalix[4]arene,calixarene,7.1761
+host_cold,3,test,890,1,374,p-Sulfonatocalix[4]arene,calixarene,5.2672
+host_cold,3,test,892,1,398,p-Sulfonatocalix[4]arene,calixarene,1.63
+host_cold,3,test,894,1,599,p-Sulfonatocalix[4]arene,calixarene,4.1761
+host_cold,3,test,902,1,605,p-Sulfonatocalix[4]arene,calixarene,3.5441
+host_cold,3,test,905,15,607,Octa acid cavitand,cavitand,5.6222
+host_cold,3,test,913,30,77,p-Sulfonatocalix[6]arene,calixarene,3.3617
+host_cold,3,test,915,110,0,sulfonated pillar[7]arene,pillararene,7.1492
+host_cold,3,test,921,1,572,p-Sulfonatocalix[4]arene,calixarene,3.2
+host_cold,3,test,922,48,617,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,4.6513
+host_cold,3,test,925,63,15,p-sulfonatocalix[8]arene,calixarene,2.7882
+host_cold,3,test,926,1,619,p-Sulfonatocalix[4]arene,calixarene,2.87
+host_cold,3,test,930,95,428,"Hexakis(2,3,6-tri-o-methyl)-alpha-cyclodextrin",cyclodextrin,1.301
+host_cold,3,test,932,1,497,p-Sulfonatocalix[4]arene,calixarene,2.8292
+host_cold,3,test,935,1,624,p-Sulfonatocalix[4]arene,calixarene,3.26
+host_cold,3,test,939,30,57,p-Sulfonatocalix[6]arene,calixarene,2.2304
+host_cold,3,test,952,1,630,p-Sulfonatocalix[4]arene,calixarene,1.0799
+host_cold,3,test,955,15,411,Octa acid cavitand,cavitand,3.6802
+host_cold,3,test,958,86,579,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-triethylbenzene",other,1.9638
+host_cold,3,test,963,1,64,p-Sulfonatocalix[4]arene,calixarene,4.2119
+host_cold,3,test,977,58,641,propyl sulfonated pillar[5]arene,pillararene,5.444
+host_cold,3,test,979,53,61,Mono(6-amino-6-deoxy)-β-Cyclodextrin,cyclodextrin,4.0492
+host_cold,3,test,985,1,647,p-Sulfonatocalix[4]arene,calixarene,2.4
+host_cold,3,test,991,48,649,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,6.2577
+host_cold,3,test,993,110,42,sulfonated pillar[7]arene,pillararene,6.1303
+host_cold,3,test,995,86,652,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-triethylbenzene",other,1.8573
+host_cold,3,test,1000,150,655,Napthalene-copper complex 1,other,2.7604
+host_cold,3,test,1004,1,658,p-Sulfonatocalix[4]arene,calixarene,4.5001
+host_cold,3,test,1006,32,260,carboxylated azocalix[4]arene,calixarene,4.4314
+host_cold,3,test,1007,32,659,carboxylated azocalix[4]arene,calixarene,5.0414
+host_cold,3,test,1014,63,523,p-sulfonatocalix[8]arene,calixarene,1.301
+host_cold,3,test,1016,86,427,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-triethylbenzene",other,1.0
+host_cold,3,test,1022,110,641,sulfonated pillar[7]arene,pillararene,6.2148
+host_cold,3,test,1027,150,668,Napthalene-copper complex 1,other,1.5798
+host_cold,3,test,1028,63,193,p-sulfonatocalix[8]arene,calixarene,4.632
+host_cold,3,test,1040,48,674,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,4.0374
+host_cold,3,test,1047,1,675,p-Sulfonatocalix[4]arene,calixarene,1.0398
+host_cold,3,test,1050,15,28,Octa acid cavitand,cavitand,2.7058
+host_cold,3,test,1054,34,178,p-sulfonatocalix[4]arene-(mono-carboxymethyl-substituted),calixarene,2.9479
+host_cold,3,test,1055,110,181,sulfonated pillar[7]arene,pillararene,4.7059
+host_cold,3,test,1061,32,681,carboxylated azocalix[4]arene,calixarene,6.2041
+host_cold,3,test,1063,154,406,Pyridine-bisurea-receptor,other,2.8451
+host_cold,3,test,1066,1,538,p-Sulfonatocalix[4]arene,calixarene,7.2553
+host_cold,3,test,1067,30,353,Hexakis(octyloxy)-p-Sulfonatocalix[6]arene,calixarene,4.6304
+host_cold,3,test,1069,15,683,Octa acid cavitand,cavitand,3.7664
+host_cold,3,test,1072,1,685,p-Sulfonatocalix[4]arene,calixarene,3.08
+host_cold,3,test,1074,92,3,WNBP,other,6.3722
+host_cold,3,test,1076,48,686,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,2.5441
+host_cold,3,test,1079,155,456,bisurea-receptor-tBu,other,3.4314
+host_cold,3,test,1080,134,532,Mono(6-O-a-maltosyl)-β-Cyclodextrin,cyclodextrin,3.382
+host_cold,3,test,1089,0,141,"Acyclic sodium 4,4'-(naphthalene-1,4-diyl)bis(butane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,8.7243
+host_cold,3,test,1093,30,126,p-Sulfonatocalix[6]arene,calixarene,2.5821
+host_cold,3,test,1094,1,696,p-Sulfonatocalix[4]arene,calixarene,1.36
+host_cold,3,test,1103,156,699,Dodecabenzylbambus[6]uril,other,6.0043
+host_cold,3,test,1106,63,56,p-sulfonatocalix[8]arene,calixarene,3.0457
+host_cold,3,test,1116,30,510,p-Sulfonatocalix[6]arene,calixarene,1.2525
+host_cold,3,test,1118,1,587,p-Sulfonatocalix[4]arene,calixarene,5.9666
+host_cold,3,test,1122,32,707,carboxylated azocalix[4]arene,calixarene,7.7324
+host_cold,3,test,1126,34,57,p-sulfonatocalix[4]arene-(mono-carboxymethyl-substituted),calixarene,2.6803
+host_cold,3,test,1128,1,711,p-Sulfonatocalix[4]arene,calixarene,4.5999
+host_cold,3,test,1134,48,713,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,4.5237
+host_cold,3,test,1135,48,714,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,4.9159
+host_cold,3,test,1136,28,131,o-Xylyleneglycoluriltetramer,other,4.7853
+host_cold,3,test,1139,1,15,p-Sulfonatocalix[4]arene,calixarene,2.7093
+host_cold,3,test,1141,30,56,p-Sulfonatocalix[6]arene,calixarene,2.5391
+host_cold,3,test,1142,1,394,p-Sulfonatocalix[4]arene,calixarene,3.3987
+host_cold,3,test,1149,15,717,Octa acid cavitand,cavitand,3.7527
+host_cold,3,test,1152,48,719,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,2.4393
+host_cold,3,test,1154,15,23,Octa acid cavitand,cavitand,1.6435
+host_cold,3,test,1161,48,152,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,2.444
+host_cold,3,test,1163,0,402,"Acyclic sodium 4,4'-(naphthalene-1,4-diyl)bis(butane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,9.2041
+host_cold,3,test,1165,1,724,p-Sulfonatocalix[4]arene,calixarene,3.9956
+host_cold,3,test,1171,1,727,p-Sulfonatocalix[4]arene,calixarene,4.3979
+host_cold,3,test,1175,30,72,p-Sulfonatocalix[6]arene,calixarene,3.2856
+host_cold,3,test,1180,1,299,p-Sulfonatocalix[4]arene,calixarene,4.6498
+host_cold,3,test,1183,1,733,p-Sulfonatocalix[4]arene,calixarene,4.4848
+host_cold,3,test,1186,135,296,1-[5-(Carbamoylmethyl-isopropyl-carbamoyl)-1H-pyrrole-2-ylcarbonyl]guanidinium,other,3.0588
+host_cold,3,test,1187,1,642,p-Sulfonatocalix[4]arene,calixarene,3.23
+host_cold,3,test,1188,58,419,propyl sulfonated pillar[5]arene,pillararene,5.5899
+host_cold,3,test,1194,70,739,Corral[5]arene,other,6.9217
+host_cold,3,test,1198,1,740,p-Sulfonatocalix[4]arene,calixarene,3.58
+host_cold,3,test,1205,48,744,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,3.2095
+host_cold,3,test,1210,156,748,Dodecabenzylbambus[6]uril,other,4.9494
+host_cold,3,test,1220,110,246,sulfonated pillar[7]arene,pillararene,5.7723
+host_cold,3,test,1225,30,557,p-Sulfonatocalix[6]arene,calixarene,2.4983
+host_cold,3,test,1226,30,599,p-Sulfonatocalix[6]arene,calixarene,4.1139
+host_cold,3,test,1228,70,757,Corral[5]arene,other,4.6232
+host_cold,3,test,1229,1,758,p-Sulfonatocalix[4]arene,calixarene,2.9829
+host_cold,3,test,1241,30,764,p-Sulfonatocalix[6]arene,calixarene,3.76
+host_cold,3,test,1242,48,765,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,2.4014
+host_cold,3,test,1244,155,472,bisurea-receptor-tBu,other,3.1367
+host_cold,3,test,1246,30,109,p-Sulfonatocalix[6]arene,calixarene,2.1202
+host_cold,3,test,1254,86,172,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-triethylbenzene",other,0.0
+host_cold,3,test,1257,1,175,p-Sulfonatocalix[4]arene,calixarene,4.1048
+host_cold,3,test,1263,15,328,Octa acid cavitand,cavitand,6.0374
+host_cold,3,test,1265,1,126,p-Sulfonatocalix[4]arene,calixarene,2.9133
+host_cold,3,test,1271,120,779,"6,6,19,19-tetramethyl-12,13,25,26-tetraoxo-2,6,10,15,19,23-hexaazatricyclo[22.2.0.011,14]hexacosa-1(24),11(14)-diene-6,19-diium",other,4.1761
+host_cold,3,test,1275,0,732,"Acyclic sodium 4,4'-(naphthalene-1,4-diyl)bis(butane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,6.3222
+host_cold,3,test,1276,0,461,"Acyclic sodium 4,4'-(naphthalene-1,4-diyl)bis(butane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,8.5051
+host_cold,3,test,1279,15,173,Octa acid cavitand,cavitand,6.0438
+host_cold,3,test,1284,48,181,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,2.8439
+host_cold,3,test,1289,1,783,p-Sulfonatocalix[4]arene,calixarene,1.4301
+host_cold,3,test,1295,1,133,p-Sulfonatocalix[4]arene,calixarene,2.8816
+host_cold,3,test,1298,48,785,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,2.6464
+host_cold,3,test,1299,1,18,p-Sulfonatocalix[4]arene,calixarene,2.42
+host_cold,3,test,1301,48,212,Dimetoxinaphtaleneglycoluril dimer,other,3.2553
+host_cold,3,test,1302,63,727,p-sulfonatocalix[8]arene,calixarene,4.3701
+host_cold,3,test,1308,1,788,p-Sulfonatocalix[4]arene,calixarene,4.1206
+host_cold,3,test,1310,30,66,p-Sulfonatocalix[6]arene,calixarene,3.8173
+host_cold,3,test,1316,70,792,Corral[5]arene,other,3.9289
+host_cold,3,test,1319,34,337,p-sulfonatocalix[4]arene-(mono-carboxymethyl-substituted),calixarene,3.5508
+host_cold,3,test,1325,28,92,o-Xylyleneglycoluriltetramer,other,3.5682
+host_cold,3,test,1327,34,108,p-sulfonatocalix[4]arene-(mono-carboxymethyl-substituted),calixarene,2.9031
+host_cold,3,test,1331,110,26,sulfonated pillar[7]arene,pillararene,4.9666
+host_cold,3,test,1332,34,523,p-sulfonatocalix[4]arene-(mono-carboxymethyl-substituted),calixarene,1.716
+host_cold,3,test,1334,77,798,singly ethyl-bridged bis(p-sulfonatocalix[4]arene),calixarene,4.0792
+host_cold,3,test,1335,1,799,p-Sulfonatocalix[4]arene,calixarene,3.04
+host_cold,3,test,1338,32,389,carboxylated azocalix[4]arene,calixarene,8.0
+host_cold,3,test,1354,15,139,Octa acid cavitand,cavitand,2.5386
+host_cold,3,test,1362,120,807,"6,6,19,19-tetramethyl-12,13,25,26-tetraoxo-2,6,10,15,19,23-hexaazatricyclo[22.2.0.011,14]hexacosa-1(24),11(14)-diene-6,19-diium",other,6.6894
+host_cold,3,test,1366,1,593,p-Sulfonatocalix[4]arene,calixarene,4.1987
+host_cold,3,test,1370,34,126,p-sulfonatocalix[4]arene-(mono-carboxymethyl-substituted),calixarene,2.5933
+host_cold,3,test,1374,111,425,p-Sulfonatocalix[4]arene (tetrakis(2-(dimethylamino)-2-oxoethoxy)-substituted),calixarene,3.6
+host_cold,3,test,1376,1,286,p-Sulfonatocalix[4]arene,calixarene,4.873
+host_cold,3,test,1383,63,605,p-sulfonatocalix[8]arene,calixarene,3.5051
+host_cold,3,test,1389,15,820,Octa acid cavitand,cavitand,3.2886
+host_cold,3,test,1393,63,821,p-sulfonatocalix[8]arene,calixarene,5.5185
+host_cold,3,test,1401,48,170,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,1.8451
+host_cold,3,test,1404,28,828,o-Xylyleneglycoluriltetramer,other,5.2041
+host_cold,3,test,1410,15,832,Octa acid cavitand,cavitand,5.0896
+host_cold,3,test,1414,30,711,p-Sulfonatocalix[6]arene,calixarene,0.6628
+host_cold,3,test,1420,77,836,bis(p-sulfonatocalix[4]arenes),calixarene,2.8549
+host_cold,3,test,1446,1,780,p-Sulfonatocalix[4]arene,calixarene,2.433
+host_cold,3,test,1453,1,289,p-Sulfonatocalix[4]arene,calixarene,3.12
+host_cold,3,test,1460,15,569,Octa acid cavitand,cavitand,4.9069
+host_cold,3,test,1464,1,275,p-Sulfonatocalix[4]arene,calixarene,7.8261
+host_cold,3,test,1465,30,733,p-Sulfonatocalix[6]arene,calixarene,4.1987
+host_cold,3,test,1467,155,175,bisurea-receptor-tBu,other,2.1761
+host_cold,3,test,1472,1,854,p-Sulfonatocalix[4]arene,calixarene,3.88
+host_cold,3,test,1473,37,229,Ethylenediaminetetraacetic acid,other,1.79
+host_cold,3,test,1476,95,23,"Hexakis(2,3,6-tri-o-methyl)-alpha-cyclodextrin",cyclodextrin,1.3095
+host_cold,3,test,1477,15,700,Octa acid cavitand,cavitand,3.6405
+host_cold,3,test,1478,1,855,p-Sulfonatocalix[4]arene,calixarene,2.9777
+host_cold,3,test,1479,110,328,sulfonated pillar[7]arene,pillararene,7.2504
+host_cold,3,test,1480,1,856,p-Sulfonatocalix[4]arene,calixarene,1.95
+host_cold,3,test,1486,30,449,p-Sulfonatocalix[6]arene,calixarene,5.0
+host_cold,3,test,1488,63,72,p-sulfonatocalix[8]arene,calixarene,3.4518
+host_cold,3,test,1489,63,66,p-sulfonatocalix[8]arene,calixarene,5.1961
+host_cold,3,test,1492,48,859,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,4.5224
+host_cold,3,test,1495,1,698,p-Sulfonatocalix[4]arene,calixarene,4.0086
+host_cold,3,test,1497,116,456,bisurea-receptor-NMe2,other,3.2355
+host_cold,3,test,1498,150,862,Napthalene-copper complex 1,other,2.8376
+host_cold,3,test,1503,28,170,o-Xylyleneglycoluriltetramer,other,3.7482
+host_cold,3,test,1504,1,209,p-Sulfonatocalix[4]arene,calixarene,3.23
+host_cold,3,test,1505,1,865,p-Sulfonatocalix[4]arene,calixarene,3.5682
+host_cold,3,test,1517,32,867,carboxylated azocalix[4]arene,calixarene,5.6628
+host_cold,3,test,1520,15,868,Octa acid cavitand,cavitand,4.1239
+host_cold,3,test,1535,1,875,p-Sulfonatocalix[4]arene,calixarene,3.11
+host_cold,3,test,1540,1,243,p-Sulfonatocalix[4]arene,calixarene,3.81
+host_cold,3,test,1541,63,768,p-sulfonatocalix[8]arene,calixarene,6.2788
+host_cold,3,test,1545,15,7,Octa acid cavitand,cavitand,4.9967
+host_cold,3,test,1554,63,178,p-sulfonatocalix[8]arene,calixarene,3.6323
+host_cold,3,test,1557,70,880,Corral[5]arene,other,5.2625
+host_cold,3,test,1572,1,547,p-Sulfonatocalix[4]arene,calixarene,6.0294
+host_cold,3,test,1582,134,46,Mono(6-O-a-maltosyl)-β-Cyclodextrin,cyclodextrin,1.8388
+host_cold,3,test,1584,53,198,Mono(6-amino-6-deoxy)-β-Cyclodextrin,cyclodextrin,3.8868
+host_cold,3,test,1589,15,158,Octa acid cavitand,cavitand,2.7316
+host_cold,3,test,1592,15,428,Octa acid cavitand,cavitand,2.1615
+host_cold,3,test,1593,1,255,p-Sulfonatocalix[4]arene,calixarene,4.0755
+host_cold,3,test,1595,1,184,p-Sulfonatocalix[4]arene,calixarene,3.23
+host_cold,3,test,1598,1,891,p-Sulfonatocalix[4]arene,calixarene,4.5441
+host_cold,3,test,1606,53,759,Mono(6-amino-6-deoxy)-β-Cyclodextrin,cyclodextrin,3.3634
+host_cold,3,test,1611,1,897,p-Sulfonatocalix[4]arene,calixarene,7.6335
+host_cold,3,test,1612,1,106,p-Sulfonatocalix[4]arene,calixarene,2.8129
+host_cold,3,test,1630,1,907,p-Sulfonatocalix[4]arene,calixarene,1.8751
+host_cold,3,test,1632,58,246,propyl sulfonated pillar[5]arene,pillararene,5.5465
+host_cold,3,test,1637,166,229,pyrene-modified calix[4]arene derivative,calixarene,3.3404
+host_cold,3,test,1639,30,231,p-Sulfonatocalix[6]arene,calixarene,2.9689
+host_cold,3,test,1640,30,910,Hexakis(pentyloxy)-p-Sulfonatocalix[6]arene,calixarene,4.1847
+host_cold,3,test,1644,48,912,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,5.143
+host_cold,3,test,1653,30,891,p-Sulfonatocalix[6]arene,calixarene,3.2041
+host_cold,3,test,1658,1,918,p-Sulfonatocalix[4]arene,calixarene,7.2788
+host_cold,3,test,1661,110,92,sulfonated pillar[7]arene,pillararene,6.5465
+host_cold,3,test,1667,30,910,p-Sulfonatocalix[6]arene,calixarene,4.0934
+host_cold,3,test,1668,32,193,carboxylated azocalix[4]arene,calixarene,6.6902
+host_cold,3,test,1669,48,804,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,2.9263
+host_cold,3,test,1676,1,922,p-Sulfonatocalix[4]arene,calixarene,3.19
+host_cold,3,test,1680,30,907,p-Sulfonatocalix[6]arene,calixarene,1.0
+host_cold,3,test,1684,58,571,propyl sulfonated pillar[5]arene,pillararene,5.8567
+host_cold,3,test,1687,15,650,Octa acid cavitand,cavitand,8.0
+host_cold,3,test,1688,1,477,p-Sulfonatocalix[4]arene,calixarene,3.14
+host_cold,3,test,1694,156,259,Dodecabenzylbambus[6]uril,other,4.8865
+host_cold,3,test,1696,37,88,Ethylenediaminetetraacetic acid,other,11.0
+host_cold,3,test,1699,70,932,Corral[5]arene,other,3.6425
+host_cold,3,test,1700,25,581,"5,11,17,23-Tetrakis(dihydroxyphosphoryl)-25,26, 27,28-tetrapropoxycalix[4]arene",calixarene,1.9294
+host_cold,3,test,1704,30,936,p-Sulfonatocalix[6]arene,calixarene,3.7543
+host_cold,3,test,1713,25,942,"5,11,17,23-Tetrakis(dihydroxyphosphoryl)-25,26, 27,28-tetrapropoxycalix[4]arene",calixarene,1.0
+host_cold,3,test,1721,156,521,Dodecabenzylbambus[6]uril,other,6.959
+host_cold,3,test,1723,134,66,Mono(6-O-a-maltosyl)-β-Cyclodextrin,cyclodextrin,3.5185
+host_cold,3,test,1726,15,945,Octa acid cavitand,cavitand,5.7505
+host_cold,3,test,1728,1,946,p-Sulfonatocalix[4]arene,calixarene,2.5441
+host_cold,3,test,1729,30,338,p-Sulfonatocalix[6]arene,calixarene,4.2722
+host_cold,3,test,1731,15,947,Octa acid cavitand,cavitand,2.3345
+host_cold,3,test,1732,32,948,carboxylated azocalix[4]arene,calixarene,7.6902
+host_cold,3,test,1735,30,949,p-Sulfonatocalix[6]arene,calixarene,3.7839
+host_cold,3,test,1746,30,215,p-Sulfonatocalix[6]arene,calixarene,1.8129
+host_cold,3,test,1761,95,139,"Hexakis(2,3,6-tri-o-methyl)-alpha-cyclodextrin",cyclodextrin,1.944
+host_cold,3,test,1764,15,331,Octa acid cavitand,cavitand,6.871
+host_cold,3,test,1782,30,372,p-Sulfonatocalix[6]arene,calixarene,5.0
+host_cold,3,test,1789,58,181,propyl sulfonated pillar[5]arene,pillararene,5.0492
+host_cold,3,test,1790,110,571,sulfonated pillar[7]arene,pillararene,5.8122
+host_cold,3,test,1802,30,523,p-Sulfonatocalix[6]arene,calixarene,1.2304
+host_cold,3,test,1806,37,115,Ethylenediaminetetraacetic acid,other,0.96
+host_cold,3,test,1816,1,71,p-Sulfonatocalix[4]arene,calixarene,3.9074
+host_cold,3,test,1820,48,90,Dimetoxinaphtaleneglycoluril dimer,other,4.0414
+host_cold,3,test,1831,95,74,"Hexakis(2,3,6-tri-o-methyl)-alpha-cyclodextrin",cyclodextrin,1.8613
+host_cold,3,test,1833,15,39,Octa acid cavitand,cavitand,1.2304
+host_cold,3,test,1841,30,988,p-Sulfonatocalix[6]arene,calixarene,5.0414
+host_cold,3,test,1845,110,555,sulfonated pillar[7]arene,pillararene,6.5611
+host_cold,3,test,1849,48,990,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,1.3979
+host_cold,3,test,1858,32,994,carboxylated azocalix[4]arene,calixarene,6.7324
+host_cold,3,test,1859,48,995,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,6.7709
+host_cold,3,test,1861,1,465,p-Sulfonatocalix[4]arene,calixarene,4.2304
+host_cold,3,test,1866,1,998,p-Sulfonatocalix[4]arene,calixarene,4.6998
+host_cold,3,test,1867,30,680,p-Sulfonatocalix[6]arene,calixarene,4.143
+host_cold,3,test,1870,15,999,Octa acid cavitand,cavitand,4.6021
+host_cold,3,test,1871,37,13,Ethylenediaminetetraacetic acid,other,0.1492
+host_cold,3,test,1872,30,112,p-Sulfonatocalix[6]arene,calixarene,3.4914
+host_cold,3,test,1875,172,301,Acyclic di-(sodium(3-((4-(2-azidoethoxy)naphthalen-1-yl)oxy)propane-1-sulfonate) Cucurbituril (tetrametic glycourilunit)sodium,cucurbituril,3.5564
+host_cold,3,test,1877,1,143,p-Sulfonatocalix[4]arene,calixarene,4.2304
+host_cold,3,test,1879,135,1001,1-[5-(Carbamoylmethyl-isopropyl-carbamoyl)-1H-pyrrole-2-ylcarbonyl]guanidinium,other,2.7672
+host_cold,3,test,1885,30,104,p-Sulfonatocalix[6]arene,calixarene,1.9138
+host_cold,3,test,1887,34,72,p-sulfonatocalix[4]arene-(mono-carboxymethyl-substituted),calixarene,2.4857
+host_cold,3,test,1889,1,1005,p-Sulfonatocalix[4]arene,calixarene,1.1801
+host_cold,3,test,1895,1,764,p-Sulfonatocalix[4]arene,calixarene,2.84
+host_cold,3,test,1896,30,18,p-Sulfonatocalix[6]arene,calixarene,3.1608
+host_cold,3,test,1904,1,215,p-Sulfonatocalix[4]arene,calixarene,1.8921
+host_cold,3,test,1906,1,32,p-Sulfonatocalix[4]arene,calixarene,3.6
+host_cold,3,test,1908,15,954,Octa acid cavitand,cavitand,4.4564
+host_cold,3,test,1909,37,161,Ethylenediaminetetraacetic acid,other,9.1206
+host_cold,3,test,1910,1,397,p-Sulfonatocalix[4]arene,calixarene,3.13
+host_cold,3,test,1915,63,57,p-sulfonatocalix[8]arene,calixarene,2.5315
+host_cold,3,test,1917,1,1014,p-Sulfonatocalix[4]arene,calixarene,3.6335
+host_cold,3,test,1922,40,1015,p-immidazoliumcalix[4]arene-3C,calixarene,3.9912
+host_cold,3,test,1928,178,1018,Deprotonated calix[4]resorcinarene,calixarene,3.5
+host_cold,3,test,1933,1,1019,p-Sulfonatocalix[4]arene,calixarene,4.3424
+host_cold,3,test,1934,1,288,p-Sulfonatocalix[4]arene,calixarene,3.24
+host_cold,3,test,1943,63,18,p-sulfonatocalix[8]arene,calixarene,3.5397
+host_cold,3,test,1949,63,988,p-sulfonatocalix[8]arene,calixarene,5.658
+host_cold,3,test,1950,1,1023,p-Sulfonatocalix[4]arene,calixarene,5.1461
+host_cold,3,test,1957,179,156,Cryptophane-A-acid,other,2.9294
+host_cold,3,test,1959,1,337,p-Sulfonatocalix[4]arene,calixarene,2.0792
+host_cold,3,test,1962,0,140,"Acyclic sodium 4,4'-(naphthalene-1,4-diyl)bis(butane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,6.6812
+host_cold,3,test,1964,135,1026,1-[5-(Carbamoylmethyl-isopropyl-carbamoyl)-1H-pyrrole-2-ylcarbonyl]guanidinium,other,3.5289
+host_cold,3,test,1973,30,998,p-Sulfonatocalix[6]arene,calixarene,4.6998
+host_cold,3,test,1985,178,26,Deprotonated calix[4]resorcinarene,calixarene,3.2
+host_cold,3,test,2014,0,1039,"Acyclic sodium 4,4'-(naphthalene-1,4-diyl)bis(butane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,8.8921
+host_cold,3,test,2016,110,140,sulfonated pillar[7]arene,pillararene,7.1818
+host_cold,3,test,2018,1,1040,p-Sulfonatocalix[4]arene,calixarene,4.0792
+host_cold,3,test,2025,183,516,1-[5-(Butylcarbamoyl)-1H-pyrrole-2-ylcarbonyl]guanidinium,other,2.8388
+host_cold,3,test,2031,1,527,p-Sulfonatocalix[4]arene,calixarene,2.6812
+host_cold,3,test,2033,63,215,p-sulfonatocalix[8]arene,calixarene,1.8129
+host_cold,3,test,2039,135,296,1-[5-(Carbamoylmethyl-isopropyl-carbamoyl)-1H-pyrrole-2-ylcarbonyl]guanidinium,other,3.0022
+host_cold,3,test,2049,25,351,"5,11,17,23-Tetrakis(dihydroxyphosphoryl)-25,26, 27,28-tetrapropoxycalix[4]arene",calixarene,2.0569
+host_cold,3,test,2054,30,337,p-Sulfonatocalix[6]arene,calixarene,2.0492
+host_cold,3,test,2059,0,768,"Acyclic sodium 4,4'-(naphthalene-1,4-diyl)bis(butane-1-sulfonate) Cucurbituril (tetrameric glycourilunit)",cucurbituril,6.3617
+host_cold,3,test,2060,48,1045,"(1,1',4,4')-Tetraoxy-propylsulphite-bisnaftlen-methylen-bisglycouril Sodium",other,4.8014
+host_cold,3,test,2061,110,238,sulfonated pillar[7]arene,pillararene,6.4533
+host_cold,3,test,2067,1,420,p-Sulfonatocalix[4]arene,calixarene,3.39
+host_cold,3,test,2069,1,332,p-Sulfonatocalix[4]arene,calixarene,3.8865
+host_cold,3,test,2071,86,5,"1,3,5-tris[[(4s)-4-[3-[4-(sodiosulfo)butoxy]phenyl]-2-oxazoline-2-yl]methyl]-2,4,6-triethylbenzene",other,1.9345
+host_cold,3,test,2076,30,369,p-Sulfonatocalix[6]arene,calixarene,1.1206
+host_cold,3,test,2083,1,1052,p-Sulfonatocalix[4]arene,calixarene,1.8162
+host_cold,3,test,2090,63,599,p-sulfonatocalix[8]arene,calixarene,4.5315
+host_cold,3,test,2092,1,201,p-Sulfonatocalix[4]arene,calixarene,2.143
+host_cold,3,test,2099,30,658,p-Sulfonatocalix[6]arene,calixarene,4.8
+host_cold,3,test,2101,32,212,carboxylated azocalix[4]arene,calixarene,6.301
+host_cold,3,test,2104,1,625,p-Sulfonatocalix[4]arene,calixarene,3.7451
+host_cold,3,test,2109,1,165,p-Sulfonatocalix[4]arene,calixarene,3.81
+host_cold,3,test,2116,25,604,"5,11,17,23-Tetrakis(dihydroxyphosphoryl)-25,26, 27,28-tetrapropoxycalix[4]arene",calixarene,1.8573
+host_cold,3,test,2121,30,286,p-Sulfonatocalix[6]arene,calixarene,4.8
+host_cold,3,test,2137,155,406,bisurea-receptor-tBu,other,3.659
+host_cold,3,test,2139,135,516,1-[5-(Carbamoylmethyl-isopropyl-carbamoyl)-1H-pyrrole-2-ylcarbonyl]guanidinium,other,3.2068
+host_cold,3,test,2144,178,286,Deprotonated calix[4]resorcinarene,calixarene,3.9
+host_cold,3,test,2148,1,1064,p-Sulfonatocalix[4]arene,calixarene,3.83
+host_cold,3,test,2150,1,525,p-Sulfonatocalix[4]arene,calixarene,3.22
+host_cold,3,test,2160,1,1067,p-Sulfonatocalix[4]arene,calixarene,3.82
+host_cold,3,test,2162,1,556,p-Sulfonatocalix[4]arene,calixarene,2.4031
+host_cold,4,test,8,7,8,methyl (S)-2-(l4-azaneyl)-3-(((5-((diaminomethyl)carbamoyl)-1H-pyrrol-2-yl)methyl)-l4-azaneyl)propanoate,other,3.3222
+host_cold,4,test,9,8,9,Cucurbit[6]uril,cucurbituril,1.9869
+host_cold,4,test,10,9,10,syn-Amide Naphthotube,other,2.3263
+host_cold,4,test,15,14,15,p-sulfonatocalix[6]arene-(mono aminoethyl-substituted),calixarene,3.7342
+host_cold,4,test,22,17,22,"Tetramethyl((2,2,10,10-tetramethyl-65,145-dinitro-4,8,12,16-tetraoxa-1,3,9,11(1,4),6,14(1,3)-hexabenzenacyclohexadecaphane-13,33,92,113-tetrayl)tetrakis(methylene))tetrakis(phosphonate)",other,2.1847
+host_cold,4,test,50,8,49,Cucurbit[6]uril,cucurbituril,2.78
+host_cold,4,test,54,8,53,Cucurbit[6]uril,cucurbituril,3.89
+host_cold,4,test,56,8,55,Cucurbit[6]uril,cucurbituril,1.5108
+host_cold,4,test,60,35,58,Molecular Tweezer-sodium dimethylphosphonate,other,2.9542
+host_cold,4,test,62,9,60,anti-Amide Naphthotube,other,1.2304
+host_cold,4,test,64,8,62,Cucurbit[6]uril,cucurbituril,3.8573
+host_cold,4,test,67,38,65,"Di(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylicacid)-cyclophane",cyclophane,6.2274
+host_cold,4,test,70,8,68,Cucurbit[6]uril,cucurbituril,2.7185
+host_cold,4,test,94,49,90,Dimetoxixylyleneglycoluril trimer,other,3.8692
+host_cold,4,test,97,51,93,cucurbit[10]uril,cucurbituril,7.9031
+host_cold,4,test,99,52,15,p-sulfonatocalix[6]arene-(mono carboxymethyl-substituted),calixarene,3.5053
+host_cold,4,test,107,9,100,syn-Amide Naphthotube,other,4.3365
+host_cold,4,test,119,35,22,Molecular Tweezer-sodium dimethylphosphonate,other,2.5911
+host_cold,4,test,120,56,110,heptakis-O-(2-hydroxypropyl)-β Cyclodextrin,cyclodextrin,2.404
+host_cold,4,test,131,35,116,Molecular Tweezer-sodium dimethylphosphonate,other,3.7404
+host_cold,4,test,136,56,120,heptakis-O-(2-hydroxypropyl)-β Cyclodextrin,cyclodextrin,3.0652
+host_cold,4,test,146,35,128,Molecular Tweezer-sodium dimethylphosphonate,other,3.0613
+host_cold,4,test,169,67,147,dodeca(PEG)bambus[6]uril,other,5.1271
+host_cold,4,test,177,8,154,Cucurbit[6]uril,cucurbituril,2.305
+host_cold,4,test,179,8,156,Cucurbit[6]uril,cucurbituril,3.4889
+host_cold,4,test,182,69,158,syn amine naphthotube,other,3.699
+host_cold,4,test,189,72,165,Meta-ethylphenylcucurbit[6]urils,cucurbituril,6.3692
+host_cold,4,test,191,9,167,anti-Amide Naphthotube,other,3.5435
+host_cold,4,test,192,56,46,heptakis-O-(2-hydroxypropyl)-β Cyclodextrin,cyclodextrin,2.6812
+host_cold,4,test,204,52,178,p-sulfonatocalix[6]arene-(mono carboxymethyl-substituted),calixarene,3.234
+host_cold,4,test,209,9,182,syn-Amide Naphthotube,other,1.8595
+host_cold,4,test,210,75,183,Dodecamethylbambus[6]uril,other,4.3201
+host_cold,4,test,216,72,181,Meta-ethylphenylcucurbit[6]urils,cucurbituril,8.5315
+host_cold,4,test,222,35,102,Molecular Tweezer-sodium dimethylphosphonate,other,4.0585
+host_cold,4,test,227,9,196,anti-Amide Naphthotube,other,2.5509
+host_cold,4,test,236,9,203,syn-Amide Naphthotube,other,2.0328
+host_cold,4,test,241,38,206,"Di(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylicacid)-cyclophane",cyclophane,3.3222
+host_cold,4,test,251,81,212,Dimetoxinaphtaleneglycoluril trimer,other,3.301
+host_cold,4,test,253,9,214,syn-Amide Naphthotube,other,5.2196
+host_cold,4,test,255,8,216,Cucurbit[6]uril,cucurbituril,4.0
+host_cold,4,test,259,56,218,heptakis-O-(2-hydroxypropyl)-β Cyclodextrin,cyclodextrin,2.382
+host_cold,4,test,266,8,222,Cucurbit[6]uril,cucurbituril,4.3771
+host_cold,4,test,272,85,227,γ-Cyclodextrin,cyclodextrin,2.0792
+host_cold,4,test,285,8,215,Cucurbit[6]uril,cucurbituril,3.0199
+host_cold,4,test,295,38,242,"Di(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylicacid)-cyclophane",cyclophane,4.3385
+host_cold,4,test,296,8,243,Cucurbit[6]uril,cucurbituril,3.5
+host_cold,4,test,297,8,229,Cucurbit[6]uril,cucurbituril,3.2466
+host_cold,4,test,303,35,247,Molecular Tweezer-sodium dimethylphosphonate,other,2.9494
+host_cold,4,test,309,67,82,dodeca(PEG)bambus[6]uril,other,5.1139
+host_cold,4,test,320,75,259,Dodecamethylbambus[6]uril,other,4.2304
+host_cold,4,test,322,35,261,Molecular Tweezer-sodium dimethylphosphonate,other,3.5737
+host_cold,4,test,324,85,262,γ-Cyclodextrin,cyclodextrin,1.4598
+host_cold,4,test,327,9,265,syn-Amide Naphthotube,other,2.6544
+host_cold,4,test,331,17,266,"Tetramethyl((2,2,10,10-tetramethyl-65,145-dinitro-4,8,12,16-tetraoxa-1,3,9,11(1,4),6,14(1,3)-hexabenzenacyclohexadecaphane-13,33,92,113-tetrayl)tetrakis(methylene))tetrakis(phosphonate)",other,2.3096
+host_cold,4,test,332,69,267,syn amine naphthotube,other,4.2236
+host_cold,4,test,333,8,268,Cucurbit[6]uril,cucurbituril,3.2553
+host_cold,4,test,342,9,182,anti-Amide Naphthotube,other,1.7782
+host_cold,4,test,349,85,280,γ-Cyclodextrin,cyclodextrin,4.1532
+host_cold,4,test,355,94,283,Triphenylene receptor,other,0.0
+host_cold,4,test,362,8,287,Cucurbit[6]uril,cucurbituril,4.8
+host_cold,4,test,368,98,95,Mono(6-carboxymethylamino-6-deoxy)-β-Cyclodextrin,cyclodextrin,3.3465
+host_cold,4,test,372,9,292,anti-Amide Naphthotube,other,2.1597
+host_cold,4,test,374,8,201,Cucurbit[6]uril,cucurbituril,2.38
+host_cold,4,test,375,8,294,Cucurbit[6]uril,cucurbituril,5.1703
+host_cold,4,test,376,9,295,anti-Amide Naphthotube,other,2.0792
+host_cold,4,test,378,52,72,p-sulfonatocalix[6]arene-(mono carboxymethyl-substituted),calixarene,3.0175
+host_cold,4,test,388,9,304,anti-Amide Naphthotube,other,2.7931
+host_cold,4,test,395,35,309,Molecular Tweezer-sodium dimethylphosphonate,other,3.0396
+host_cold,4,test,400,8,314,Cucurbit[6]uril,cucurbituril,2.9
+host_cold,4,test,401,52,215,p-sulfonatocalix[6]arene-(mono carboxymethyl-substituted),calixarene,1.8388
+host_cold,4,test,408,14,215,p-sulfonatocalix[6]arene-(mono aminoethyl-substituted),calixarene,2.1004
+host_cold,4,test,414,94,321,Triphenylene receptor,other,2.2041
+host_cold,4,test,419,8,324,Cucurbit[6]uril,cucurbituril,4.0
+host_cold,4,test,422,8,326,Cucurbit[6]uril,cucurbituril,2.5548
+host_cold,4,test,424,38,328,"Tri(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylic acid)-cyclophane",cyclophane,5.7223
+host_cold,4,test,428,8,143,Cucurbit[6]uril,cucurbituril,4.1614
+host_cold,4,test,429,8,330,Cucurbit[6]uril,cucurbituril,1.0
+host_cold,4,test,434,98,198,Mono(6-carboxymethylamino-6-deoxy)-β-Cyclodextrin,cyclodextrin,3.6057
+host_cold,4,test,439,100,46,Amphipilic Cholin-alkyl-subsituted Calix[5]arene,calixarene,6.5051
+host_cold,4,test,440,8,336,Cucurbit[6]uril,cucurbituril,1.0
+host_cold,4,test,442,52,337,p-sulfonatocalix[6]arene-(mono carboxymethyl-substituted),calixarene,2.2253
+host_cold,4,test,445,38,339,"Tri(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylic acid)-cyclophane",cyclophane,4.6532
+host_cold,4,test,448,8,341,Cucurbit[6]uril,cucurbituril,2.2261
+host_cold,4,test,459,8,349,Cucurbit[6]uril,cucurbituril,4.4472
+host_cold,4,test,461,35,351,Molecular Tweezer-sodium dimethylphosphonate,other,2.2553
+host_cold,4,test,463,8,172,Cucurbit[6]uril,cucurbituril,3.4
+host_cold,4,test,465,8,354,Cucurbit[6]uril,cucurbituril,2.64
+host_cold,4,test,467,8,355,Cucurbit[6]uril,cucurbituril,2.7404
+host_cold,4,test,472,103,359,"Hemimethyl-substituted Cucurbit[7]uril, Cucurbituril[7]",cucurbituril,5.8479
+host_cold,4,test,474,8,361,Cucurbit[6]uril,cucurbituril,3.8976
+host_cold,4,test,476,8,363,Cucurbit[6]uril,cucurbituril,4.0
+host_cold,4,test,480,14,126,p-sulfonatocalix[6]arene-(mono aminoethyl-substituted),calixarene,2.3096
+host_cold,4,test,481,8,366,Cucurbit[6]uril,cucurbituril,1.0
+host_cold,4,test,484,104,161,"4,7,10,16,19,24,27-Heptaoxa-1,13-diazabicyclo[11.8.8]nonacosane",other,2.0
+host_cold,4,test,486,8,368,Cucurbit[6]uril,cucurbituril,5.778
+host_cold,4,test,496,69,375,anti amine naphthotube,other,4.1703
+host_cold,4,test,500,8,379,Cucurbit[6]uril,cucurbituril,1.8567
+host_cold,4,test,504,8,382,Cucurbit[6]uril,cucurbituril,1.0
+host_cold,4,test,513,69,388,anti amine naphthotube,other,3.5888
+host_cold,4,test,519,69,390,anti amine naphthotube,other,3.2878
+host_cold,4,test,534,8,398,Cucurbit[6]uril,cucurbituril,2.6726
+host_cold,4,test,539,94,122,Triphenylene receptor,other,1.9395
+host_cold,4,test,549,56,407,heptakis-O-(2-hydroxypropyl)-β Cyclodextrin,cyclodextrin,4.0966
+host_cold,4,test,554,85,54,γ-Cyclodextrin,cyclodextrin,2.2834
+host_cold,4,test,556,114,224,"6I-O-(1-naphtholxy)-2I,31-di-O- methylhexakis(2II-VII,3II-VII,6II-VII-tri-O-methyl)-B-cyclodextrin",cyclodextrin,2.959
+host_cold,4,test,564,8,414,Cucurbit[6]uril,cucurbituril,1.0414
+host_cold,4,test,566,8,416,Cucurbit[6]uril,cucurbituril,2.8
+host_cold,4,test,567,115,215,4-butyl-7-(diethylamino)-2-oxochromene-3-carbaldehyde,other,0.1461
+host_cold,4,test,569,8,417,Cucurbit[6]uril,cucurbituril,2.92
+host_cold,4,test,573,8,420,Cucurbit[6]uril,cucurbituril,3.7634
+host_cold,4,test,576,117,175,bisurea-receptor,other,2.1761
+host_cold,4,test,586,9,429,anti-Amide Naphthotube,other,1.8218
+host_cold,4,test,591,17,171,"Tetramethyl((2,2,10,10-tetramethyl-65,145-dinitro-4,8,12,16-tetraoxa-1,3,9,11(1,4),6,14(1,3)-hexabenzenacyclohexadecaphane-13,33,92,113-tetrayl)tetrakis(methylene))tetrakis(phosphonate)",other,2.3909
+host_cold,4,test,595,69,437,anti amine naphthotube,other,3.8739
+host_cold,4,test,602,35,439,Molecular Tweezer-sodium dimethylphosphonate,other,3.1022
+host_cold,4,test,608,8,174,Cucurbit[6]uril,cucurbituril,3.2041
+host_cold,4,test,614,69,447,syn amine naphthotube,other,5.3079
+host_cold,4,test,615,8,448,Cucurbit[6]uril,cucurbituril,2.79
+host_cold,4,test,616,69,126,anti amine naphthotube,other,1.9138
+host_cold,4,test,625,9,265,anti-Amide Naphthotube,other,2.4324
+host_cold,4,test,638,98,61,Mono(6-carboxymethylamino-6-deoxy)-β-Cyclodextrin,cyclodextrin,3.6841
+host_cold,4,test,643,8,462,Cucurbit[6]uril,cucurbituril,2.7076
+host_cold,4,test,644,9,463,syn-Amide Naphthotube,other,2.5203
+host_cold,4,test,655,9,468,anti-Amide Naphthotube,other,3.356
+host_cold,4,test,656,69,16,anti amine naphthotube,other,2.3838
+host_cold,4,test,660,9,470,syn-Amide Naphthotube,other,1.4914
+host_cold,4,test,666,69,473,anti amine naphthotube,other,4.1206
+host_cold,4,test,667,8,474,Cucurbit[6]uril,cucurbituril,3.27
+host_cold,4,test,676,9,479,syn-Amide Naphthotube,other,2.1703
+host_cold,4,test,679,9,481,syn-Amide Naphthotube,other,4.6551
+host_cold,4,test,681,85,155,γ-Cyclodextrin,cyclodextrin,1.6618
+host_cold,4,test,688,8,486,Cucurbit[6]uril,cucurbituril,3.4771
+host_cold,4,test,689,126,212,Dimetoxixylyleneglycoluril dimer,other,3.5441
+host_cold,4,test,690,9,487,syn-Amide Naphthotube,other,3.6072
+host_cold,4,test,692,8,489,Cucurbit[6]uril,cucurbituril,6.9025
+host_cold,4,test,694,9,491,anti-Amide Naphthotube,other,2.0414
+host_cold,4,test,695,9,492,anti-Amide Naphthotube,other,3.7151
+host_cold,4,test,696,85,493,γ-Cyclodextrin,cyclodextrin,1.6021
+host_cold,4,test,699,9,494,syn-Amide Naphthotube,other,2.6776
+host_cold,4,test,701,38,328,"Di(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylicacid)-cyclophane",cyclophane,4.9685
+host_cold,4,test,708,69,388,syn amine naphthotube,other,3.6042
+host_cold,4,test,717,69,16,syn amine naphthotube,other,2.1303
+host_cold,4,test,725,8,507,Cucurbit[6]uril,cucurbituril,3.8081
+host_cold,4,test,737,9,211,anti-Amide Naphthotube,other,2.2041
+host_cold,4,test,738,85,91,γ-Cyclodextrin,cyclodextrin,1.0
+host_cold,4,test,744,51,517,cucurbit[10]uril,cucurbituril,7.0
+host_cold,4,test,746,9,214,anti-Amide Naphthotube,other,4.9764
+host_cold,4,test,749,75,521,Dodecamethylbambus[6]uril,other,2.891
+host_cold,4,test,751,8,522,Cucurbit[6]uril,cucurbituril,4.0
+host_cold,4,test,755,133,523,p-sulfonatocalix[8]arene-(carboxymethyl-substituted),calixarene,1.6532
+host_cold,4,test,759,117,472,bisurea-receptor,other,3.2041
+host_cold,4,test,760,9,492,syn-Amide Naphthotube,other,3.8287
+host_cold,4,test,765,94,37,Triphenylene receptor,other,2.2695
+host_cold,4,test,767,14,108,p-sulfonatocalix[6]arene-(mono aminoethyl-substituted),calixarene,2.828
+host_cold,4,test,772,38,530,"Tri(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylic acid)-cyclophane",cyclophane,4.8976
+host_cold,4,test,782,94,536,Triphenylene receptor,other,2.3032
+host_cold,4,test,783,38,449,"Tri(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylic acid)-cyclophane",cyclophane,4.7482
+host_cold,4,test,784,8,537,Cucurbit[6]uril,cucurbituril,4.5378
+host_cold,4,test,794,94,542,Triphenylene receptor,other,2.3747
+host_cold,4,test,800,9,545,anti-Amide Naphthotube,other,2.3765
+host_cold,4,test,804,9,549,syn-Amide Naphthotube,other,4.4298
+host_cold,4,test,807,94,550,Triphenylene receptor,other,2.1732
+host_cold,4,test,812,85,554,γ-Cyclodextrin,cyclodextrin,2.2788
+host_cold,4,test,814,138,212,Dimetoxinaphtaleneglycoluril,other,4.3424
+host_cold,4,test,821,85,121,γ-Cyclodextrin,cyclodextrin,3.3948
+host_cold,4,test,823,85,104,γ-Cyclodextrin,cyclodextrin,0.7782
+host_cold,4,test,826,8,561,Cucurbit[6]uril,cucurbituril,5.2833
+host_cold,4,test,827,139,389,"5,11,17,23-Tetraamino-25,26,27,28-tetrahydroxycalix[4]arene",calixarene,4.0
+host_cold,4,test,828,115,178,4-butyl-7-(diethylamino)-2-oxochromene-3-carbaldehyde,other,0.8129
+host_cold,4,test,830,9,563,anti-Amide Naphthotube,other,1.8388
+host_cold,4,test,831,8,564,Cucurbit[6]uril,cucurbituril,2.7898
+host_cold,4,test,832,8,565,Cucurbit[6]uril,cucurbituril,2.7924
+host_cold,4,test,840,8,569,Cucurbit[6]uril,cucurbituril,2.7482
+host_cold,4,test,845,133,57,p-sulfonatocalix[8]arene-(carboxymethyl-substituted),calixarene,1.699
+host_cold,4,test,849,142,574,"Acyclic sodium 3,3'-(naphthalene-2,7-diyl)bis(propane-1-sulfonate) Cucurbituril (tetrameric Glycourilunit)",cucurbituril,3.5798
+host_cold,4,test,852,9,62,anti-Amide Naphthotube,other,1.9503
+host_cold,4,test,856,94,578,Triphenylene receptor,other,0.0
+host_cold,4,test,866,9,585,syn-Amide Naphthotube,other,3.2553
+host_cold,4,test,869,143,586,"undecacyclo[36.2.2.22,5.26,9.210,13.214,17.218,21.222,25.226,29.230,33.234,37]hexaconta-1(40),2(60),3,5(59),6(58),7,9(57),10(56),11,13(55),14(54),15,17(53),18(52),19,21(51),22,24,26,28,30,32,34,36,38,41,43,45,47,49-triacontaene",other,6.7559
+host_cold,4,test,872,9,549,anti-Amide Naphthotube,other,3.7586
+host_cold,4,test,873,67,589,dodeca(PEG)bambus[6]uril,other,5.1173
+host_cold,4,test,874,8,572,Cucurbit[6]uril,cucurbituril,3.1501
+host_cold,4,test,895,69,600,anti amine naphthotube,other,3.0766
+host_cold,4,test,897,38,602,"Tri(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylic acid)-cyclophane",cyclophane,5.7324
+host_cold,4,test,898,94,603,Triphenylene receptor,other,0.0
+host_cold,4,test,906,14,57,p-sulfonatocalix[6]arene-(mono aminoethyl-substituted),calixarene,2.5527
+host_cold,4,test,907,9,608,syn-Amide Naphthotube,other,2.2945
+host_cold,4,test,908,14,18,p-sulfonatocalix[6]arene-(mono aminoethyl-substituted),calixarene,3.4735
+host_cold,4,test,910,8,258,Cucurbit[6]uril,cucurbituril,2.5584
+host_cold,4,test,914,38,611,"Di(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylicacid)-cyclophane",cyclophane,4.6021
+host_cold,4,test,917,9,613,anti-Amide Naphthotube,other,2.5955
+host_cold,4,test,927,9,10,anti-Amide Naphthotube,other,2.316
+host_cold,4,test,929,115,620,4-butyl-7-(diethylamino)-2-oxochromene-3-carbaldehyde,other,1.0969
+host_cold,4,test,931,69,621,syn amine naphthotube,other,2.9782
+host_cold,4,test,937,38,530,"Di(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylicacid)-cyclophane",cyclophane,4.6902
+host_cold,4,test,938,9,481,anti-Amide Naphthotube,other,4.0914
+host_cold,4,test,950,9,167,syn-Amide Naphthotube,other,4.0758
+host_cold,4,test,953,9,429,syn-Amide Naphthotube,other,1.7279
+host_cold,4,test,954,69,631,anti amine naphthotube,other,5.6803
+host_cold,4,test,956,8,632,Cucurbit[6]uril,cucurbituril,3.5899
+host_cold,4,test,957,9,633,syn-Amide Naphthotube,other,1.8921
+host_cold,4,test,967,69,637,anti amine naphthotube,other,3.6866
+host_cold,4,test,970,8,638,Cucurbit[6]uril,cucurbituril,2.7709
+host_cold,4,test,971,85,67,γ-Cyclodextrin,cyclodextrin,3.7817
+host_cold,4,test,972,69,639,syn amine naphthotube,other,4.1004
+host_cold,4,test,974,8,640,Cucurbit[6]uril,cucurbituril,2.79
+host_cold,4,test,976,9,487,anti-Amide Naphthotube,other,3.3149
+host_cold,4,test,980,38,643,"Di(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylicacid)-cyclophane",cyclophane,4.2833
+host_cold,4,test,982,8,645,Cucurbit[6]uril,cucurbituril,5.3424
+host_cold,4,test,986,38,206,"Tri(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylic acid)-cyclophane",cyclophane,3.3222
+host_cold,4,test,989,85,250,γ-Cyclodextrin,cyclodextrin,1.4771
+host_cold,4,test,1001,9,656,syn-Amide Naphthotube,other,2.1903
+host_cold,4,test,1010,142,661,"Acyclic sodium 3,3'-(naphthalene-2,7-diyl)bis(propane-1-sulfonate) Cucurbituril (tetrameric Glycourilunit)",cucurbituril,6.0
+host_cold,4,test,1015,52,108,p-sulfonatocalix[6]arene-(mono carboxymethyl-substituted),calixarene,3.1688
+host_cold,4,test,1020,8,477,Cucurbit[6]uril,cucurbituril,3.16
+host_cold,4,test,1030,9,463,anti-Amide Naphthotube,other,2.1673
+host_cold,4,test,1041,8,144,Cucurbit[6]uril,cucurbituril,3.3222
+host_cold,4,test,1042,8,288,Cucurbit[6]uril,cucurbituril,3.1901
+host_cold,4,test,1043,8,525,Cucurbit[6]uril,cucurbituril,2.57
+host_cold,4,test,1046,35,114,Molecular Tweezer-sodium dimethylphosphonate,other,2.9912
+host_cold,4,test,1049,8,676,Cucurbit[6]uril,cucurbituril,2.74
+host_cold,4,test,1053,8,133,Cucurbit[6]uril,cucurbituril,5.3096
+host_cold,4,test,1057,152,679,"2,3-[1,2-phenylenebis[oxy(3,6-dioxaoctane-1,8-diyl)oxy]]quinoxaline",other,2.5315
+host_cold,4,test,1060,153,680,C41H45N5O2,other,3.959
+host_cold,4,test,1062,115,682,4-butyl-7-(diethylamino)-2-oxochromene-3-carbaldehyde,other,0.3802
+host_cold,4,test,1064,8,535,Cucurbit[6]uril,cucurbituril,8.6128
+host_cold,4,test,1070,9,675,syn-Amide Naphthotube,other,0.9542
+host_cold,4,test,1075,142,178,"Acyclic sodium 3,3'-(naphthalene-2,7-diyl)bis(propane-1-sulfonate) Cucurbituril (tetrameric Glycourilunit)",cucurbituril,2.5315
+host_cold,4,test,1077,115,687,4-butyl-7-(diethylamino)-2-oxochromene-3-carbaldehyde,other,0.3979
+host_cold,4,test,1081,35,689,Molecular Tweezer-sodium dimethylphosphonate,other,3.6232
+host_cold,4,test,1082,8,690,Cucurbit[6]uril,cucurbituril,2.699
+host_cold,4,test,1086,69,621,anti amine naphthotube,other,2.49
+host_cold,4,test,1087,8,692,Cucurbit[6]uril,cucurbituril,1.5108
+host_cold,4,test,1090,94,694,Triphenylene receptor,other,0.0
+host_cold,4,test,1092,9,695,anti-Amide Naphthotube,other,2.2523
+host_cold,4,test,1099,8,698,Cucurbit[6]uril,cucurbituril,6.4914
+host_cold,4,test,1101,81,650,Dimetoxinaphtaleneglycoluril trimer,other,4.1461
+host_cold,4,test,1102,8,21,Cucurbit[6]uril,cucurbituril,3.1801
+host_cold,4,test,1105,94,477,Triphenylene receptor,other,0.0
+host_cold,4,test,1107,85,360,γ-Cyclodextrin,cyclodextrin,2.1335
+host_cold,4,test,1108,9,470,anti-Amide Naphthotube,other,1.9973
+host_cold,4,test,1119,38,705,"Di(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylicacid)-cyclophane",cyclophane,4.2878
+host_cold,4,test,1123,8,708,Cucurbit[6]uril,cucurbituril,1.244
+host_cold,4,test,1151,69,473,syn amine naphthotube,other,3.8513
+host_cold,4,test,1153,69,720,syn amine naphthotube,other,2.8414
+host_cold,4,test,1169,69,390,syn amine naphthotube,other,3.6532
+host_cold,4,test,1170,69,720,anti amine naphthotube,other,2.0969
+host_cold,4,test,1172,8,256,Cucurbit[6]uril,cucurbituril,2.8089
+host_cold,4,test,1181,8,732,Cucurbit[6]uril,cucurbituril,6.1461
+host_cold,4,test,1192,51,737,cucurbit[10]uril,cucurbituril,6.8451
+host_cold,4,test,1193,94,738,Triphenylene receptor,other,2.2625
+host_cold,4,test,1195,94,658,Triphenylene receptor,other,2.5465
+host_cold,4,test,1197,9,675,anti-Amide Naphthotube,other,1.5949
+host_cold,4,test,1201,8,742,Cucurbit[6]uril,cucurbituril,0.0
+host_cold,4,test,1202,152,512,"2,3-[1,2-phenylenebis[oxy(3,6-dioxaoctane-1,8-diyl)oxy]]quinoxaline",other,2.6232
+host_cold,4,test,1204,94,50,Triphenylene receptor,other,0.0
+host_cold,4,test,1207,9,746,syn-Amide Naphthotube,other,3.3547
+host_cold,4,test,1208,8,440,Cucurbit[6]uril,cucurbituril,2.8
+host_cold,4,test,1211,8,749,Cucurbit[6]uril,cucurbituril,5.5772
+host_cold,4,test,1214,8,752,Cucurbit[6]uril,cucurbituril,2.7709
+host_cold,4,test,1216,104,115,"4,7,10,16,19,24,27-Heptaoxa-1,13-diazabicyclo[11.8.8]nonacosane",other,2.2
+host_cold,4,test,1217,35,753,Molecular Tweezer-sodium dimethylphosphonate,other,2.8451
+host_cold,4,test,1227,8,191,Cucurbit[6]uril,cucurbituril,4.9101
+host_cold,4,test,1236,69,447,anti amine naphthotube,other,5.3571
+host_cold,4,test,1238,8,762,Cucurbit[6]uril,cucurbituril,2.84
+host_cold,4,test,1239,9,763,anti-Amide Naphthotube,other,2.4829
+host_cold,4,test,1240,8,725,Cucurbit[6]uril,cucurbituril,4.1072
+host_cold,4,test,1245,8,284,Cucurbit[6]uril,cucurbituril,6.4201
+host_cold,4,test,1248,38,767,"Di(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylicacid)-cyclophane",cyclophane,3.8129
+host_cold,4,test,1258,51,772,cucurbit[10]uril,cucurbituril,9.2788
+host_cold,4,test,1260,115,773,4-butyl-7-(diethylamino)-2-oxochromene-3-carbaldehyde,other,0.8261
+host_cold,4,test,1269,115,777,4-butyl-7-(diethylamino)-2-oxochromene-3-carbaldehyde,other,0.5651
+host_cold,4,test,1272,142,623,"Acyclic sodium 3,3'-(naphthalene-2,7-diyl)bis(propane-1-sulfonate) Cucurbituril (tetrameric Glycourilunit)",cucurbituril,3.1761
+host_cold,4,test,1273,8,780,Cucurbit[6]uril,cucurbituril,3.87
+host_cold,4,test,1280,75,595,Dodecamethylbambus[6]uril,other,3.7709
+host_cold,4,test,1281,9,268,syn-Amide Naphthotube,other,2.4928
+host_cold,4,test,1283,8,401,Cucurbit[6]uril,cucurbituril,2.57
+host_cold,4,test,1292,69,437,syn amine naphthotube,other,3.6395
+host_cold,4,test,1294,8,334,Cucurbit[6]uril,cucurbituril,3.57
+host_cold,4,test,1300,9,268,anti-Amide Naphthotube,other,1.9802
+host_cold,4,test,1304,69,600,syn amine naphthotube,other,3.0231
+host_cold,4,test,1309,8,789,Cucurbit[6]uril,cucurbituril,3.34
+host_cold,4,test,1311,8,790,Cucurbit[6]uril,cucurbituril,7.301
+host_cold,4,test,1314,133,56,p-sulfonatocalix[8]arene-(carboxymethyl-substituted),calixarene,2.0374
+host_cold,4,test,1330,8,194,Cucurbit[6]uril,cucurbituril,2.45
+host_cold,4,test,1336,9,468,syn-Amide Naphthotube,other,3.5294
+host_cold,4,test,1339,9,800,anti-Amide Naphthotube,other,0.7782
+host_cold,4,test,1340,8,503,Cucurbit[6]uril,cucurbituril,2.88
+host_cold,4,test,1343,8,801,Cucurbit[6]uril,cucurbituril,5.2041
+host_cold,4,test,1345,56,193,heptakis-O-(2-hydroxypropyl)-β Cyclodextrin,cyclodextrin,2.8875
+host_cold,4,test,1346,8,802,Cucurbit[6]uril,cucurbituril,4.5527
+host_cold,4,test,1350,8,335,Cucurbit[6]uril,cucurbituril,2.41
+host_cold,4,test,1351,67,39,dodeca(PEG)bambus[6]uril,other,7.5051
+host_cold,4,test,1356,8,497,Cucurbit[6]uril,cucurbituril,3.1139
+host_cold,4,test,1357,85,187,γ-Cyclodextrin,cyclodextrin,2.4014
+host_cold,4,test,1359,52,57,p-sulfonatocalix[6]arene-(mono carboxymethyl-substituted),calixarene,1.8195
+host_cold,4,test,1365,69,810,anti amine naphthotube,other,1.9912
+host_cold,4,test,1368,69,637,syn amine naphthotube,other,3.5185
+host_cold,4,test,1373,8,812,Cucurbit[6]uril,cucurbituril,3.5899
+host_cold,4,test,1380,8,115,Cucurbit[6]uril,cucurbituril,2.79
+host_cold,4,test,1390,9,545,syn-Amide Naphthotube,other,2.4857
+host_cold,4,test,1394,9,822,syn-Amide Naphthotube,other,2.1239
+host_cold,4,test,1395,8,687,Cucurbit[6]uril,cucurbituril,3.37
+host_cold,4,test,1396,8,823,Cucurbit[6]uril,cucurbituril,5.7322
+host_cold,4,test,1397,69,267,anti amine naphthotube,other,4.7256
+host_cold,4,test,1402,8,826,Cucurbit[6]uril,cucurbituril,2.82
+host_cold,4,test,1412,72,833,Meta-ethylphenylcucurbit[6]urils,cucurbituril,8.2923
+host_cold,4,test,1415,69,158,anti amine naphthotube,other,2.9494
+host_cold,4,test,1416,115,523,4-butyl-7-(diethylamino)-2-oxochromene-3-carbaldehyde,other,0.6021
+host_cold,4,test,1417,9,100,anti-Amide Naphthotube,other,3.9098
+host_cold,4,test,1421,49,650,Dimetoxixylyleneglycoluril trimer,other,3.1761
+host_cold,4,test,1426,56,558,heptakis-O-(2-hydroxypropyl)-β Cyclodextrin,cyclodextrin,3.8573
+host_cold,4,test,1435,8,843,Cucurbit[6]uril,cucurbituril,4.1987
+host_cold,4,test,1437,67,26,dodeca(PEG)bambus[6]uril,other,5.1139
+host_cold,4,test,1439,94,711,Triphenylene receptor,other,2.4425
+host_cold,4,test,1441,69,126,syn amine naphthotube,other,2.415
+host_cold,4,test,1443,8,613,Cucurbit[6]uril,cucurbituril,4.5563
+host_cold,4,test,1445,75,748,Dodecamethylbambus[6]uril,other,5.0414
+host_cold,4,test,1457,8,523,Cucurbit[6]uril,cucurbituril,3.67
+host_cold,4,test,1459,51,851,cucurbit[10]uril,cucurbituril,7.1761
+host_cold,4,test,1462,67,53,dodeca(PEG)bambus[6]uril,other,3.0792
+host_cold,4,test,1466,69,631,syn amine naphthotube,other,5.5729
+host_cold,4,test,1471,8,853,Cucurbit[6]uril,cucurbituril,5.29
+host_cold,4,test,1481,38,449,"Di(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylicacid)-cyclophane",cyclophane,4.5051
+host_cold,4,test,1483,67,472,dodeca(PEG)bambus[6]uril,other,7.3706
+host_cold,4,test,1484,164,406,H+Pyridine-bisurea-receptorTFA,other,4.6096
+host_cold,4,test,1485,8,857,Cucurbit[6]uril,cucurbituril,4.4914
+host_cold,4,test,1507,52,56,p-sulfonatocalix[6]arene-(mono carboxymethyl-substituted),calixarene,2.0374
+host_cold,4,test,1509,138,650,Dimetoxinaphtaleneglycoluril,other,3.415
+host_cold,4,test,1510,9,196,syn-Amide Naphthotube,other,2.4624
+host_cold,4,test,1511,139,464,"5,11,17,23-Tetraamino-25,26,27,28-tetrahydroxycalix[4]arene",calixarene,4.3617
+host_cold,4,test,1513,104,13,"4,7,10,16,19,24,27-Heptaoxa-1,13-diazabicyclo[11.8.8]nonacosane",other,2.0
+host_cold,4,test,1514,8,866,Cucurbit[6]uril,cucurbituril,0.0
+host_cold,4,test,1515,8,88,Cucurbit[6]uril,cucurbituril,2.8
+host_cold,4,test,1519,9,763,syn-Amide Naphthotube,other,2.4997
+host_cold,4,test,1522,133,215,p-sulfonatocalix[8]arene-(carboxymethyl-substituted),calixarene,1.8751
+host_cold,4,test,1523,85,30,γ-Cyclodextrin,cyclodextrin,1.7284
+host_cold,4,test,1528,8,625,Cucurbit[6]uril,cucurbituril,2.59
+host_cold,4,test,1534,8,2,Cucurbit[6]uril,cucurbituril,4.2201
+host_cold,4,test,1536,38,339,"Di(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylicacid)-cyclophane",cyclophane,5.301
+host_cold,4,test,1538,8,16,Cucurbit[6]uril,cucurbituril,2.7709
+host_cold,4,test,1543,104,63,"4,7,10,16,19,24,27-Heptaoxa-1,13-diazabicyclo[11.8.8]nonacosane",other,2.05
+host_cold,4,test,1544,75,699,Dodecamethylbambus[6]uril,other,4.2041
+host_cold,4,test,1553,69,810,syn amine naphthotube,other,2.0792
+host_cold,4,test,1555,117,456,bisurea-receptor,other,3.5198
+host_cold,4,test,1563,139,707,"5,11,17,23-Tetraamino-25,26,27,28-tetrahydroxycalix[4]arene",calixarene,4.5441
+host_cold,4,test,1567,17,179,"Tetramethyl((2,2,10,10-tetramethyl-65,145-dinitro-4,8,12,16-tetraoxa-1,3,9,11(1,4),6,14(1,3)-hexabenzenacyclohexadecaphane-13,33,92,113-tetrayl)tetrakis(methylene))tetrakis(phosphonate)",other,2.0086
+host_cold,4,test,1568,9,62,syn-Amide Naphthotube,other,2.0
+host_cold,4,test,1569,94,884,Triphenylene receptor,other,0.0
+host_cold,4,test,1574,9,656,anti-Amide Naphthotube,other,2.4518
+host_cold,4,test,1576,103,718,"Hemimethyl-substituted Cucurbit[7]uril, Cucurbituril[7]",cucurbituril,6.2999
+host_cold,4,test,1579,52,18,p-sulfonatocalix[6]arene-(mono carboxymethyl-substituted),calixarene,2.6365
+host_cold,4,test,1580,165,46,Octa-(6-O-(1-ethoxypropan-2-ol))-γ-Cyclodextrine,cyclodextrin,2.3802
+host_cold,4,test,1581,9,295,syn-Amide Naphthotube,other,1.8129
+host_cold,4,test,1585,14,178,p-sulfonatocalix[6]arene-(mono aminoethyl-substituted),calixarene,2.9912
+host_cold,4,test,1586,38,427,"Di(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylicacid)-cyclophane",cyclophane,3.8129
+host_cold,4,test,1587,94,22,Triphenylene receptor,other,2.3096
+host_cold,4,test,1590,14,72,p-sulfonatocalix[6]arene-(mono aminoethyl-substituted),calixarene,2.7589
+host_cold,4,test,1591,142,313,"Acyclic sodium 3,3'-(naphthalene-2,7-diyl)bis(propane-1-sulfonate) Cucurbituril (tetrameric Glycourilunit)",cucurbituril,6.0
+host_cold,4,test,1599,85,534,γ-Cyclodextrin,cyclodextrin,1.6128
+host_cold,4,test,1601,81,90,Dimetoxinaphtaleneglycoluril trimer,other,4.5563
+host_cold,4,test,1604,104,229,"4,7,10,16,19,24,27-Heptaoxa-1,13-diazabicyclo[11.8.8]nonacosane",other,1.65
+host_cold,4,test,1607,9,467,anti-Amide Naphthotube,other,1.301
+host_cold,4,test,1614,9,211,syn-Amide Naphthotube,other,0.9031
+host_cold,4,test,1621,8,902,Cucurbit[6]uril,cucurbituril,3.2695
+host_cold,4,test,1625,85,177,γ-Cyclodextrin,cyclodextrin,3.4969
+host_cold,4,test,1634,8,3,Cucurbit[6]uril,cucurbituril,3.828
+host_cold,4,test,1643,8,470,Cucurbit[6]uril,cucurbituril,3.0792
+host_cold,4,test,1646,8,913,Cucurbit[6]uril,cucurbituril,2.4318
+host_cold,4,test,1647,9,914,anti-Amide Naphthotube,other,1.6128
+host_cold,4,test,1651,35,604,Molecular Tweezer-sodium dimethylphosphonate,other,2.0792
+host_cold,4,test,1656,38,175,"Di(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylicacid)-cyclophane",cyclophane,4.9956
+host_cold,4,test,1664,8,921,Cucurbit[6]uril,cucurbituril,1.0
+host_cold,4,test,1670,81,544,Dimetoxinaphtaleneglycoluril trimer,other,3.9912
+host_cold,4,test,1672,9,608,anti-Amide Naphthotube,other,2.1303
+host_cold,4,test,1677,35,482,Molecular Tweezer-sodium dimethylphosphonate,other,4.3629
+host_cold,4,test,1682,51,925,cucurbit[10]uril,cucurbituril,7.0
+host_cold,4,test,1690,51,927,cucurbit[10]uril,cucurbituril,6.9956
+host_cold,4,test,1697,51,930,cucurbit[10]uril,cucurbituril,6.699
+host_cold,4,test,1701,115,933,4-butyl-7-(diethylamino)-2-oxochromene-3-carbaldehyde,other,0.716
+host_cold,4,test,1706,17,938,"Tetramethyl((2,2,10,10-tetramethyl-65,145-dinitro-4,8,12,16-tetraoxa-1,3,9,11(1,4),6,14(1,3)-hexabenzenacyclohexadecaphane-13,33,92,113-tetrayl)tetrakis(methylene))tetrakis(phosphonate)",other,2.1367
+host_cold,4,test,1711,85,900,γ-Cyclodextrin,cyclodextrin,1.0
+host_cold,4,test,1716,9,914,syn-Amide Naphthotube,other,2.2148
+host_cold,4,test,1717,94,171,Triphenylene receptor,other,2.2878
+host_cold,4,test,1719,9,203,anti-Amide Naphthotube,other,1.9542
+host_cold,4,test,1730,98,138,Mono(6-carboxymethylamino-6-deoxy)-β-Cyclodextrin,cyclodextrin,2.7782
+host_cold,4,test,1733,9,563,syn-Amide Naphthotube,other,2.5224
+host_cold,4,test,1742,69,951,anti amine naphthotube,other,3.0645
+host_cold,4,test,1745,7,953,methyl (S)-2-(l4-azaneyl)-3-(((5-((diaminomethyl)carbamoyl)-1H-pyrrol-2-yl)methyl)-l4-azaneyl)propanoate,other,2.6812
+host_cold,4,test,1756,85,961,γ-Cyclodextrin,cyclodextrin,5.7124
+host_cold,4,test,1758,52,126,p-sulfonatocalix[6]arene-(mono carboxymethyl-substituted),calixarene,1.9731
+host_cold,4,test,1762,72,170,Meta-ethylphenylcucurbit[6]urils,cucurbituril,7.4116
+host_cold,4,test,1769,9,964,anti-Amide Naphthotube,other,1.7634
+host_cold,4,test,1772,8,558,Cucurbit[6]uril,cucurbituril,1.716
+host_cold,4,test,1775,142,221,"Acyclic sodium 3,3'-(naphthalene-2,7-diyl)bis(propane-1-sulfonate) Cucurbituril (tetrameric Glycourilunit)",cucurbituril,3.8062
+host_cold,4,test,1777,9,800,syn-Amide Naphthotube,other,1.5441
+host_cold,4,test,1780,8,63,Cucurbit[6]uril,cucurbituril,2.68
+host_cold,4,test,1784,85,829,γ-Cyclodextrin,cyclodextrin,1.9395
+host_cold,4,test,1787,69,971,syn amine naphthotube,other,3.7466
+host_cold,4,test,1791,9,304,syn-Amide Naphthotube,other,2.7348
+host_cold,4,test,1795,38,974,"Di(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylicacid)-cyclophane",cyclophane,6.4314
+host_cold,4,test,1803,49,212,Dimetoxixylyleneglycoluril trimer,other,2.9395
+host_cold,4,test,1812,94,980,Triphenylene receptor,other,0.0
+host_cold,4,test,1822,152,982,"2,3-[1,2-phenylenebis[oxy(3,6-dioxaoctane-1,8-diyl)oxy]]quinoxaline",other,2.4914
+host_cold,4,test,1823,69,951,syn amine naphthotube,other,3.1106
+host_cold,4,test,1827,56,534,heptakis-O-(2-hydroxypropyl)-β Cyclodextrin,cyclodextrin,2.0792
+host_cold,4,test,1828,9,491,syn-Amide Naphthotube,other,1.2304
+host_cold,4,test,1830,38,643,"Tri(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylic acid)-cyclophane",cyclophane,4.4314
+host_cold,4,test,1840,171,987,"4-(2,7-di-tert-butyl-9,9-dimethyl-5-(3-(pyridin-2-yl)-5-(pyridin-3-yl)phenyl)-9H-xanthen-4-yl)benzoate-platinum(II) chlorid",other,4.8998
+host_cold,4,test,1847,17,37,"Tetramethyl((2,2,10,10-tetramethyl-65,145-dinitro-4,8,12,16-tetraoxa-1,3,9,11(1,4),6,14(1,3)-hexabenzenacyclohexadecaphane-13,33,92,113-tetrayl)tetrakis(methylene))tetrakis(phosphonate)",other,2.3324
+host_cold,4,test,1857,8,993,Cucurbit[6]uril,cucurbituril,0.0
+host_cold,4,test,1860,85,996,γ-Cyclodextrin,cyclodextrin,2.4281
+host_cold,4,test,1864,9,494,anti-Amide Naphthotube,other,2.7193
+host_cold,4,test,1868,9,822,anti-Amide Naphthotube,other,2.1271
+host_cold,4,test,1869,38,767,"Tri(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylic acid)-cyclophane",cyclophane,2.9294
+host_cold,4,test,1873,9,479,anti-Amide Naphthotube,other,2.4654
+host_cold,4,test,1878,85,204,γ-Cyclodextrin,cyclodextrin,0.4378
+host_cold,4,test,1891,8,1006,Cucurbit[6]uril,cucurbituril,1.66
+host_cold,4,test,1903,104,21,"4,7,10,16,19,24,27-Heptaoxa-1,13-diazabicyclo[11.8.8]nonacosane",other,3.4
+host_cold,4,test,1905,38,1011,"Di(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylicacid)-cyclophane",cyclophane,5.5185
+host_cold,4,test,1914,177,1013,Tetraundecyl calix[4]resorcinarene,calixarene,5.8751
+host_cold,4,test,1918,8,775,Cucurbit[6]uril,cucurbituril,3.81
+host_cold,4,test,1919,85,111,γ-Cyclodextrin,cyclodextrin,3.0128
+host_cold,4,test,1920,56,205,heptakis-O-(2-hydroxypropyl)-β Cyclodextrin,cyclodextrin,2.5132
+host_cold,4,test,1925,8,1016,Cucurbit[6]uril,cucurbituril,3.9533
+host_cold,4,test,1929,49,544,Dimetoxixylyleneglycoluril trimer,other,3.0792
+host_cold,4,test,1938,14,523,p-sulfonatocalix[6]arene-(mono aminoethyl-substituted),calixarene,1.6812
+host_cold,4,test,1941,8,773,Cucurbit[6]uril,cucurbituril,2.58
+host_cold,4,test,1945,114,962,"6I-O-(1-naphtholxy)-2I,31-di-O- methylhexakis(2II-VII,3II-VII,6II-VII-tri-O-methyl)-B-cyclodextrin",cyclodextrin,3.5821
+host_cold,4,test,1953,8,556,Cucurbit[6]uril,cucurbituril,4.301
+host_cold,4,test,1955,9,60,syn-Amide Naphthotube,other,1.6721
+host_cold,4,test,1958,9,292,syn-Amide Naphthotube,other,1.6902
+host_cold,4,test,1967,165,534,Octa-(6-O-(1-ethoxypropan-2-ol))-γ-Cyclodextrine,cyclodextrin,1.6232
+host_cold,4,test,1968,8,686,Cucurbit[6]uril,cucurbituril,4.2227
+host_cold,4,test,1972,8,1028,Cucurbit[6]uril,cucurbituril,2.6435
+host_cold,4,test,1977,38,611,"Tri(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylic acid)-cyclophane",cyclophane,5.3802
+host_cold,4,test,1982,14,56,p-sulfonatocalix[6]arene-(mono aminoethyl-substituted),calixarene,2.29
+host_cold,4,test,1991,9,613,syn-Amide Naphthotube,other,3.1836
+host_cold,4,test,1998,69,375,syn amine naphthotube,other,4.243
+host_cold,4,test,2006,94,397,Triphenylene receptor,other,0.0
+host_cold,4,test,2007,8,1035,Cucurbit[6]uril,cucurbituril,2.57
+host_cold,4,test,2008,52,523,p-sulfonatocalix[6]arene-(mono carboxymethyl-substituted),calixarene,1.5798
+host_cold,4,test,2012,8,1038,Cucurbit[6]uril,cucurbituril,5.959
+host_cold,4,test,2017,9,467,syn-Amide Naphthotube,other,0.9542
+host_cold,4,test,2028,142,109,"Acyclic sodium 3,3'-(naphthalene-2,7-diyl)bis(propane-1-sulfonate) Cucurbituril (tetrameric Glycourilunit)",cucurbituril,3.1761
+host_cold,4,test,2034,8,32,Cucurbit[6]uril,cucurbituril,5.2227
+host_cold,4,test,2041,184,53,18-Crown-6,crown_ether,1.8
+host_cold,4,test,2042,9,585,anti-Amide Naphthotube,other,3.0035
+host_cold,4,test,2043,9,746,anti-Amide Naphthotube,other,3.1498
+host_cold,4,test,2045,14,337,p-sulfonatocalix[6]arene-(mono aminoethyl-substituted),calixarene,2.2504
+host_cold,4,test,2046,9,964,syn-Amide Naphthotube,other,1.7993
+host_cold,4,test,2057,114,347,"6I-O-(1-naphtholxy)-2I,31-di-O- methylhexakis(2II-VII,3II-VII,6II-VII-tri-O-methyl)-B-cyclodextrin",cyclodextrin,3.6375
+host_cold,4,test,2058,152,937,"2,3-[1,2-phenylenebis[oxy(3,6-dioxaoctane-1,8-diyl)oxy]]quinoxaline",other,8.5185
+host_cold,4,test,2065,8,1047,Cucurbit[6]uril,cucurbituril,2.27
+host_cold,4,test,2077,98,759,Mono(6-carboxymethylamino-6-deoxy)-β-Cyclodextrin,cyclodextrin,3.1212
+host_cold,4,test,2079,142,1050,"Acyclic sodium 3,3'-(naphthalene-2,7-diyl)bis(propane-1-sulfonate) Cucurbituril (tetrameric Glycourilunit)",cucurbituril,4.2788
+host_cold,4,test,2084,165,558,Octa-(6-O-(1-ethoxypropan-2-ol))-γ-Cyclodextrine,cyclodextrin,2.3979
+host_cold,4,test,2093,38,427,"Tri(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylic acid)-cyclophane",cyclophane,3.5911
+host_cold,4,test,2094,9,1055,anti-Amide Naphthotube,other,2.1732
+host_cold,4,test,2097,69,971,anti amine naphthotube,other,3.3711
+host_cold,4,test,2100,104,76,"4,7,10,16,19,24,27-Heptaoxa-1,13-diazabicyclo[11.8.8]nonacosane",other,6.0
+host_cold,4,test,2102,104,88,"4,7,10,16,19,24,27-Heptaoxa-1,13-diazabicyclo[11.8.8]nonacosane",other,2.0
+host_cold,4,test,2105,94,301,Triphenylene receptor,other,1.9731
+host_cold,4,test,2117,9,1055,syn-Amide Naphthotube,other,2.6928
+host_cold,4,test,2118,38,1011,"Tri(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylic acid)-cyclophane",cyclophane,5.5563
+host_cold,4,test,2122,8,1059,Cucurbit[6]uril,cucurbituril,2.1761
+host_cold,4,test,2125,85,41,γ-Cyclodextrin,cyclodextrin,2.5263
+host_cold,4,test,2132,17,773,"Tetramethyl((2,2,10,10-tetramethyl-65,145-dinitro-4,8,12,16-tetraoxa-1,3,9,11(1,4),6,14(1,3)-hexabenzenacyclohexadecaphane-13,33,92,113-tetrayl)tetrakis(methylene))tetrakis(phosphonate)",other,1.7324
+host_cold,4,test,2133,104,201,"4,7,10,16,19,24,27-Heptaoxa-1,13-diazabicyclo[11.8.8]nonacosane",other,2.0
+host_cold,4,test,2134,72,698,Meta-ethylphenylcucurbit[6]urils,cucurbituril,6.5289
+host_cold,4,test,2136,114,198,"6I-O-(1-naphtholxy)-2I,31-di-O- methylhexakis(2II-VII,3II-VII,6II-VII-tri-O-methyl)-B-cyclodextrin",cyclodextrin,3.6355
+host_cold,4,test,2138,8,698,Cucurbit[6]uril,cucurbituril,5.0
+host_cold,4,test,2146,9,695,syn-Amide Naphthotube,other,1.8129
+host_cold,4,test,2159,8,1066,Cucurbit[6]uril,cucurbituril,3.79
+host_cold,4,test,2165,8,1068,Cucurbit[6]uril,cucurbituril,1.0
+host_cold,4,test,2166,184,507,18-Crown-6,crown_ether,2.0607

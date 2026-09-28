@@ -1,0 +1,26 @@
+{
+  "job_id": "s1_guest_cold_2_AttentiveFP",
+  "seed": 1,
+  "model": "AttentiveFP",
+  "regime": "guest_cold",
+  "fold": "2",
+  "status": "COMPLETED",
+  "flag": "ok",
+  "n_train": 1621,
+  "n_val": 285,
+  "n_test": 477,
+  "mu": 3.9418280124664307,
+  "sd": 2.0670183168182374,
+  "best_epoch": 294,
+  "stop_epoch": 299,
+  "best_validation_mae": 0.8528993725776672,
+  "elapsed_s": 32.546999999991385,
+  "peak_allocated_bytes": 1429096448,
+  "predictions_sha": "5a32fe20433883c2d1c1ae8c8c2110152f56591c6215f9d11e727b0eb7c48a97",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": 0.5855379104614258,
+    "MAE": 0.9729177951812744,
+    "Spearman": 0.7817076865370772
+  }
+}

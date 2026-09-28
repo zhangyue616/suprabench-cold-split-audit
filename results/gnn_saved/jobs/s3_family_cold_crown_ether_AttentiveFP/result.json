@@ -1,0 +1,26 @@
+{
+  "job_id": "s3_family_cold_crown_ether_AttentiveFP",
+  "seed": 3,
+  "model": "AttentiveFP",
+  "regime": "family_cold",
+  "fold": "crown_ether",
+  "status": "COMPLETED",
+  "flag": "NO_CONCLUSION_small",
+  "n_train": 2012,
+  "n_val": 354,
+  "n_test": 17,
+  "mu": 3.948683738708496,
+  "sd": 2.027746246887207,
+  "best_epoch": 244,
+  "stop_epoch": 274,
+  "best_validation_mae": 0.827933132648468,
+  "elapsed_s": 29.312000000005355,
+  "peak_allocated_bytes": 1432317440,
+  "predictions_sha": "cadf6ba4725bf6f41cebc56a22a220cdf131c4511ed2373ffde16860840bcdd1",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": -0.6798841953277588,
+    "MAE": 1.195769190788269,
+    "Spearman": 0.4926168145284173
+  }
+}

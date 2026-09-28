@@ -1,0 +1,2522 @@
+[
+  {
+    "job_id": "s0_b0_PAIR_RF",
+    "seed": 0,
+    "block": 0,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s0_b0_ECFP_RF",
+    "seed": 0,
+    "block": 0,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s0_b0_XGB_pair",
+    "seed": 0,
+    "block": 0,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s0_b0_XGB_ecfp",
+    "seed": 0,
+    "block": 0,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s0_b0_LGBM_pair",
+    "seed": 0,
+    "block": 0,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s0_b0_LGBM_ecfp",
+    "seed": 0,
+    "block": 0,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s0_b0_3D_pair_RF",
+    "seed": 0,
+    "block": 0,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s0_b1_PAIR_RF",
+    "seed": 0,
+    "block": 1,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s0_b1_ECFP_RF",
+    "seed": 0,
+    "block": 1,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s0_b1_XGB_pair",
+    "seed": 0,
+    "block": 1,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s0_b1_XGB_ecfp",
+    "seed": 0,
+    "block": 1,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s0_b1_LGBM_pair",
+    "seed": 0,
+    "block": 1,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s0_b1_LGBM_ecfp",
+    "seed": 0,
+    "block": 1,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s0_b1_3D_pair_RF",
+    "seed": 0,
+    "block": 1,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s0_b2_PAIR_RF",
+    "seed": 0,
+    "block": 2,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s0_b2_ECFP_RF",
+    "seed": 0,
+    "block": 2,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s0_b2_XGB_pair",
+    "seed": 0,
+    "block": 2,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s0_b2_XGB_ecfp",
+    "seed": 0,
+    "block": 2,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s0_b2_LGBM_pair",
+    "seed": 0,
+    "block": 2,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s0_b2_LGBM_ecfp",
+    "seed": 0,
+    "block": 2,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s0_b2_3D_pair_RF",
+    "seed": 0,
+    "block": 2,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s0_b3_PAIR_RF",
+    "seed": 0,
+    "block": 3,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s0_b3_ECFP_RF",
+    "seed": 0,
+    "block": 3,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s0_b3_XGB_pair",
+    "seed": 0,
+    "block": 3,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s0_b3_XGB_ecfp",
+    "seed": 0,
+    "block": 3,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s0_b3_LGBM_pair",
+    "seed": 0,
+    "block": 3,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s0_b3_LGBM_ecfp",
+    "seed": 0,
+    "block": 3,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s0_b3_3D_pair_RF",
+    "seed": 0,
+    "block": 3,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s0_b4_PAIR_RF",
+    "seed": 0,
+    "block": 4,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s0_b4_ECFP_RF",
+    "seed": 0,
+    "block": 4,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s0_b4_XGB_pair",
+    "seed": 0,
+    "block": 4,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s0_b4_XGB_ecfp",
+    "seed": 0,
+    "block": 4,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s0_b4_LGBM_pair",
+    "seed": 0,
+    "block": 4,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s0_b4_LGBM_ecfp",
+    "seed": 0,
+    "block": 4,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s0_b4_3D_pair_RF",
+    "seed": 0,
+    "block": 4,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s0_b5_PAIR_RF",
+    "seed": 0,
+    "block": 5,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s0_b5_ECFP_RF",
+    "seed": 0,
+    "block": 5,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s0_b5_XGB_pair",
+    "seed": 0,
+    "block": 5,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s0_b5_XGB_ecfp",
+    "seed": 0,
+    "block": 5,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s0_b5_LGBM_pair",
+    "seed": 0,
+    "block": 5,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s0_b5_LGBM_ecfp",
+    "seed": 0,
+    "block": 5,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s0_b5_3D_pair_RF",
+    "seed": 0,
+    "block": 5,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s0_b6_PAIR_RF",
+    "seed": 0,
+    "block": 6,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s0_b6_ECFP_RF",
+    "seed": 0,
+    "block": 6,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s0_b6_XGB_pair",
+    "seed": 0,
+    "block": 6,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s0_b6_XGB_ecfp",
+    "seed": 0,
+    "block": 6,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s0_b6_LGBM_pair",
+    "seed": 0,
+    "block": 6,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s0_b6_LGBM_ecfp",
+    "seed": 0,
+    "block": 6,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s0_b6_3D_pair_RF",
+    "seed": 0,
+    "block": 6,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s0_b7_PAIR_RF",
+    "seed": 0,
+    "block": 7,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s0_b7_ECFP_RF",
+    "seed": 0,
+    "block": 7,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s0_b7_XGB_pair",
+    "seed": 0,
+    "block": 7,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s0_b7_XGB_ecfp",
+    "seed": 0,
+    "block": 7,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s0_b7_LGBM_pair",
+    "seed": 0,
+    "block": 7,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s0_b7_LGBM_ecfp",
+    "seed": 0,
+    "block": 7,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s0_b7_3D_pair_RF",
+    "seed": 0,
+    "block": 7,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s0_b8_PAIR_RF",
+    "seed": 0,
+    "block": 8,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s0_b8_ECFP_RF",
+    "seed": 0,
+    "block": 8,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s0_b8_XGB_pair",
+    "seed": 0,
+    "block": 8,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s0_b8_XGB_ecfp",
+    "seed": 0,
+    "block": 8,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s0_b8_LGBM_pair",
+    "seed": 0,
+    "block": 8,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s0_b8_LGBM_ecfp",
+    "seed": 0,
+    "block": 8,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s0_b8_3D_pair_RF",
+    "seed": 0,
+    "block": 8,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s0_b9_PAIR_RF",
+    "seed": 0,
+    "block": 9,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s0_b9_ECFP_RF",
+    "seed": 0,
+    "block": 9,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s0_b9_XGB_pair",
+    "seed": 0,
+    "block": 9,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s0_b9_XGB_ecfp",
+    "seed": 0,
+    "block": 9,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s0_b9_LGBM_pair",
+    "seed": 0,
+    "block": 9,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s0_b9_LGBM_ecfp",
+    "seed": 0,
+    "block": 9,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s0_b9_3D_pair_RF",
+    "seed": 0,
+    "block": 9,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s0_b10_PAIR_RF",
+    "seed": 0,
+    "block": 10,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s0_b10_ECFP_RF",
+    "seed": 0,
+    "block": 10,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s0_b10_XGB_pair",
+    "seed": 0,
+    "block": 10,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s0_b10_XGB_ecfp",
+    "seed": 0,
+    "block": 10,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s0_b10_LGBM_pair",
+    "seed": 0,
+    "block": 10,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s0_b10_LGBM_ecfp",
+    "seed": 0,
+    "block": 10,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s0_b10_3D_pair_RF",
+    "seed": 0,
+    "block": 10,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s0_b11_PAIR_RF",
+    "seed": 0,
+    "block": 11,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s0_b11_ECFP_RF",
+    "seed": 0,
+    "block": 11,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s0_b11_XGB_pair",
+    "seed": 0,
+    "block": 11,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s0_b11_XGB_ecfp",
+    "seed": 0,
+    "block": 11,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s0_b11_LGBM_pair",
+    "seed": 0,
+    "block": 11,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s0_b11_LGBM_ecfp",
+    "seed": 0,
+    "block": 11,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s0_b11_3D_pair_RF",
+    "seed": 0,
+    "block": 11,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s1_b0_PAIR_RF",
+    "seed": 1,
+    "block": 0,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s1_b0_ECFP_RF",
+    "seed": 1,
+    "block": 0,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s1_b0_XGB_pair",
+    "seed": 1,
+    "block": 0,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s1_b0_XGB_ecfp",
+    "seed": 1,
+    "block": 0,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s1_b0_LGBM_pair",
+    "seed": 1,
+    "block": 0,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s1_b0_LGBM_ecfp",
+    "seed": 1,
+    "block": 0,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s1_b0_3D_pair_RF",
+    "seed": 1,
+    "block": 0,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s1_b1_PAIR_RF",
+    "seed": 1,
+    "block": 1,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s1_b1_ECFP_RF",
+    "seed": 1,
+    "block": 1,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s1_b1_XGB_pair",
+    "seed": 1,
+    "block": 1,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s1_b1_XGB_ecfp",
+    "seed": 1,
+    "block": 1,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s1_b1_LGBM_pair",
+    "seed": 1,
+    "block": 1,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s1_b1_LGBM_ecfp",
+    "seed": 1,
+    "block": 1,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s1_b1_3D_pair_RF",
+    "seed": 1,
+    "block": 1,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s1_b2_PAIR_RF",
+    "seed": 1,
+    "block": 2,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s1_b2_ECFP_RF",
+    "seed": 1,
+    "block": 2,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s1_b2_XGB_pair",
+    "seed": 1,
+    "block": 2,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s1_b2_XGB_ecfp",
+    "seed": 1,
+    "block": 2,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s1_b2_LGBM_pair",
+    "seed": 1,
+    "block": 2,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s1_b2_LGBM_ecfp",
+    "seed": 1,
+    "block": 2,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s1_b2_3D_pair_RF",
+    "seed": 1,
+    "block": 2,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s1_b3_PAIR_RF",
+    "seed": 1,
+    "block": 3,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s1_b3_ECFP_RF",
+    "seed": 1,
+    "block": 3,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s1_b3_XGB_pair",
+    "seed": 1,
+    "block": 3,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s1_b3_XGB_ecfp",
+    "seed": 1,
+    "block": 3,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s1_b3_LGBM_pair",
+    "seed": 1,
+    "block": 3,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s1_b3_LGBM_ecfp",
+    "seed": 1,
+    "block": 3,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s1_b3_3D_pair_RF",
+    "seed": 1,
+    "block": 3,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s1_b4_PAIR_RF",
+    "seed": 1,
+    "block": 4,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s1_b4_ECFP_RF",
+    "seed": 1,
+    "block": 4,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s1_b4_XGB_pair",
+    "seed": 1,
+    "block": 4,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s1_b4_XGB_ecfp",
+    "seed": 1,
+    "block": 4,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s1_b4_LGBM_pair",
+    "seed": 1,
+    "block": 4,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s1_b4_LGBM_ecfp",
+    "seed": 1,
+    "block": 4,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s1_b4_3D_pair_RF",
+    "seed": 1,
+    "block": 4,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s1_b5_PAIR_RF",
+    "seed": 1,
+    "block": 5,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s1_b5_ECFP_RF",
+    "seed": 1,
+    "block": 5,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s1_b5_XGB_pair",
+    "seed": 1,
+    "block": 5,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s1_b5_XGB_ecfp",
+    "seed": 1,
+    "block": 5,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s1_b5_LGBM_pair",
+    "seed": 1,
+    "block": 5,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s1_b5_LGBM_ecfp",
+    "seed": 1,
+    "block": 5,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s1_b5_3D_pair_RF",
+    "seed": 1,
+    "block": 5,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s1_b6_PAIR_RF",
+    "seed": 1,
+    "block": 6,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s1_b6_ECFP_RF",
+    "seed": 1,
+    "block": 6,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s1_b6_XGB_pair",
+    "seed": 1,
+    "block": 6,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s1_b6_XGB_ecfp",
+    "seed": 1,
+    "block": 6,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s1_b6_LGBM_pair",
+    "seed": 1,
+    "block": 6,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s1_b6_LGBM_ecfp",
+    "seed": 1,
+    "block": 6,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s1_b6_3D_pair_RF",
+    "seed": 1,
+    "block": 6,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s1_b7_PAIR_RF",
+    "seed": 1,
+    "block": 7,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s1_b7_ECFP_RF",
+    "seed": 1,
+    "block": 7,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s1_b7_XGB_pair",
+    "seed": 1,
+    "block": 7,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s1_b7_XGB_ecfp",
+    "seed": 1,
+    "block": 7,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s1_b7_LGBM_pair",
+    "seed": 1,
+    "block": 7,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s1_b7_LGBM_ecfp",
+    "seed": 1,
+    "block": 7,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s1_b7_3D_pair_RF",
+    "seed": 1,
+    "block": 7,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s1_b8_PAIR_RF",
+    "seed": 1,
+    "block": 8,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s1_b8_ECFP_RF",
+    "seed": 1,
+    "block": 8,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s1_b8_XGB_pair",
+    "seed": 1,
+    "block": 8,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s1_b8_XGB_ecfp",
+    "seed": 1,
+    "block": 8,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s1_b8_LGBM_pair",
+    "seed": 1,
+    "block": 8,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s1_b8_LGBM_ecfp",
+    "seed": 1,
+    "block": 8,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s1_b8_3D_pair_RF",
+    "seed": 1,
+    "block": 8,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s1_b9_PAIR_RF",
+    "seed": 1,
+    "block": 9,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s1_b9_ECFP_RF",
+    "seed": 1,
+    "block": 9,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s1_b9_XGB_pair",
+    "seed": 1,
+    "block": 9,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s1_b9_XGB_ecfp",
+    "seed": 1,
+    "block": 9,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s1_b9_LGBM_pair",
+    "seed": 1,
+    "block": 9,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s1_b9_LGBM_ecfp",
+    "seed": 1,
+    "block": 9,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s1_b9_3D_pair_RF",
+    "seed": 1,
+    "block": 9,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s1_b10_PAIR_RF",
+    "seed": 1,
+    "block": 10,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s1_b10_ECFP_RF",
+    "seed": 1,
+    "block": 10,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s1_b10_XGB_pair",
+    "seed": 1,
+    "block": 10,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s1_b10_XGB_ecfp",
+    "seed": 1,
+    "block": 10,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s1_b10_LGBM_pair",
+    "seed": 1,
+    "block": 10,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s1_b10_LGBM_ecfp",
+    "seed": 1,
+    "block": 10,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s1_b10_3D_pair_RF",
+    "seed": 1,
+    "block": 10,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s1_b11_PAIR_RF",
+    "seed": 1,
+    "block": 11,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s1_b11_ECFP_RF",
+    "seed": 1,
+    "block": 11,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s1_b11_XGB_pair",
+    "seed": 1,
+    "block": 11,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s1_b11_XGB_ecfp",
+    "seed": 1,
+    "block": 11,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s1_b11_LGBM_pair",
+    "seed": 1,
+    "block": 11,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s1_b11_LGBM_ecfp",
+    "seed": 1,
+    "block": 11,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s1_b11_3D_pair_RF",
+    "seed": 1,
+    "block": 11,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s2_b0_PAIR_RF",
+    "seed": 2,
+    "block": 0,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s2_b0_ECFP_RF",
+    "seed": 2,
+    "block": 0,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s2_b0_XGB_pair",
+    "seed": 2,
+    "block": 0,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s2_b0_XGB_ecfp",
+    "seed": 2,
+    "block": 0,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s2_b0_LGBM_pair",
+    "seed": 2,
+    "block": 0,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s2_b0_LGBM_ecfp",
+    "seed": 2,
+    "block": 0,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s2_b0_3D_pair_RF",
+    "seed": 2,
+    "block": 0,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s2_b1_PAIR_RF",
+    "seed": 2,
+    "block": 1,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s2_b1_ECFP_RF",
+    "seed": 2,
+    "block": 1,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s2_b1_XGB_pair",
+    "seed": 2,
+    "block": 1,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s2_b1_XGB_ecfp",
+    "seed": 2,
+    "block": 1,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s2_b1_LGBM_pair",
+    "seed": 2,
+    "block": 1,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s2_b1_LGBM_ecfp",
+    "seed": 2,
+    "block": 1,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s2_b1_3D_pair_RF",
+    "seed": 2,
+    "block": 1,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s2_b2_PAIR_RF",
+    "seed": 2,
+    "block": 2,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s2_b2_ECFP_RF",
+    "seed": 2,
+    "block": 2,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s2_b2_XGB_pair",
+    "seed": 2,
+    "block": 2,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s2_b2_XGB_ecfp",
+    "seed": 2,
+    "block": 2,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s2_b2_LGBM_pair",
+    "seed": 2,
+    "block": 2,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s2_b2_LGBM_ecfp",
+    "seed": 2,
+    "block": 2,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s2_b2_3D_pair_RF",
+    "seed": 2,
+    "block": 2,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s2_b3_PAIR_RF",
+    "seed": 2,
+    "block": 3,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s2_b3_ECFP_RF",
+    "seed": 2,
+    "block": 3,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s2_b3_XGB_pair",
+    "seed": 2,
+    "block": 3,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s2_b3_XGB_ecfp",
+    "seed": 2,
+    "block": 3,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s2_b3_LGBM_pair",
+    "seed": 2,
+    "block": 3,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s2_b3_LGBM_ecfp",
+    "seed": 2,
+    "block": 3,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s2_b3_3D_pair_RF",
+    "seed": 2,
+    "block": 3,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s2_b4_PAIR_RF",
+    "seed": 2,
+    "block": 4,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s2_b4_ECFP_RF",
+    "seed": 2,
+    "block": 4,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s2_b4_XGB_pair",
+    "seed": 2,
+    "block": 4,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s2_b4_XGB_ecfp",
+    "seed": 2,
+    "block": 4,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s2_b4_LGBM_pair",
+    "seed": 2,
+    "block": 4,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s2_b4_LGBM_ecfp",
+    "seed": 2,
+    "block": 4,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s2_b4_3D_pair_RF",
+    "seed": 2,
+    "block": 4,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s2_b5_PAIR_RF",
+    "seed": 2,
+    "block": 5,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s2_b5_ECFP_RF",
+    "seed": 2,
+    "block": 5,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s2_b5_XGB_pair",
+    "seed": 2,
+    "block": 5,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s2_b5_XGB_ecfp",
+    "seed": 2,
+    "block": 5,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s2_b5_LGBM_pair",
+    "seed": 2,
+    "block": 5,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s2_b5_LGBM_ecfp",
+    "seed": 2,
+    "block": 5,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s2_b5_3D_pair_RF",
+    "seed": 2,
+    "block": 5,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s2_b6_PAIR_RF",
+    "seed": 2,
+    "block": 6,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s2_b6_ECFP_RF",
+    "seed": 2,
+    "block": 6,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s2_b6_XGB_pair",
+    "seed": 2,
+    "block": 6,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s2_b6_XGB_ecfp",
+    "seed": 2,
+    "block": 6,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s2_b6_LGBM_pair",
+    "seed": 2,
+    "block": 6,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s2_b6_LGBM_ecfp",
+    "seed": 2,
+    "block": 6,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s2_b6_3D_pair_RF",
+    "seed": 2,
+    "block": 6,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s2_b7_PAIR_RF",
+    "seed": 2,
+    "block": 7,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s2_b7_ECFP_RF",
+    "seed": 2,
+    "block": 7,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s2_b7_XGB_pair",
+    "seed": 2,
+    "block": 7,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s2_b7_XGB_ecfp",
+    "seed": 2,
+    "block": 7,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s2_b7_LGBM_pair",
+    "seed": 2,
+    "block": 7,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s2_b7_LGBM_ecfp",
+    "seed": 2,
+    "block": 7,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s2_b7_3D_pair_RF",
+    "seed": 2,
+    "block": 7,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s2_b8_PAIR_RF",
+    "seed": 2,
+    "block": 8,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s2_b8_ECFP_RF",
+    "seed": 2,
+    "block": 8,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s2_b8_XGB_pair",
+    "seed": 2,
+    "block": 8,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s2_b8_XGB_ecfp",
+    "seed": 2,
+    "block": 8,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s2_b8_LGBM_pair",
+    "seed": 2,
+    "block": 8,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s2_b8_LGBM_ecfp",
+    "seed": 2,
+    "block": 8,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s2_b8_3D_pair_RF",
+    "seed": 2,
+    "block": 8,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s2_b9_PAIR_RF",
+    "seed": 2,
+    "block": 9,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s2_b9_ECFP_RF",
+    "seed": 2,
+    "block": 9,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s2_b9_XGB_pair",
+    "seed": 2,
+    "block": 9,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s2_b9_XGB_ecfp",
+    "seed": 2,
+    "block": 9,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s2_b9_LGBM_pair",
+    "seed": 2,
+    "block": 9,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s2_b9_LGBM_ecfp",
+    "seed": 2,
+    "block": 9,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s2_b9_3D_pair_RF",
+    "seed": 2,
+    "block": 9,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s2_b10_PAIR_RF",
+    "seed": 2,
+    "block": 10,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s2_b10_ECFP_RF",
+    "seed": 2,
+    "block": 10,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s2_b10_XGB_pair",
+    "seed": 2,
+    "block": 10,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s2_b10_XGB_ecfp",
+    "seed": 2,
+    "block": 10,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s2_b10_LGBM_pair",
+    "seed": 2,
+    "block": 10,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s2_b10_LGBM_ecfp",
+    "seed": 2,
+    "block": 10,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s2_b10_3D_pair_RF",
+    "seed": 2,
+    "block": 10,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s2_b11_PAIR_RF",
+    "seed": 2,
+    "block": 11,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s2_b11_ECFP_RF",
+    "seed": 2,
+    "block": 11,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s2_b11_XGB_pair",
+    "seed": 2,
+    "block": 11,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s2_b11_XGB_ecfp",
+    "seed": 2,
+    "block": 11,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s2_b11_LGBM_pair",
+    "seed": 2,
+    "block": 11,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s2_b11_LGBM_ecfp",
+    "seed": 2,
+    "block": 11,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s2_b11_3D_pair_RF",
+    "seed": 2,
+    "block": 11,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s3_b0_PAIR_RF",
+    "seed": 3,
+    "block": 0,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s3_b0_ECFP_RF",
+    "seed": 3,
+    "block": 0,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s3_b0_XGB_pair",
+    "seed": 3,
+    "block": 0,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s3_b0_XGB_ecfp",
+    "seed": 3,
+    "block": 0,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s3_b0_LGBM_pair",
+    "seed": 3,
+    "block": 0,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s3_b0_LGBM_ecfp",
+    "seed": 3,
+    "block": 0,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s3_b0_3D_pair_RF",
+    "seed": 3,
+    "block": 0,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s3_b1_PAIR_RF",
+    "seed": 3,
+    "block": 1,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s3_b1_ECFP_RF",
+    "seed": 3,
+    "block": 1,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s3_b1_XGB_pair",
+    "seed": 3,
+    "block": 1,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s3_b1_XGB_ecfp",
+    "seed": 3,
+    "block": 1,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s3_b1_LGBM_pair",
+    "seed": 3,
+    "block": 1,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s3_b1_LGBM_ecfp",
+    "seed": 3,
+    "block": 1,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s3_b1_3D_pair_RF",
+    "seed": 3,
+    "block": 1,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s3_b2_PAIR_RF",
+    "seed": 3,
+    "block": 2,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s3_b2_ECFP_RF",
+    "seed": 3,
+    "block": 2,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s3_b2_XGB_pair",
+    "seed": 3,
+    "block": 2,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s3_b2_XGB_ecfp",
+    "seed": 3,
+    "block": 2,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s3_b2_LGBM_pair",
+    "seed": 3,
+    "block": 2,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s3_b2_LGBM_ecfp",
+    "seed": 3,
+    "block": 2,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s3_b2_3D_pair_RF",
+    "seed": 3,
+    "block": 2,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s3_b3_PAIR_RF",
+    "seed": 3,
+    "block": 3,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s3_b3_ECFP_RF",
+    "seed": 3,
+    "block": 3,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s3_b3_XGB_pair",
+    "seed": 3,
+    "block": 3,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s3_b3_XGB_ecfp",
+    "seed": 3,
+    "block": 3,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s3_b3_LGBM_pair",
+    "seed": 3,
+    "block": 3,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s3_b3_LGBM_ecfp",
+    "seed": 3,
+    "block": 3,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s3_b3_3D_pair_RF",
+    "seed": 3,
+    "block": 3,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s3_b4_PAIR_RF",
+    "seed": 3,
+    "block": 4,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s3_b4_ECFP_RF",
+    "seed": 3,
+    "block": 4,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s3_b4_XGB_pair",
+    "seed": 3,
+    "block": 4,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s3_b4_XGB_ecfp",
+    "seed": 3,
+    "block": 4,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s3_b4_LGBM_pair",
+    "seed": 3,
+    "block": 4,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s3_b4_LGBM_ecfp",
+    "seed": 3,
+    "block": 4,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s3_b4_3D_pair_RF",
+    "seed": 3,
+    "block": 4,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s3_b5_PAIR_RF",
+    "seed": 3,
+    "block": 5,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s3_b5_ECFP_RF",
+    "seed": 3,
+    "block": 5,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s3_b5_XGB_pair",
+    "seed": 3,
+    "block": 5,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s3_b5_XGB_ecfp",
+    "seed": 3,
+    "block": 5,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s3_b5_LGBM_pair",
+    "seed": 3,
+    "block": 5,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s3_b5_LGBM_ecfp",
+    "seed": 3,
+    "block": 5,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s3_b5_3D_pair_RF",
+    "seed": 3,
+    "block": 5,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s3_b6_PAIR_RF",
+    "seed": 3,
+    "block": 6,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s3_b6_ECFP_RF",
+    "seed": 3,
+    "block": 6,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s3_b6_XGB_pair",
+    "seed": 3,
+    "block": 6,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s3_b6_XGB_ecfp",
+    "seed": 3,
+    "block": 6,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s3_b6_LGBM_pair",
+    "seed": 3,
+    "block": 6,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s3_b6_LGBM_ecfp",
+    "seed": 3,
+    "block": 6,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s3_b6_3D_pair_RF",
+    "seed": 3,
+    "block": 6,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s3_b7_PAIR_RF",
+    "seed": 3,
+    "block": 7,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s3_b7_ECFP_RF",
+    "seed": 3,
+    "block": 7,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s3_b7_XGB_pair",
+    "seed": 3,
+    "block": 7,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s3_b7_XGB_ecfp",
+    "seed": 3,
+    "block": 7,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s3_b7_LGBM_pair",
+    "seed": 3,
+    "block": 7,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s3_b7_LGBM_ecfp",
+    "seed": 3,
+    "block": 7,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s3_b7_3D_pair_RF",
+    "seed": 3,
+    "block": 7,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s3_b8_PAIR_RF",
+    "seed": 3,
+    "block": 8,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s3_b8_ECFP_RF",
+    "seed": 3,
+    "block": 8,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s3_b8_XGB_pair",
+    "seed": 3,
+    "block": 8,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s3_b8_XGB_ecfp",
+    "seed": 3,
+    "block": 8,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s3_b8_LGBM_pair",
+    "seed": 3,
+    "block": 8,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s3_b8_LGBM_ecfp",
+    "seed": 3,
+    "block": 8,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s3_b8_3D_pair_RF",
+    "seed": 3,
+    "block": 8,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s3_b9_PAIR_RF",
+    "seed": 3,
+    "block": 9,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s3_b9_ECFP_RF",
+    "seed": 3,
+    "block": 9,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s3_b9_XGB_pair",
+    "seed": 3,
+    "block": 9,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s3_b9_XGB_ecfp",
+    "seed": 3,
+    "block": 9,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s3_b9_LGBM_pair",
+    "seed": 3,
+    "block": 9,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s3_b9_LGBM_ecfp",
+    "seed": 3,
+    "block": 9,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s3_b9_3D_pair_RF",
+    "seed": 3,
+    "block": 9,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s3_b10_PAIR_RF",
+    "seed": 3,
+    "block": 10,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s3_b10_ECFP_RF",
+    "seed": 3,
+    "block": 10,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s3_b10_XGB_pair",
+    "seed": 3,
+    "block": 10,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s3_b10_XGB_ecfp",
+    "seed": 3,
+    "block": 10,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s3_b10_LGBM_pair",
+    "seed": 3,
+    "block": 10,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s3_b10_LGBM_ecfp",
+    "seed": 3,
+    "block": 10,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s3_b10_3D_pair_RF",
+    "seed": 3,
+    "block": 10,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s3_b11_PAIR_RF",
+    "seed": 3,
+    "block": 11,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s3_b11_ECFP_RF",
+    "seed": 3,
+    "block": 11,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s3_b11_XGB_pair",
+    "seed": 3,
+    "block": 11,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s3_b11_XGB_ecfp",
+    "seed": 3,
+    "block": 11,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s3_b11_LGBM_pair",
+    "seed": 3,
+    "block": 11,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s3_b11_LGBM_ecfp",
+    "seed": 3,
+    "block": 11,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s3_b11_3D_pair_RF",
+    "seed": 3,
+    "block": 11,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s4_b0_PAIR_RF",
+    "seed": 4,
+    "block": 0,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s4_b0_ECFP_RF",
+    "seed": 4,
+    "block": 0,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s4_b0_XGB_pair",
+    "seed": 4,
+    "block": 0,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s4_b0_XGB_ecfp",
+    "seed": 4,
+    "block": 0,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s4_b0_LGBM_pair",
+    "seed": 4,
+    "block": 0,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s4_b0_LGBM_ecfp",
+    "seed": 4,
+    "block": 0,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s4_b0_3D_pair_RF",
+    "seed": 4,
+    "block": 0,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s4_b1_PAIR_RF",
+    "seed": 4,
+    "block": 1,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s4_b1_ECFP_RF",
+    "seed": 4,
+    "block": 1,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s4_b1_XGB_pair",
+    "seed": 4,
+    "block": 1,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s4_b1_XGB_ecfp",
+    "seed": 4,
+    "block": 1,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s4_b1_LGBM_pair",
+    "seed": 4,
+    "block": 1,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s4_b1_LGBM_ecfp",
+    "seed": 4,
+    "block": 1,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s4_b1_3D_pair_RF",
+    "seed": 4,
+    "block": 1,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s4_b2_PAIR_RF",
+    "seed": 4,
+    "block": 2,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s4_b2_ECFP_RF",
+    "seed": 4,
+    "block": 2,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s4_b2_XGB_pair",
+    "seed": 4,
+    "block": 2,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s4_b2_XGB_ecfp",
+    "seed": 4,
+    "block": 2,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s4_b2_LGBM_pair",
+    "seed": 4,
+    "block": 2,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s4_b2_LGBM_ecfp",
+    "seed": 4,
+    "block": 2,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s4_b2_3D_pair_RF",
+    "seed": 4,
+    "block": 2,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s4_b3_PAIR_RF",
+    "seed": 4,
+    "block": 3,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s4_b3_ECFP_RF",
+    "seed": 4,
+    "block": 3,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s4_b3_XGB_pair",
+    "seed": 4,
+    "block": 3,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s4_b3_XGB_ecfp",
+    "seed": 4,
+    "block": 3,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s4_b3_LGBM_pair",
+    "seed": 4,
+    "block": 3,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s4_b3_LGBM_ecfp",
+    "seed": 4,
+    "block": 3,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s4_b3_3D_pair_RF",
+    "seed": 4,
+    "block": 3,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s4_b4_PAIR_RF",
+    "seed": 4,
+    "block": 4,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s4_b4_ECFP_RF",
+    "seed": 4,
+    "block": 4,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s4_b4_XGB_pair",
+    "seed": 4,
+    "block": 4,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s4_b4_XGB_ecfp",
+    "seed": 4,
+    "block": 4,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s4_b4_LGBM_pair",
+    "seed": 4,
+    "block": 4,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s4_b4_LGBM_ecfp",
+    "seed": 4,
+    "block": 4,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s4_b4_3D_pair_RF",
+    "seed": 4,
+    "block": 4,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s4_b5_PAIR_RF",
+    "seed": 4,
+    "block": 5,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s4_b5_ECFP_RF",
+    "seed": 4,
+    "block": 5,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s4_b5_XGB_pair",
+    "seed": 4,
+    "block": 5,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s4_b5_XGB_ecfp",
+    "seed": 4,
+    "block": 5,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s4_b5_LGBM_pair",
+    "seed": 4,
+    "block": 5,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s4_b5_LGBM_ecfp",
+    "seed": 4,
+    "block": 5,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s4_b5_3D_pair_RF",
+    "seed": 4,
+    "block": 5,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s4_b6_PAIR_RF",
+    "seed": 4,
+    "block": 6,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s4_b6_ECFP_RF",
+    "seed": 4,
+    "block": 6,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s4_b6_XGB_pair",
+    "seed": 4,
+    "block": 6,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s4_b6_XGB_ecfp",
+    "seed": 4,
+    "block": 6,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s4_b6_LGBM_pair",
+    "seed": 4,
+    "block": 6,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s4_b6_LGBM_ecfp",
+    "seed": 4,
+    "block": 6,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s4_b6_3D_pair_RF",
+    "seed": 4,
+    "block": 6,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s4_b7_PAIR_RF",
+    "seed": 4,
+    "block": 7,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s4_b7_ECFP_RF",
+    "seed": 4,
+    "block": 7,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s4_b7_XGB_pair",
+    "seed": 4,
+    "block": 7,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s4_b7_XGB_ecfp",
+    "seed": 4,
+    "block": 7,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s4_b7_LGBM_pair",
+    "seed": 4,
+    "block": 7,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s4_b7_LGBM_ecfp",
+    "seed": 4,
+    "block": 7,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s4_b7_3D_pair_RF",
+    "seed": 4,
+    "block": 7,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s4_b8_PAIR_RF",
+    "seed": 4,
+    "block": 8,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s4_b8_ECFP_RF",
+    "seed": 4,
+    "block": 8,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s4_b8_XGB_pair",
+    "seed": 4,
+    "block": 8,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s4_b8_XGB_ecfp",
+    "seed": 4,
+    "block": 8,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s4_b8_LGBM_pair",
+    "seed": 4,
+    "block": 8,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s4_b8_LGBM_ecfp",
+    "seed": 4,
+    "block": 8,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s4_b8_3D_pair_RF",
+    "seed": 4,
+    "block": 8,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s4_b9_PAIR_RF",
+    "seed": 4,
+    "block": 9,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s4_b9_ECFP_RF",
+    "seed": 4,
+    "block": 9,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s4_b9_XGB_pair",
+    "seed": 4,
+    "block": 9,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s4_b9_XGB_ecfp",
+    "seed": 4,
+    "block": 9,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s4_b9_LGBM_pair",
+    "seed": 4,
+    "block": 9,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s4_b9_LGBM_ecfp",
+    "seed": 4,
+    "block": 9,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s4_b9_3D_pair_RF",
+    "seed": 4,
+    "block": 9,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s4_b10_PAIR_RF",
+    "seed": 4,
+    "block": 10,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s4_b10_ECFP_RF",
+    "seed": 4,
+    "block": 10,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s4_b10_XGB_pair",
+    "seed": 4,
+    "block": 10,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s4_b10_XGB_ecfp",
+    "seed": 4,
+    "block": 10,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s4_b10_LGBM_pair",
+    "seed": 4,
+    "block": 10,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s4_b10_LGBM_ecfp",
+    "seed": 4,
+    "block": 10,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s4_b10_3D_pair_RF",
+    "seed": 4,
+    "block": 10,
+    "model": "3D_pair_RF"
+  },
+  {
+    "job_id": "s4_b11_PAIR_RF",
+    "seed": 4,
+    "block": 11,
+    "model": "PAIR_RF"
+  },
+  {
+    "job_id": "s4_b11_ECFP_RF",
+    "seed": 4,
+    "block": 11,
+    "model": "ECFP_RF"
+  },
+  {
+    "job_id": "s4_b11_XGB_pair",
+    "seed": 4,
+    "block": 11,
+    "model": "XGB_pair"
+  },
+  {
+    "job_id": "s4_b11_XGB_ecfp",
+    "seed": 4,
+    "block": 11,
+    "model": "XGB_ecfp"
+  },
+  {
+    "job_id": "s4_b11_LGBM_pair",
+    "seed": 4,
+    "block": 11,
+    "model": "LGBM_pair"
+  },
+  {
+    "job_id": "s4_b11_LGBM_ecfp",
+    "seed": 4,
+    "block": 11,
+    "model": "LGBM_ecfp"
+  },
+  {
+    "job_id": "s4_b11_3D_pair_RF",
+    "seed": 4,
+    "block": 11,
+    "model": "3D_pair_RF"
+  }
+]

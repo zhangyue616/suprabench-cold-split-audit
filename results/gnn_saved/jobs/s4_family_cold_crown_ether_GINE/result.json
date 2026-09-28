@@ -1,0 +1,26 @@
+{
+  "job_id": "s4_family_cold_crown_ether_GINE",
+  "seed": 4,
+  "model": "GINE",
+  "regime": "family_cold",
+  "fold": "crown_ether",
+  "status": "COMPLETED",
+  "flag": "NO_CONCLUSION_small",
+  "n_train": 2012,
+  "n_val": 354,
+  "n_test": 17,
+  "mu": 3.957515239715576,
+  "sd": 2.051122473312378,
+  "best_epoch": 184,
+  "stop_epoch": 214,
+  "best_validation_mae": 0.7894433736801147,
+  "elapsed_s": 14.781000000002678,
+  "peak_allocated_bytes": 503930368,
+  "predictions_sha": "e4d0370ec5cbda2b66f3e07b5c0cc1bb597d4f9f8da36e3054d7d6197852a087",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": -0.0524594783782959,
+    "MAE": 0.9279221892356873,
+    "Spearman": 0.6081809872449944
+  }
+}

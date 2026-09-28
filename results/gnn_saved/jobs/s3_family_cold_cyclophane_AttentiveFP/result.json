@@ -1,0 +1,26 @@
+{
+  "job_id": "s3_family_cold_cyclophane_AttentiveFP",
+  "seed": 3,
+  "model": "AttentiveFP",
+  "regime": "family_cold",
+  "fold": "cyclophane",
+  "status": "COMPLETED",
+  "flag": "NO_CONCLUSION_small",
+  "n_train": 2002,
+  "n_val": 353,
+  "n_test": 28,
+  "mu": 3.9499711990356445,
+  "sd": 2.0833645330200197,
+  "best_epoch": 297,
+  "stop_epoch": 299,
+  "best_validation_mae": 0.7887699604034424,
+  "elapsed_s": 31.468999999997322,
+  "peak_allocated_bytes": 1432585728,
+  "predictions_sha": "81322eba167da5b8a3a4445d4bff27279072af55f550529352d729688c0b8428",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": 0.040212273597717285,
+    "MAE": 0.802176296710968,
+    "Spearman": 0.7099784969766602
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "job_id": "s1_family_cold_cucurbituril_AttentiveFP",
+  "seed": 1,
+  "model": "AttentiveFP",
+  "regime": "family_cold",
+  "fold": "cucurbituril",
+  "status": "COMPLETED",
+  "flag": "ok",
+  "n_train": 1403,
+  "n_val": 247,
+  "n_test": 733,
+  "mu": 3.4334475994110107,
+  "sd": 1.6711500154266357,
+  "best_epoch": 200,
+  "stop_epoch": 230,
+  "best_validation_mae": 0.6395580768585205,
+  "elapsed_s": 12.406000000002678,
+  "peak_allocated_bytes": 1429764608,
+  "predictions_sha": "43a26eb48fbc62353b36b19ab953e4836805aa6be81aa1951015dadd4ce5970f",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": -0.030502796173095703,
+    "MAE": 1.8130894899368286,
+    "Spearman": 0.18920898650150525
+  }
+}

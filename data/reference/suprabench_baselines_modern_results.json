@@ -1,0 +1,1164 @@
+{
+  "_meta": {
+    "cond_sha256": "56af035c649ca5772675de608772918482ca7f74f12a91efcc50e44fc80ee900",
+    "n": 2383,
+    "sklearn": "1.9.0",
+    "torch": "2.11.0+cu128",
+    "xgboost": "3.2.0",
+    "lightgbm": "4.6.0",
+    "device": "cuda",
+    "mode": "full",
+    "gnn_budget": {
+      "max_epoch": 300,
+      "patience": 30,
+      "lr": 0.001,
+      "val_frac": 0.15,
+      "d": 128,
+      "L": 3
+    },
+    "models": [
+      "PAIR_RF",
+      "ECFP_RF",
+      "XGB_pair",
+      "XGB_ecfp",
+      "LGBM_pair",
+      "LGBM_ecfp",
+      "3D_pair_RF",
+      "GINE",
+      "AttentiveFP",
+      "sim_knn_k5",
+      "additive",
+      "host_only_RF",
+      "guest_only_RF",
+      "cond_only_RF",
+      "source_only_RF"
+    ],
+    "runtime_s": 768.5
+  },
+  "3D_arm": {
+    "available": true,
+    "arm": "guest_ETKDG_shape(10d)+PAIR_descriptors (host 3D omitted: macrocycles)",
+    "n_unique_guests": 1164,
+    "n_embed_ok": 1131,
+    "embed_success_rate": 0.972
+  },
+  "fold_consistency": {
+    "random": 0.677,
+    "host_cold": 0.448,
+    "guest_cold": 0.641,
+    "double_cold": 0.386
+  },
+  "random": {
+    "PAIR_RF": {
+      "R2": 0.677,
+      "R2_hostCI": [
+        0.619,
+        0.718
+      ],
+      "Spearman": 0.836,
+      "MAE": 0.785
+    },
+    "ECFP_RF": {
+      "R2": 0.619,
+      "R2_hostCI": [
+        0.517,
+        0.683
+      ],
+      "Spearman": 0.802,
+      "MAE": 0.848
+    },
+    "XGB_pair": {
+      "R2": 0.678,
+      "R2_hostCI": [
+        0.618,
+        0.727
+      ],
+      "Spearman": 0.838,
+      "MAE": 0.778
+    },
+    "XGB_ecfp": {
+      "R2": 0.619,
+      "R2_hostCI": [
+        0.52,
+        0.676
+      ],
+      "Spearman": 0.799,
+      "MAE": 0.868
+    },
+    "LGBM_pair": {
+      "R2": 0.683,
+      "R2_hostCI": [
+        0.624,
+        0.725
+      ],
+      "Spearman": 0.835,
+      "MAE": 0.783
+    },
+    "LGBM_ecfp": {
+      "R2": 0.636,
+      "R2_hostCI": [
+        0.549,
+        0.692
+      ],
+      "Spearman": 0.809,
+      "MAE": 0.846
+    },
+    "3D_pair_RF": {
+      "R2": 0.663,
+      "R2_hostCI": [
+        0.609,
+        0.703
+      ],
+      "Spearman": 0.833,
+      "MAE": 0.801
+    },
+    "GINE": {
+      "R2": 0.57,
+      "R2_hostCI": [
+        0.418,
+        0.639
+      ],
+      "Spearman": 0.77,
+      "MAE": 0.959
+    },
+    "AttentiveFP": {
+      "R2": 0.6,
+      "R2_hostCI": [
+        0.479,
+        0.65
+      ],
+      "Spearman": 0.785,
+      "MAE": 0.924
+    },
+    "sim_knn_k5": {
+      "R2": 0.587,
+      "R2_hostCI": [
+        0.45,
+        0.651
+      ],
+      "Spearman": 0.772,
+      "MAE": 0.911
+    },
+    "additive": {
+      "R2": 0.32,
+      "R2_hostCI": [
+        0.155,
+        0.382
+      ],
+      "Spearman": 0.772,
+      "MAE": 1.309
+    },
+    "host_only_RF": {
+      "R2": 0.427,
+      "R2_hostCI": [
+        0.338,
+        0.517
+      ],
+      "Spearman": 0.673,
+      "MAE": 1.108
+    },
+    "guest_only_RF": {
+      "R2": 0.392,
+      "R2_hostCI": [
+        0.265,
+        0.464
+      ],
+      "Spearman": 0.668,
+      "MAE": 1.114
+    },
+    "cond_only_RF": {
+      "R2": 0.134,
+      "R2_hostCI": [
+        -0.005,
+        0.195
+      ],
+      "Spearman": 0.343,
+      "MAE": 1.45
+    },
+    "source_only_RF": {
+      "R2": 0.08,
+      "R2_hostCI": [
+        -0.049,
+        0.175
+      ],
+      "Spearman": 0.105,
+      "MAE": 1.522
+    }
+  },
+  "host_cold": {
+    "PAIR_RF": {
+      "R2": 0.448,
+      "R2_hostCI": [
+        0.335,
+        0.496
+      ],
+      "Spearman": 0.678,
+      "MAE": 1.106
+    },
+    "ECFP_RF": {
+      "R2": 0.389,
+      "R2_hostCI": [
+        0.164,
+        0.504
+      ],
+      "Spearman": 0.631,
+      "MAE": 1.159
+    },
+    "XGB_pair": {
+      "R2": 0.446,
+      "R2_hostCI": [
+        0.31,
+        0.498
+      ],
+      "Spearman": 0.678,
+      "MAE": 1.091
+    },
+    "XGB_ecfp": {
+      "R2": 0.366,
+      "R2_hostCI": [
+        0.129,
+        0.483
+      ],
+      "Spearman": 0.617,
+      "MAE": 1.188
+    },
+    "LGBM_pair": {
+      "R2": 0.411,
+      "R2_hostCI": [
+        0.286,
+        0.472
+      ],
+      "Spearman": 0.656,
+      "MAE": 1.128
+    },
+    "LGBM_ecfp": {
+      "R2": 0.338,
+      "R2_hostCI": [
+        0.034,
+        0.467
+      ],
+      "Spearman": 0.616,
+      "MAE": 1.214
+    },
+    "3D_pair_RF": {
+      "R2": 0.443,
+      "R2_hostCI": [
+        0.361,
+        0.491
+      ],
+      "Spearman": 0.685,
+      "MAE": 1.095
+    },
+    "GINE": {
+      "R2": 0.289,
+      "R2_hostCI": [
+        -0.009,
+        0.415
+      ],
+      "Spearman": 0.591,
+      "MAE": 1.274
+    },
+    "AttentiveFP": {
+      "R2": 0.414,
+      "R2_hostCI": [
+        0.186,
+        0.493
+      ],
+      "Spearman": 0.67,
+      "MAE": 1.138
+    },
+    "sim_knn_k5": {
+      "R2": 0.218,
+      "R2_hostCI": [
+        -0.17,
+        0.404
+      ],
+      "Spearman": 0.564,
+      "MAE": 1.304
+    },
+    "additive": {
+      "R2": 0.23,
+      "R2_hostCI": [
+        -0.019,
+        0.323
+      ],
+      "Spearman": 0.632,
+      "MAE": 1.362
+    },
+    "host_only_RF": {
+      "R2": 0.194,
+      "R2_hostCI": [
+        -0.037,
+        0.261
+      ],
+      "Spearman": 0.453,
+      "MAE": 1.415
+    },
+    "guest_only_RF": {
+      "R2": 0.227,
+      "R2_hostCI": [
+        0.035,
+        0.328
+      ],
+      "Spearman": 0.543,
+      "MAE": 1.306
+    },
+    "cond_only_RF": {
+      "R2": -0.105,
+      "R2_hostCI": [
+        -0.273,
+        -0.025
+      ],
+      "Spearman": -0.068,
+      "MAE": 1.647
+    },
+    "source_only_RF": {
+      "R2": -0.073,
+      "R2_hostCI": [
+        -0.167,
+        -0.035
+      ],
+      "Spearman": -0.325,
+      "MAE": 1.628
+    }
+  },
+  "guest_cold": {
+    "PAIR_RF": {
+      "R2": 0.641,
+      "R2_hostCI": [
+        0.577,
+        0.68
+      ],
+      "Spearman": 0.811,
+      "MAE": 0.856
+    },
+    "ECFP_RF": {
+      "R2": 0.588,
+      "R2_hostCI": [
+        0.463,
+        0.648
+      ],
+      "Spearman": 0.769,
+      "MAE": 0.911
+    },
+    "XGB_pair": {
+      "R2": 0.618,
+      "R2_hostCI": [
+        0.55,
+        0.66
+      ],
+      "Spearman": 0.8,
+      "MAE": 0.872
+    },
+    "XGB_ecfp": {
+      "R2": 0.559,
+      "R2_hostCI": [
+        0.442,
+        0.619
+      ],
+      "Spearman": 0.737,
+      "MAE": 0.959
+    },
+    "LGBM_pair": {
+      "R2": 0.62,
+      "R2_hostCI": [
+        0.537,
+        0.663
+      ],
+      "Spearman": 0.795,
+      "MAE": 0.887
+    },
+    "LGBM_ecfp": {
+      "R2": 0.586,
+      "R2_hostCI": [
+        0.405,
+        0.649
+      ],
+      "Spearman": 0.756,
+      "MAE": 0.933
+    },
+    "3D_pair_RF": {
+      "R2": 0.619,
+      "R2_hostCI": [
+        0.563,
+        0.657
+      ],
+      "Spearman": 0.803,
+      "MAE": 0.883
+    },
+    "GINE": {
+      "R2": 0.527,
+      "R2_hostCI": [
+        0.316,
+        0.596
+      ],
+      "Spearman": 0.728,
+      "MAE": 1.012
+    },
+    "AttentiveFP": {
+      "R2": 0.567,
+      "R2_hostCI": [
+        0.462,
+        0.62
+      ],
+      "Spearman": 0.753,
+      "MAE": 0.977
+    },
+    "sim_knn_k5": {
+      "R2": 0.538,
+      "R2_hostCI": [
+        0.393,
+        0.608
+      ],
+      "Spearman": 0.734,
+      "MAE": 0.982
+    },
+    "additive": {
+      "R2": 0.34,
+      "R2_hostCI": [
+        0.158,
+        0.396
+      ],
+      "Spearman": 0.732,
+      "MAE": 1.281
+    },
+    "host_only_RF": {
+      "R2": 0.407,
+      "R2_hostCI": [
+        0.317,
+        0.495
+      ],
+      "Spearman": 0.659,
+      "MAE": 1.13
+    },
+    "guest_only_RF": {
+      "R2": 0.309,
+      "R2_hostCI": [
+        0.12,
+        0.382
+      ],
+      "Spearman": 0.574,
+      "MAE": 1.243
+    },
+    "cond_only_RF": {
+      "R2": 0.134,
+      "R2_hostCI": [
+        -0.032,
+        0.203
+      ],
+      "Spearman": 0.333,
+      "MAE": 1.456
+    },
+    "source_only_RF": {
+      "R2": 0.079,
+      "R2_hostCI": [
+        -0.053,
+        0.174
+      ],
+      "Spearman": 0.096,
+      "MAE": 1.523
+    }
+  },
+  "double_cold_summary": {
+    "PAIR_RF": {
+      "R2_mean": 0.386,
+      "R2_std": 0.098
+    },
+    "ECFP_RF": {
+      "R2_mean": 0.35,
+      "R2_std": 0.244
+    },
+    "XGB_pair": {
+      "R2_mean": 0.358,
+      "R2_std": 0.151
+    },
+    "XGB_ecfp": {
+      "R2_mean": 0.301,
+      "R2_std": 0.223
+    },
+    "LGBM_pair": {
+      "R2_mean": 0.352,
+      "R2_std": 0.145
+    },
+    "LGBM_ecfp": {
+      "R2_mean": 0.259,
+      "R2_std": 0.258
+    },
+    "3D_pair_RF": {
+      "R2_mean": 0.362,
+      "R2_std": 0.093
+    },
+    "GINE": {
+      "R2_mean": 0.18,
+      "R2_std": 0.348
+    },
+    "AttentiveFP": {
+      "R2_mean": 0.245,
+      "R2_std": 0.231
+    },
+    "sim_knn_k5": {
+      "R2_mean": 0.186,
+      "R2_std": 0.305
+    },
+    "additive": {
+      "R2_mean": 0.067,
+      "R2_std": 0.436
+    },
+    "host_only_RF": {
+      "R2_mean": 0.147,
+      "R2_std": 0.126
+    },
+    "guest_only_RF": {
+      "R2_mean": 0.038,
+      "R2_std": 0.402
+    },
+    "cond_only_RF": {
+      "R2_mean": -0.122,
+      "R2_std": 0.169
+    },
+    "source_only_RF": {
+      "R2_mean": NaN,
+      "R2_std": NaN
+    }
+  },
+  "K2_block_double_cold": {
+    "n_blocks": 12,
+    "best_null_meanR2": 0.291,
+    "which_null_best_per_block": [
+      "cond_only_RF",
+      "guest_only_RF",
+      "host_only_RF",
+      "host_only_RF",
+      "sim_knn_k5",
+      "sim_knn_k5",
+      "additive",
+      "sim_knn_k5",
+      "sim_knn_k5",
+      "sim_knn_k5",
+      "additive",
+      "sim_knn_k5"
+    ],
+    "PAIR_RF": {
+      "meanR2": 0.386,
+      "gain_vs_bestnull_mean": 0.095,
+      "gain_block_CI": [
+        0.055,
+        0.136
+      ],
+      "n_blocks_model_gt_bestnull": 11,
+      "wilcoxon_p": 0.00146484375
+    },
+    "XGB_pair": {
+      "meanR2": 0.358,
+      "gain_vs_bestnull_mean": 0.066,
+      "gain_block_CI": [
+        0.004,
+        0.126
+      ],
+      "n_blocks_model_gt_bestnull": 10,
+      "wilcoxon_p": 0.0341796875
+    },
+    "LGBM_pair": {
+      "meanR2": 0.352,
+      "gain_vs_bestnull_mean": 0.061,
+      "gain_block_CI": [
+        -0.003,
+        0.123
+      ],
+      "n_blocks_model_gt_bestnull": 10,
+      "wilcoxon_p": 0.06396484375
+    },
+    "GINE": {
+      "meanR2": 0.18,
+      "gain_vs_bestnull_mean": -0.111,
+      "gain_block_CI": [
+        -0.295,
+        0.011
+      ],
+      "n_blocks_model_gt_bestnull": 4,
+      "wilcoxon_p": 0.2333984375
+    },
+    "AttentiveFP": {
+      "meanR2": 0.245,
+      "gain_vs_bestnull_mean": -0.046,
+      "gain_block_CI": [
+        -0.185,
+        0.061
+      ],
+      "n_blocks_model_gt_bestnull": 8,
+      "wilcoxon_p": 0.90966796875
+    },
+    "3D_pair_RF": {
+      "meanR2": 0.362,
+      "gain_vs_bestnull_mean": 0.07,
+      "gain_block_CI": [
+        0.023,
+        0.118
+      ],
+      "n_blocks_model_gt_bestnull": 9,
+      "wilcoxon_p": 0.0341796875
+    }
+  },
+  "lowsim_bin": {
+    "n": 319,
+    "n_families": 8,
+    "per_model_R2": {
+      "PAIR_RF": 0.282,
+      "ECFP_RF": 0.182,
+      "XGB_pair": 0.225,
+      "XGB_ecfp": 0.132,
+      "LGBM_pair": 0.226,
+      "LGBM_ecfp": 0.147,
+      "3D_pair_RF": 0.284,
+      "GINE": 0.099,
+      "AttentiveFP": 0.266
+    },
+    "per_family": {
+      "calixarene": {
+        "n": 53,
+        "PAIR_RF": 0.37,
+        "XGB_pair": 0.183,
+        "LGBM_pair": 0.184,
+        "GINE": -0.447,
+        "AttentiveFP": 0.163,
+        "sim_knn_k5": -0.283
+      },
+      "cavitand": {
+        "n": 8,
+        "flag": "NO_CONCLUSION_small"
+      },
+      "crown_ether": {
+        "n": 3,
+        "flag": "NO_CONCLUSION_small"
+      },
+      "cucurbituril": {
+        "n": 9,
+        "flag": "NO_CONCLUSION_small"
+      },
+      "cyclodextrin": {
+        "n": 70,
+        "PAIR_RF": -0.107,
+        "XGB_pair": -0.052,
+        "LGBM_pair": -0.242,
+        "GINE": 0.066,
+        "AttentiveFP": 0.39,
+        "sim_knn_k5": 0.062
+      },
+      "cyclophane": {
+        "n": 14,
+        "flag": "NO_CONCLUSION_small"
+      },
+      "other": {
+        "n": 155,
+        "PAIR_RF": 0.187,
+        "XGB_pair": 0.111,
+        "LGBM_pair": 0.146,
+        "GINE": -0.072,
+        "AttentiveFP": 0.007,
+        "sim_knn_k5": -0.168
+      },
+      "pillararene": {
+        "n": 7,
+        "flag": "NO_CONCLUSION_small"
+      }
+    }
+  },
+  "family_cold": {
+    "calixarene": {
+      "n_pair": 536,
+      "n_host": 49,
+      "flag": "ok",
+      "y_mean": 3.564,
+      "models": {
+        "PAIR_RF": {
+          "R2": 0.246,
+          "Spearman": 0.509,
+          "calib_slope": 0.86,
+          "offset": 0.083
+        },
+        "ECFP_RF": {
+          "R2": -0.018,
+          "Spearman": 0.42,
+          "calib_slope": 1.544,
+          "offset": -0.623
+        },
+        "XGB_pair": {
+          "R2": 0.065,
+          "Spearman": 0.421,
+          "calib_slope": 0.591,
+          "offset": 0.262
+        },
+        "XGB_ecfp": {
+          "R2": 0.191,
+          "Spearman": 0.438,
+          "calib_slope": 0.802,
+          "offset": -0.116
+        },
+        "LGBM_pair": {
+          "R2": 0.036,
+          "Spearman": 0.409,
+          "calib_slope": 0.557,
+          "offset": 0.244
+        },
+        "LGBM_ecfp": {
+          "R2": 0.152,
+          "Spearman": 0.435,
+          "calib_slope": 0.797,
+          "offset": -0.227
+        },
+        "3D_pair_RF": {
+          "R2": 0.29,
+          "Spearman": 0.551,
+          "calib_slope": 0.917,
+          "offset": 0.164
+        },
+        "GINE": {
+          "R2": 0.112,
+          "Spearman": 0.561,
+          "calib_slope": 0.702,
+          "offset": -0.518
+        },
+        "AttentiveFP": {
+          "R2": 0.234,
+          "Spearman": 0.616,
+          "calib_slope": 0.7,
+          "offset": -0.32
+        }
+      }
+    },
+    "cavitand": {
+      "n_pair": 79,
+      "n_host": 3,
+      "flag": "NO_CONCLUSION_small",
+      "y_mean": 3.617,
+      "models": {
+        "PAIR_RF": {
+          "R2": -0.301,
+          "Spearman": -0.237,
+          "calib_slope": -0.014,
+          "offset": 0.348
+        },
+        "ECFP_RF": {
+          "R2": -0.018,
+          "Spearman": -0.117,
+          "calib_slope": 0.568,
+          "offset": 0.282
+        },
+        "XGB_pair": {
+          "R2": -0.326,
+          "Spearman": -0.126,
+          "calib_slope": 0.141,
+          "offset": 0.509
+        },
+        "XGB_ecfp": {
+          "R2": -0.191,
+          "Spearman": -0.015,
+          "calib_slope": 0.416,
+          "offset": 0.62
+        },
+        "LGBM_pair": {
+          "R2": -0.394,
+          "Spearman": -0.202,
+          "calib_slope": -0.003,
+          "offset": 0.477
+        },
+        "LGBM_ecfp": {
+          "R2": -0.296,
+          "Spearman": 0.189,
+          "calib_slope": 0.493,
+          "offset": 0.84
+        },
+        "3D_pair_RF": {
+          "R2": -0.042,
+          "Spearman": 0.002,
+          "calib_slope": 0.447,
+          "offset": 0.229
+        },
+        "GINE": {
+          "R2": -0.558,
+          "Spearman": 0.121,
+          "calib_slope": 0.326,
+          "offset": 0.931
+        },
+        "AttentiveFP": {
+          "R2": 0.335,
+          "Spearman": 0.597,
+          "calib_slope": 0.869,
+          "offset": 0.102
+        }
+      }
+    },
+    "crown_ether": {
+      "n_pair": 17,
+      "n_host": 3,
+      "flag": "NO_CONCLUSION_small",
+      "y_mean": 2.218,
+      "models": {
+        "PAIR_RF": {
+          "R2": -2.465,
+          "Spearman": 0.417,
+          "calib_slope": 0.484,
+          "offset": -1.802
+        },
+        "ECFP_RF": {
+          "R2": -0.983,
+          "Spearman": 0.343,
+          "calib_slope": 0.669,
+          "offset": -1.187
+        },
+        "XGB_pair": {
+          "R2": -3.862,
+          "Spearman": 0.368,
+          "calib_slope": 0.267,
+          "offset": -1.905
+        },
+        "XGB_ecfp": {
+          "R2": -1.496,
+          "Spearman": 0.268,
+          "calib_slope": 0.284,
+          "offset": -1.258
+        },
+        "LGBM_pair": {
+          "R2": -3.264,
+          "Spearman": 0.451,
+          "calib_slope": 0.351,
+          "offset": -1.901
+        },
+        "LGBM_ecfp": {
+          "R2": -0.835,
+          "Spearman": 0.369,
+          "calib_slope": 0.664,
+          "offset": -1.116
+        },
+        "3D_pair_RF": {
+          "R2": -2.54,
+          "Spearman": 0.402,
+          "calib_slope": 0.455,
+          "offset": -1.799
+        },
+        "GINE": {
+          "R2": 0.266,
+          "Spearman": 0.712,
+          "calib_slope": 1.217,
+          "offset": 0.491
+        },
+        "AttentiveFP": {
+          "R2": 0.052,
+          "Spearman": 0.443,
+          "calib_slope": 0.636,
+          "offset": -0.234
+        }
+      }
+    },
+    "cucurbituril": {
+      "n_pair": 733,
+      "n_host": 19,
+      "flag": "ok",
+      "y_mean": 5.136,
+      "models": {
+        "PAIR_RF": {
+          "R2": -0.24,
+          "Spearman": 0.481,
+          "calib_slope": 1.664,
+          "offset": 1.414
+        },
+        "ECFP_RF": {
+          "R2": -0.138,
+          "Spearman": 0.414,
+          "calib_slope": 2.695,
+          "offset": 1.086
+        },
+        "XGB_pair": {
+          "R2": -0.241,
+          "Spearman": 0.48,
+          "calib_slope": 1.424,
+          "offset": 1.468
+        },
+        "XGB_ecfp": {
+          "R2": 0.018,
+          "Spearman": 0.429,
+          "calib_slope": 1.283,
+          "offset": 0.775
+        },
+        "LGBM_pair": {
+          "R2": -0.23,
+          "Spearman": 0.44,
+          "calib_slope": 1.417,
+          "offset": 1.377
+        },
+        "LGBM_ecfp": {
+          "R2": 0.001,
+          "Spearman": 0.382,
+          "calib_slope": 1.367,
+          "offset": 0.813
+        },
+        "3D_pair_RF": {
+          "R2": -0.266,
+          "Spearman": 0.456,
+          "calib_slope": 1.389,
+          "offset": 1.479
+        },
+        "GINE": {
+          "R2": -0.239,
+          "Spearman": 0.094,
+          "calib_slope": 0.256,
+          "offset": 1.086
+        },
+        "AttentiveFP": {
+          "R2": 0.172,
+          "Spearman": 0.521,
+          "calib_slope": 1.271,
+          "offset": 0.317
+        }
+      }
+    },
+    "cyclodextrin": {
+      "n_pair": 352,
+      "n_host": 21,
+      "flag": "ok",
+      "y_mean": 2.716,
+      "models": {
+        "PAIR_RF": {
+          "R2": -3.997,
+          "Spearman": 0.518,
+          "calib_slope": 0.588,
+          "offset": -2.259
+        },
+        "ECFP_RF": {
+          "R2": -1.366,
+          "Spearman": 0.493,
+          "calib_slope": 0.821,
+          "offset": -1.395
+        },
+        "XGB_pair": {
+          "R2": -4.222,
+          "Spearman": 0.507,
+          "calib_slope": 0.409,
+          "offset": -2.229
+        },
+        "XGB_ecfp": {
+          "R2": -1.1,
+          "Spearman": 0.314,
+          "calib_slope": 0.325,
+          "offset": -0.99
+        },
+        "LGBM_pair": {
+          "R2": -4.869,
+          "Spearman": 0.436,
+          "calib_slope": 0.413,
+          "offset": -2.417
+        },
+        "LGBM_ecfp": {
+          "R2": -1.114,
+          "Spearman": 0.192,
+          "calib_slope": 0.239,
+          "offset": -0.884
+        },
+        "3D_pair_RF": {
+          "R2": -4.593,
+          "Spearman": 0.536,
+          "calib_slope": 0.549,
+          "offset": -2.406
+        },
+        "GINE": {
+          "R2": -1.399,
+          "Spearman": 0.478,
+          "calib_slope": 0.43,
+          "offset": -1.243
+        },
+        "AttentiveFP": {
+          "R2": -1.748,
+          "Spearman": 0.437,
+          "calib_slope": 0.259,
+          "offset": 0.475
+        }
+      }
+    },
+    "cyclophane": {
+      "n_pair": 28,
+      "n_host": 2,
+      "flag": "NO_CONCLUSION_small",
+      "y_mean": 4.549,
+      "models": {
+        "PAIR_RF": {
+          "R2": 0.404,
+          "Spearman": 0.666,
+          "calib_slope": 1.307,
+          "offset": 0.384
+        },
+        "ECFP_RF": {
+          "R2": 0.481,
+          "Spearman": 0.758,
+          "calib_slope": 0.952,
+          "offset": -0.106
+        },
+        "XGB_pair": {
+          "R2": 0.489,
+          "Spearman": 0.624,
+          "calib_slope": 0.948,
+          "offset": 0.222
+        },
+        "XGB_ecfp": {
+          "R2": 0.288,
+          "Spearman": 0.604,
+          "calib_slope": 0.636,
+          "offset": -0.05
+        },
+        "LGBM_pair": {
+          "R2": 0.577,
+          "Spearman": 0.765,
+          "calib_slope": 0.863,
+          "offset": -0.034
+        },
+        "LGBM_ecfp": {
+          "R2": -0.362,
+          "Spearman": 0.693,
+          "calib_slope": 0.52,
+          "offset": -0.66
+        },
+        "3D_pair_RF": {
+          "R2": 0.223,
+          "Spearman": 0.556,
+          "calib_slope": 1.191,
+          "offset": 0.363
+        },
+        "GINE": {
+          "R2": 0.542,
+          "Spearman": 0.718,
+          "calib_slope": 0.812,
+          "offset": 0.15
+        },
+        "AttentiveFP": {
+          "R2": 0.328,
+          "Spearman": 0.668,
+          "calib_slope": 0.751,
+          "offset": 0.279
+        }
+      }
+    },
+    "other": {
+      "n_pair": 581,
+      "n_host": 88,
+      "flag": "ok",
+      "y_mean": 3.398,
+      "models": {
+        "PAIR_RF": {
+          "R2": 0.019,
+          "Spearman": 0.506,
+          "calib_slope": 0.605,
+          "offset": -0.505
+        },
+        "ECFP_RF": {
+          "R2": -0.123,
+          "Spearman": 0.261,
+          "calib_slope": 0.433,
+          "offset": -0.534
+        },
+        "XGB_pair": {
+          "R2": -0.101,
+          "Spearman": 0.51,
+          "calib_slope": 0.503,
+          "offset": -0.572
+        },
+        "XGB_ecfp": {
+          "R2": -0.081,
+          "Spearman": 0.307,
+          "calib_slope": 0.4,
+          "offset": -0.013
+        },
+        "LGBM_pair": {
+          "R2": -0.116,
+          "Spearman": 0.491,
+          "calib_slope": 0.477,
+          "offset": -0.495
+        },
+        "LGBM_ecfp": {
+          "R2": -0.147,
+          "Spearman": 0.245,
+          "calib_slope": 0.318,
+          "offset": -0.127
+        },
+        "3D_pair_RF": {
+          "R2": 0.019,
+          "Spearman": 0.493,
+          "calib_slope": 0.594,
+          "offset": -0.473
+        },
+        "GINE": {
+          "R2": -0.521,
+          "Spearman": 0.189,
+          "calib_slope": 0.206,
+          "offset": -0.492
+        },
+        "AttentiveFP": {
+          "R2": 0.038,
+          "Spearman": 0.39,
+          "calib_slope": 0.547,
+          "offset": 0.065
+        }
+      }
+    },
+    "pillararene": {
+      "n_pair": 57,
+      "n_host": 4,
+      "flag": "NO_CONCLUSION_small",
+      "y_mean": 6.526,
+      "models": {
+        "PAIR_RF": {
+          "R2": -3.618,
+          "Spearman": -0.15,
+          "calib_slope": -0.094,
+          "offset": 1.668
+        },
+        "ECFP_RF": {
+          "R2": -6.42,
+          "Spearman": -0.214,
+          "calib_slope": -0.071,
+          "offset": 2.494
+        },
+        "XGB_pair": {
+          "R2": -3.86,
+          "Spearman": 0.053,
+          "calib_slope": 0.093,
+          "offset": 1.658
+        },
+        "XGB_ecfp": {
+          "R2": -4.995,
+          "Spearman": -0.001,
+          "calib_slope": 0.026,
+          "offset": 2.084
+        },
+        "LGBM_pair": {
+          "R2": -3.963,
+          "Spearman": 0.132,
+          "calib_slope": 0.136,
+          "offset": 1.66
+        },
+        "LGBM_ecfp": {
+          "R2": -4.675,
+          "Spearman": -0.126,
+          "calib_slope": -0.11,
+          "offset": 1.992
+        },
+        "3D_pair_RF": {
+          "R2": -3.195,
+          "Spearman": -0.105,
+          "calib_slope": 0.003,
+          "offset": 1.647
+        },
+        "GINE": {
+          "R2": -8.489,
+          "Spearman": -0.055,
+          "calib_slope": 0.016,
+          "offset": 2.801
+        },
+        "AttentiveFP": {
+          "R2": -4.997,
+          "Spearman": 0.341,
+          "calib_slope": 0.207,
+          "offset": 1.999
+        }
+      }
+    }
+  }
+}

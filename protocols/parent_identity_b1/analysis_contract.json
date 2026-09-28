@@ -1,0 +1,543 @@
+{
+  "schema_version": 1,
+  "state": "FROZEN_BEFORE_OUTCOMES_C",
+  "primary_model": "PAIR_RF",
+  "null_models": [
+    "additive",
+    "host_only_RF",
+    "guest_only_RF",
+    "cond_only_RF",
+    "source_only_RF",
+    "sim_knn_k5"
+  ],
+  "exact_tie_order": [
+    "additive",
+    "host_only_RF",
+    "guest_only_RF",
+    "cond_only_RF",
+    "source_only_RF",
+    "sim_knn_k5"
+  ],
+  "identity_mapping": {
+    "stage_a_lookup_for_released": [
+      "host_id",
+      "guest_id"
+    ],
+    "stage_a_lookup_for_canonical": [
+      "host_id",
+      "guest_id"
+    ],
+    "canonical_hash_role": "identity assertion against saved canonical fold and prediction rows only",
+    "canonical_hash_used_as_stage_a_identity_id": false,
+    "v2_scenarios": {
+      "v2_reviewed_only_parent": "merge the 44 dynamically joined accepted_as_operational multi-identity groups; revert the 3 dynamically joined uncertain groups to each identity's complete strict key; retain the frozen v2 operational key for all other identities",
+      "v2_all_operational_parent": "use the complete frozen v2 operational mapping while retaining uncertainty flags"
+    },
+    "v2_scenario_interpretation": "pre-outcome operational scenarios, not rigorous bounds",
+    "controller_decision_timing": "the reviewed-only/all-operational split was fixed from structure review before any Stage-B count or Stage-C outcome was seen"
+  },
+  "block_rosters": {
+    "released": {
+      "host_cold": [
+        {
+          "block_id": "0",
+          "seed": "",
+          "train_rows": 1906,
+          "test_appearances": 477,
+          "excluded_rows": 0
+        },
+        {
+          "block_id": "1",
+          "seed": "",
+          "train_rows": 1906,
+          "test_appearances": 477,
+          "excluded_rows": 0
+        },
+        {
+          "block_id": "2",
+          "seed": "",
+          "train_rows": 1906,
+          "test_appearances": 477,
+          "excluded_rows": 0
+        },
+        {
+          "block_id": "3",
+          "seed": "",
+          "train_rows": 1907,
+          "test_appearances": 476,
+          "excluded_rows": 0
+        },
+        {
+          "block_id": "4",
+          "seed": "",
+          "train_rows": 1907,
+          "test_appearances": 476,
+          "excluded_rows": 0
+        }
+      ],
+      "guest_cold": [
+        {
+          "block_id": "0",
+          "seed": "",
+          "train_rows": 1906,
+          "test_appearances": 477,
+          "excluded_rows": 0
+        },
+        {
+          "block_id": "1",
+          "seed": "",
+          "train_rows": 1906,
+          "test_appearances": 477,
+          "excluded_rows": 0
+        },
+        {
+          "block_id": "2",
+          "seed": "",
+          "train_rows": 1906,
+          "test_appearances": 477,
+          "excluded_rows": 0
+        },
+        {
+          "block_id": "3",
+          "seed": "",
+          "train_rows": 1907,
+          "test_appearances": 476,
+          "excluded_rows": 0
+        },
+        {
+          "block_id": "4",
+          "seed": "",
+          "train_rows": 1907,
+          "test_appearances": 476,
+          "excluded_rows": 0
+        }
+      ],
+      "double_cold": [
+        {
+          "block_id": "0",
+          "seed": "0",
+          "train_rows": 1439,
+          "test_appearances": 100,
+          "excluded_rows": 844
+        },
+        {
+          "block_id": "1",
+          "seed": "1",
+          "train_rows": 1357,
+          "test_appearances": 128,
+          "excluded_rows": 898
+        },
+        {
+          "block_id": "10",
+          "seed": "10",
+          "train_rows": 1221,
+          "test_appearances": 195,
+          "excluded_rows": 967
+        },
+        {
+          "block_id": "11",
+          "seed": "11",
+          "train_rows": 1126,
+          "test_appearances": 211,
+          "excluded_rows": 1046
+        },
+        {
+          "block_id": "2",
+          "seed": "2",
+          "train_rows": 1057,
+          "test_appearances": 244,
+          "excluded_rows": 1082
+        },
+        {
+          "block_id": "3",
+          "seed": "3",
+          "train_rows": 1370,
+          "test_appearances": 165,
+          "excluded_rows": 848
+        },
+        {
+          "block_id": "4",
+          "seed": "4",
+          "train_rows": 1254,
+          "test_appearances": 170,
+          "excluded_rows": 959
+        },
+        {
+          "block_id": "5",
+          "seed": "5",
+          "train_rows": 1174,
+          "test_appearances": 197,
+          "excluded_rows": 1012
+        },
+        {
+          "block_id": "6",
+          "seed": "6",
+          "train_rows": 1302,
+          "test_appearances": 159,
+          "excluded_rows": 922
+        },
+        {
+          "block_id": "7",
+          "seed": "7",
+          "train_rows": 1526,
+          "test_appearances": 76,
+          "excluded_rows": 781
+        },
+        {
+          "block_id": "8",
+          "seed": "8",
+          "train_rows": 1070,
+          "test_appearances": 232,
+          "excluded_rows": 1081
+        },
+        {
+          "block_id": "9",
+          "seed": "9",
+          "train_rows": 1485,
+          "test_appearances": 107,
+          "excluded_rows": 791
+        }
+      ]
+    },
+    "canonical": {
+      "host_cold": [
+        {
+          "block_id": "host_cold/fold_0",
+          "seed": "",
+          "train_rows": 1906,
+          "test_appearances": 477,
+          "excluded_rows": 0
+        },
+        {
+          "block_id": "host_cold/fold_1",
+          "seed": "",
+          "train_rows": 1906,
+          "test_appearances": 477,
+          "excluded_rows": 0
+        },
+        {
+          "block_id": "host_cold/fold_2",
+          "seed": "",
+          "train_rows": 1906,
+          "test_appearances": 477,
+          "excluded_rows": 0
+        },
+        {
+          "block_id": "host_cold/fold_3",
+          "seed": "",
+          "train_rows": 1907,
+          "test_appearances": 476,
+          "excluded_rows": 0
+        },
+        {
+          "block_id": "host_cold/fold_4",
+          "seed": "",
+          "train_rows": 1907,
+          "test_appearances": 476,
+          "excluded_rows": 0
+        }
+      ],
+      "guest_cold": [
+        {
+          "block_id": "guest_cold/fold_0",
+          "seed": "",
+          "train_rows": 1906,
+          "test_appearances": 477,
+          "excluded_rows": 0
+        },
+        {
+          "block_id": "guest_cold/fold_1",
+          "seed": "",
+          "train_rows": 1906,
+          "test_appearances": 477,
+          "excluded_rows": 0
+        },
+        {
+          "block_id": "guest_cold/fold_2",
+          "seed": "",
+          "train_rows": 1906,
+          "test_appearances": 477,
+          "excluded_rows": 0
+        },
+        {
+          "block_id": "guest_cold/fold_3",
+          "seed": "",
+          "train_rows": 1907,
+          "test_appearances": 476,
+          "excluded_rows": 0
+        },
+        {
+          "block_id": "guest_cold/fold_4",
+          "seed": "",
+          "train_rows": 1907,
+          "test_appearances": 476,
+          "excluded_rows": 0
+        }
+      ],
+      "double_cold": [
+        {
+          "block_id": "double_cold/seed_0",
+          "seed": "0",
+          "train_rows": 1448,
+          "test_appearances": 102,
+          "excluded_rows": 833
+        },
+        {
+          "block_id": "double_cold/seed_1",
+          "seed": "1",
+          "train_rows": 1244,
+          "test_appearances": 162,
+          "excluded_rows": 977
+        },
+        {
+          "block_id": "double_cold/seed_10",
+          "seed": "10",
+          "train_rows": 1431,
+          "test_appearances": 112,
+          "excluded_rows": 840
+        },
+        {
+          "block_id": "double_cold/seed_11",
+          "seed": "11",
+          "train_rows": 934,
+          "test_appearances": 286,
+          "excluded_rows": 1163
+        },
+        {
+          "block_id": "double_cold/seed_2",
+          "seed": "2",
+          "train_rows": 1367,
+          "test_appearances": 131,
+          "excluded_rows": 885
+        },
+        {
+          "block_id": "double_cold/seed_3",
+          "seed": "3",
+          "train_rows": 1552,
+          "test_appearances": 68,
+          "excluded_rows": 763
+        },
+        {
+          "block_id": "double_cold/seed_4",
+          "seed": "4",
+          "train_rows": 1417,
+          "test_appearances": 118,
+          "excluded_rows": 848
+        },
+        {
+          "block_id": "double_cold/seed_5",
+          "seed": "5",
+          "train_rows": 1212,
+          "test_appearances": 179,
+          "excluded_rows": 992
+        },
+        {
+          "block_id": "double_cold/seed_6",
+          "seed": "6",
+          "train_rows": 1462,
+          "test_appearances": 105,
+          "excluded_rows": 816
+        },
+        {
+          "block_id": "double_cold/seed_7",
+          "seed": "7",
+          "train_rows": 1150,
+          "test_appearances": 215,
+          "excluded_rows": 1018
+        },
+        {
+          "block_id": "double_cold/seed_8",
+          "seed": "8",
+          "train_rows": 1376,
+          "test_appearances": 138,
+          "excluded_rows": 869
+        },
+        {
+          "block_id": "double_cold/seed_9",
+          "seed": "9",
+          "train_rows": 1479,
+          "test_appearances": 100,
+          "excluded_rows": 804
+        }
+      ]
+    }
+  },
+  "guards": {
+    "applies_to_all_models_and_all_six_nulls": true,
+    "undefined_if_n_lt": 2,
+    "undefined_if_target_constant": true,
+    "undefined_if_prediction_std_ddof0_lte": 1e-09,
+    "undefined_if_any_nonfinite": true,
+    "no_eligible_null": "margin_undefined",
+    "undefined_block_policy": "do_not_drop_or_fill_zero",
+    "source_only_simplified_37_mask_guard_inherited": false
+  },
+  "masks": [
+    "all",
+    "protected_axis_retained"
+  ],
+  "aggregation": {
+    "host_cold": "pool all retained OOF appearances per model, then score and select max null",
+    "guest_cold": "pool all retained OOF appearances per model, then score and select max null",
+    "double_cold": "score each fixed block, select block max null, subtract from PAIR_RF, equal-weight the fixed 12-block roster",
+    "double_required_block_count": 12,
+    "strongest_null_reselected_per_mask_and_scoring_unit": true,
+    "canonical_pooled_double_primary": false
+  },
+  "baseline_gate": {
+    "numeric_gate": "abs(a-b) <= 8*ulp(a)",
+    "canonical": "match saved metrics by scope and status before masked outcomes",
+    "released_double": "match block_level_deltaR2 exact-float reference before masked outcomes",
+    "released_host_guest": "rounded producer reconciliation is separate from exact-float acceptance; missing exact reference must be reported",
+    "format_or_scope_conflict": "stop and return to controller; do not relax tolerance"
+  },
+  "prohibitions": [
+    "do not read outcomes during Stage B",
+    "do not alter frozen identity predicates or labels",
+    "do not revise masks after seeing outcomes",
+    "do not drop an undefined block",
+    "do not fill undefined values with zero",
+    "do not create new scientific endpoints from small classes"
+  ],
+  "alignment": {
+    "mask_appearance_key": [
+      "branch",
+      "split",
+      "block_id",
+      "row_index"
+    ],
+    "prediction_key_adds": [
+      "model"
+    ],
+    "require_one_to_one_appearance_alignment": true,
+    "inner_join_or_silent_drop_forbidden": true,
+    "mask_file": "results/parent_identity_b1/stage_b/APPEARANCE_CLASSIFICATION_MASKS.csv",
+    "mask_columns": [
+      "branch",
+      "split",
+      "block_id",
+      "row_index",
+      "seed",
+      "host_id",
+      "guest_id",
+      "canonical_host_sha256",
+      "canonical_guest_sha256",
+      "layer",
+      "parent_host_key",
+      "parent_guest_key",
+      "host_seen",
+      "guest_seen",
+      "pair_seen",
+      "category",
+      "all_mask",
+      "protected_axis_retained",
+      "host_uncertain",
+      "guest_uncertain",
+      "uncertain",
+      "uncertain_reason",
+      "membership_source"
+    ],
+    "prediction_sources": [
+      {
+        "branch": "released",
+        "split": "host_cold",
+        "path": "data/released_predictions/predictions_host_cold.csv",
+        "fields": {
+          "split": "split",
+          "block_id": "fold_or_block",
+          "row_index": "row_index",
+          "host_id": "host_id",
+          "guest_id": "guest_id",
+          "model": "model",
+          "y_true": "y_true",
+          "y_pred": "y_pred"
+        }
+      },
+      {
+        "branch": "canonical",
+        "split": "host_cold",
+        "path": "results/canonical_cpu/run_a/predictions_cpu.csv",
+        "fields": {
+          "split": "split",
+          "block_id": "block_id",
+          "row_index": "row_index",
+          "host_id": "host_id",
+          "guest_id": "guest_id",
+          "canonical_host_sha256": "canonical_host_sha256",
+          "canonical_guest_sha256": "canonical_guest_sha256",
+          "model": "model",
+          "y_true": "y_true",
+          "y_pred": "y_pred"
+        }
+      },
+      {
+        "branch": "released",
+        "split": "guest_cold",
+        "path": "data/released_predictions/predictions_guest_cold.csv",
+        "fields": {
+          "split": "split",
+          "block_id": "fold_or_block",
+          "row_index": "row_index",
+          "host_id": "host_id",
+          "guest_id": "guest_id",
+          "model": "model",
+          "y_true": "y_true",
+          "y_pred": "y_pred"
+        }
+      },
+      {
+        "branch": "canonical",
+        "split": "guest_cold",
+        "path": "results/canonical_cpu/run_a/predictions_cpu.csv",
+        "fields": {
+          "split": "split",
+          "block_id": "block_id",
+          "row_index": "row_index",
+          "host_id": "host_id",
+          "guest_id": "guest_id",
+          "canonical_host_sha256": "canonical_host_sha256",
+          "canonical_guest_sha256": "canonical_guest_sha256",
+          "model": "model",
+          "y_true": "y_true",
+          "y_pred": "y_pred"
+        }
+      },
+      {
+        "branch": "released",
+        "split": "double_cold",
+        "path": "data/released_predictions/predictions_double_cold.csv",
+        "fields": {
+          "split": "split",
+          "block_id": "fold_or_block",
+          "row_index": "row_index",
+          "host_id": "host_id",
+          "guest_id": "guest_id",
+          "model": "model",
+          "y_true": "y_true",
+          "y_pred": "y_pred"
+        }
+      },
+      {
+        "branch": "canonical",
+        "split": "double_cold",
+        "path": "results/canonical_cpu/run_a/predictions_cpu.csv",
+        "fields": {
+          "split": "split",
+          "block_id": "block_id",
+          "row_index": "row_index",
+          "host_id": "host_id",
+          "guest_id": "guest_id",
+          "canonical_host_sha256": "canonical_host_sha256",
+          "canonical_guest_sha256": "canonical_guest_sha256",
+          "model": "model",
+          "y_true": "y_true",
+          "y_pred": "y_pred"
+        }
+      }
+    ]
+  },
+  "public_path_adaptation": {
+    "scope": "paths and output safety only",
+    "scientific_contract_changed": false
+  }
+}

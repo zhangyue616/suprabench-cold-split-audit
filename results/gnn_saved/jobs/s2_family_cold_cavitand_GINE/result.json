@@ -1,0 +1,26 @@
+{
+  "job_id": "s2_family_cold_cavitand_GINE",
+  "seed": 2,
+  "model": "GINE",
+  "regime": "family_cold",
+  "fold": "cavitand",
+  "status": "COMPLETED",
+  "flag": "NO_CONCLUSION_small",
+  "n_train": 1959,
+  "n_val": 345,
+  "n_test": 79,
+  "mu": 3.989750385284424,
+  "sd": 2.092574165893555,
+  "best_epoch": 57,
+  "stop_epoch": 87,
+  "best_validation_mae": 0.9295697212219238,
+  "elapsed_s": 5.062999999994645,
+  "peak_allocated_bytes": 506076672,
+  "predictions_sha": "9021e11035067f1c8e1dd7423520cbfa6f1525a82cbc2c9c1f69e35d803b3827",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": -0.6210627555847168,
+    "MAE": 1.6765190362930298,
+    "Spearman": -0.05031645569620253
+  }
+}

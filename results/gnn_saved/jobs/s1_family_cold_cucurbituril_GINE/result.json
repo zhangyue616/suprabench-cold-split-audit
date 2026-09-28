@@ -1,0 +1,26 @@
+{
+  "job_id": "s1_family_cold_cucurbituril_GINE",
+  "seed": 1,
+  "model": "GINE",
+  "regime": "family_cold",
+  "fold": "cucurbituril",
+  "status": "COMPLETED",
+  "flag": "ok",
+  "n_train": 1403,
+  "n_val": 247,
+  "n_test": 733,
+  "mu": 3.4334475994110107,
+  "sd": 1.6711500154266357,
+  "best_epoch": 136,
+  "stop_epoch": 166,
+  "best_validation_mae": 0.6900050640106201,
+  "elapsed_s": 6.562000000005355,
+  "peak_allocated_bytes": 502316544,
+  "predictions_sha": "b5baa1a325cad3e1a5602932d01a23a4c6e2e8762fd8d6a9dc866db20e84bffa",
+  "runner_sha": "67662a199ed759f72ceb4277f7014091f1f881750628130bbdcf17e9e665094d",
+  "metrics": {
+    "R2": -0.2192012071609497,
+    "MAE": 1.909250259399414,
+    "Spearman": 0.2779795316490089
+  }
+}
