@@ -1,7 +1,7 @@
 This repository uses file-specific licensing.
 
 Original software and its listed associated documentation: MIT.
-Scientific data, protocols, results and selected figures: CC BY 4.0.
+Scientific data, results and selected figures: CC BY 4.0; protocol files follow the per-file assignments in FILE_LICENSES.tsv.
 
 See LICENSING.md, FILE_LICENSES.tsv, THIRD_PARTY.md and LICENSES/.
 No blanket MIT license applies to this repository.

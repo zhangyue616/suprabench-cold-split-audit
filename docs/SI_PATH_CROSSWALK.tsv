@@ -29,7 +29,7 @@ repro/canonical_rebuild_20260802/scripts/build_canonical_folds.py	data/canonical
 repro/canonical_rebuild_20260802/scripts/build_model_features.py	data/canonical_cpu/features/; protocols/verification_manifest.json	historical_execution_boundary	Frozen feature artifacts and schema are public; historical external preparation inputs are not all redistributable.
 repro/canonical_rebuild_20260802/verifier_v2/REPORT.md	scripts/verify_saved_results.py; docs/REPRODUCTION.md	navigation_superseded	The public verifier and its documented scope replace a historical local verification report.
 repro/configs/	data/configs/; results/gnn_saved/jobs.json; results/tree_saved/jobs.json	existing_public_equivalent	Frozen model and job configurations under the current layout.
-repro/configs/null_models.json	results/diagnostics/README.md; scripts/diagnostics/	public_science_addendum	Null-model definitions and exact RF parameters are documented with the diagnostic producers.
+repro/configs/null_models.json	data/source/suprabench_baselines_modern.py; scripts/diagnostics/suprabench_pregate.py	public_science_addendum	PROPER, simknn, rf, and predict_all define the released modern six-null implementation; the pre-gate script retains the corresponding diagnostic implementation.
 repro/current_20260925_r10/PROVENANCE.md	docs/DATA_SOURCES.md; docs/REPRODUCTION.md	navigation_superseded	Current public source and scope documents replace the dated package pointer.
 repro/current_20260925_r10/README.md	README.md; docs/SI_PATH_CROSSWALK.tsv	navigation_superseded	Repository-level navigation and this crosswalk replace the dated package pointer.
 repro/folds/	data/folds/	existing_public_equivalent	Frozen released-identifier folds and identifier maps under the current layout.
