@@ -27,4 +27,4 @@ The raw `records.parquet` is not redistributed. Its upstream location, byte coun
 
 ## Licensing
 
-`FILE_LICENSES.tsv` assigns rights per file. Project-authored software and documentation are MIT licensed. Scientific data, saved predictions, derived numerical results and figures are CC BY 4.0 with the upstream attribution recorded in `THIRD_PARTY.md`. No repository-wide MIT grant is implied for the scientific data.
+`FILE_LICENSES.tsv` is the per-file licensing authority. Original analysis software identified there as MIT is licensed under the MIT License. Scientific data, saved predictions, derived numerical results and figures, together with `docs/DATA_SOURCES.md`, `docs/REPRODUCTION.md`, `docs/SCIENCE_COVERAGE.md`, `docs/SI_PATH_CROSSWALK.tsv`, and `docs/STRUCTURE_VALID_FILTER.md`, are CC BY 4.0 with the upstream attribution recorded in `THIRD_PARTY.md`. All other documentation follows the license assigned to that file in `FILE_LICENSES.tsv`. No repository-wide MIT or CC BY 4.0 grant is implied.
