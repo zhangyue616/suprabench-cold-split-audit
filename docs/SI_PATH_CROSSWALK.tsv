@@ -1,0 +1,56 @@
+si_path	public_path	coverage_class	note
+data/canonical_gnn_comparison_repair/	results/canonical_gnn_comparison/; scripts/canonical_gnn/historical/compare_gnn_repeats.py; scripts/canonical_gnn/compare_gnn_repeats_warning_compat.py	public_science_addendum	The 326-row repeat comparison, thresholds, input bindings, exact historical comparator, and narrow warning-compatibility wrapper are separate from model-versus-null reaggregation.
+data/excluded_records.csv	data/population/excluded_records.csv	public_science_addendum	Structure-filter exclusions, with record-level reason codes.
+data/excluded_summary_by_class.csv	data/population/excluded_summary_by_class.csv	public_science_addendum	Structure-filter summary by exclusion class.
+data/excluded_summary_by_host.csv	data/population/excluded_summary_by_host.csv	public_science_addendum	Structure-filter summary by host identifier.
+data/family_error_decomposition.csv	results/record_audit/family_error_decomposition.csv	public_science_addendum	Frozen record-level family error decomposition.
+data/leave_two_blocks.csv	results/record_audit/leave_two_blocks.csv	public_science_addendum	Frozen leave-two-block audit table.
+data/record_semantics.json	results/record_audit/record_semantics.json	public_science_addendum	Frozen record, pair, identifier, and task-identifier counting semantics.
+data/structure_valid_filter.md	docs/STRUCTURE_VALID_FILTER.md	public_science_addendum	Public definition of the 2,609-to-2,383 structure-valid filter.
+data/structure_valid_verification.json	data/population/structure_valid_verification.json	public_science_addendum	Saved count and file-binding verification with portable paths.
+docs/coordination/family_diagnostics_20260923_r1/analyze_family.py	scripts/analyze_family_diagnostics.py	existing_public_equivalent	Path-parameterized producer for the already released family-diagnostic tables.
+docs/coordination/gnn_reproducibility_20260923_r1/	docs/REPRODUCTION.md; results/gnn_saved/; results/canonical_gnn_run_a/	navigation_superseded	Current public reproduction scope plus frozen graph outputs replace the dated coordination directory.
+docs/coordination/release_preparation_20260923_r1/sensitivity_37_mask/	results/strict_recurrence_sensitivity/; scripts/reaggregate_37_mask.py	public_science_addendum	The exact 37-appearance mask, seven-model block scores, baseline checks, retained-block comparison, summary, and fixed-prediction reaggregator are retained together.
+docs/coordination/tree_seed_reproducibility_20260923_r1/	results/tree_saved/; scripts/reaggregate_saved_results.py	navigation_superseded	Frozen 420-job tree outputs and the public reaggregator replace the dated coordination directory.
+env/ENVIRONMENT.md	docs/REPRODUCTION.md; environments/verify.txt; environments/gnn.txt; environments/trees.txt	navigation_superseded	Current public environment and scope documents replace the historical environment note.
+env/tapt_5090_modern_CANONICAL_2026-06-26.txt	environments/verify.txt; results/tree_saved/runtime_environment.json	existing_public_equivalent	Pinned verification requirements and captured runtime inventory provide the public environment binding.
+provenance/gnn-a.json	results/canonical_gnn_run_a/provenance.json	public_science_addendum	Allow-listed scientific provenance; local execution paths and review metadata are excluded.
+repro/MANIFEST.csv	protocols/verification_manifest.json; FILE_LICENSES.tsv	navigation_superseded	Current integrity bindings and per-file rights replace the first historical package manifest.
+repro/MANIFEST_V2.csv	protocols/verification_manifest.json; FILE_LICENSES.tsv	navigation_superseded	Current integrity bindings and per-file rights replace the second historical package manifest.
+repro/MANIFEST_V3.csv	protocols/verification_manifest.json; FILE_LICENSES.tsv	navigation_superseded	Current integrity bindings and per-file rights replace the third historical package manifest.
+repro/PROVENANCE.md	docs/DATA_SOURCES.md; docs/REPRODUCTION.md	navigation_superseded	Current public source and scope documents replace historical package provenance prose.
+repro/canonical_rebuild_20260802/config/canonical_rebuild_config.json	data/canonical_cpu/config/canonical_rebuild_config.json	existing_public_equivalent	Same public canonical rebuild configuration under the current layout.
+repro/canonical_rebuild_20260802/docs/CANONICAL_RESULT_INTERFACE_V2.md	docs/REPRODUCTION.md; protocols/verification_manifest.json	navigation_superseded	Current scoring/replay scope and exact artifact bindings replace the dated interface document.
+repro/canonical_rebuild_20260802/features/frozen/feature_schema.json	data/canonical_cpu/features/feature_schema.json	existing_public_equivalent	Same frozen feature schema under the current layout.
+repro/canonical_rebuild_20260802/formal_gnn_execution_torch290_cu128_pyg280_20260811_v19/runs/gnn_a/metrics_gnn.tsv	results/canonical_gnn_run_a/metrics_gnn.tsv	public_science_addendum	Frozen canonical graph run-A metrics.
+repro/canonical_rebuild_20260802/results/model_cpu_deterministic_v1_repeat_comparison/canonical_cpu_aggregate_audit_v1.tsv	results/canonical_cpu/canonical_cpu_aggregate_audit_v1.tsv	existing_public_equivalent	Same canonical CPU repeat-comparison table under the current layout.
+repro/canonical_rebuild_20260802/runs/model_cpu_deterministic_v1_run_a/metrics_cpu.tsv	results/canonical_cpu/run_a/metrics_cpu.tsv	existing_public_equivalent	Same canonical CPU run-A metrics under the current layout.
+repro/canonical_rebuild_20260802/scripts/build_canonical_folds.py	data/canonical_cpu/folds/; protocols/verification_manifest.json	historical_execution_boundary	Frozen canonical folds and bindings are public; the dated build driver is not required for saved-result replay.
+repro/canonical_rebuild_20260802/scripts/build_model_features.py	data/canonical_cpu/features/; protocols/verification_manifest.json	historical_execution_boundary	Frozen feature artifacts and schema are public; historical external preparation inputs are not all redistributable.
+repro/canonical_rebuild_20260802/verifier_v2/REPORT.md	scripts/verify_saved_results.py; docs/REPRODUCTION.md	navigation_superseded	The public verifier and its documented scope replace a historical local verification report.
+repro/configs/	data/configs/; results/gnn_saved/jobs.json; results/tree_saved/jobs.json	existing_public_equivalent	Frozen model and job configurations under the current layout.
+repro/configs/null_models.json	results/diagnostics/README.md; scripts/diagnostics/	public_science_addendum	Null-model definitions and exact RF parameters are documented with the diagnostic producers.
+repro/current_20260925_r10/PROVENANCE.md	docs/DATA_SOURCES.md; docs/REPRODUCTION.md	navigation_superseded	Current public source and scope documents replace the dated package pointer.
+repro/current_20260925_r10/README.md	README.md; docs/SI_PATH_CROSSWALK.tsv	navigation_superseded	Repository-level navigation and this crosswalk replace the dated package pointer.
+repro/folds/	data/folds/	existing_public_equivalent	Frozen released-identifier folds and identifier maps under the current layout.
+repro/folds/folds_double_cold_test.csv	data/folds/folds_double_cold_test.csv	existing_public_equivalent	Same double-cold test membership under the current layout.
+repro/formal_gnn_runtime_adapter_torch290_cu128_pyg280_20260811_v19/	scripts/canonical_gnn/; data/canonical_gnn/scientific_config.json; environments/canonical_gnn.txt	historical_execution_boundary	Public scientific core, configuration, and the retained partial runtime record (Python/Torch 2.9/PyG 2.8/CUDA/GPU) are supplied; a complete package freeze and historical local lifecycle/review gates are unavailable.
+repro/parent_identity_b1/FINAL_RESULTS.tsv	results/parent_identity_b1/FINAL_RESULTS.tsv	existing_public_equivalent	Same operational-parent sensitivity summary under the current layout.
+repro/predictions/block_level_deltaR2.csv	data/released_predictions/block_level_deltaR2.csv	existing_public_equivalent	Same released-prediction block margins under the current layout.
+repro/predictions/predictions_double_cold.csv	data/released_predictions/predictions_double_cold.csv	existing_public_equivalent	Same released double-cold predictions under the current layout.
+repro/predictions/predictions_family_cold.csv	data/released_predictions/predictions_family_cold.csv	existing_public_equivalent	Same released family-cold predictions under the current layout.
+repro/scripts/export_folds.py	data/folds/; protocols/verification_manifest.json	historical_execution_boundary	Frozen fold tables and exact bindings are public; the historical export wrapper is superseded by those artifacts.
+repro/sensitivity/p1_d6sc_overlap/	protocols/p1_d6sc_overlap/	public_science_addendum	Frozen predicate, labels, membership manifests, comparison, and fixed-prediction Stage-B audit.
+repro/source_results/canonical_identity_recurrence_2026-08-01.tsv	data/identity/canonical_identity_recurrence_2026-08-01.tsv	public_science_addendum	Frozen recurrence audit under the current identity layout.
+repro/source_results/suprabench_baselines_modern_results.json	data/reference/suprabench_baselines_modern_results.json	existing_public_equivalent	Same modern-baseline result under the current layout.
+repro/source_results/suprabench_cond_audit_results.json	results/diagnostics/suprabench_cond_audit_results.json	public_science_addendum	Allow-listed saved condition audit, with private metadata removed.
+repro/source_results/suprabench_pregate_results.json	results/diagnostics/suprabench_pregate_results.json	public_science_addendum	Allow-listed saved pregate result, with private metadata removed.
+repro/source_results/suprabench_sim_null_results.json	results/diagnostics/suprabench_sim_null_results.json	public_science_addendum	Allow-listed saved similarity-null result, with private metadata removed.
+repro/source_scripts/suprabench_baselines_modern.py	data/source/suprabench_baselines_modern.py	existing_public_equivalent	Same modern-baseline producer under the current layout.
+repro/source_scripts/suprabench_cond_audit.py	scripts/diagnostics/suprabench_cond_audit.py	public_science_addendum	Path-parameterized scientific producer; not executed during packaging.
+repro/source_scripts/suprabench_killgate.py	scripts/diagnostics/suprabench_killgate.py	public_science_addendum	Path-parameterized scientific producer; not executed during packaging.
+repro/source_scripts/suprabench_marginal_killgate.py	scripts/diagnostics/suprabench_marginal_killgate.py	public_science_addendum	Path-parameterized scientific producer; saved results include the identity-marginal and full similarity audit.
+repro/source_scripts/suprabench_pregate.py	scripts/diagnostics/suprabench_pregate.py	public_science_addendum	Path-parameterized scientific producer; not executed during packaging.
+repro/source_scripts/suprabench_sim_null.py	scripts/diagnostics/suprabench_sim_null.py	public_science_addendum	Path-parameterized scientific producer; not executed during packaging.
+source/leave_two_blocks.py	scripts/leave_two_blocks.py	public_science_addendum	Path-parameterized saved-record audit producer.
+source/record_and_algebra_audit.py	scripts/record_and_algebra_audit.py	public_science_addendum	Path-parameterized record semantics and algebra audit producer.

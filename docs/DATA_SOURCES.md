@@ -16,11 +16,13 @@ This large archive is not duplicated here. Download it from the upstream dataset
 
 ## Analysis population
 
-The source table contains 2,609 records. Requiring a usable parsed structure with at least one heavy atom for both host and guest retains 2,383 records, representing 2,260 unique standardized host–guest pairs, 189 host identities and 1,164 guest identities. Of the 2,383 structure-valid records, 432 are upstream averages of multiple measurements. Record counts, underlying measurement counts and pair counts are different quantities.
+The source table contains 2,609 records. Requiring a usable parsed structure with at least one heavy atom for both host and guest retains 2,383 records. These records contain 2,260 unique raw host-SMILES/guest-SMILES pairs, 189 raw host-SMILES identifiers and 1,164 raw guest-SMILES identifiers. These are raw serialized identifiers, not standardized or canonical identities.
+
+Among the 2,383 retained records, 432 have a `task_id` containing 2–14 pipe-separated task-identifier tokens; all 432 carry the source label `eupmc`. The upstream documentation describes such task identifiers as averages over underlying measurements. This repository verifies the literal token count and membership. It does not independently infer the number of experiments represented by a token or record. Record counts, task-identifier-token counts, raw-SMILES-pair counts and canonical-identity counts are different quantities.
 
 The supplied tables preserve the frozen processing used in the analysis: structural filtering, condition bucketing, identity mappings, split construction and feature generation. Saved predictions, null comparisons, aggregations and operational-parent masks are subsequent analysis outputs. They are modifications of the upstream resource and do not imply endorsement by its authors.
 
-Prediction `row_index` values refer to zero-based physical row positions in the structure-valid condition table `data/clean/suprabench_bap_clean_cond.csv`. They must not be interpreted as positions in the original parquet archive or a manifest's `parquet_row` column.
+Prediction `row_index` values refer to zero-based physical row positions in the structure-valid condition table `data/clean/suprabench_bap_clean_cond.csv`. They must not be interpreted as positions in the original parquet archive or a manifest's `parquet_row` column. The complete 2,609-row manifest and the 226 excluded rows are under `data/population/`; the executable filter is `scripts/build_structure_valid_subset.py` and its saved verification is `data/population/structure_valid_verification.json`.
 
 ## Scope of supplied material
 

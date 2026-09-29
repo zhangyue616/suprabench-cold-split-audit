@@ -1,0 +1,43 @@
+{
+  "parquet": "upstream SupraBench Binding-Affinity data/records.parquet",
+  "parquet_sha256": "a4ba8a95d169ad852cda058243e06d321e7dc8e9cc054c8b029fe64c7d4a7c38",
+  "clean_csv": "data/clean/suprabench_bap_clean.csv",
+  "clean_csv_sha256": "c9301b153733e847902ac7f0535802bc00aaa0bbe962673f53bc9a99eaaa1f28",
+  "full_n": 2609,
+  "structure_valid_n": 2383,
+  "excluded_n": 226,
+  "clean_csv_n": 2383,
+  "valid_count_equals_clean_count": true,
+  "valid_keyset_equals_clean_keyset": true,
+  "excluded_reason_counts": {
+    "empty_host_SMILES": 223,
+    "empty_guest_SMILES": 3
+  },
+  "excluded_host_class_counts": {
+    "calixarene (SMILES not shipped)": 121,
+    "pillararene (SMILES not shipped)": 44,
+    "functionalized cucurbituril (SMILES not shipped)": 35,
+    "inorganic zeolite": 18,
+    "mechanically interlocked (rotaxane)": 5,
+    "protein (HSA)": 2,
+    "cyclodextrin (SMILES not shipped)": 1
+  },
+  "full_counts": {
+    "pairs": 2609,
+    "host_smiles": 190,
+    "guest_smiles": 1216,
+    "host_name": 234,
+    "guest_name": 1277,
+    "source": {
+      "eupmc": 2392,
+      "cb7_supplement": 217
+    }
+  },
+  "subset_counts": {
+    "pairs": 2383,
+    "host_smiles": 189,
+    "guest_smiles": 1164,
+    "host_name": 198
+  },
+  "filter_rule": "keep iff RDKit MolFromSmiles(host).GetNumHeavyAtoms()>=1 AND guest>=1; empty/whitespace SMILES -> 0-atom degenerate Mol -> dropped. Labelled structure-invalid-for-RDKit-small-molecule-graph, NOT benchmark error."
+}

@@ -1,0 +1,48 @@
+{
+  "analysis_records": 2383,
+  "upstream_averaged_records": 432,
+  "upstream_averaged_record_percentage": 18.128409567771715,
+  "literal_task_id_token_range_for_averaged_records": [
+    2,
+    14
+  ],
+  "source_labels_of_averaged_records": [
+    "eupmc"
+  ],
+  "group_counts": {
+    "same_host_guest": {
+      "groups": 121,
+      "groups_containing_upstream_averaged_records": 28
+    },
+    "same_host_guest_condition": {
+      "groups": 75,
+      "groups_containing_upstream_averaged_records": 10
+    },
+    "cross_condition": {
+      "groups": 47,
+      "groups_containing_upstream_averaged_records": 18
+    }
+  },
+  "saved_dispersion_values_not_recomputed": {
+    "same_hg_sigma_mean": 0.1957,
+    "n_same_hg": 121,
+    "true_replicate_sigma_mean": 0.1678,
+    "n_true_rep": 75,
+    "cross_condition_spread_mean": 0.2404,
+    "n_cross_cond": 47
+  },
+  "grouping_keys": {
+    "same_condition": [
+      "host_smiles",
+      "guest_smiles",
+      "solvent_bucket",
+      "temp_bucket",
+      "ph_bucket"
+    ],
+    "cross_condition_pair": [
+      "host_smiles",
+      "guest_smiles"
+    ]
+  },
+  "scope": "Counts released-record memberships only. No new dispersion metrics or independent-experiment count. Source is not a grouping key; upstream semantics are supported by the public data card."
+}

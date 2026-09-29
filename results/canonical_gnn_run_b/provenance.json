@@ -1,0 +1,32 @@
+{
+  "schema_version": "formal-gnn-stage-provenance-v19",
+  "stage": "gnn-b",
+  "status": "PASS",
+  "start_utc": "2026-08-11T18:30:30.922146+00:00",
+  "end_utc": "2026-08-11T18:41:32.717252+00:00",
+  "device": {
+    "compute_capability": "12.0",
+    "cuda": "12.8",
+    "gpu": "NVIDIA GeForce RTX 5090",
+    "python": "3.11.15",
+    "torch": "2.9.0+cu128",
+    "torch_geometric": "2.8.0"
+  },
+  "final_inventory": [
+    {
+      "bytes": 6851,
+      "path": "metrics_gnn.tsv",
+      "sha256": "5F415B4461AFAD0813709A605327F644BE8FDA109A44837D952997502DA82ED3"
+    },
+    {
+      "bytes": 2811160,
+      "path": "predictions_gnn.csv",
+      "sha256": "05BD2329DE4F3B4FC9D6837564653EA4B07678EE1EEADF2EFEC74E9A42A3EC77"
+    },
+    {
+      "bytes": 5567,
+      "path": "run_manifest.json",
+      "sha256": "FE40DD1FE409B6AC6C9DA9160FDC4484A252D12265160B0BAA38582F9427AED4"
+    }
+  ]
+}

@@ -17,7 +17,7 @@ python scripts/verify_saved_results.py --root . --output runs/verification
 
 Choose a fresh output directory. The command verifies the canonical CPU results, reaggregates all 350 saved graph-model jobs and 420 saved tree-model jobs, and replays the parent-identity sensitivity from frozen masks. Its output reports each group separately. It does not fit a model.
 
-The input predictions, fold membership and scoring definitions are retained. Redundant combined prediction tables can be regenerated from the individual job files. Family diagnostics are supplied as saved descriptive results with their definitions; they are outside this verifier's recomputation coverage.
+The input predictions, fold membership and scoring definitions are retained. Redundant combined prediction tables can be regenerated from the individual job files. Family diagnostics are supplied as saved descriptive results with their definitions; they are outside this verifier's recomputation coverage. Additional frozen analyses are documented in [science coverage](docs/SCIENCE_COVERAGE.md); they are not silently folded into the four-group verifier above.
 
 ## Contents
 
@@ -30,7 +30,19 @@ The input predictions, fold membership and scoring definitions are retained. Red
 | `environments/` | Pinned dependencies for verification and training |
 | `docs/` | Data provenance, methods and reproduction scope |
 
-See [data sources and transformations](docs/DATA_SOURCES.md), [reproduction scope](docs/REPRODUCTION.md), and the [selected figures](figures/README.md). Frozen tree features accompany the tree results.
+See [data sources and transformations](docs/DATA_SOURCES.md), [reproduction scope](docs/REPRODUCTION.md), [science coverage](docs/SCIENCE_COVERAGE.md), the [SI path crosswalk](docs/SI_PATH_CROSSWALK.tsv), and the [selected figures](figures/README.md). Frozen tree features accompany the tree results.
+
+## Scientific addendum
+
+The public package also retains:
+
+- the canonical GNN primary and verification runs, their actual Torch 2.9/PyG 2.8 execution provenance, the 326-row repeat comparison, and a saved-prediction model-versus-null reaggregator;
+- allow-listed saved similarity, similarity-null, pregate, condition, identity-marginal and leakage diagnostics, with keys named `_meta` excluded from the public JSON exports;
+- the 2,609-to-2,383 structure filter, excluded-record tables, full population manifest, record-counting semantics and recurrence table;
+- the outcome-blind P1 predicate and labels, its separate fixed-prediction Stage-B audit, and the seven-model 37-appearance recurrence sensitivity;
+- the five frozen v1 identity representations, parent-construction scripts, memberships and fixed-prediction parent sensitivity.
+
+These materials distinguish saved-result checks from new fitting. The raw 96.7 MB `records.parquet` remains at the upstream source and is SHA-bound in the data-source document. Diagnostics that require it accept an explicit `--records` path.
 
 ## Interpretation
 
@@ -40,7 +52,7 @@ The parent-identity analysis preserves the original fits and changes the scored 
 
 ## Separate training workflow
 
-Training uses the frozen jobs, splits and inputs. Full graph jobs require the pinned PyTorch/PyG environment and CUDA; tree jobs use the tree requirements. Training has a materially different runtime and resource cost from saved-result verification. The original graph preparation has an unavailable pilot-source record, and new training is not guaranteed to reproduce historical outputs bit for bit. Frozen tree features are supplied because their original 3D preparation used a wall-clock cutoff.
+Training uses the frozen jobs, splits and inputs. Full graph jobs require the pinned PyTorch/PyG environment and CUDA; tree jobs use the tree requirements. Training has a materially different runtime and resource cost from saved-result verification. The original graph preparation has an unavailable pilot-source record, and new training is not guaranteed to reproduce historical outputs bit for bit. Frozen tree features are supplied because their original 3D preparation used a wall-clock cutoff. The released-job training environment (`environments/gnn.txt`, Torch 2.11) is distinct from the partial historical runtime record for the canonical GNN run (`environments/canonical_gnn.txt`, recorded Torch 2.9/PyG 2.8); neither should be substituted for the other.
 
 Install the corresponding requirements in a suitable separate environment. The graph requirements use the official CUDA 12.8 PyTorch package index. Check one frozen job without fitting:
 

@@ -1,0 +1,84 @@
+{
+  "mask_frozen_before_outcome_read": true,
+  "self_test_actual": {
+    "appearance_mask": [
+      true,
+      false,
+      false
+    ],
+    "perfect_r2": 1.0,
+    "source_constant_status": "UNDEFINED_SOURCE_NEAR_CONSTANT",
+    "other_constant_r2": 0.0
+  },
+  "models_in_order": [
+    "PAIR_RF",
+    "additive",
+    "host_only_RF",
+    "guest_only_RF",
+    "cond_only_RF",
+    "source_only_RF",
+    "sim_knn_k5"
+  ],
+  "null_tie_order": [
+    "additive",
+    "host_only_RF",
+    "guest_only_RF",
+    "cond_only_RF",
+    "source_only_RF",
+    "sim_knn_k5"
+  ],
+  "comparison_tolerance": {
+    "relative": 1e-12,
+    "absolute": 0.0
+  },
+  "versions": {
+    "python": "3.11.15",
+    "numpy": "1.26.4",
+    "pandas": "3.0.3",
+    "sklearn": "1.9.0"
+  },
+  "identity_counts": {
+    "baseline_appearances": 1984,
+    "baseline_unique_rows": 1382,
+    "excluded_appearances": 37,
+    "excluded_unique_rows": 31,
+    "affected_blocks": 9,
+    "retained_appearances": 1947,
+    "retained_unique_rows": 1356
+  },
+  "inputs": [
+    {
+      "role": "audit",
+      "path": "data/identity/canonical_identity_recurrence_2026-08-01.tsv",
+      "sha256": "228e73c84b3a8401b6a550c25af874a84c942a009aa18eec76b4d8a34cc63c96",
+      "bytes": 92802
+    },
+    {
+      "role": "folds",
+      "path": "data/folds/folds_double_cold_test.csv",
+      "sha256": "14addf87e70baf45e6325126b04266f5162cfe91439da28a7b79022d99e20de5",
+      "bytes": 138257
+    },
+    {
+      "role": "predictions",
+      "path": "data/released_predictions/predictions_double_cold.csv",
+      "sha256": "4e1a0168e6ebd7f25764beab9463c650a989bb3b8eb311675fdaae1c8009d721",
+      "bytes": 1886649
+    },
+    {
+      "role": "released_delta",
+      "path": "data/released_predictions/block_level_deltaR2.csv",
+      "sha256": "7f41a1aba4f46fb757a18191a5643b519820053bc9e9e56d847ea728d3718dd4",
+      "bytes": 1328
+    },
+    {
+      "role": "scoring_reference",
+      "path": "protocols/p1_d6sc_overlap/stage_b_reaggregate.py",
+      "sha256": "27c1b71e56847670e44db3b8707ebd6dab42cb13b668796d15dc853dd1d6bcdb",
+      "bytes": 33266
+    }
+  ],
+  "mask_sha256": "e67aacdc3e1f004c3e94b88ef120798d42f67415bb01986ac868dcf6e3411bdf",
+  "historical_script_sha256": "fe14914ce49fb25843b19802c8dd00adc8e6bd2de80cc5223954b9f561c4c5de",
+  "public_path_adapter_sha256": "9fbfbf73f63d7752ef9ef2358fbc26906850ef7f73ef02660d7c4b7b43b9fe88"
+}

@@ -1,0 +1,1165 @@
+guest_id	guest_name_resolved	name_status_multi	bare	seq_len	ptms	ptm_pos	notation	parse_ok	note	PEPTIDE_BB2	lys_hits	KME_N	KME_counts	ANY_NME	KME	PEPTIDE	H3	D6SC_SPEC	NTERM	CTERM	NTERM_REQ	NTERM_OK	SMILES_OK	full_hit	full_pos	drop_last_hit	drop_last_pos	last_res	K_pos_in_H3	longest_run	longest_pos	GUEST_L2_DESIGN	GUEST_L2_MECH	GUEST_L3_STRESS
+0	Rocuronium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1	Gadolinium(III) chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+2	Calcium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+3	Sanguinarine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+4	2-((1R,2R,4S)-bicyclo[2.2.1]heptan-2-yl)acetate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+5	2-phenylethylamine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+6	4-Methylbenzoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+7	4-Chlorobenzoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+8	N-Acetyl-l-alanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+9	Cyclohexylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+10	1,3-dioxane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+11	H-Lys-Leu-Val-Phe-Phe-OH	NAME_SINGLE		0	[]	[]	three_letter	False	THREE_LETTER_NOT_CONVERTED_seq_layer_skipped	4	1	0	[0]	0	0	1	0	0	H	OH	H	1	1	0	-1	0	-1		[]	0	-1	0	0	0
+12	L-phenylalanyl-L-valine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+13	Cesium cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+14	p-xylylenediamine dihydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+15	D/L-Aspartic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+16	Hexanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+17	Dibenzofuran-polyethylene-glycol-polymer-2	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+18	D/L-Tryptophan	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+19	4-diadamantylcarboxylic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+20	Bisphenol A	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+21	Strontium cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+22	D/L-Adrenaline	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+23	Sodium thiocyanate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+24	(R)-(-)-2-Phenylbutyric acid	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+25	Fluoride anion	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+26	Tetramethylammonium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+27	H-ARTKQTARK(me3)STGY-NH2	NAME_SINGLE	ARTKQTARKSTGY	13	['me3']	[(9, 'me3')]	one_letter	True		10	2	3	[0, 3]	3	1	1	1	0	H	NH2	Ac	0	1	0	-1	1	1	Y	[4, 9]	12	1	0	1	1
+28	Sodium methanesulfonothioate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+29	Pyridine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+30	Cinchocaine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+31	Acetyl-D/L-Carnitine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+32	1-Hexylammonium	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+33	Pinacolyl methylphosphonic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+34	pentacyclo[7.3.1.14,12.02,7.06,11]tetradecane-4,9-diol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+35	(1R,2R)-(-)-Norpseudoephedrine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+36	Cis-2-methylcyclohexanol	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+37	D,L-Noradrenaline	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+38	4-Ethoxyphenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+39	Sodium iodide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+40	glycyl-l-tryptophyl-glycine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+41	Chlorpromazine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+42	1-Adamantylammonium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+43	1,1'-Methyl-4,4'-bispyridinium ethylene	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+44	L-Tyrosyl-L-Phenylalanyl-L-alanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+45	Nickel(2+)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+46	8-(phenylamino)naphthalene-1-sulfonic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+47	H-GGVK(me3)KPHY-NH2	NAME_SINGLE	GGVKKPHY	8	['me3']	[(4, 'me3')]	one_letter	True		6	2	3	[0, 3]	3	1	1	1	1	H	NH2	H	1	1	0	-1	1	33	Y	[36, 37]	7	33	1	1	1
+48	Benzene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+49	l-leucyl-l-phenylalanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+50	1,2-Dihydroxybenzene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+51	Aniline	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+52	pirarubicin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+53	Sodium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+54	1-Adamantanecarboxylic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+55	o-tolylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+56	D/L-Leucine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+57	D/L-Proline	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+58	(S)-Glycinyl-(S)-argininyl-(S)-glycinyl-(S)-glycine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	3	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+59	Silver cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+60	1,3,5-trioxane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+61	Cholic acid, monosodium salt	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+62	Acetone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+63	Rubidium cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+64	trans-Ferulic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+65	N-Methyl thebaine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+66	Rhodamine B	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+67	1-Aminodiamantane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+68	p-tolylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+69	ceftazidime	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+70	1,8-naphthalimide dicarboxylate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+71	N6-Dimethyllysine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	1	2	[2]	2	1	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+72	D/L-histidine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+73	AntNMe2+-2kPEG-OMe	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+74	Sodium dicyanamide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+75	Cyclooctanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+76	Barium cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+77	lysyllysine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	2	0	[0, 0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+78	Zinc cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+79	2-Chloropyridine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+80	Tri-Trp Gly4 target	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	18	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+81	Neutral Red protonated	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+82	Bromide ion	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+83	N,N'-bis(2-dimethylammonioethyl)-Naphthalene diimide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+84	(S)-Mandelic acid methyl ester	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+85	Berberine chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+86	Ac-AARKSAPY-NH2	NAME_SINGLE	AARKSAPY	8	[]	[]	one_letter	True		7	1	0	[0]	0	0	1	1	0	Ac	NH2	H	0	1	0	-1	1	24	Y	[27]	7	24	0	0	0
+87	Methanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+88	Calcium cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+89	1,3-Benzodioxol-5-ol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+90	PBS-1086	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+91	1-Adamantanamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+92	Methyl viologen	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+93	Tris(1,10-phenanthroline)ruthenium(2+)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+94	Heptanoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+95	Sodium glycocholate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+96	Phenyltrimethylammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+97	Phenyl-β-D-galactopyranoside	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+98	Trp-Gly-Gly	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+99	Sodium perchlorate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+100	2-methyl-1,3-dioxolane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+101	3-methylphenylacetate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+102	N-acetyl-L-lysine methyl ester hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	1	0	[0]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+103	4-(dimethylamino)benzonitrile	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+104	2,3-Diazabicyclo(2.2.2)oct-2-ene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+105	N,N'-dimethyl-1,4-diazabicyclo[2.2.2]octane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+106	(-)-camphor	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+107	cyclopentanecarboxylic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+108	D/L-Arginine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+109	L-Arginine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+110	Erythrosin B	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+111	1-Adamantane acetate potassium salt	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+112	Lysyllysyllysine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	3	0	[0, 0, 0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+113	Diethyl methylphosphonate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+114	Dopamine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+115	Potassium cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+116	(S)-Lysinyl-(S)-threoninyl-(S)-threoninyl-(S)-lysine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	3	2	0	[0, 0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+117	Octanoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+118	Mono-Trp Gly6 target	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	6	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+119	N-methyl-N-(4-(2-(1-methylpyridin-4(1H)-ylidene)ethylidene)cyclohexa-2,5-dien-1-ylidene)methanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+120	Neutral red hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+121	4-aminodiamantane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+122	D-Glucosamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+123	1,4-dihydroxy-5,8-bis[2-(2-hydroxyethylamino)ethylamino]anthracene-9,10-dione	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+124	D14D2+	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+125	Cyclobutanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+126	D/L-phenylalanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+127	Lithium perchlorate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+128	H-Lys-Ala-Ala-OH	NAME_SINGLE		0	[]	[]	three_letter	False	THREE_LETTER_NOT_CONVERTED_seq_layer_skipped	2	1	0	[0]	0	0	1	0	0	H	OH	H	1	1	0	-1	0	-1		[]	0	-1	0	0	0
+129	Tryptamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+130	N1,N1,N1,N5,N5,N5-hexamethylpentane-1,5-diaminium iodide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	6	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+131	Cadaverine (fully protonated form)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+132	Ethene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+133	Cesium chloride, Caesium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+134	L-Tryptophyl-L-proline	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+135	L-Tryptophanamide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+136	N-(4-iodobenzyl)-1-(4-iodophenyl)-N,N-dimethylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+137	Cycloheptanecarboxylic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+138	Safranine T	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+139	Sodium perrhenate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+140	Cisatracurium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+141	Pancuronium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+142	pentacyclo[7.3.1.14,12.02,7.06,11]tetradecan-4-ol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+143	Lanthanum chloride heptahydrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+144	1-Octylammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+145	Eucalyptol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+146	2-methyl-4-pentenoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+147	Sodium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+148	2-Cyanophenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+149	methionylleucylalanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+150	Iron(III) nitrate nonahydrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+151	Phenyltrimethylammonium Chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+152	quinoline	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+153	cyclohexanaminium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+154	11-aminoundecanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+155	Tetracaine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+156	Xenon	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+157	Sodium hexafluorophosphate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+158	Benzoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+159	1,1'-dibutyl-[4,4'-bipyridine]-1,1'-diium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+160	2-naphthyl-polyethylene glycol monomethyl ether polymer	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+161	Magnesium cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+162	1,3-Dimethylimidazolium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+163	1-pyrenebutyric acid sodium salt	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+164	benzene-1,3,5-triol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+165	Pentylamine (protonated form)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+166	trans-4-Methylcyclohexane carboxylic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+167	1,4-Dioxane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+168	((4R,5R)-2-Phenyl-1,3-dioxolane-4,5-diyl)dimethanol	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+169	2,3-Dihydroxynaphthalene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+170	1,4-Butanediammonium	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+171	Dopamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+172	4-aminobutyric acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+173	(s)-(-)-perillic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+174	Cyclopentanone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+175	Tetrabutylammonium iodide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+176	3-benzyl-1-vinyl-1H-imidazol-3-ium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+177	Phenolphthalein	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+178	D/L-lysine	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	1	0	[0]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+179	2-Phenylethylamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+180	N-(tert-Butoxycarbonyl)-D-serine	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+181	hexane-1,6-diaminium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+182	Tetrahydropyran	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+183	Tetrafluoroborate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+184	(2R)-2-[(2-aminoacetyl)amino]-3-phenylpropanoic acid	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+185	3-(4-hydroxyphenyl)-2-oxopropanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+186	N-methyl-N0-adamantane carbomethyl-4,40-bipyridinium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+187	Valethamate bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+188	biphenyl-polyethylene glycol monomethyl ether polymer	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+189	N-acetyl-L-arginine methyl ester hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+190	Phenoxathiine-3-carbaldehyde	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+191	Strontium chloride hexahydrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+192	Di-Trp Gly4 target	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	9	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+193	Butyl Rhodamine B	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+194	Zinc chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+195	L-alanyl-L-tyrosyl-L-leucine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+196	Diethyl ether	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+197	3-phenylbutanoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+198	Sodium deoxycholate	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+199	iodomethane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+200	4-demethoxydaunorubicin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+201	Lithium ion	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+202	1-acetamidonaphthalene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+203	Tetrahydrofuran	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+204	N-retinylidine-N-ethanolamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+205	Methylene Blue	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+206	Isoquinoline	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+207	5-Hydroxy-L-Tryptophan	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+208	1-methyl-3-[[4-[(3-methylimidazol-3-ium-1-yl)methyl]phenyl]methyl]imidazol-1-ium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+209	L-Leucylglycine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+210	N-Methylacridinium iodide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+211	Acetonitrile	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+212	Camptothecin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+213	Symmetric-N,N-dimethylarginine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+214	2-Methyl-3-phenyloxirane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+215	D/L-Alanine	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+216	1-dodecyl-3-methylimidazol-3-ium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+217	1,1'-bis(4-cyanophenyl)-[4,4'-bipyridine]-1,1'-diium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+218	Tetrachlorotetraiodofluorescein	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+219	(1R)-(+)-Camphanic acid	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+220	L-Ornithine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+221	Histamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+222	cyclopropylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+223	D7D2+	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+224	cholic acid sodium salt	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+225	Met-Lys-Val-Gly-Tyr	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	1	0	[0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+226	picoplatin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+227	Pyranine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+228	Methylarginine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+229	Sodium cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+230	1-NAPTHYL-NHCOO-5KPEGOME	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+231	N6-Trimethyllysine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	1	3	[3]	3	1	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+232	(1R,E)-(+)-Camphorquinone 3-oxime	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+233	Butanoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+234	N,N-dimethyl-N-(4-(methylthio)benzyl)-1-(4-(methylthio)phenyl)methanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+235	(R)-1,1,2,4,4-pentamethylpiperazine-1,4-diium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+236	2,2'-bipyridine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+237	5-hexynoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+238	cyclohexane-1,4-diaminium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+239	2-Methoxyphenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+240	Iodide anion	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+241	N-Carboxybenzyl-L-Serine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+242	Codeine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+243	Ytterbium(III) chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+244	Decyltrimethylammonium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+245	(S)-(-)-3-Phenyllactic acid	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+246	N1,N6-dimethylhexane-1,6-diaminium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+247	propan-1-amine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+248	5-Methoxyindole	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+249	DBF-NHCOO-5kPEG-OMe	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+250	[Amino-[4-[6-[amino(azaniumylidene)methyl]-1H-indol-2-yl]phenyl]methylidene]azanium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+251	Tetramethyl benzobis (imidazolium)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+252	butane-1,4-diamine;dihydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+253	2,7-Dimethyldiazaphenanthrenium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+254	H-ARTK(me3)QTAY-NH2	NAME_SINGLE	ARTKQTAY	8	['me3']	[(4, 'me3')]	one_letter	True		5	1	3	[3]	3	1	1	1	1	H	NH2	H	1	1	0	-1	1	1	Y	[4]	7	1	1	1	1
+255	Norfloxacin	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+256	1-Butanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+257	Sodium cyanoborohydride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+258	1-propanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+259	Sodium hydrosulfide hydrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+260	Oxaliplatin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+261	N-TOSYL-(S)-ARGININE METHYL ESTER HYDROCHLORIDE	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+262	Procaine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+263	3-Indolepropionic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+264	6-heptenoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+265	1,3-dioxolane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+266	Propranolol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+267	2-phenylacetic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+268	N,N-dimethylformamide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+269	oleic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+270	Cinchonine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+271	2-Aminopyridine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+272	4-Methoxyphenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+273	3-Cyanophenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+274	O-Benzyl-D-Serine	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+275	H-ARTK(me3)QTARKSTGY-NH2	NAME_SINGLE	ARTKQTARKSTGY	13	['me3']	[(4, 'me3')]	one_letter	True		10	2	3	[0, 3]	3	1	1	1	0	H	NH2	Ac	0	1	0	-1	1	1	Y	[4, 9]	12	1	0	1	1
+276	Cinchonidine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+277	(R)-2-Cyclohexyl-2-hydroxyacetic acid	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+278	4-Bromophenyl-methylpyridinium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+279	(R)-[1,1′-binaphthalene]-2,2′-diols	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+280	1-diadamantylcarboxylic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+281	Cyclopentylacetic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+282	Benzyltrimethylammonium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+283	Vitamin C	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+284	Hexamethylenediamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+285	Cyclohexaneacetic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+286	Choline	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+287	4-(2-pyridyl)aniline	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+288	Glycyl-l-valine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+289	Leucyl-glycyl-glycine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+290	5-fluoro-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidine-2,4-dione	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+291	(R)-(+)-3-Bromoisobutyric acid methyl ester	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+292	2,2-Dimethoxypropane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+293	N,N-dimethyl-N-(4-nitrobenzyl)-1-(4-nitrophenyl)methanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+294	Iron(III) chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+295	Thiane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+296	N-Acetyl-D-Tryptophan	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+297	dibenzyl(dimethyl)azanium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+298	D6D2+	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+299	Tetramethylammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+300	N-Acetyl-L-tryptophanamide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+301	Acetylcholine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+302	Procainamide hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+303	Spironolactone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+304	1,2-Butylene oxide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+305	N1,N1,N1,N6,N6,N6-hexamethylhexane-1,6-diaminium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	6	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+306	1,4-diaminobenzene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+307	PDI-Bis(Et-Me2N-Et-OH)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+308	3-Methoxyphenylacetate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+309	Arginylglycylaspartic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+310	N-(4-bromobenzyl)-1-(4-bromophenyl)-N,N-dimethylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+311	Tropicamide (protonated)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+312	trimethylsulfanium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+313	Pentane-1,5-diamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+314	Glycylglycine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+315	(R)-(+)-Propranolol hydrochloride	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+316	Penicillin G	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+317	(1R,2R)-trans-1,2-Cyclohexanediol	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+318	Gly-Gly-Trp	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+319	4-[1,1,1,3,3,3-hexafluoro-2-(4-hydroxyphenyl)propan-2-yl]phenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+320	Dimercury(2+)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+321	L-Tryptophan methyl ester	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+322	N-Boc-D-Alanine	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+323	(R)-3,3,3-trifluoro-2-methoxy-2-phenylpropanoic acid	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+324	1-heptyl-3-methylimidazol-3-ium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+325	1,4-Diazepane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+326	Ethylamine (protonated form)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+327	tri-methyl viologen scaffold	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	14	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+328	Adamantan-1-yl-trimethyl-ammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+329	Cholic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+330	1,2-Phenylenediamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+331	4-Bromoadamantane-1-carboxylic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+332	Arginylarginine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+333	5-aminopentanoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+334	6-aminohexanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+335	Lithium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+336	(Aminomethyl)trimethylsilane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+337	D/L-Serine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+338	Baicalin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+339	2-methylisoquinolin-2-ium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+340	Sodium dichloroacetate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+341	Cyclohexanemethylamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+342	2-(benzyloxy)acetaldehyde	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+343	Fluconazole	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+344	1-Adamantanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+345	1,1'-bis(4-methoxyphenyl)-[4,4'-bipyridine]-1,1'-diium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+346	3-(3,5-difluorobenzyl)-1-vinyl-1H-imidazol-3-ium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+347	glycochoic acid sodium salt	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+348	Ac-RKme3ST-NH2	NAME_SINGLE	RKST	4	['me3']	[(2, 'me3')]	one_letter	True		3	1	3	[3]	3	1	1	1	0	Ac	NH2	Ac	1	1	1	8	1	8	T	[9]	4	8	0	1	1
+349	1-(2-carboxyethyl)-3,5-dimethyl-Pyridinium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+350	Ranitidine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+351	Noradrenaline hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+352	N-(4-cyanobenzyl)-1-(4-cyanophenyl)-N,N-dimethylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+353	Acridine red	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+354	3-aminopropanenitrile	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+355	P-Xylylenediamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+356	D4D2+	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+357	cis-azobenzene-TEG	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+358	Ala-Lys-Trp-Ala-Ala	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	1	0	[0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+359	4,7-Dimethyl-1,10-phenanthroline	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+360	Oxazine 1	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+361	ethane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+362	4,4'-(ethane-1,2-diyl)bis(1-(tert-butyl)pyridin-1-ium)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+363	1-methyl-3-octylimidazol-1-ium;bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+364	di-methyl viologen gly6 scaffold	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+365	3-Methoxyphenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+366	Dimethyl-(4-methylphenyl)sulfanium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+367	Cyclohexanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+368	cyclobutylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+369	6,7-diazabicyclo(3.2.2)non-6-ene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+370	Methylammonium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+371	N,N-dimethyl-3-(2-tricyclo[9.4.0.03,8]pentadeca-1(15),3,5,7,9,11,13-heptaenylidene)propan-1-amine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+372	Insulin Human	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	49	1	0	[0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+373	2-aminofluorene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+374	Ac-AARKme3SAPY-NH2	NAME_SINGLE	AARKSAPY	8	['me3']	[(4, 'me3')]	one_letter	True		7	1	3	[3]	3	1	1	1	0	Ac	NH2	H	0	1	0	-1	1	24	Y	[27]	7	24	0	1	1
+375	(R)-(-)-Mandelic acid	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+376	2-aminoethanol hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+377	L-methionyl-L-lysyl-L-alanylglycyl-L-tyrosine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	1	0	[0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+378	Alizarin complexone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+379	Ethyne	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+380	Rhodamine methylester chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+381	paraquat	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+382	3-trimethylsilylpropionic -2,2,3,3-d4-acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+383	Bis Paraquat	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+384	4-methylpyridine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+385	6-(dimethylamino)acridin-3(10H)-one	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+386	Palmatine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+387	(Ferrocen-1-yl)methyltrimethylammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+388	2-acetyloxy-2-phenylacetic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+389	(7S,9S)-7-[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-9-(2-hydroxyacetyl)-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+390	3-Phenylpropanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+391	4-pyridinecarboxaldehyde	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+392	1,4-butanediol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+393	2,2-dimethyl-4-pentenoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+394	N6-Methyllysine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	1	1	[1]	1	1	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+395	(2R)-2-(phenylmethoxycarbonylamino)propanoic acid	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+396	N,N'-bis(2-dimethylammonioethyl)-perylene diimide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+397	L-Tryptophan	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+398	1-Pentanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+399	H-GGVKKPHY-NH2	NAME_SINGLE	GGVKKPHY	8	[]	[]	one_letter	True		5	2	0	[0, 0]	0	0	1	1	1	H	NH2	H	1	1	0	-1	1	33	Y	[36, 37]	7	33	0	0	0
+400	2,6-dimethylpyridine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+401	Magnesium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+402	Vecuronium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+403	4,4'-(1,4-phenylene)bis(1-hexylpyridin-1-ium)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+404	3-Bromo-1-propanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+405	(R)-N,N-Dimethyl-1-ferrocenylethylamine	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+406	Tetrabutylammonium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+407	9-Hydroxyphenylfluoron	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+408	(R)-2-Phenylpropanoic acid	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+409	N-Carboxybenzyl-Glycine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+410	Pyrenyl-polyethylene-glycol-polymer	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+411	1-Hexanaminium, N,N,N-trimethyl-chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+412	(R)-(-)-1-Phenyl-1,2-ethanediol	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+413	4-hydroxyazobenzene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+414	Trifluoroacetic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+415	Epinephrine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+416	dl-leucylglycyl-dl-phenylalanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+417	l-Leucyl-l-Tryptophan	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+418	1-(hydroxymethyl)-ferrocene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+419	Hexyltrimethylammonium bromide	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+420	1-Heptylamine (fully protonated)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+421	2-methylpyridine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+422	Proflavin protonated	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+423	2-napthyl-NHCOO-5kPEGOMe	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+424	Perylene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+425	Tetramethylammonium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+426	Beta-estradiol 3-benzoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+427	Acetylcholine chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+428	Sodium trifluoromethanesulfonate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+429	Propylene carbonate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+430	2-Naphthyl-polyethylene-glycol-polymer	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+431	1,4-diazabicyclo[2.2.2]octane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+432	Potassium nitrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+433	[5,10,15,20-tetrakis- (4-sulfonatophenyl)porphinato]zinc(II) (2)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+434	disodium;oxalate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+435	cis-4-methylcyclohexanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+436	4-Phenylbutylamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+437	2-hydroxy-3-phenylpropanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+438	Nitric acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+439	L-lysine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	1	0	[0]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+440	Glycyl-l-alanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+441	6-Propionyl-2-(dimethy-lamino)-napthalene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+442	Memantine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+443	Gallium cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+444	Trans-2-hexenoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+445	1,7-Dihydroxynaphthalene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+446	2,2,6,6-tetramethyl-4-(methylamino)cyclohexan-1-one	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+447	2-phenylpropanedioic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+448	Glycylhistidine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+449	Tetraethylammonium iodide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+450	Lys-met-ala	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	1	0	[0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+451	N,N′-bis(propylenetrimethylammonium)-3,4,9,10-perylene bisimide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	6	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+452	Prednisolone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+453	O,O′-Di-p-toluoyl-D-tartaric acid	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+454	6,7-dihydrodipyrido[1,2-a:2',1'-c]pyrazine-5,8-diium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+455	Tubocurarine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+456	Tetrabutylammonium nitrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+457	1,5-diazacyclooctane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+458	Benzimidazole	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+459	N,N,N-Trimethyl-2-phenylethan-1-aminium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+460	N,N-dimethyl-N-(4-methylbenzyl)-1-(p-tolyl)methanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+461	Gallamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+462	1-Hexanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+463	Oxepane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+464	IR780	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+465	Lanthanum(III) nitrate hexahydrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+466	(R)-(-)-3-Bromo-2-methyl-1-propanol	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+467	2-Propanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+468	Ethyl acetate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+469	1-pentylpyridin-1-ium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+470	Dimethyl sulfoxide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+471	L-carnitine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+472	Tetrabutylammonium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+473	Panicillin G	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+474	8-aminooctanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+475	1-pyrenemethylaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+476	Lucigenin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+477	L-Phenylalanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+478	sodium 3,3'-(1,3,6,8-tetraoxo-1,3,6,8-tetrahydrobenzo[lmn][3,8]phenanthroline-2,7-diyl)dipropionate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+479	(2R,3S)-2,3-Dimethyloxirane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+480	N-Methylquinolinium iodide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+481	2-Phenyloxirane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+482	H-Lys-Lys-Leu-Val-Phe-Phe-OH	NAME_SINGLE		0	[]	[]	three_letter	False	THREE_LETTER_NOT_CONVERTED_seq_layer_skipped	5	2	0	[0, 0]	0	0	1	0	0	H	OH	H	1	1	0	-1	0	-1		[]	0	-1	0	0	0
+483	methane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+484	5-Hexenoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+485	2,6-Dichloropyridine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+486	4-(Aminomethyl)pyridine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+487	Thiophene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+488	1,1'-(1,4-phenylene)bis(N,N,N-trimethylmethanaminium) bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	6	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+489	trans-4-[4-(Dimethylamino)styryl]-1-methylpyridinium iodide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+490	alanylmethionyltyrosine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+491	Nitromethane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+492	Dimethoxymethane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+493	Pyronin Y	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+494	1,2-Propylene oxide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+495	Oglufanide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+496	L-Histidine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+497	2,3-Diazabicyclo[2.2.1]-hept-2-ene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+498	1-phenylpyrrolidine-2,5-dione	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+499	Thallium cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+500	2-(diethylamino)ethyl 1-cyclohexylcyclohexane-1-carboxylate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+501	2,6-pyridinedicarboxylic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+502	(cobaltocene)+	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+503	Copper chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+504	4,4'-Bipyridine dihydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+505	Rubidium nitrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+506	Decanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+507	Potassium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+508	L-Tyrosyl-L-methionyl-L-alanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+509	Trimethylglycine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+510	Diisopropyl methylphosphonate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+511	Anthracene-polyethylene-glycol-polymer	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+512	Dibenzylazanium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+513	N′,N′′‐hexamethylenebis(1‐methyl‐4,4′‐bipyridinium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+514	Phenylephrine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+515	3,9-Dihydroxytriamantane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+516	2-Acetamidopropanoate (Ac-L-Ala-O-)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+517	Tris(2,2'-bipyridyl)iridium(III)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+518	2,7-Dihydroxynaphthalene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+519	Cyclopentanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+520	D/L-Ornithine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+521	Chloride anion	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+522	1-methyl-3-propylimidazol-1-ium;bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+523	Glycine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+524	Ascorbic Acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+525	Glycyl-l-leucine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+526	Cycloheptanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+527	1-isopropyl-4-methyl-2,3-diazabicyclo[2.2.2]octa-2-ene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+528	Somatostatin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	13	2	0	[0, 0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+529	4-Iodophenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+530	N-Methylquinuclidinium iodide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+531	Formate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+532	6-(p-toluidino)-2-naphthalenesulfonic acid sodium salt	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+533	N-methyl pyridinium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+534	7-Methoxycoumarin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+535	Spermidine (fully protonated form)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+536	Serotonin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+537	1-hexyl-3-methylimidazol-3-ium;bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+538	Coralyne chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+539	2,4,6-triphenylpyrylium tetrafluoroborate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+540	1-Adamantylazanium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+541	4-Fluorophenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+542	Tyramine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+543	1,6-Dihydroxynaphthalene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+544	Ziprasidone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+545	Oxetane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+546	1,4-phenylenedimethanaminium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+547	Succinylcholine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	6	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+548	1-Methyl-4-(pyridin-4-yl)pyridinium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+549	2-(pent-4-en-1-yl)oxirane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+550	Phenethylammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+551	Lanthanum cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+552	Pyrene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+553	2-Hydroxynaphthalene-polyethylene-glycol-polymer	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+554	Pyronine b	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+555	1,4-bis(trimethyl-l4-azaneyl)cyclohexane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	6	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+556	Rubidium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+557	asymmetric N,N-dimethylarginine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+558	6-Phenylamino-naphthalene-2-sulfonic acid anion	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+559	Trimebutine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+560	Fenchol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+561	[2,2'-bipyridin]-5-amine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+562	Dodecyltrimethylammonium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+563	Imidazole	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+564	4-Methylbenzylamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+565	Nonanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+566	Pentanoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+567	1-methyl-1'-(3-aminiopropyl)-4,4'-bipyridinium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+568	dibromomethane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+569	1-Octanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+570	Cobaltocenium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+571	N1,N1,N6,N6-tetramethylhexane-1,6-diaminium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+572	L-Valine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+573	4-(4-hydroxyphenyl)phenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+574	Lisinopril	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	1	0	[0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+575	Peroxydisulfate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+576	bromo(chloro)methane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+577	Progesterone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+578	D-Glucose	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+579	Tyramine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+580	2-(2,5-dihydroxyphenyl)acetic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+581	Ephedrine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+582	beta-Estradiol-17-acetate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+583	(2S)-2-amino-3-phenylpropanoic acidhydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+584	m-Chlorobenzoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+585	1,4-dioxene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+586	(C60-Ih)[5,6]fullerene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+587	methyl viologen diiodide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+588	2-[4-[(Z)-1,2-diphenylbut-1-enyl]phenoxy]-N,N-dimethylethanamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+589	Cesium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+590	1,5-Dihydroxynaphthalene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+591	Aspartame	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+592	Biphenyl-polyethylene-glycol-polymer	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+593	p-Nitrobenzyltrimethylammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+594	acetylalaninate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+595	Cyanide anion	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+596	4-Cyanophenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+597	(1R2R,3S,5R)-(-)-Pinanediol	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+598	2,7-dimethyldiazapyrenium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+599	2-nitrobenzylmethylethercholine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+600	methyl 2-phenylacetate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+601	1,1'-bis(4-(ethoxycarbonyl)phenyl)-[4,4'-bipyridine]-1,1'-diium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+602	Morphine methiodide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+603	L-3,4-Dihydroxyphenylalanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+604	Benzylamine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+605	trans-Merocyanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+606	Testosterone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+607	Lauric acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+608	6-Oxabicyclo[3.1.0]hexane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+609	PDI-bis(Et-Me2N-EtOH).2Br	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+610	Methionyl-Tyrosyl-Glycyl-Glycyl-Tyrosine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+611	1-Azatricyclo[3.3.3.0]undecan-1-ylium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+612	N-methylbutan-1-aminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+613	Pyrrole	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+614	Anthracene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+615	(1R,3S)-(+)-Camphoric acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+616	Meldola’s blue	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+617	N1,N1'-(1,4-phenylenebis(methylene))bis(propane-1,3-diaminium) chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+618	Coumarin 6	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+619	2,6-diaminohexanoate (protonated form)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	1	0	[0]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+620	propane-1,3-diamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+621	Ampicillin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+622	neon	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+623	Histidinol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+624	ethylguanidinium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+625	Nickel chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+626	sodium benzoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+627	4-Chlorophenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+628	Boc-D-alanine methyl ester	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+629	(r)-3-phenylbutyric acid	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+630	N6-Acetyllysine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	1	0	[0]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+631	carbenicillin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+632	3-aminopropan-1-ol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+633	1,2-dichloroethane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+634	1-methyl-3-[[4-[4-[(3-methylimidazol-3-ium-1-yl)methyl]phenyl]phenyl]methyl]imidazol-1-ium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+635	3-Methoxy-2-naphthol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+636	H-Leu-Arg-Arg-Trp-Ser-Leu-Gly-OH	NAME_SINGLE		0	[]	[]	three_letter	False	THREE_LETTER_NOT_CONVERTED_seq_layer_skipped	6	0	0	[]	0	0	1	0	0	H	OH	H	1	1	0	-1	0	-1		[]	0	-1	0	0	0
+637	2-acetamido-2-phenylacetic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+638	1-heptanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+639	2-oxo-3-phenylpropanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+640	l-Leucyl-l-Valine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+641	N1,N1,N1,N4,N4,N4-hexamethylbutane-1,4-diaminium iodide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	6	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+642	L-leucyl-l-alanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+643	Morphine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+644	Tropicamide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+645	1-methyl-3-pentylimidazol-1-ium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+646	N-(3-methoxybenzyl)-1-(3-methoxyphenyl)-N,N-dimethylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+647	Guanidinium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+648	rotenone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+649	acridine orange H+	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+650	beta-Estradiol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+651	2-Chlorophenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+652	D,L-tyrosine methyl ester hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+653	1-bromopropane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+654	Cobaltocene hexafluorophosphate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+655	(S)-(+)-Mandelate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+656	2,2-Dimethyloxirane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+657	4-Bromophenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+658	Benzyltriethylammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+659	(19S)-19-ethyl-7,19-dihydroxy-17-oxa-3,13-diazapentacyclo[11.8.0.02,11.04,9.015,20]henicosa-1(21),2(11),3,5,7,9,15(20)-heptaene-14,18-dione	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+660	4-ami-noazobenzene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+661	Agmatine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+662	Hydroquinone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+663	Sodium nitrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+664	Dodecane-trimethylamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+665	Cholesterol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+666	3-Ethoxypropylamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+667	Coumarin 7	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+668	(R)-(−)-Mandelate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+669	(1R,2S)-2-Amino-1,2-diphenylethanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+670	(2S)-2-[[4-[(2,4-diaminopteridin-6-yl)methyl-methylamino]benzoyl]amino]pentanedioic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+671	N-(4-(tert-butyl)benzyl)-1-(4-(tert-butyl)phenyl)-N,N-dimethylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+672	Nickel nitrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+673	Dibenzofuran-polyethylene-glycolpolymer	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+674	Acridine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+675	Ethanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+676	Glutathione	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+677	D-Phenylalanine methyl ester HCl	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+678	4-(diethylamino)benzonitrile	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+679	Phenylenebis[oxy(3,6-dioxaoctane-1,8-diyl)oxy]]quinoxaline and two benzene-triyltris(oxy))tris(benzenediyl))tris(N-benzylmethanaminium)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+680	Copper cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+681	[(1S,2S,3R,4S,7R,9S,10S,12R,15S)-4,12-diacetyloxy-15-[(2R,3S)-3-benzamido-2-hydroxy-3-phenylpropanoyl]oxy-1,9-dihydroxy-10,14,17,17-tetramethyl-11-oxo-6-oxatetracyclo[11.3.1.03,10.04,7]heptadec-13-en-2-yl] benzoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+682	L-glutamic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+683	Sodium trichloroacetate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+684	N-(2-bromobenzyl)-1-(2-bromophenyl)-N,N-dimethylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+685	L-Leucine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+686	1,10-Decanediammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+687	3-aminopropanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+688	Geranylamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+689	(S)-Lysinyl-(S)-threoninyl-(S)-threoninyl-(S)-lysinyl-(S)-serine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	2	0	[0, 0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+690	1-Pentanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+691	Nortestosterone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+692	m-tolylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+693	N,N-dimethyl-1-(naphthalen-1-yl)-N-(naphthalen-1-ylmethyl)methanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+694	L-Tyrosine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+695	N-ethylacetamide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+696	gamma-Aminobutanoate (protonated form)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+697	1,3-Dihydroxybenzene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+698	Butylamine (protonated form)	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+699	Nitrate ion	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+700	4-Methylpentanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+701	Lidocaine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+702	Cetrimonium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+703	N-(4-methoxybenzyl)-1-(4-methoxyphenyl)-N,N-dimethylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+704	dibenzyl(diethyl)azanium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+705	Heroin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+706	D5+	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+707	silicon(IV) phthalocyanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	6	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+708	3,3-dimethylbutan-1-aminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+709	glycylglycyl-L-tryptophylglycylglycine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+710	1,3-benzodioxole-5-carboxylic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+711	Benzyltrimethylammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+712	bis(dimethylpyridinium)diarylethene (open form)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+713	crystal violet	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	6	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+714	Thiazole orange	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+715	p-Benzoquinone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+716	N-Acetyl-D-phenylalanine	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+717	3-Nitrobenzoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+718	1,10-Phenanthroline	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+719	1,3-phenylenedimethanaminium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+720	cyclohex-3-ene-1-carboxylic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+721	3-(3,4,5-trifluorobenzyl)-1-vinyl-1H-imidazol-3-ium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+722	Acridine (protonated)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+723	p-Xylylendiamine (fully protonated)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+724	H-TARKSTGY-NH2	NAME_SINGLE	TARKSTGY	8	[]	[]	one_letter	True		5	1	0	[0]	0	0	1	1	0	H	NH2	Ac	0	1	0	-1	1	6	Y	[9]	7	6	0	0	0
+725	Coptisine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+726	Fluorenyl-polyethylene-glycol-polymer	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+727	protonated trans-Merocyanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+728	methionyllysylalanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	1	0	[0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+729	N,N-dibenzyl-N-methylethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+730	(R)-(-)-Benzyl glycidyl ether	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+731	(1R,2R,5R)-2-Hydroxy-3-pinanone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+732	(1R,4R)-cyclohexane-1,4-diamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+733	Tetrapropylammonium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+734	4-[4-[bis(2-chloroethyl)amino]phenyl]butanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+735	H-Leu-Arg-Arg-Trp-pSer-Leu-Gly-OH	NAME_SINGLE		0	[]	[]	three_letter	False	THREE_LETTER_NOT_CONVERTED_seq_layer_skipped	6	0	0	[]	0	0	1	0	0	H	OH	H	1	1	0	-1	0	-1		[]	0	-1	0	0	0
+736	Drospirenone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+737	[Bis(2-phenylpyridine)]2,2'-bipyridyliridium(I)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+738	(-)-ephedrine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+739	(S)-1,1,2,4,4-pentamethylpiperazine-1,4-diium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+740	Ethylammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+741	1-Methylhexylammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+742	1-Ethyl-3-methylmidazolium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+743	naproxen	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+744	2,7-di(2,5,8,11-tetraoxatridecan-13-yl)benzo[lmn][3,8]phenanthroline-1,3,6,8(2H,7H)-tetraone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+745	krypton	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+746	Dimethyl carbonate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+747	Mono-Trp Gly4 target	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+748	Sodium sulfide hydrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+749	thiophen-2-ylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+750	2-ANTHRYL-NHCOO-5KPEGOME	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+751	N,N-dimethyl-N-(4-(trifluoromethyl)benzyl)-1-(4-(trifluoromethyl)phenyl)methanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+752	Propionic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+753	tert-Butyloxycarbonyl-(S)-histidine methyl ester	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+754	Benzamide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+755	Prochloraz	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+756	2-Hydroxynaphthalene-triethylene-glycol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+757	(E)-4,4'-(ethene-1,2-diyl)bis(1-butylpyridin-1-ium)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+758	Piperazine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+759	Sodium taurocholate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+760	1,1'-(oxybis(ethane-2,1-diyl))bispyridinium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+761	(6E,9E,16E,19E)-1,5,15(1,4),11(4,1)-tetrapyridin-1-iuma-3,8,13,18(1,4)-tetrabenzenacycloicosaphane-6,9,16,19-tetraene-11,51,111,151-tetraium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+762	5-aminopentan-1-ol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+763	(2S,3S)-2,3-Dimethyloxirane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+764	4-[(E)-2-(3,10a-dihydropyren-1-yl)vinyl]-1-methyl-pyridine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+765	1,4-Benzodiazine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+766	L-arginine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+767	Tetramethylammonium iodide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+768	Rhodamine 6G	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+769	N,N-dimethyl-3-(2-tricyclo[9.4.0.03,8]pentadeca-1(15),3,5,7,11,13-hexaenylidene)propan-1-amine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+770	Aluminum cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+771	2-Phenoxathiin-2-ylquinoxaline	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+772	[{Ru(phen)2}2bb5] 4	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+773	Ethanolamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+774	Terbium cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+775	Aluminum trichloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+776	N-(4-fluorobenzyl)-1-(4-fluorophenyl)-N,N-dimethylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+777	(2S)-2-aminobutanedioic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+778	Estriol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+779	disodium;phenyl phosphate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+780	Silver chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+781	(E)-4,4'-(ethene-1,2-diyl)bis(1-methylpyridin-1-ium)	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+782	tetraethylammonium hexafluorophosphate(V)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+783	1,5-pentanediol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+784	Acridine Orange hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+785	1,8-Octanediammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+786	(2R,3R)-(-)-2-Benzyloxy-1,3,4-butanetriol	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+787	Ammonium nitrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+788	propylamine (protonated form)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+789	4-aminobutan-1-ol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+790	N-Butyladamantan-1-aminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+791	Carbamylcholine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+792	1,1'-(propane-1,3-diyl)bis(4-(tert-butyl)pyridin-1-ium)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+793	Acetaminophen	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+794	1,1'-bis(4-nitrophenyl)-[4,4'-bipyridine]-1,1'-diium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+795	3-hydroxynaphthalene-2-carboxylic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+796	L-tyrosyl-L-tyrosyl-L-alanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+797	Nandrolone-17-propionate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+798	suberyl dicholine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	6	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+799	Methylguanidinium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+800	Cyclohexanone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+801	Propane-d8	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+802	3-methylbutan-1-aminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+803	Brilliant cresyl blue	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+804	Spermine (fully protonated form)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+805	1-(3-aminopropyl)-4-4'-bipyridinium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+806	Indole	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+807	Sodium sulfate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+808	N-benzyl-N,N-dimethyl-1-phenylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+809	molecular nitrogen	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+810	2-amino-2-phenylacetic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+811	Octyltrimethylammonium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+812	5-aminovaleric acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+813	1-methylcyclohexanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+814	(+/-)-2-methylbutanoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+815	Eosin Y	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+816	Lithium nitrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+817	1-methylbutylammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+818	1',1'''-(([1,1'-binaphthalene]-2,2'-diylbis(oxy))bis(hexane-6,1-diyl))bis(1-methyl-[4,4'-bipyridine]-1,1'-diium)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+819	L-lysyl-L-lysyl-L-lysyl-L-lysine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	3	4	0	[0, 0, 0, 0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+820	4-Cyanobenzoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+821	Dansylcholine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	5	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+822	Oxazole	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+823	cylopenthylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+824	4-(5-(4-(dimethylamino)phenyl)oxazol-2-yl)benzenesulfonate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+825	1,2,3-benzotriazole	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+826	glycyl-l-asparagine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+827	Met-Arg-Gly-Gly-Tyr	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+828	6-Azaniumylhexylazanium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+829	New Methylene blue	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+830	1,1'-diphenyl-[4,4'-bipyridine]-1,1'-diium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+831	Mercury cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+832	(s)-(-)-citronellic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+833	pentane-1,5-diaminium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+834	methionylphenylalanylalanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+835	4-Hydroxy-7-methoxycoumarin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+836	homoditopic bis-4-(N-methylpyridi- nium)azobenzene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+837	4,4'-Bipyridine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+838	17-alpha-Ethinyl estradiol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+839	1,4-Phenylenediamine dihydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+840	2-amino-9-hydroxyfluorene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+841	chloramphenicol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+842	Lead cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+843	6-phenylpyridin-3-amine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+844	Mono-methyl viologen Gly6 scaffold	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	6	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+845	D5D2+	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+846	(R)-10-Camphorsulfonic acid	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+847	N-(4-chlorobenzyl)-1-(4-chlorophenyl)-N,N-dimethylmethanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+848	Hydrocortisone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+849	Azobenzene-polyethylene-glycol-polymer	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+850	Cesium nitrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+851	Tris(bipyridine)ruthenium(II)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+852	Doxylamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+853	Barium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+854	Dysprosium(III) chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+855	2,3-diazabicyclo[3.2.2]non-2-ene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+856	2,4-diaminobutanoate (protonated form)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+857	Sulfur hexafluoride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+858	1,1'-bis(4-aminophenyl)-[4,4'-bipyridine]-1,1'-diium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+859	Brilliant green	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+860	7-Methoxy-8-(3-methylbut-2-enyl)chromen-2-one	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+861	spermine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+862	(2R)-2-aminopropanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+863	Di-Trp Gly6 target	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	13	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+864	4-Phenylbutanoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+865	Lysylarginine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	1	0	[0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+866	1-Pentyl-3-methylmidazolium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+867	[(1S,2S,3R,4S,7R,9S,10S,12R,15S)-4-acetyloxy-1,9,12-trihydroxy-15-[(2R,3S)-2-hydroxy-3-[(2-methylpropan-2-yl)oxycarbonylamino]-3-phenylpropanoyl]oxy-10,14,17,17-tetramethyl-11-oxo-6-oxatetracyclo[11.3.1.03,10.04,7]heptadec-13-en-2-yl] benzoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+868	cyclohexanecarboxylic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+869	tetraethylazanium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+870	1,1'-bis(3-aminopropyl)-4,4'-bipyridinium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+871	ethyl 5-(6-ethyl-4-Hydroxy-7-methoxy-2-oxo-2H-chromen-3-yl)furan-2-carboxylate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+872	Biphenyl-Polyethylene-Glycol-Polymer-2	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+873	(1S,2R)-(+)-2-Amino-1,2-diphenylethanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+874	D-phenylalanine amide	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+875	Triglycine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+876	Cimetidine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+877	L-methionyl-L-leucylglycylglycyl-L-tyrosine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+878	Morin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+879	L-Tyrosyl-L-Lysyl-L-Alanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	1	0	[0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+880	(1s,3s,5s,7s)-N1,N1,N1,N3,N3,N3-hexamethyladamantane-1,3-diaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	6	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+881	1-hexylpyridin-1-ium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+882	periodate ion	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+883	6-Methyl-6-dehydro-17alpha-acetoxyprogesterone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+884	D-Cellobiose	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+885	H-Trp-Lys-Arg-pThr-Leu-Arg-Arg-Leu-OH	NAME_SINGLE		0	[]	[]	three_letter	False	THREE_LETTER_NOT_CONVERTED_seq_layer_skipped	7	1	0	[0]	0	0	1	0	0	H	OH	H	1	1	0	-1	0	-1		[]	0	-1	0	0	0
+886	Leu-met-ala	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+887	1,3-dimethyl-1H-imidazol-3-ium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+888	1-adamantyltrimethylammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+889	Proflavine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+890	(Trimethylamino)methyl)ferrocene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+891	Arginyl-arginyl-arginine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+892	Isodoxa	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+893	N-Acetyl-L-tyrosine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+894	3-(2,3,5,6-tetrafluorobenzyl)-1-vinyl-1H-imidazol-3-ium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+895	Dibenzoyl-L-tartaric acid	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+896	N-Methylhexylammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+897	Diquat	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+898	naphthalene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+899	2-Adamantylamine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+900	4,9-diaminodiamantane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+901	(R)-(-)-alpha-Methoxyphenylacetic acid	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+902	p-Phenylenediamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+903	1-Methyl-3-phenylpropylamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+904	Perchlorate ion	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+905	4-methylphenylacetate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+906	Phenoxathiine-3-carboxylic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+907	Soman	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+908	(2R)-2-acetamido-3-(4-hydroxyphenyl)propanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+909	(R)-(-)-1-Cyclohexylethylamine	NAME_MULTI		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+910	Auramine O	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+911	1,1'-di-p-tolyl-[4,4'-bipyridine]-1,1'-diium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+912	Thioflavin T	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+913	benzylazanium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+914	1H-1,2,4-triazole	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+915	Calcium nitrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+916	4-methoxyphenylacetate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+917	Pyridinium, 1,​1'-​[[2-​(methoxycarbonyl)​-​1,​4-​phenylene]​bis(methylene)​]​bis-	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+918	5,6-dihydropyrazino[1,2,3,4-lmn]-1,10-phenanthrolinium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+919	Estrone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+920	triclosan	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+921	3,4-Dihydroxybenzylamine hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+922	L-Threonine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+923	Famotidine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+924	2-anthracenecar- boxylate sodium salt	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+925	Tris(1,10-phenanthroline)iridium(3+)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+926	Nizatidine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+927	[3,4,7,8-tetramethyl-1,10-phenanthroline][1,7-bis[4(4′-methyl-2,2′-bipyridyl)]heptane]ruthenium(II)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+928	Perrhenate ion	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+929	Lys-Ala-Trp-Ala-Ala	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	1	0	[0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+930	bis(N-(4-(pyridin-2-yl)benzyl)butan-1-aminium)(2,2′-bipyridine)iridium(I)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+931	Sodium fluoride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+932	3-carboxy-1-methylpyridin-1-ium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+933	(2S)-2-amino-3-hydroxypropanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+934	Coumarin 30 neutral	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+935	Corticosterone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+936	Cobalt(2+)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+937	1,1',1''-((benzene-1,3,5-triyltris(oxy))tris(benzene-4,1-diyl))tris(N-benzylmethanaminium)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+938	2-Amino-1-(4-nitrophenyl)-1,3-propanediol hydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+939	3-Chlorophenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+940	di-methyl viologen gly4 scaffold	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	9	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+941	2-methylpropanoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+942	1,2-phenylenediamine dihydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+943	trans-4-methylcyclohexanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+944	Dehydrocorydaline	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+945	4-bromobenzoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+946	1-phenyl-2,3-diazabicyclo[2.2.2]oct-2-ene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+947	Sodium periodate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+948	(7S,9S)-9-acetyl-7-[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+949	Fluorescein	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+950	4-Nitro-D-phenylalanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+951	acetylphenylalanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+952	tetramethylphosphanium cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+953	N-Acetyl-L-aspartic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+954	trans-4-methylcyclohexyl(trimethyl)ammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+955	Phenoxy-1,2-dioxetane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+956	propanil	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+957	octan-2-aminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+958	1-Naphthyl-polyethylene-glycol-polymer	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+959	2,3-diazabicyclo[2.2.2]oct-2-en-2-ium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+960	argon	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+961	9-carboxytriamantane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+962	taurocholic acid sodium salt	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+963	6-Methoxy-2-naphthol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+964	7-Oxabicyclo[4.1.0]heptane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+965	Thionin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+966	Melatonin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+967	N,N-dimethyl-N-(3-methylbenzyl)-1-(m-tolyl)methanaminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+968	Phosphorus hexafluoride ion	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+969	4-propan-2-ylphenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+970	L-Arginine methyl ester dihydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+971	2-oxo-2-phenylacetic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+972	7,8-dimethyl-1H-benzo[g]pteridine-2,4-dione	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+973	methionyltyrosylalanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+974	N-Methyl codeine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+975	Ammonium ion	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+976	PDI-bis(Hex-Me2N-EtOH).2Br	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+977	(+)-(1S,2S)-2-Methylamino-1-phenyl-propan-1-ol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+978	Tert-butanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+979	4-Aminopyridine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+980	D-Fructose	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+981	Rimantadine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+982	2,3-[1,2-phenylenebis[oxy(3,6-dioxaoctane-1,8-diyl)oxy]]quinoxaline and one phenylenebis(oxy-p-phenylenemethylene)]bis(benzenemethaneaminium)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+983	PDI-bis(Bu-Me2N-EtOH).2Br	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+984	Protonated DBN	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+985	TMPyP4	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+986	Tetradecyltrimethylammonium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+987	(2R)-2-amino-3-sulfanylpropanoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+988	Rhodamine 800	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+989	3-Hydroxyadamantan-1-aminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+990	1,4-phenylenedimethanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+991	L-Aspartyl-L-phenylalanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+992	Phe-Gly-Gly	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+993	1-ethyl-3-methylimidazolium tetrafluoroborate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+994	[(19S)-10,19-diethyl-19-hydroxy-14,18-dioxo-17-oxa-3,13-diazapentacyclo[11.8.0.02,11.04,9.015,20]henicosa-1(21),2,4(9),5,7,10,15(20)-heptaen-7-yl] 4-piperidin-1-ylpiperidine-1-carboxylate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+995	Azure A	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+996	1-adamantane carboxylate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+997	Leu-Met-Gly-Gly-Tyr	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+998	Acetylthiocholine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+999	4-Ethylbenzoic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1000	L-methionyl-L-lysylglycylglycyl-L-tyrosine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	1	0	[0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1001	2-Acetamido-3-Phenylpropanoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1002	cyclohepta-2,4,6-trien-1-ylium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1003	helium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1004	((Dimethylamino)methyl)ferrocene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1005	6-aminohexanoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1006	Urea	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1007	Hexanoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1008	Mono-methyl viologen Gly4 scaffold	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1009	Ytterbium nitrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1010	H-Lys-Lys-Leu-Val-Phe-Phe-Ala-Lys-OH	NAME_SINGLE		0	[]	[]	three_letter	False	THREE_LETTER_NOT_CONVERTED_seq_layer_skipped	7	3	0	[0, 0, 0]	0	0	1	0	0	H	OH	H	1	1	0	-1	0	-1		[]	0	-1	0	0	0
+1011	(6S,11R,12R)-6,11-dihydro-6,11-[1,2]epicyclopentapyrido[1,2-b]isoquinolin-5-ium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1012	1-methyl-3-[[6-[(3-methylimidazol-3-ium-1-yl)methyl]naphthalen-2-yl]methyl]imidazol-1-ium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1013	Nile Blue chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1014	arginyllysine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	1	0	[0]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1015	Tartrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1016	4-Methylaniline	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1017	trichloro(deuterio)methane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1018	Tetraethylammonium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1019	H-ARTKQTAY-NH2	NAME_SINGLE	ARTKQTAY	8	[]	[]	one_letter	True		5	1	0	[0]	0	0	1	1	1	H	NH2	H	1	1	0	-1	1	1	Y	[4]	7	1	0	0	0
+1020	trans-3-hexenoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1021	1-Hydroxynaphthalene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1022	Tryptophol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1023	H-TARK(me3)STGY-NH2	NAME_SINGLE	TARKSTGY	8	['me3']	[(4, 'me3')]	one_letter	True		5	1	3	[3]	3	1	1	1	0	H	NH2	Ac	0	1	0	-1	1	6	Y	[9]	7	6	0	1	1
+1024	Barium nitrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1025	Benzoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1026	Acetate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1027	1,4-dimethoxybenzene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1028	1-Heptanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1029	trans-azobenzene-TEG	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1030	D10D2+	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1031	4,6-bis[4-(aminomethyl)anilino]-1H-1,3,5-triazin-2-one	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1032	phenylacetate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1033	(1S,3R)-(-)-Camphoric acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1034	1,3-Bis(trimethylaminio)adamantane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	6	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1035	propiononitrile	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1036	trans-2-hexenoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1037	3-methylcyclohexanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1038	Isobutane-d10	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1039	3,6-Diaminoacridin-10-ium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1040	Neodymium trichloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1041	1-(1-Adamantyl)pyridinium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1042	methyl 2-amino-3-(4-methoxyphenyl)propanoate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1043	D-3-Bromocamphor-8-sulfonic acid ammonium salt	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1044	3-(2,3-dihydrobenzo[b][1,4]dioxin-6-yl)-6-ethyl-4-hydroxy-7-methoxy-2H-chromen-2-one	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1045	safranin O	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1046	3,5-Dimethyladamantan-1-aminium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1047	6-aminohexan-1-ol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1048	Magnesium nitrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1049	L-tyrosyl-L-leucyl-L-alanine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1050	1,4-Diaminobutane	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1051	7-Dehydrocholesterol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1052	Trimethylamine N-oxide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1053	4-ethylphenol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1054	(R)-3-Bromo-8-camphorsulfonic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1055	Furan	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1056	L-tyrosyl-L-alanyl-L-leucine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1057	Cyclo(Arg-Gly-Asp-D-Phe-Val)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	5	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1058	pentane-1,5-diamine dihydrochloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1059	Acetic acid	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1060	tetramethylammonium hexafluorophosphate(V)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1061	Strontium nitrate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1062	H-Trp-Lys-Arg-Thr-Leu-Arg-Arg-Leu-OH	NAME_SINGLE		0	[]	[]	three_letter	False	THREE_LETTER_NOT_CONVERTED_seq_layer_skipped	7	1	0	[0]	0	0	1	0	0	H	OH	H	1	1	0	-1	0	-1		[]	0	-1	0	0	0
+1063	Toluidine Blue O	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1064	Europium(III) chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1065	1-(Phenoxathiin-3-yl)ethan-1-one	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1066	Ammonium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1067	Samarium(III) chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1068	m-Phenylenediamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1069	Acridine Yellow G	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1070	1,1'-(1,4-phenylenebis(methylene))bis(pyridin-1-ium-3-carboxylate)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1071	2,2,6-trimethylcyclohexan-1-one	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1072	1,1'-(1,4-phenylenebis(methylene))bis(pyridin-1-ium-4-carboxylate)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1073	(+)-fenchone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1074	1,2,3,6,7,7a-hexahydro-3a,6-epoxyisoindole	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1075	Melamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1076	N-(furan-2-ylmethyl)propan-1-amine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1077	1-hexyl-3-methylimidazol-3-ium;chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1078	Thr-Gly-D-Ala-Phe-Met-NH2	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1079	6-bromo-1,2,3,6,7,7a-hexahydro-3a,6-epoxyisoindole	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1080	bicyclo[2.2.1]heptan-2-one	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1081	N-((5-methylfuran-2-yl)methyl)prop-2-en-1-amine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1082	Glycyltyrosine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1083	((S)-2-amino-3-(4-(aminomethyl)phenyl)propanoyl)-L-methionine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1084	Borneol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1085	N1,N1'-(bicyclo[2.2.2]octane-1,4-diylbis(methylene))bis(N3,N3-dimethylpropane-1,3-diamine)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1086	1-butyl-3-methylimidazolium hexafluorophosphate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1087	2,7-bis(2-(trimethyl-azaneyl)ethyl)pyrene-1,3,6,8(2H,7H)-tetraone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	6	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1088	Pinacolone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1089	bis(dimethylpyridinium)diarylethene (closed form)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1090	AM Phe-Gly-Gly	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1091	1,1'-bis(5-carboxypentyl)-[4,4'-bipyridine]-1,1'-diium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1092	Methyl acetate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1093	Phosphoramidon	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1094	3-Pentanone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1095	Thr-Gly-Ala-Phe-Met-NH2	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1096	Pibenzimol HCl	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1097	Ferrocene	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1098	N-((5-bromofuran-2-yl)methyl)prop-2-en-1-amine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1099	6-chloro-1,2,3,6,7,7a-hexahydro-3a,6-epoxyisoindole	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1100	H-Phe-Met-OH	NAME_SINGLE		0	[]	[]	three_letter	False	THREE_LETTER_NOT_CONVERTED_seq_layer_skipped	1	0	0	[]	0	0	1	0	0	H	OH	H	1	1	0	-1	0	-1		[]	0	-1	0	0	0
+1101	Acridine Orange hydrochloride (protonated)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1102	1-Phenyl-2-butanone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1103	[Ru(bpy)2dppz]2+	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1104	(Z)‐4‐(4‐(2‐(3′,5′‐bis(trifluoromethyl)‐[1,1′‐biphenyl]‐4‐yl)‐1‐cyanovinyl)phenyl)‐1‐methylpyridin‐1‐ium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1105	Tetrakis(pyridin-4-ylsulfanyl)-phthalocyaninato zinc(II)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1106	Tryptophyl-Glycine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1107	5-Bromo-2-adamantanone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1108	(2-(2-(2-(2-(4-(pyridine-2-yl)-1H-1,2,3-triazole-1-yl)ethoxy)ethoxy)ethoxy)ethan-1-ol)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1109	N-((5-chlorofuran-2-yl)methyl)prop-2-en-1-amine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1110	bicyclo[2.2.2]octane-1,4-diyldimethanamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1111	1-benzyl-3-methylimidazol-3-ium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1112	Tetramethylrhodamine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	4	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1113	7-Methoxy-4-methylflavylium cation	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1114	[C3mim]Br	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	1	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1115	2NpCH2ImidMe	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1116	cyanine dye LDP	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	2	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1117	AM Phe	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1118	Thr-Gly-Ser-Phe-Met-NH2	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1119	Tyrosyl-Glycine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1120	Flavopereirine perchlorate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1121	tBu Phe-Gly-Gly	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1122	6-Methoxy-1-methylquinolinium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1123	tert-Butylbenzylketone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1124	1-methyl-3-octylimidazol-1-ium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1125	6-methyl-1,2,3,6,7,7a-hexahydro-3a,6-epoxyisoindole	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1126	(2S)-2-((2S)-2-((2S)-2-(2-((3R)-2-amino-3-hydroxybutanamido)acetamido)propanamido)-3-phenylpropanamido)-4-methylpentanamide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1127	H-phe-leu-oh	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1128	2-butanone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1129	2-(2-amino-3-phenylpropanamido)-4-(methylthio)butanamide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1130	Epiberberine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1131	1,1'-(3-(methoxycarbonyl)pentane-1,5-diyl)bis(pyridin-1-ium)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1132	Trp-met-gly	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1133	N-(furan-2-ylmethyl)prop-2-en-1-amine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1134	N1,N1'-(hexane-1,6-diyl)bis(ethane-1,2-diaminium)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1135	Gly-tyr-gly	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1136	Rhodamine B benzyl ester	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1137	Thr-Gly-Gly-Phe-Met-NH2	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1138	(E)-4-(4-(1,4-dioxa-7,13-dithia-10-azacyclopentadecan-10-yl)styryl)-1-methylpyridin-1-ium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1139	(E)-4-(2-(7-(diethylamino)-2-oxo-2H-chromen-3-yl)vinyl)-1-(3-(trimethylammonio)propyl)pyridin-1-ium bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1140	Bis(3,5-dimethoxybenzyl)-4,4′-bipyridinium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1141	styrylcoumarin	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1142	N,N,N-trimethylanthracen-2-aminium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	3	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1143	Europium(3+)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1144	Sulforhodamine b	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1145	1H-​Imidazolium, 3-​butyl-​1-​methyl-​, bromide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1146	Glycyl-dl-Tryptophan	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1147	((3R)-2-amino-3-hydroxybutanoyl)glycyl-L-alanyl-L-phenylalanyl-L-leucine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	4	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1148	Albendazole	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1149	Bicyclo[2.2.2]octane-1,4-diyldimethanol	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1150	5-Chloro-2-adamantanone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1151	Phenylalanylglycine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1152	tBu Phe	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1153	tyrosylmethionine	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1154	(R)-1-(2-naphthyl)ethylammonium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1155	1,1'-bis(3,5-diethoxybenzyl)-[4,4'-bipyridine]-1,1'-diium	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1156	Gly-AM Phe-Gly	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	2	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1157	2-Adamantanone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1158	Gadolinium(3+)	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1159	L-Phe-L-leucine-amide	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	1	0	0	[]	0	0	1	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1160	1-ethyl-3-methylimidazolium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1161	Acetophenone	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1162	1-butyl-3-methylimidazol-3-ium chloride	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0
+1163	1-butyl-3-methylimidazol-3-ium;tetrafluoroborate	NAME_SINGLE		0	[]	[]	not_peptide	False	NOT_PEPTIDE_NOTATION	0	0	0	[]	0	0	0	0	0			H	0	1	0	-1	0	-1		[]	0	-1	0	0	0

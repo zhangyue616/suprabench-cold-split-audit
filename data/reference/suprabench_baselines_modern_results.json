@@ -1,40 +1,4 @@
 {
-  "_meta": {
-    "cond_sha256": "56af035c649ca5772675de608772918482ca7f74f12a91efcc50e44fc80ee900",
-    "n": 2383,
-    "sklearn": "1.9.0",
-    "torch": "2.11.0+cu128",
-    "xgboost": "3.2.0",
-    "lightgbm": "4.6.0",
-    "device": "cuda",
-    "mode": "full",
-    "gnn_budget": {
-      "max_epoch": 300,
-      "patience": 30,
-      "lr": 0.001,
-      "val_frac": 0.15,
-      "d": 128,
-      "L": 3
-    },
-    "models": [
-      "PAIR_RF",
-      "ECFP_RF",
-      "XGB_pair",
-      "XGB_ecfp",
-      "LGBM_pair",
-      "LGBM_ecfp",
-      "3D_pair_RF",
-      "GINE",
-      "AttentiveFP",
-      "sim_knn_k5",
-      "additive",
-      "host_only_RF",
-      "guest_only_RF",
-      "cond_only_RF",
-      "source_only_RF"
-    ],
-    "runtime_s": 768.5
-  },
   "3D_arm": {
     "available": true,
     "arm": "guest_ETKDG_shape(10d)+PAIR_descriptors (host 3D omitted: macrocycles)",

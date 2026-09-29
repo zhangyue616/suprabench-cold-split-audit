@@ -182,6 +182,8 @@ def _compare_b1_final(expected_path: Path, actual_path: Path) -> dict[str, int]:
 
 
 def verify_b1(root: Path, output: Path, group: dict[str, Any]) -> dict[str, Any]:
+    for relative, file_spec in group["static_files"].items():
+        verify_file_spec(root, relative, file_spec)
     reaggregate_parent_identity_b1(output_dir=output, package_root=root)
     summary = load_json(output / "SUMMARY.json")
     if summary.get("status") != "COMPLETED" or summary.get("blocked_branches"):

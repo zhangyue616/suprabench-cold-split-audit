@@ -1,0 +1,207 @@
+{
+  "schema_version": "public-canonical-gnn-scientific-config-v1",
+  "execution_scope": {
+    "splits": [
+      "host_cold",
+      "guest_cold",
+      "double_cold"
+    ],
+    "blocks": {
+      "host_cold": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "guest_cold": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "double_cold": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    "total_blocks": 22,
+    "fits_per_repeat": 44,
+    "prediction_rows_per_repeat": 12964,
+    "metric_rows_per_repeat": 50
+  },
+  "gnn_recipe": {
+    "training_seed": 0,
+    "validation_seed": 0,
+    "device": "cuda if torch.cuda.is_available() else cpu",
+    "max_epochs": 300,
+    "patience": 30,
+    "validation_fraction": 0.15,
+    "minimum_validation_rows": 20,
+    "target_scale": "(y - training_mean) / (training_std + 1e-6)",
+    "optimizer": "torch.optim.Adam",
+    "learning_rate": 0.001,
+    "weight_decay": 1e-05,
+    "loss": "mean squared error on standardized training target",
+    "early_stop_improvement": 0.0001,
+    "selection_metric": "validation MAE in unscaled y",
+    "pair_head": "concat(host, guest, host*guest, abs(host-guest)) -> Linear(512,256) -> ReLU -> Dropout(0.1) -> Linear(256,1)",
+    "GINE": "Linear(48,128); 3 x GINEConv(MLP 128->256->128, edge_dim=6) + BatchNorm + ReLU + Dropout(0.1); global mean pool",
+    "AttentiveFP": "in=48 hidden=128 out=128 edge=6 layers=3 timesteps=2 dropout=0.1",
+    "determinism": "source-faithful torch.manual_seed(0) and numpy.RandomState(0) validation split only; do not add deterministic-algorithm flags not present in semantic source"
+  },
+  "model_roster": {
+    "models": [
+      "GINE",
+      "AttentiveFP"
+    ],
+    "run_a_role": "PREDECLARED_PRIMARY",
+    "run_b_role": "VERIFICATION_ONLY"
+  },
+  "metrics_contract": {
+    "schema": [
+      "scope",
+      "split",
+      "block_id",
+      "fold_index",
+      "seed",
+      "model",
+      "n",
+      "mae",
+      "r2",
+      "spearman",
+      "r2_status",
+      "spearman_status"
+    ],
+    "scopes": [
+      "model_block",
+      "model_split_aggregate"
+    ],
+    "definitions": {
+      "mae": "mean(abs(y_true-y_pred))",
+      "r2": "source-faithful R2; UNKNOWN when target has fewer than two distinct values or prediction standard deviation is at most 1e-9",
+      "spearman": "scipy.stats.spearmanr(y_true,y_pred).statistic; UNKNOWN when not finite"
+    },
+    "numeric_serialization": ".17g",
+    "undefined_serialization": "empty field",
+    "status_vocabulary": [
+      "DEFINED",
+      "UNKNOWN"
+    ],
+    "encoding": "UTF-8 without BOM",
+    "line_endings": "LF",
+    "delimiter": "tab"
+  },
+  "prediction_contract": {
+    "schema": [
+      "split",
+      "block_id",
+      "fold_index",
+      "seed",
+      "model",
+      "row_index",
+      "host_id",
+      "guest_id",
+      "canonical_host_sha256",
+      "canonical_guest_sha256",
+      "y_true",
+      "y_pred"
+    ],
+    "split_order": [
+      "host_cold",
+      "guest_cold",
+      "double_cold"
+    ],
+    "block_order": "numeric fold_index ascending",
+    "model_order": [
+      "GINE",
+      "AttentiveFP"
+    ],
+    "row_order": "row_index ascending within model block",
+    "y_true": "exact text from accepted frozen feature authority",
+    "finite_y_pred": true,
+    "numeric_serialization": ".17g",
+    "encoding": "UTF-8 without BOM",
+    "line_endings": "LF",
+    "delimiter": ","
+  },
+  "row_authority": {
+    "definition": "zero-based physical data-row position in SHA-gated clean_cond",
+    "expected_rows": 2383,
+    "expected_row_index_range": [
+      0,
+      2382
+    ],
+    "parquet_row": "FORBIDDEN"
+  },
+  "feature_schema": {
+    "graph": {
+      "atom_dimension": 48,
+      "edge_dimension": 6
+    },
+    "molecule_order": "first appearance of raw source SMILES; canonical hashes control fold grouping only and do not rewrite source-faithful molecular features"
+  },
+  "repeat_policy": {
+    "run_a": "PREDECLARED_PRIMARY",
+    "run_b": "VERIFICATION_ONLY",
+    "fresh_process_per_stage": true,
+    "retain_both_outputs": true,
+    "selection_or_averaging": "FORBIDDEN",
+    "automatic_retry": false,
+    "tolerance_widening": false
+  },
+  "hard_deterministic_runtime_contract": {
+    "process_environment": {
+      "CUBLAS_WORKSPACE_CONFIG": ":4096:8",
+      "PYTHONHASHSEED": "0",
+      "OMP_NUM_THREADS": "1",
+      "MKL_NUM_THREADS": "1",
+      "OPENBLAS_NUM_THREADS": "1",
+      "NUMEXPR_NUM_THREADS": "1",
+      "BLIS_NUM_THREADS": "1",
+      "PYTHONDONTWRITEBYTECODE": "1"
+    },
+    "warning_policy": "ERROR_NO_WARNING_ALLOWED",
+    "torch_runtime": {
+      "use_deterministic_algorithms": true,
+      "warn_only": false,
+      "cudnn_benchmark": false,
+      "cudnn_deterministic": true,
+      "cuda_matmul_allow_tf32": false,
+      "cudnn_allow_tf32": false,
+      "float32_matmul_precision": "highest",
+      "fill_uninitialized_memory": true,
+      "intraop_threads": 1,
+      "interop_threads": 1,
+      "manual_seed": 0,
+      "cuda_manual_seed_all": 0
+    },
+    "device_policy": {
+      "required_device": "cuda",
+      "required_device_name_contains": "RTX 5090",
+      "cpu_fallback": "FORBIDDEN_NONZERO_STOP"
+    },
+    "scientific_semantics": "UNCHANGED_EXCEPT_EXECUTION_DETERMINISM_CONTROLS",
+    "failure_policy": "WARNING_UNSUPPORTED_SILENT_FALLBACK_OR_NONFINITE_IS_NONZERO_STOP"
+  },
+  "actual_run_a_runtime": {
+    "compute_capability": "12.0",
+    "cuda": "12.8",
+    "gpu": "NVIDIA GeForce RTX 5090",
+    "python": "3.11.15",
+    "torch": "2.9.0+cu128",
+    "torch_geometric": "2.8.0"
+  },
+  "scope_note": "Scientific and determinism fields only; historical lifecycle/review gates and machine paths are excluded."
+}

@@ -74,6 +74,11 @@ def resolve_contract_source(raw_path, package_root):
     return target
 
 
+def repo_relative(path, package_root):
+    """Return a portable repository-root-relative POSIX path."""
+    return Path(path).resolve().relative_to(Path(package_root).resolve()).as_posix()
+
+
 def guarded_r2(y_true, y_pred) -> dict[str, Any]:
     y = np.asarray(y_true, dtype=np.float64)
     p = np.asarray(y_pred, dtype=np.float64)
@@ -262,7 +267,7 @@ def check_input_reachability(package_root):
         if not (root / relative).is_file():
             raise ValueError("PACKAGED_BASELINE_REFERENCE_MISSING:" + relative)
     return {
-        "status": "INPUTS_REACHABLE", "package_root": str(root),
+        "status": "INPUTS_REACHABLE", "package_root": ".",
         "frozen_stage_b": frozen, "prediction_sources": prediction_sources,
         "baseline_references": references,
     }
@@ -286,8 +291,9 @@ def load_fixed_panel(source, expected, cache, receipts, package_root):
         if not np.isfinite(frame[["y_true", "y_pred"]].to_numpy(dtype=float)).all():
             raise ValueError("NONFINITE_SAVED_OUTCOMES")
         cache[str(path)] = frame
-        receipts[str(path)] = {"sha256": sha(path), "opened_at_utc": opened,
-                               "contract_path": source["path"], "resolved_path": str(path),
+        receipt_path = repo_relative(path, package_root)
+        receipts[receipt_path] = {"sha256": sha(path), "opened_at_utc": opened,
+                               "contract_path": source["path"], "resolved_path": receipt_path,
                                "usecols": list(fields.values()), "included_models": MODELS,
                                "target_representation": "producer_float32_values_promoted_to_float64"
                                if source["branch"] == "canonical" else "saved_csv_float64_round_trip",
@@ -376,7 +382,7 @@ def baseline_check(branch, split, details, margins, reference_cache, receipts, p
             opened = utc_now()
             reference_cache[str(path)] = pd.read_csv(path, sep=sep, usecols=columns,
                                                      dtype=str, keep_default_na=False)
-            receipts[str(path)] = {"sha256": sha(path), "opened_at_utc": opened,
+            receipts[repo_relative(path, package_root)] = {"sha256": sha(path), "opened_at_utc": opened,
                                    "purpose": "frozen_baseline_reference", "usecols": columns}
         return reference_cache[str(path)]
 
@@ -438,7 +444,7 @@ def baseline_check(branch, split, details, margins, reference_cache, receipts, p
                         for sp in ["host_cold", "guest_cold"]}
             del saved
             reference_cache[str(path)] = selected
-            receipts[str(path)] = {
+            receipts[repo_relative(path, package_root)] = {
                 "sha256": sha(path), "opened_at_utc": opened,
                 "selected_key_paths": [f"{sp}.{m}.R2" for sp in selected for m in MODELS],
                 "reference_precision": "producer round(value, 3); exact reference unavailable",
@@ -476,8 +482,8 @@ def execute_after_freeze(branch_only=None, output_dir=None, package_root=None):
     out.mkdir()
     write_json(out / "PRE_OUTCOME_RECORD.json", {
         "prepared_at_utc": started, "script_sha256": script_hash,
-        "package_root": str(root),
-        "stage_b_freeze_path": str(freeze_path), "stage_b_freeze_sha256": sha(freeze_path),
+        "package_root": ".",
+        "stage_b_freeze_path": repo_relative(freeze_path, root), "stage_b_freeze_sha256": sha(freeze_path),
         "stage_b_frozen_at_utc": freeze["frozen_at_utc"],
         "self_test_actual": tests, "training_run": False,
         "new_model_or_seed": False, "all_model_guard": True,
@@ -555,7 +561,7 @@ def execute_after_freeze(branch_only=None, output_dir=None, package_root=None):
                     "PRIMARY_COMPARISONS.tsv", "SUMMARY.json", "PRE_OUTCOME_RECORD.json"]
     write_json(out / "RUN_RECEIPT.json", {
         "started_at_utc": started, "completed_at_utc": utc_now(),
-        "package_root": str(root),
+        "package_root": ".",
         "script_sha256": script_hash, "input_receipts": receipts,
         "stage_b_freeze_sha256": sha(freeze_path), "self_test_actual": tests,
         "outputs": {name: {"sha256": sha(out / name), "bytes": (out / name).stat().st_size}

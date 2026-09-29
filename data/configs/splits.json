@@ -1,0 +1,75 @@
+{
+  "n_pairs_subset": 2383,
+  "_n_pairs_subset_unit": "Legacy field name retained for compatibility; the value 2383 counts measurements, not unique host–guest pairs. The subset contains 2260 unique host–guest pairs.",
+  "factorization": "host_id = pandas.factorize(host_smiles)[0]; guest_id = pandas.factorize(guest_smiles)[0]; order = first appearance in suprabench_bap_clean_cond.csv",
+  "splits": {
+    "random": {
+      "constructor": "sklearn.model_selection.KFold(n_splits=5, shuffle=True, random_state=0).split(arange(n))",
+      "n_folds": 5,
+      "unit": "measurement row",
+      "note": "leaky upper bound: 98% of test hosts seen in train (killgate). Reported as the random-split reference only."
+    },
+    "host_cold": {
+      "constructor": "sklearn.model_selection.GroupKFold(n_splits=5).split(arange(n), y, groups=host_id)",
+      "n_folds": 5,
+      "unit": "host"
+    },
+    "guest_cold": {
+      "constructor": "sklearn.model_selection.GroupKFold(n_splits=5).split(arange(n), y, groups=guest_id)",
+      "n_folds": 5,
+      "unit": "guest"
+    },
+    "double_cold": {
+      "constructor": "12-seed; per seed s in range(12): rs=RandomState(s); held_hosts=rs.choice(unique_host_id, max(1,int(0.25*n_hosts)), replace=False); held_guests=rs.choice(unique_guest_id, max(1,int(0.25*n_guests)), replace=False)",
+      "test_rule": "host_id IN held_hosts AND guest_id IN held_guests",
+      "train_rule": "host_id NOT IN held_hosts AND guest_id NOT IN held_guests",
+      "neither": "rows with exactly one end held-out are in NEITHER train nor test",
+      "validity_filter": "drop seed if len(test)<25 OR n_unique(y[test])<2 OR len(train)<50",
+      "n_valid_folds": 12,
+      "unit": "block (the 12 double-cold folds are the bootstrap/aggregation unit)",
+      "note": "legacy raw-identifier recipe = suprabench_baselines_modern.dcfolds (L268-277); equivalent on the frozen clean subset to the smoke1/sim_null recipe (the len(train)<50 guard never triggers here)."
+    },
+    "family_cold": {
+      "constructor": "leave-one-family-out over family in {cucurbituril, cyclodextrin, calixarene, pillararene, cavitand, cyclophane, crown_ether, other}",
+      "family_assignment": "regex on host_name (suprabench_marginal_killgate.fam, L28-37): cucurbit|cb[\\d -> cucurbituril; cyclodext|[abgαβγ]-?cd -> cyclodextrin; calix -> calixarene; pillar -> pillararene; cavitand; cyclophane; crown -> crown_ether; else other",
+      "test_rule": "all rows of the held family",
+      "train_rule": "all other families",
+      "n_folds": 8,
+      "underpowered_flag": "NO_CONCLUSION_small if n_host(test)<5 OR n_pair(test)<80; legacy n_pair naming counts measurements (cavitand/pillararene/cyclophane/crown_ether)",
+      "unit": "family"
+    }
+  },
+  "bootstrap_and_ci": {
+    "host_level_R2_CI": {
+      "applies_to": [
+        "random",
+        "host_cold",
+        "guest_cold"
+      ],
+      "method": "resample unique hosts WITH replacement (host = resampling unit, NOT individual measurements); pooled R2 per resample; percentile [2.5, 97.5]",
+      "reps": {
+        "suprabench_marginal_killgate": 600,
+        "suprabench_smoke1_gnn": 400,
+        "suprabench_baselines_modern": 400,
+        "suprabench_baselines_p1": 300,
+        "suprabench_pregate_lowsim_hostboot": 2000
+      },
+      "rng": "numpy RandomState(0)"
+    },
+    "block_level_double_cold": {
+      "applies_to": [
+        "double_cold"
+      ],
+      "method": "per-block R2 over the 12 folds; block-bootstrap of mean(model - best_null) gain with 3000 resamples; percentile CI; Wilcoxon signed-rank on block-paired (model vs best_null)",
+      "boot_reps": 3000,
+      "rng": "numpy RandomState(0)",
+      "provenance": "suprabench_baselines_modern.py K2 (L338-349); suprabench_pregate.py P1 (L108-119); suprabench_baselines_p1.py (L143-148)"
+    },
+    "note": "Bootstrap units are host, family, or double-cold block as specified; individual measurement rows are not resampled as independent units."
+  },
+  "source": {
+    "fold_tables": "data/folds/",
+    "diagnostic_producers": "scripts/diagnostics/",
+    "scope": "Frozen released-identifier/raw-SMILES split definitions."
+  }
+}

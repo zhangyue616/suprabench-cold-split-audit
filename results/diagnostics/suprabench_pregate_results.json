@@ -1,0 +1,414 @@
+{
+  "fold_consistency": {
+    "random": 0.677,
+    "host_cold": 0.417,
+    "guest_cold": 0.656,
+    "double_cold": 0.387
+  },
+  "P1_block_double_cold": {
+    "n_blocks": 12,
+    "PAIR_RF_meanR2": 0.387,
+    "best_proper_null_meanR2": 0.295,
+    "which_null_best_per_block": [
+      "cond_only_RF",
+      "sim_knn_k5",
+      "host_only_RF",
+      "host_only_RF",
+      "sim_knn_k5",
+      "sim_knn_k5",
+      "additive",
+      "sim_knn_k5",
+      "sim_knn_k5",
+      "sim_knn_k5",
+      "additive",
+      "sim_knn_k5"
+    ],
+    "gain_mean": 0.092,
+    "gain_block_CI": [
+      0.052,
+      0.131
+    ],
+    "n_blocks_PAIR_gt_bestnull": 10,
+    "wilcoxon_p": 0.00244140625,
+    "per_null_mean_gain": {
+      "sim_knn_k5": 0.193,
+      "additive": 0.317,
+      "host_only_RF": 0.239,
+      "guest_only_RF": 0.347,
+      "cond_only_RF": 0.509,
+      "source_only_RF": NaN,
+      "ECFP_RF": 0.037
+    }
+  },
+  "P1_lowsim_bin": {
+    "n": 319,
+    "n_hosts": 65,
+    "n_families": 8,
+    "PAIR_R2": 0.281,
+    "sim_knn_R2": 0.058,
+    "additive_R2": -0.027,
+    "host_only_R2": 0.082,
+    "gain_PAIR_minus_simknn_hostCI": [
+      -0.012,
+      0.474
+    ],
+    "gain_PAIR_minus_additive_hostCI": [
+      0.061,
+      0.662
+    ]
+  },
+  "P2_lowsim_composition": {
+    "n": 319,
+    "family_dist": {
+      "other": 155,
+      "cyclodextrin": 70,
+      "calixarene": 53,
+      "cyclophane": 14,
+      "cucurbituril": 9,
+      "cavitand": 8,
+      "pillararene": 7,
+      "crown_ether": 3
+    },
+    "source_dist": {
+      "eupmc": 319
+    },
+    "solvent_dist": {
+      "buffer": 163,
+      "complex": 63,
+      "water": 41,
+      "missing": 30,
+      "D2O": 17,
+      "other": 5
+    },
+    "y_mean": 3.763,
+    "y_std": 1.907,
+    "y_min": 0.0,
+    "y_max": 11.146,
+    "frac_mega_host": 0.172,
+    "n_mega": 55,
+    "top_hosts": [
+      {
+        "host_name": "syn-Amide Naphthotube",
+        "n": 39
+      },
+      {
+        "host_name": "β-Cyclodextrin",
+        "n": 38
+      },
+      {
+        "host_name": "syn amine naphthotube",
+        "n": 37
+      },
+      {
+        "host_name": "Calix[4]arene",
+        "n": 28
+      },
+      {
+        "host_name": "Di(9,10-dihydro-9,10-ethenoanthracene-11,12-dicarb",
+        "n": 14
+      },
+      {
+        "host_name": "α-Cyclodextrin",
+        "n": 12
+      },
+      {
+        "host_name": "Zorb[4]arene",
+        "n": 10
+      },
+      {
+        "host_name": "tetrakis(trimethylammonium) chloride cavitand",
+        "n": 8
+      }
+    ]
+  },
+  "P2_lowsim_per_family": {
+    "calixarene": {
+      "n": 53,
+      "PAIR_R2": 0.372,
+      "sim_knn_R2": -0.29,
+      "y_mean": 4.374
+    },
+    "cavitand": {
+      "n": 8,
+      "flag": "NO_CONCLUSION_small"
+    },
+    "crown_ether": {
+      "n": 3,
+      "flag": "NO_CONCLUSION_small"
+    },
+    "cucurbituril": {
+      "n": 9,
+      "flag": "NO_CONCLUSION_small"
+    },
+    "cyclodextrin": {
+      "n": 70,
+      "PAIR_R2": -0.108,
+      "sim_knn_R2": 0.056,
+      "y_mean": 3.104
+    },
+    "cyclophane": {
+      "n": 14,
+      "flag": "NO_CONCLUSION_small"
+    },
+    "other": {
+      "n": 155,
+      "PAIR_R2": 0.185,
+      "sim_knn_R2": -0.178,
+      "y_mean": 3.571
+    },
+    "pillararene": {
+      "n": 7,
+      "flag": "NO_CONCLUSION_small"
+    }
+  },
+  "P3_family_cold": {
+    "calixarene": {
+      "n_pair": 536,
+      "n_host": 49,
+      "n_guest": 250,
+      "flag": "ok",
+      "y_mean": 3.564,
+      "y_std": 1.52,
+      "y_min": 0.663,
+      "y_max": 8.204,
+      "R2": 0.248,
+      "MAE": 0.989,
+      "Spearman": 0.509,
+      "Pearson": 0.507,
+      "calib_slope_ytrue_on_ypred": 0.859,
+      "offset_meanYtrue_minus_meanYpred": 0.077,
+      "host_sim_median": 0.31,
+      "host_sim_max": 0.696,
+      "cond_missing_temp": 0.448,
+      "cond_missing_ph": 0.478,
+      "source_frac_eupmc": 1.0
+    },
+    "cavitand": {
+      "n_pair": 79,
+      "n_host": 3,
+      "n_guest": 56,
+      "flag": "NO_CONCLUSION_small",
+      "y_mean": 3.617,
+      "y_std": 1.558,
+      "y_min": 0.954,
+      "y_max": 8.0,
+      "R2": -0.303,
+      "MAE": 1.552,
+      "Spearman": -0.227,
+      "Pearson": -0.001,
+      "calib_slope_ytrue_on_ypred": -0.001,
+      "offset_meanYtrue_minus_meanYpred": 0.355,
+      "host_sim_median": 0.636,
+      "host_sim_max": 0.771,
+      "cond_missing_temp": 0.544,
+      "cond_missing_ph": 0.62,
+      "source_frac_eupmc": 1.0
+    },
+    "crown_ether": {
+      "n_pair": 17,
+      "n_host": 3,
+      "n_guest": 17,
+      "flag": "NO_CONCLUSION_small",
+      "y_mean": 2.218,
+      "y_std": 1.157,
+      "y_min": 0.4,
+      "y_max": 4.9,
+      "R2": -2.435,
+      "MAE": 1.933,
+      "Spearman": 0.419,
+      "Pearson": 0.534,
+      "calib_slope_ytrue_on_ypred": 0.486,
+      "offset_meanYtrue_minus_meanYpred": -1.793,
+      "host_sim_median": 0.5,
+      "host_sim_max": 0.5,
+      "cond_missing_temp": 0.118,
+      "cond_missing_ph": 1.0,
+      "source_frac_eupmc": 1.0
+    },
+    "cucurbituril": {
+      "n_pair": 733,
+      "n_host": 19,
+      "n_guest": 548,
+      "flag": "ok",
+      "y_mean": 5.136,
+      "y_std": 2.335,
+      "y_min": 0.0,
+      "y_max": 15.079,
+      "R2": -0.238,
+      "MAE": 1.852,
+      "Spearman": 0.481,
+      "Pearson": 0.387,
+      "calib_slope_ytrue_on_ypred": 1.652,
+      "offset_meanYtrue_minus_meanYpred": 1.41,
+      "host_sim_median": 0.632,
+      "host_sim_max": 0.981,
+      "cond_missing_temp": 0.43,
+      "cond_missing_ph": 0.707,
+      "source_frac_eupmc": 0.705
+    },
+    "cyclodextrin": {
+      "n_pair": 352,
+      "n_host": 21,
+      "n_guest": 213,
+      "flag": "ok",
+      "y_mean": 2.716,
+      "y_std": 1.114,
+      "y_min": 0.438,
+      "y_max": 8.991,
+      "R2": -4.013,
+      "MAE": 2.3,
+      "Spearman": 0.517,
+      "Pearson": 0.48,
+      "calib_slope_ytrue_on_ypred": 0.587,
+      "offset_meanYtrue_minus_meanYpred": -2.263,
+      "host_sim_median": 0.333,
+      "host_sim_max": 0.488,
+      "cond_missing_temp": 0.375,
+      "cond_missing_ph": 0.466,
+      "source_frac_eupmc": 1.0
+    },
+    "cyclophane": {
+      "n_pair": 28,
+      "n_host": 2,
+      "n_guest": 18,
+      "flag": "NO_CONCLUSION_small",
+      "y_mean": 4.549,
+      "y_std": 1.009,
+      "y_min": 2.127,
+      "y_max": 6.431,
+      "R2": 0.422,
+      "MAE": 0.62,
+      "Spearman": 0.666,
+      "Pearson": 0.763,
+      "calib_slope_ytrue_on_ypred": 1.286,
+      "offset_meanYtrue_minus_meanYpred": 0.365,
+      "host_sim_median": 0.315,
+      "host_sim_max": 0.385,
+      "cond_missing_temp": 0.214,
+      "cond_missing_ph": 0.214,
+      "source_frac_eupmc": 1.0
+    },
+    "other": {
+      "n_pair": 581,
+      "n_host": 88,
+      "n_guest": 306,
+      "flag": "ok",
+      "y_mean": 3.398,
+      "y_std": 1.757,
+      "y_min": 0.0,
+      "y_max": 11.146,
+      "R2": 0.02,
+      "MAE": 1.312,
+      "Spearman": 0.506,
+      "Pearson": 0.42,
+      "calib_slope_ytrue_on_ypred": 0.606,
+      "offset_meanYtrue_minus_meanYpred": -0.502,
+      "host_sim_median": 0.233,
+      "host_sim_max": 0.981,
+      "cond_missing_temp": 0.52,
+      "cond_missing_ph": 0.802,
+      "source_frac_eupmc": 1.0
+    },
+    "pillararene": {
+      "n_pair": 57,
+      "n_host": 4,
+      "n_guest": 22,
+      "flag": "NO_CONCLUSION_small",
+      "y_mean": 6.526,
+      "y_std": 1.027,
+      "y_min": 4.706,
+      "y_max": 10.567,
+      "R2": -3.622,
+      "MAE": 1.735,
+      "Spearman": -0.163,
+      "Pearson": -0.09,
+      "calib_slope_ytrue_on_ypred": -0.1,
+      "offset_meanYtrue_minus_meanYpred": 1.671,
+      "host_sim_median": 0.396,
+      "host_sim_max": 0.567,
+      "cond_missing_temp": 0.088,
+      "cond_missing_ph": 0.088,
+      "source_frac_eupmc": 1.0
+    }
+  },
+  "P3b_struct_cluster": {
+    "n_clusters": 8,
+    "cluster_sizes_hosts": {
+      "0": 111,
+      "1": 24,
+      "2": 12,
+      "3": 22,
+      "4": 1,
+      "5": 4,
+      "6": 14,
+      "7": 1
+    },
+    "leave_cluster_out": {
+      "0": {
+        "n_pair": 1773,
+        "n_host": 111,
+        "R2": -0.298,
+        "Spearman": 0.494,
+        "dominant_family": "cucurbituril",
+        "fam_mix": {
+          "cucurbituril": 733,
+          "calixarene": 501,
+          "other": 377
+        }
+      },
+      "1": {
+        "n_pair": 94,
+        "n_host": 24,
+        "R2": -0.144,
+        "Spearman": 0.435,
+        "dominant_family": "other",
+        "fam_mix": {
+          "other": 92,
+          "cyclophane": 2
+        }
+      },
+      "2": {
+        "n_pair": 35,
+        "n_host": 12,
+        "flag": "NO_CONCLUSION_small"
+      },
+      "3": {
+        "n_pair": 353,
+        "n_host": 22,
+        "R2": -4.782,
+        "Spearman": 0.523,
+        "dominant_family": "cyclodextrin",
+        "fam_mix": {
+          "cyclodextrin": 352,
+          "other": 1
+        }
+      },
+      "4": {
+        "n_pair": 3,
+        "n_host": 1,
+        "flag": "NO_CONCLUSION_small"
+      },
+      "5": {
+        "n_pair": 46,
+        "n_host": 4,
+        "flag": "NO_CONCLUSION_small"
+      },
+      "6": {
+        "n_pair": 78,
+        "n_host": 14,
+        "R2": -0.019,
+        "Spearman": 0.336,
+        "dominant_family": "other",
+        "fam_mix": {
+          "other": 61,
+          "crown_ether": 17
+        }
+      },
+      "7": {
+        "n_pair": 1,
+        "n_host": 1,
+        "flag": "NO_CONCLUSION_small"
+      }
+    }
+  }
+}

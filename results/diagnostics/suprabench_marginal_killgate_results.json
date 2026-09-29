@@ -1,0 +1,476 @@
+{
+  "random": {
+    "global_mean": {
+      "R2": -0.0,
+      "Spearman": -0.007,
+      "MAE": 1.657,
+      "n": 2609,
+      "R2_CI": [
+        -0.119,
+        -0.0
+      ]
+    },
+    "host_mean": {
+      "R2": 0.408,
+      "Spearman": 0.668,
+      "MAE": 1.172,
+      "n": 2609,
+      "R2_CI": [
+        0.31,
+        0.502
+      ]
+    },
+    "guest_mean": {
+      "R2": 0.252,
+      "Spearman": 0.575,
+      "MAE": 1.275,
+      "n": 2609,
+      "R2_CI": [
+        0.122,
+        0.372
+      ]
+    },
+    "additive_shrink": {
+      "R2": 0.491,
+      "Spearman": 0.737,
+      "MAE": 1.096,
+      "n": 2609,
+      "R2_CI": [
+        0.414,
+        0.563
+      ]
+    },
+    "te_ridge": {
+      "R2": 0.494,
+      "Spearman": 0.744,
+      "MAE": 1.104,
+      "n": 2609,
+      "R2_CI": [
+        0.415,
+        0.563
+      ]
+    },
+    "nn1": {
+      "R2": 0.477,
+      "Spearman": 0.765,
+      "MAE": 0.956,
+      "n": 2609,
+      "R2_CI": [
+        0.377,
+        0.565
+      ]
+    },
+    "host_only_RF": {
+      "R2": 0.409,
+      "Spearman": 0.668,
+      "MAE": 1.169,
+      "n": 2609,
+      "R2_CI": [
+        0.326,
+        0.502
+      ]
+    },
+    "guest_only_RF": {
+      "R2": 0.391,
+      "Spearman": 0.689,
+      "MAE": 1.143,
+      "n": 2609,
+      "R2_CI": [
+        0.262,
+        0.473
+      ]
+    },
+    "PAIR_RF": {
+      "R2": 0.665,
+      "Spearman": 0.843,
+      "MAE": 0.803,
+      "n": 2609,
+      "R2_CI": [
+        0.606,
+        0.721
+      ]
+    }
+  },
+  "host_cold": {
+    "global_mean": {
+      "R2": -0.033,
+      "Spearman": -0.241,
+      "MAE": 1.689,
+      "n": 2609,
+      "R2_CI": [
+        -0.15,
+        -0.017
+      ]
+    },
+    "host_mean": {
+      "R2": -0.033,
+      "Spearman": -0.241,
+      "MAE": 1.689,
+      "n": 2609,
+      "R2_CI": [
+        -0.164,
+        -0.012
+      ]
+    },
+    "guest_mean": {
+      "R2": 0.18,
+      "Spearman": 0.432,
+      "MAE": 1.395,
+      "n": 2609,
+      "R2_CI": [
+        0.032,
+        0.285
+      ]
+    },
+    "additive_shrink": {
+      "R2": 0.161,
+      "Spearman": 0.377,
+      "MAE": 1.46,
+      "n": 2609,
+      "R2_CI": [
+        0.041,
+        0.237
+      ]
+    },
+    "te_ridge": {
+      "R2": 0.191,
+      "Spearman": 0.397,
+      "MAE": 1.423,
+      "n": 2609,
+      "R2_CI": [
+        0.039,
+        0.284
+      ]
+    },
+    "nn1": {
+      "R2": 0.027,
+      "Spearman": 0.539,
+      "MAE": 1.44,
+      "n": 2609,
+      "R2_CI": [
+        -0.223,
+        0.235
+      ]
+    },
+    "host_only_RF": {
+      "R2": 0.119,
+      "Spearman": 0.396,
+      "MAE": 1.51,
+      "n": 2609,
+      "R2_CI": [
+        -0.045,
+        0.236
+      ]
+    },
+    "guest_only_RF": {
+      "R2": 0.247,
+      "Spearman": 0.574,
+      "MAE": 1.319,
+      "n": 2609,
+      "R2_CI": [
+        0.062,
+        0.364
+      ]
+    },
+    "PAIR_RF": {
+      "R2": 0.363,
+      "Spearman": 0.653,
+      "MAE": 1.199,
+      "n": 2609,
+      "R2_CI": [
+        0.23,
+        0.473
+      ]
+    }
+  },
+  "guest_cold": {
+    "global_mean": {
+      "R2": -0.0,
+      "Spearman": -0.017,
+      "MAE": 1.657,
+      "n": 2609,
+      "R2_CI": [
+        -0.122,
+        -0.0
+      ]
+    },
+    "host_mean": {
+      "R2": 0.397,
+      "Spearman": 0.66,
+      "MAE": 1.187,
+      "n": 2609,
+      "R2_CI": [
+        0.302,
+        0.48
+      ]
+    },
+    "guest_mean": {
+      "R2": -0.0,
+      "Spearman": -0.017,
+      "MAE": 1.657,
+      "n": 2609,
+      "R2_CI": [
+        -0.098,
+        -0.0
+      ]
+    },
+    "additive_shrink": {
+      "R2": 0.369,
+      "Spearman": 0.641,
+      "MAE": 1.25,
+      "n": 2609,
+      "R2_CI": [
+        0.285,
+        0.436
+      ]
+    },
+    "te_ridge": {
+      "R2": 0.365,
+      "Spearman": 0.642,
+      "MAE": 1.26,
+      "n": 2609,
+      "R2_CI": [
+        0.286,
+        0.431
+      ]
+    },
+    "nn1": {
+      "R2": 0.408,
+      "Spearman": 0.714,
+      "MAE": 1.058,
+      "n": 2609,
+      "R2_CI": [
+        0.321,
+        0.49
+      ]
+    },
+    "host_only_RF": {
+      "R2": 0.394,
+      "Spearman": 0.657,
+      "MAE": 1.187,
+      "n": 2609,
+      "R2_CI": [
+        0.307,
+        0.473
+      ]
+    },
+    "guest_only_RF": {
+      "R2": 0.322,
+      "Spearman": 0.587,
+      "MAE": 1.272,
+      "n": 2609,
+      "R2_CI": [
+        0.171,
+        0.396
+      ]
+    },
+    "PAIR_RF": {
+      "R2": 0.636,
+      "Spearman": 0.813,
+      "MAE": 0.889,
+      "n": 2609,
+      "R2_CI": [
+        0.58,
+        0.677
+      ]
+    }
+  },
+  "double_cold": {
+    "mean_test_n": 172,
+    "n_seeds": 12,
+    "global_mean": {
+      "R2_mean": null,
+      "note": "DEGENERATE constant-pred (identity null collapses under double-cold)"
+    },
+    "host_mean": {
+      "R2_mean": null,
+      "note": "DEGENERATE constant-pred (identity null collapses under double-cold)"
+    },
+    "guest_mean": {
+      "R2_mean": null,
+      "note": "DEGENERATE constant-pred (identity null collapses under double-cold)"
+    },
+    "additive_shrink": {
+      "R2_mean": null,
+      "note": "DEGENERATE constant-pred (identity null collapses under double-cold)"
+    },
+    "te_ridge": {
+      "R2_mean": null,
+      "note": "DEGENERATE constant-pred (identity null collapses under double-cold)"
+    },
+    "nn1": {
+      "R2_mean": -0.061,
+      "R2_std": 0.304,
+      "R2_p2.5": -0.619,
+      "R2_p97.5": 0.262,
+      "n_valid": 12
+    },
+    "host_only_RF": {
+      "R2_mean": 0.115,
+      "R2_std": 0.125,
+      "R2_p2.5": -0.077,
+      "R2_p97.5": 0.295,
+      "n_valid": 12
+    },
+    "guest_only_RF": {
+      "R2_mean": 0.086,
+      "R2_std": 0.384,
+      "R2_p2.5": -0.829,
+      "R2_p97.5": 0.398,
+      "n_valid": 12
+    },
+    "PAIR_RF": {
+      "R2_mean": 0.387,
+      "R2_std": 0.086,
+      "R2_p2.5": 0.278,
+      "R2_p97.5": 0.532,
+      "n_valid": 12
+    }
+  },
+  "family_cold": {
+    "family_sizes": {
+      "calixarene": {
+        "pairs": 657,
+        "hosts": 50
+      },
+      "cavitand": {
+        "pairs": 79,
+        "hosts": 3
+      },
+      "crown_ether": {
+        "pairs": 17,
+        "hosts": 3
+      },
+      "cucurbituril": {
+        "pairs": 771,
+        "hosts": 20
+      },
+      "cyclodextrin": {
+        "pairs": 353,
+        "hosts": 21
+      },
+      "cyclophane": {
+        "pairs": 28,
+        "hosts": 2
+      },
+      "other": {
+        "pairs": 603,
+        "hosts": 89
+      },
+      "pillararene": {
+        "pairs": 101,
+        "hosts": 5
+      }
+    },
+    "calixarene": {
+      "pairs": 657,
+      "hosts": 50,
+      "flag": "ok",
+      "global_mean": NaN,
+      "guest_mean": 0.084,
+      "guest_only_RF": 0.315,
+      "PAIR_RF": 0.305
+    },
+    "cavitand": {
+      "pairs": 79,
+      "hosts": 3,
+      "flag": "NO_CONCLUSION_small",
+      "global_mean": NaN,
+      "guest_mean": -0.169,
+      "guest_only_RF": -0.189,
+      "PAIR_RF": -0.344
+    },
+    "crown_ether": {
+      "pairs": 17,
+      "hosts": 3,
+      "flag": "NO_CONCLUSION_small",
+      "global_mean": NaN,
+      "guest_mean": -1.057,
+      "guest_only_RF": -1.209,
+      "PAIR_RF": -2.26
+    },
+    "cucurbituril": {
+      "pairs": 771,
+      "hosts": 20,
+      "flag": "ok",
+      "global_mean": NaN,
+      "guest_mean": -0.371,
+      "guest_only_RF": -0.238,
+      "PAIR_RF": -0.247
+    },
+    "cyclodextrin": {
+      "pairs": 353,
+      "hosts": 21,
+      "flag": "ok",
+      "global_mean": NaN,
+      "guest_mean": -2.975,
+      "guest_only_RF": -4.088,
+      "PAIR_RF": -4.911
+    },
+    "cyclophane": {
+      "pairs": 28,
+      "hosts": 2,
+      "flag": "NO_CONCLUSION_small",
+      "global_mean": NaN,
+      "guest_mean": -1.411,
+      "guest_only_RF": -0.327,
+      "PAIR_RF": 0.497
+    },
+    "other": {
+      "pairs": 603,
+      "hosts": 89,
+      "flag": "ok",
+      "global_mean": NaN,
+      "guest_mean": -0.251,
+      "guest_only_RF": -0.193,
+      "PAIR_RF": 0.097
+    },
+    "pillararene": {
+      "pairs": 101,
+      "hosts": 5,
+      "flag": "ok",
+      "global_mean": NaN,
+      "guest_mean": -1.872,
+      "guest_only_RF": -0.953,
+      "PAIR_RF": -1.676
+    }
+  },
+  "similarity": {
+    "random": {
+      "host": {
+        "median": 1.0,
+        "p90": 1.0,
+        "frac_gt_0.9": 0.931
+      },
+      "guest": {
+        "median": 1.0,
+        "p90": 1.0,
+        "frac_gt_0.9": 0.697
+      }
+    },
+    "host_cold": {
+      "host": {
+        "median": 0.708,
+        "p90": 1.0,
+        "frac_gt_0.9": 0.232
+      },
+      "guest": {
+        "median": 1.0,
+        "p90": 1.0,
+        "frac_gt_0.9": 0.628
+      }
+    },
+    "guest_cold": {
+      "host": {
+        "median": 1.0,
+        "p90": 1.0,
+        "frac_gt_0.9": 0.917
+      },
+      "guest": {
+        "median": 0.591,
+        "p90": 1.0,
+        "frac_gt_0.9": 0.179
+      }
+    }
+  }
+}

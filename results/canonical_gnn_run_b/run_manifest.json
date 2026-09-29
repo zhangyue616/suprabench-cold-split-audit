@@ -1,0 +1,47 @@
+{
+  "schema_version": "canonical-model-gnn-run-manifest-deterministic-v19",
+  "engine": "gnn",
+  "repeat_id": "run_b",
+  "role": "VERIFICATION_ONLY",
+  "selection_or_averaging": "FORBIDDEN",
+  "automatic_retry": false,
+  "device": "cuda",
+  "fit_count": 44,
+  "prediction_row_count": 12964,
+  "metric_row_count": 50,
+  "runtime_seconds": 651.2189999999973,
+  "canonical_fold_sha256": {
+    "double_cold": "37D529B2F7EA7B07BB3F4EC18DB8FE8AA0C2BB1550AF6C65C41299770633DE22",
+    "guest_cold": "48C70058BB4D00D08C849901C288A6CC43571E6105E15D475388EBCAFDCFD23C",
+    "host_cold": "A8F8D0E1B411FADCD9125A437C9B0BD3C1B454309AB4077F76E083D5A2226ED7"
+  },
+  "feature_artifact_sha256": {
+    "feature_schema.json": "9CF6CFA44B7E6B9F25C18D6EDAFDEBC5344D3313D4311EB2222496CA4A28F34E",
+    "graph_features.npz": "1346C26022A7E854C28DB6EFB166138532A9766D34F007B8B9F59D93F42C7BB4",
+    "guest_3d_ledger.tsv": "811DF63CB233F980415AA0F6C8CEE01E11C30030CE23F43F5214E3F9FBC6FD5D",
+    "tabular_features.npz": "FFE6D344116E6A4CE36C0E90709666848F2319ACD516C6FE2A54DA47612D5310"
+  },
+  "execution_source_sha256": {
+    "repro/canonical_rebuild_20260802/scripts/build_model_features.py": "E4B11D3CD3778A154E8D73C6F058C688648BB7B7DCF048295E7D5E7B5B9DA312",
+    "repro/canonical_rebuild_20260802/scripts/check_gnn_deterministic_v19_contract.py": "12527CB768521874C4856AD6E8FBC6677296E8B789A611FAA4165EB707511428",
+    "repro/canonical_rebuild_20260802/scripts/check_gnn_hard_deterministic_compatibility_v19.py": "BB563509700A1B316FDA975871A0A32965C34F0D289996C023C978481914AAF5",
+    "repro/canonical_rebuild_20260802/scripts/common.py": "EC9DE6FD05C7481F8F84E5AA59AA5FC7575EBBC5C1D99E85B6E7E01949087883",
+    "repro/canonical_rebuild_20260802/scripts/compare_gnn_repeats.py": "BB872AB28339172A495176D588469622713E217E6A51C2CF8AF4F1EB19DC7D51",
+    "repro/canonical_rebuild_20260802/scripts/model_stage_gnn_driver_deterministic_v19.py": "344FFC5E9A50F04291A960A31E2FDD6D40AB9CBC8354E7F405205CCC5920AD65",
+    "repro/canonical_rebuild_20260802/scripts/run_external_fold_models.py": "AB1795BCFA4D01BA2E615DB0B276E19A9B185CFED53855F35208EFAF014A1074",
+    "repro/canonical_rebuild_20260802/scripts/run_external_gnn_models_deterministic_v19.py": "AA60759EB07436622A15A5B1211667E8790E91940A8EF3FE40B0BAB716D3F942",
+    "repro/canonical_rebuild_20260802/scripts/run_external_gnn_models_deterministic_v7.py": "3D050F5EFEF70CFE813B21800320475269BE64B7DE880CF437110CECCE66781C"
+  },
+  "artifacts_excluding_manifest": [
+    {
+      "bytes": 6851,
+      "path": "metrics_gnn.tsv",
+      "sha256": "5F415B4461AFAD0813709A605327F644BE8FDA109A44837D952997502DA82ED3"
+    },
+    {
+      "bytes": 2811160,
+      "path": "predictions_gnn.csv",
+      "sha256": "05BD2329DE4F3B4FC9D6837564653EA4B07678EE1EEADF2EFEC74E9A42A3EC77"
+    }
+  ]
+}

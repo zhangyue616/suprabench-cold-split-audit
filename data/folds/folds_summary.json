@@ -1,0 +1,215 @@
+{
+  "random": {
+    "n_folds": 5,
+    "test_sizes": [
+      477,
+      477,
+      477,
+      476,
+      476
+    ],
+    "note": "OOF partition: each row is test in exactly one fold; train = the other 4 folds (complement within split)."
+  },
+  "host_cold": {
+    "n_folds": 5,
+    "test_sizes": [
+      477,
+      477,
+      477,
+      476,
+      476
+    ],
+    "note": "OOF partition: each row is test in exactly one fold; train = the other 4 folds (complement within split)."
+  },
+  "guest_cold": {
+    "n_folds": 5,
+    "test_sizes": [
+      477,
+      477,
+      477,
+      476,
+      476
+    ],
+    "note": "OOF partition: each row is test in exactly one fold; train = the other 4 folds (complement within split)."
+  },
+  "double_cold": {
+    "n_seeds_tried": 12,
+    "n_valid_folds": 12,
+    "per_seed": [
+      {
+        "seed": 0,
+        "fold_index": 0,
+        "n_held_hosts": 47,
+        "n_held_guests": 291,
+        "n_test": 100,
+        "n_train": 1439,
+        "n_neither": 844,
+        "valid": true
+      },
+      {
+        "seed": 1,
+        "fold_index": 1,
+        "n_held_hosts": 47,
+        "n_held_guests": 291,
+        "n_test": 128,
+        "n_train": 1357,
+        "n_neither": 898,
+        "valid": true
+      },
+      {
+        "seed": 2,
+        "fold_index": 2,
+        "n_held_hosts": 47,
+        "n_held_guests": 291,
+        "n_test": 244,
+        "n_train": 1057,
+        "n_neither": 1082,
+        "valid": true
+      },
+      {
+        "seed": 3,
+        "fold_index": 3,
+        "n_held_hosts": 47,
+        "n_held_guests": 291,
+        "n_test": 165,
+        "n_train": 1370,
+        "n_neither": 848,
+        "valid": true
+      },
+      {
+        "seed": 4,
+        "fold_index": 4,
+        "n_held_hosts": 47,
+        "n_held_guests": 291,
+        "n_test": 170,
+        "n_train": 1254,
+        "n_neither": 959,
+        "valid": true
+      },
+      {
+        "seed": 5,
+        "fold_index": 5,
+        "n_held_hosts": 47,
+        "n_held_guests": 291,
+        "n_test": 197,
+        "n_train": 1174,
+        "n_neither": 1012,
+        "valid": true
+      },
+      {
+        "seed": 6,
+        "fold_index": 6,
+        "n_held_hosts": 47,
+        "n_held_guests": 291,
+        "n_test": 159,
+        "n_train": 1302,
+        "n_neither": 922,
+        "valid": true
+      },
+      {
+        "seed": 7,
+        "fold_index": 7,
+        "n_held_hosts": 47,
+        "n_held_guests": 291,
+        "n_test": 76,
+        "n_train": 1526,
+        "n_neither": 781,
+        "valid": true
+      },
+      {
+        "seed": 8,
+        "fold_index": 8,
+        "n_held_hosts": 47,
+        "n_held_guests": 291,
+        "n_test": 232,
+        "n_train": 1070,
+        "n_neither": 1081,
+        "valid": true
+      },
+      {
+        "seed": 9,
+        "fold_index": 9,
+        "n_held_hosts": 47,
+        "n_held_guests": 291,
+        "n_test": 107,
+        "n_train": 1485,
+        "n_neither": 791,
+        "valid": true
+      },
+      {
+        "seed": 10,
+        "fold_index": 10,
+        "n_held_hosts": 47,
+        "n_held_guests": 291,
+        "n_test": 195,
+        "n_train": 1221,
+        "n_neither": 967,
+        "valid": true
+      },
+      {
+        "seed": 11,
+        "fold_index": 11,
+        "n_held_hosts": 47,
+        "n_held_guests": 291,
+        "n_test": 211,
+        "n_train": 1126,
+        "n_neither": 1046,
+        "valid": true
+      }
+    ],
+    "train_rule": "train = rows whose host_id NOT in held_host set AND guest_id NOT in held_guest set; test = rows whose host_id IN held_host AND guest_id IN held_guest; remaining rows (one end seen) are in NEITHER train nor test."
+  },
+  "family_cold": {
+    "n_families": 8,
+    "per_family": {
+      "calixarene": {
+        "n_pair": 536,
+        "n_host": 49,
+        "flag": "ok"
+      },
+      "cavitand": {
+        "n_pair": 79,
+        "n_host": 3,
+        "flag": "NO_CONCLUSION_small"
+      },
+      "crown_ether": {
+        "n_pair": 17,
+        "n_host": 3,
+        "flag": "NO_CONCLUSION_small"
+      },
+      "cucurbituril": {
+        "n_pair": 733,
+        "n_host": 19,
+        "flag": "ok"
+      },
+      "cyclodextrin": {
+        "n_pair": 352,
+        "n_host": 21,
+        "flag": "ok"
+      },
+      "cyclophane": {
+        "n_pair": 28,
+        "n_host": 2,
+        "flag": "NO_CONCLUSION_small"
+      },
+      "other": {
+        "n_pair": 581,
+        "n_host": 88,
+        "flag": "ok"
+      },
+      "pillararene": {
+        "n_pair": 57,
+        "n_host": 4,
+        "flag": "NO_CONCLUSION_small"
+      }
+    },
+    "train_rule": "test = all rows of the held family; train = all other families (complement)."
+  },
+  "source": {
+    "clean_cond": "data/clean/suprabench_bap_clean_cond.csv",
+    "clean_cond_sha256": "56af035c649ca5772675de608772918482ca7f74f12a91efcc50e44fc80ee900",
+    "record_count": 2383,
+    "host_smiles_identifiers": 189,
+    "guest_smiles_identifiers": 1164
+  }
+}

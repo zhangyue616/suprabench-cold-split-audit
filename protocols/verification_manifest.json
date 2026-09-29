@@ -125,12 +125,16 @@
           "sha256": "56af035c649ca5772675de608772918482ca7f74f12a91efcc50e44fc80ee900"
         },
         "data/clean/suprabench_bap_clean.csv": {
-          "bytes": 740240,
-          "sha256": "56af035c649ca5772675de608772918482ca7f74f12a91efcc50e44fc80ee900"
+          "bytes": 662107,
+          "sha256": "c9301b153733e847902ac7f0535802bc00aaa0bbe962673f53bc9a99eaaa1f28"
         },
         "data/configs/gnn_models.json": {
           "bytes": 2860,
           "sha256": "6dc1d505bda3e6efc9e978a76d20c4c7afcf13ff5308cb02a7a7062ddade3054"
+        },
+        "data/configs/splits.json": {
+          "bytes": 4167,
+          "sha256": "507c41b3b585efabee43b1743f9f3a20739407caac7d91e783f911793f3ff7b8"
         },
         "data/identity/canonical_identity_alias_map_2026-08-01.tsv": {
           "bytes": 540618,
@@ -159,6 +163,10 @@
         "data/folds/folds_family_cold.csv": {
           "bytes": 197140,
           "sha256": "12c99d8df84e238c603d22b68536ba88e30a00f1f05d0dda4f2de24c51040e02"
+        },
+        "data/folds/folds_summary.json": {
+          "bytes": 4917,
+          "sha256": "cdb592553bbebabcea00f7d702079ed5ed17202496bb593c678f3b836ec49e63"
         },
         "data/folds/host_id_map.csv": {
           "bytes": 44119,
@@ -332,6 +340,12 @@
         "protocols/parent_identity_b1/stage_b_reference.json": {
           "bytes": 1116,
           "sha256": "fdcd1ba67dc2f0a640482357b6448547be89d44697efdf19e8ead27e397ee63c"
+        },
+        "data/reference/suprabench_baselines_modern_results.json": {
+          "bytes": 22829,
+          "sha256": "4d5e582a6d7ab19e25a9037c51567119aff799dc29a4aa0a045d46cda6662b68",
+          "historical_unsanitized_sha256": "1c2153f3383302ca08bc04e8c4ec98fe15bb6eb46ed2be7d54c705232720f779",
+          "public_copy_transform": "Removed the top-level _meta object; the nine allow-listed scientific fields are unchanged."
         },
         "results/parent_identity_b1/stage_b/APPEARANCE_CLASSIFICATION_MASKS.csv": {
           "bytes": 48682763,

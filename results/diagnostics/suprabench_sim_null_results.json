@@ -1,0 +1,281 @@
+{
+  "fold_consistency": {
+    "random": 0.677,
+    "host_cold": 0.448,
+    "guest_cold": 0.641,
+    "double_cold": 0.386
+  },
+  "random": {
+    "PAIR_RF": {
+      "R2": 0.677,
+      "Spearman": 0.836,
+      "MAE": 0.785,
+      "R2_CI": [
+        0.619,
+        0.718
+      ]
+    },
+    "additive_sum": {
+      "R2": 0.32,
+      "Spearman": 0.772,
+      "MAE": 1.309,
+      "R2_CI": [
+        0.153,
+        0.373
+      ]
+    },
+    "simknn_k1": {
+      "R2": 0.481,
+      "Spearman": 0.747,
+      "MAE": 0.952,
+      "R2_CI": [
+        0.351,
+        0.576
+      ]
+    },
+    "simknn_k3": {
+      "R2": 0.582,
+      "Spearman": 0.772,
+      "MAE": 0.905,
+      "R2_CI": [
+        0.458,
+        0.637
+      ]
+    },
+    "simknn_k5": {
+      "R2": 0.587,
+      "Spearman": 0.772,
+      "MAE": 0.911,
+      "R2_CI": [
+        0.454,
+        0.649
+      ]
+    },
+    "host_only_RF": {
+      "R2": 0.427,
+      "Spearman": 0.673,
+      "MAE": 1.108,
+      "R2_CI": [
+        0.332,
+        0.516
+      ]
+    },
+    "guest_only_RF": {
+      "R2": 0.392,
+      "Spearman": 0.668,
+      "MAE": 1.114,
+      "R2_CI": [
+        0.249,
+        0.459
+      ]
+    },
+    "interaction_gap_PAIRRF_minus_additive": 0.357
+  },
+  "host_cold": {
+    "PAIR_RF": {
+      "R2": 0.448,
+      "Spearman": 0.678,
+      "MAE": 1.106,
+      "R2_CI": [
+        0.343,
+        0.495
+      ]
+    },
+    "additive_sum": {
+      "R2": 0.23,
+      "Spearman": 0.632,
+      "MAE": 1.362,
+      "R2_CI": [
+        -0.046,
+        0.32
+      ]
+    },
+    "simknn_k1": {
+      "R2": 0.095,
+      "Spearman": 0.558,
+      "MAE": 1.359,
+      "R2_CI": [
+        -0.358,
+        0.264
+      ]
+    },
+    "simknn_k3": {
+      "R2": 0.239,
+      "Spearman": 0.579,
+      "MAE": 1.292,
+      "R2_CI": [
+        -0.065,
+        0.391
+      ]
+    },
+    "simknn_k5": {
+      "R2": 0.218,
+      "Spearman": 0.564,
+      "MAE": 1.304,
+      "R2_CI": [
+        -0.175,
+        0.409
+      ]
+    },
+    "host_only_RF": {
+      "R2": 0.194,
+      "Spearman": 0.453,
+      "MAE": 1.415,
+      "R2_CI": [
+        0.027,
+        0.26
+      ]
+    },
+    "guest_only_RF": {
+      "R2": 0.227,
+      "Spearman": 0.543,
+      "MAE": 1.306,
+      "R2_CI": [
+        -0.023,
+        0.327
+      ]
+    },
+    "interaction_gap_PAIRRF_minus_additive": 0.218
+  },
+  "guest_cold": {
+    "PAIR_RF": {
+      "R2": 0.641,
+      "Spearman": 0.811,
+      "MAE": 0.856,
+      "R2_CI": [
+        0.576,
+        0.676
+      ]
+    },
+    "additive_sum": {
+      "R2": 0.34,
+      "Spearman": 0.732,
+      "MAE": 1.281,
+      "R2_CI": [
+        0.146,
+        0.395
+      ]
+    },
+    "simknn_k1": {
+      "R2": 0.362,
+      "Spearman": 0.671,
+      "MAE": 1.095,
+      "R2_CI": [
+        0.127,
+        0.459
+      ]
+    },
+    "simknn_k3": {
+      "R2": 0.505,
+      "Spearman": 0.72,
+      "MAE": 0.999,
+      "R2_CI": [
+        0.31,
+        0.584
+      ]
+    },
+    "simknn_k5": {
+      "R2": 0.538,
+      "Spearman": 0.734,
+      "MAE": 0.982,
+      "R2_CI": [
+        0.398,
+        0.611
+      ]
+    },
+    "host_only_RF": {
+      "R2": 0.407,
+      "Spearman": 0.659,
+      "MAE": 1.13,
+      "R2_CI": [
+        0.324,
+        0.489
+      ]
+    },
+    "guest_only_RF": {
+      "R2": 0.309,
+      "Spearman": 0.574,
+      "MAE": 1.243,
+      "R2_CI": [
+        0.144,
+        0.375
+      ]
+    },
+    "interaction_gap_PAIRRF_minus_additive": 0.301
+  },
+  "double_cold": {
+    "n_folds": 12,
+    "mean_test_n": 165,
+    "PAIR_RF": {
+      "R2_mean": 0.386,
+      "R2_std": 0.098,
+      "n_valid": 12
+    },
+    "additive_sum": {
+      "R2_mean": 0.067,
+      "R2_std": 0.436,
+      "n_valid": 12
+    },
+    "simknn_k1": {
+      "R2_mean": -0.123,
+      "R2_std": 0.372,
+      "n_valid": 12
+    },
+    "simknn_k3": {
+      "R2_mean": 0.134,
+      "R2_std": 0.331,
+      "n_valid": 12
+    },
+    "simknn_k5": {
+      "R2_mean": 0.186,
+      "R2_std": 0.305,
+      "n_valid": 12
+    },
+    "host_only_RF": {
+      "R2_mean": 0.147,
+      "R2_std": 0.126,
+      "n_valid": 12
+    },
+    "guest_only_RF": {
+      "R2_mean": 0.038,
+      "R2_std": 0.402,
+      "n_valid": 12
+    },
+    "interaction_gap_PAIRRF_minus_additive": 0.319
+  },
+  "stratified_double_cold": {
+    "<0.4": {
+      "n": 319,
+      "PAIR_RF_R2": 0.282,
+      "simknn_k1_R2": -0.247,
+      "PAIR_RF_MAE": 1.27,
+      "simknn_k1_MAE": 1.54
+    },
+    "0.4-0.7": {
+      "n": 1211,
+      "PAIR_RF_R2": 0.414,
+      "simknn_k1_R2": -0.043,
+      "PAIR_RF_MAE": 1.122,
+      "simknn_k1_MAE": 1.433
+    },
+    ">0.7": {
+      "n": 454,
+      "PAIR_RF_R2": 0.475,
+      "simknn_k1_R2": 0.186,
+      "PAIR_RF_MAE": 1.164,
+      "simknn_k1_MAE": 1.458
+    }
+  },
+  "gnn_double_cold_seedvar": {
+    "per_model_seed_mean": [
+      0.248,
+      0.201,
+      0.197,
+      0.244,
+      0.225
+    ],
+    "mean": 0.223,
+    "sd": 0.021,
+    "note": "each value = mean over 12 double-cold split-seeds at one GNN init/val seed; smoke1 single-seed was 0.258"
+  }
+}

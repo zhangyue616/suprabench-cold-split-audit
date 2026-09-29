@@ -1,0 +1,31 @@
+{
+  "schema_version": "public-record-audit-bindings-v1",
+  "inputs": [
+    {
+      "path": "data/population/full_bap_manifest.csv",
+      "bytes": 1060866,
+      "sha256": "87cdb20ce9e5734ccd549b70bcd8d97f1cd7efab1441b64f47871544b447bbca"
+    },
+    {
+      "path": "data/clean/suprabench_bap_clean_cond.csv",
+      "bytes": 740240,
+      "sha256": "56af035c649ca5772675de608772918482ca7f74f12a91efcc50e44fc80ee900"
+    },
+    {
+      "path": "data/released_predictions/predictions_family_cold.csv",
+      "bytes": 2527320,
+      "sha256": "f982b2cbb9aacf3bffc82ed844d2e1e34f36a5549e8bc834f5de94bb86b66b63"
+    },
+    {
+      "path": "data/released_predictions/block_level_deltaR2.csv",
+      "bytes": 1328,
+      "sha256": "7f41a1aba4f46fb757a18191a5643b519820053bc9e9e56d847ea728d3718dd4"
+    },
+    {
+      "path": "results/family_diagnostics/tree_null_family_metrics.csv",
+      "bytes": 21514,
+      "sha256": "cb3ad6c911428d600262ba58961356f680319479041db58b31cde9d49c9d51bb"
+    }
+  ],
+  "scope": "Saved record semantics and arithmetic; no fitting and no independent-experiment inference."
+}

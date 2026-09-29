@@ -1,0 +1,40 @@
+host_name,host_class,exclude_reason,n_records
+Tetrahydropyridazinophthalazine-tetraone functionalized Cucurbit[6]uril,functionalized cucurbituril (SMILES not shipped),empty_host_SMILES,32
+"5,11,17,23,29-pentaguanidinium-31,32,33,34,35-penta (4-methylpentloxy) calix[5]arene",calixarene (SMILES not shipped),empty_host_SMILES,25
+sodium sulfonated pillar[6]arene,pillararene (SMILES not shipped),empty_host_SMILES,23
+sulfonated pillar[5]arene,pillararene (SMILES not shipped),empty_host_SMILES,21
+tetrasulfonato-tetrakis(n-butyl)-calix[4]arene,calixarene (SMILES not shipped),empty_host_SMILES,14
+Zeolite L3.0,inorganic zeolite,empty_host_SMILES,9
+"5,11,17,23-tetrasulfonato-25,26,27,28-tetrakis(n-pentyl)-calix[4]arene",calixarene (SMILES not shipped),empty_host_SMILES,7
+p-Sulfonatocalix[5]arene sodium salt,calixarene (SMILES not shipped),empty_host_SMILES,6
+p-sulfonatocalix[4]arene-carboxymethylsubsituted,calixarene (SMILES not shipped),empty_host_SMILES,5
+p-sulfonatocalix[4]arene-(carboxamidophenyl-substituted),calixarene (SMILES not shipped),empty_host_SMILES,5
+p-sulfonatocalix[4]arene-(phenyl),calixarene (SMILES not shipped),empty_host_SMILES,5
+"5,11,17,23,29-Pentasulfonato-31,32,33,34,35-pentakis((4- methylpentyl)oxy)calix[5]arene",calixarene (SMILES not shipped),empty_host_SMILES,5
+p-sulfonatocalix[4]arene-(cyanophenyl-substituted,calixarene (SMILES not shipped),empty_host_SMILES,5
+p-Sulfonatothiacalix[4]arene sodium salt,calixarene (SMILES not shipped),empty_host_SMILES,5
+Zeolite Y2.55 (FAU),inorganic zeolite,empty_host_SMILES,5
+p-sulfonatocalix[4]arene-(bromo-substituted),calixarene (SMILES not shipped),empty_host_SMILES,5
+Zeolite Y15 (FAU15),inorganic zeolite,empty_host_SMILES,4
+p-sulfonatocalix[4]arene-(nitro-substituted),calixarene (SMILES not shipped),empty_host_SMILES,4
+p-sulfonatocalix[4]arene-(methylphenyl-substituted),calixarene (SMILES not shipped),empty_host_SMILES,3
+"p-sulfonatocalix[4]arene-(2,3-dimethoxyphenyl-substituted)",calixarene (SMILES not shipped),empty_host_SMILES,3
+p-sulfonatocalix[6]arene-(hexakis(dodecyloxy)-substituted),calixarene (SMILES not shipped),empty_host_SMILES,3
+p-sulfonatocalix[4]arene-(methoxyphenyl-substituted),calixarene (SMILES not shipped),empty_host_SMILES,3
+Methyl Cucurbit[8]uril-Viologen-Rotaxane,mechanically interlocked (rotaxane),empty_host_SMILES,3
+p-sulfonatocalix[4]arene-(amino-substituted),calixarene (SMILES not shipped),empty_host_SMILES,3
+p-sulfonatocalix[4]arene-(carboxyphenyl-substituted),calixarene (SMILES not shipped),empty_host_SMILES,2
+twisted p-Sulfonatocalix[4]arene (methylcaboxylate substituted),calixarene (SMILES not shipped),empty_host_SMILES,2
+"5,11,17,23,29-pentasulfonato-31,32,33,34,35-pentakis(dodecyloxy)calix[5]arene",calixarene (SMILES not shipped),empty_host_SMILES,2
+p-sulfonatocalix[4]arene-(naphthoylamide-substituted),calixarene (SMILES not shipped),empty_host_SMILES,2
+Rotaxane,mechanically interlocked (rotaxane),empty_host_SMILES,2
+p-sulfonatocalix[4]arene-(benzoylamide-substituted),calixarene (SMILES not shipped),empty_host_SMILES,2
+Human Serum Albumin,protein (HSA),empty_host_SMILES,2
+p-sulfonatocalix[4]arene-(aminomethylphenyl-substituted),calixarene (SMILES not shipped),empty_host_SMILES,2
+Cyclohexanohemi cucurbit[8]uril,functionalized cucurbituril (SMILES not shipped),empty_host_SMILES,1
+Calix[4]arene,calixarene (SMILES not shipped),empty_guest_SMILES,1
+Cucurbit[7]uril,functionalized cucurbituril (SMILES not shipped),empty_guest_SMILES,1
+p-sulfonatocalix[4]arene-(TEG-triazole-O-NBDphenyl-substituted),calixarene (SMILES not shipped),empty_host_SMILES,1
+p-sulfonatocalix[4]arene-(TEG-azidephenyl-substituted),calixarene (SMILES not shipped),empty_host_SMILES,1
+Octamethyl substituted CB[6],functionalized cucurbituril (SMILES not shipped),empty_host_SMILES,1
+β-Cyclodextrin,cyclodextrin (SMILES not shipped),empty_guest_SMILES,1

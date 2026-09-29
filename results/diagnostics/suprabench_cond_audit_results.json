@@ -1,0 +1,168 @@
+{
+  "fold_consistency": {
+    "random": 0.677,
+    "host_cold": 0.417,
+    "guest_cold": 0.656,
+    "double_cold": 0.387
+  },
+  "P1": {
+    "source": {
+      "eupmc": 2167,
+      "cb7_supplement": 216
+    },
+    "solvent": {
+      "buffer": 1035,
+      "water": 696,
+      "complex": 492,
+      "D2O": 78,
+      "missing": 69,
+      "other": 13
+    },
+    "temp": {
+      "~25": 1285,
+      "missing": 1045,
+      "other": 53
+    },
+    "ph": {
+      "missing": 1481,
+      "neutral": 744,
+      "acidic": 86,
+      "basic": 72
+    },
+    "per_family_solvent": {
+      "calixarene": {
+        "buffer": 241,
+        "complex": 187,
+        "water": 89,
+        "D2O": 11,
+        "missing": 7,
+        "other": 1
+      },
+      "cavitand": {
+        "buffer": 72,
+        "D2O": 7
+      },
+      "crown_ether": {
+        "water": 16,
+        "other": 1
+      },
+      "cucurbituril": {
+        "water": 434,
+        "buffer": 180,
+        "complex": 108,
+        "D2O": 11
+      },
+      "cyclodextrin": {
+        "buffer": 251,
+        "water": 63,
+        "complex": 32,
+        "missing": 4,
+        "D2O": 2
+      },
+      "cyclophane": {
+        "buffer": 26,
+        "D2O": 2
+      },
+      "other": {
+        "buffer": 208,
+        "complex": 165,
+        "water": 94,
+        "missing": 58,
+        "D2O": 45,
+        "other": 11
+      },
+      "pillararene": {
+        "buffer": 57
+      }
+    },
+    "per_family_source": {
+      "calixarene": {
+        "eupmc": 536
+      },
+      "cavitand": {
+        "eupmc": 79
+      },
+      "crown_ether": {
+        "eupmc": 17
+      },
+      "cucurbituril": {
+        "eupmc": 517,
+        "cb7_supplement": 216
+      },
+      "cyclodextrin": {
+        "eupmc": 352
+      },
+      "cyclophane": {
+        "eupmc": 28
+      },
+      "other": {
+        "eupmc": 581
+      },
+      "pillararene": {
+        "eupmc": 57
+      }
+    }
+  },
+  "P2": {
+    "same_hg_sigma_mean": 0.1957,
+    "n_same_hg": 121,
+    "true_replicate_sigma_mean": 0.1678,
+    "n_true_rep": 75,
+    "cross_condition_spread_mean": 0.2404,
+    "n_cross_cond": 47
+  },
+  "P3": {
+    "note": "cb7_supplement = single host (CB7); test=cb7 is curation-shift for ONE host (CB7 also in eupmc train); reverse=single-host-train (degenerate)",
+    "train_eupmc_test_cb7": {
+      "n_train": 2167,
+      "n_test": 216,
+      "PAIR_RF": 0.167,
+      "simknn_k5": 0.017,
+      "additive": 0.097,
+      "PAIR_RF_MAE": 1.728,
+      "PAIR_RF_rho": 0.589
+    },
+    "train_cb7_test_eupmc": {
+      "n_train": 216,
+      "n_test": 2167,
+      "PAIR_RF": -1.091,
+      "simknn_k5": -1.236,
+      "additive": -1.166,
+      "PAIR_RF_MAE": 2.289,
+      "PAIR_RF_rho": 0.258
+    }
+  },
+  "P4_condition_null_double_cold": {
+    "cond_only_RF_R2": -0.122,
+    "cond_only_sd": 0.169,
+    "PAIR_RF_R2": 0.387,
+    "PAIR_plus_cond_R2": 0.377,
+    "structure_gain_over_conditions": 0.509
+  },
+  "P4_within_solvent": {
+    "buffer": {
+      "n_rows": 1035,
+      "n_folds": 12,
+      "mean_test_n": 61,
+      "PAIR_RF_R2": 0.401,
+      "PAIR_RF_sd": 0.14,
+      "simknn_k5_R2": 0.07
+    },
+    "water": {
+      "n_rows": 696,
+      "n_folds": 8,
+      "mean_test_n": 63,
+      "PAIR_RF_R2": 0.308,
+      "PAIR_RF_sd": 0.148,
+      "simknn_k5_R2": 0.145
+    },
+    "complex": {
+      "n_rows": 492,
+      "n_folds": 8,
+      "mean_test_n": 37,
+      "PAIR_RF_R2": 0.264,
+      "PAIR_RF_sd": 0.129,
+      "simknn_k5_R2": -1.017
+    }
+  }
+}

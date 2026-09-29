@@ -1,0 +1,13 @@
+{
+  "definition": "All 66 unordered pairs omitted from the same 12 saved block margins; unweighted mean of the ten retained values. No model or metric recomputation.",
+  "input": "repro/predictions/block_level_deltaR2.csv",
+  "input_sha256": "7f41a1aba4f46fb757a18191a5643b519820053bc9e9e56d847ea728d3718dd4",
+  "script_sha256": "ebdf35fcd79c2a98d981007d116b5783c410aa3bac6f4caa0701b9daf005bef8",
+  "combinations": 66,
+  "minimum": {
+    "omitted_block_a": 1,
+    "omitted_block_b": 5,
+    "remaining_block_count": 10,
+    "unweighted_mean_delta_R2": 0.0751288286715294
+  }
+}

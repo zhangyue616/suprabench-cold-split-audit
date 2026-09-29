@@ -1,0 +1,177 @@
+{
+  "status": "COMPUTED",
+  "baseline_gate": "PASS",
+  "baseline": {
+    "block_denominator": 12,
+    "finite_blocks": 12,
+    "equal_block_mean_delta": 0.09503991115167403,
+    "positive_blocks": 11,
+    "status": "FINITE"
+  },
+  "excluded_37_appearances": {
+    "block_denominator": 12,
+    "finite_blocks": 12,
+    "equal_block_mean_delta": 0.08970178332441779,
+    "positive_blocks": 10,
+    "status": "FINITE"
+  },
+  "equal_block_mean_delta_change": -0.005338127827256234,
+  "changed_comparators": [],
+  "undefined_records": [
+    {
+      "phase": "baseline",
+      "block": 0,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "baseline",
+      "block": 1,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "baseline",
+      "block": 2,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "baseline",
+      "block": 3,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "baseline",
+      "block": 4,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "baseline",
+      "block": 5,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "baseline",
+      "block": 6,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "baseline",
+      "block": 7,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "baseline",
+      "block": 8,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "baseline",
+      "block": 9,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "baseline",
+      "block": 10,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "baseline",
+      "block": 11,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "excluded_37_appearances",
+      "block": 0,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "excluded_37_appearances",
+      "block": 1,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "excluded_37_appearances",
+      "block": 2,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "excluded_37_appearances",
+      "block": 3,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "excluded_37_appearances",
+      "block": 4,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "excluded_37_appearances",
+      "block": 5,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "excluded_37_appearances",
+      "block": 6,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "excluded_37_appearances",
+      "block": 7,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "excluded_37_appearances",
+      "block": 8,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "excluded_37_appearances",
+      "block": 9,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "excluded_37_appearances",
+      "block": 10,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    },
+    {
+      "phase": "excluded_37_appearances",
+      "block": 11,
+      "model": "source_only_RF",
+      "status": "UNDEFINED_SOURCE_NEAR_CONSTANT"
+    }
+  ],
+  "new_undefined_records": [],
+  "mask_sha256": "e67aacdc3e1f004c3e94b88ef120798d42f67415bb01986ac868dcf6e3411bdf",
+  "limits": [
+    "Saved predictions only; no training exposure removed or models refitted.",
+    "Exact (block,row) exclusion, not global exclusion of the 31 distinct rows.",
+    "Twelve fixed blocks equally weighted; no dropped blocks or denominator change.",
+    "No confidence intervals, significance tests, or new generalization claim.",
+    "Not incorporated into accepted R2 manuscript or SI."
+  ],
+  "historical_script_sha256": "fe14914ce49fb25843b19802c8dd00adc8e6bd2de80cc5223954b9f561c4c5de",
+  "public_path_adapter_sha256": "9fbfbf73f63d7752ef9ef2358fbc26906850ef7f73ef02660d7c4b7b43b9fe88"
+}

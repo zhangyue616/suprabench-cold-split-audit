@@ -1,0 +1,239 @@
+{
+  "sha256_records": "a4ba8a95d169ad852cda058243e06d321e7dc8e9cc054c8b029fe64c7d4a7c38",
+  "n_rows": 2609,
+  "counts": {
+    "pairs": 2609,
+    "unique_host_name": 234,
+    "unique_host_smiles": 190,
+    "unique_guest_name": 1277,
+    "unique_guest_smiles": 1216,
+    "source_counts": {
+      "eupmc": 2392,
+      "cb7_supplement": 217
+    },
+    "logKa": {
+      "count": 2609.0,
+      "mean": 4.0983,
+      "std": 2.1321,
+      "min": 0.0,
+      "25%": 2.5584,
+      "50%": 3.6812,
+      "75%": 5.3096,
+      "max": 15.5002
+    }
+  },
+  "dup_pairs": {
+    "n_unique_pairs": 2402,
+    "n_pairs_with_replicates": 164,
+    "n_records_in_replicate_pairs": 371,
+    "median_logKa_range_within_dup": 0.2475,
+    "mean_logKa_std_within_dup": 0.4297
+  },
+  "parse": {
+    "host_fail": 0,
+    "guest_fail": 0
+  },
+  "n_usable_both_parse": 2609,
+  "leakage": {
+    "random_splits": [
+      {
+        "test_frac_host_seen_in_train": 0.983,
+        "test_frac_guest_seen_in_train": 0.69
+      },
+      {
+        "test_frac_host_seen_in_train": 0.979,
+        "test_frac_guest_seen_in_train": 0.707
+      },
+      {
+        "test_frac_host_seen_in_train": 0.985,
+        "test_frac_guest_seen_in_train": 0.705
+      },
+      {
+        "test_frac_host_seen_in_train": 0.975,
+        "test_frac_guest_seen_in_train": 0.695
+      },
+      {
+        "test_frac_host_seen_in_train": 0.983,
+        "test_frac_guest_seen_in_train": 0.649
+      }
+    ],
+    "mean_test_frac_host_seen": 0.981,
+    "mean_test_frac_guest_seen": 0.689
+  },
+  "baselines": {
+    "random_5fold": {
+      "mean_predictor": {
+        "R2": [
+          -0.001,
+          0.0
+        ],
+        "Spearman": [
+          0.0,
+          0.0
+        ],
+        "MAE": [
+          1.657,
+          0.057
+        ]
+      },
+      "ECFP_RF": {
+        "R2": [
+          0.564,
+          0.048
+        ],
+        "Spearman": [
+          0.801,
+          0.02
+        ],
+        "MAE": [
+          0.902,
+          0.069
+        ]
+      },
+      "RDKitDesc_RF": {
+        "R2": [
+          0.672,
+          0.045
+        ],
+        "Spearman": [
+          0.847,
+          0.016
+        ],
+        "MAE": [
+          0.79,
+          0.052
+        ]
+      },
+      "PairDesc_RF": {
+        "R2": [
+          0.622,
+          0.052
+        ],
+        "Spearman": [
+          0.821,
+          0.024
+        ],
+        "MAE": [
+          0.88,
+          0.064
+        ]
+      }
+    },
+    "host_disjoint_5fold": {
+      "mean_predictor": {
+        "R2": [
+          -0.116,
+          0.097
+        ],
+        "Spearman": [
+          0.0,
+          0.0
+        ],
+        "MAE": [
+          1.689,
+          0.132
+        ]
+      },
+      "ECFP_RF": {
+        "R2": [
+          0.23,
+          0.197
+        ],
+        "Spearman": [
+          0.592,
+          0.09
+        ],
+        "MAE": [
+          1.245,
+          0.124
+        ]
+      },
+      "RDKitDesc_RF": {
+        "R2": [
+          0.365,
+          0.099
+        ],
+        "Spearman": [
+          0.641,
+          0.049
+        ],
+        "MAE": [
+          1.171,
+          0.171
+        ]
+      },
+      "PairDesc_RF": {
+        "R2": [
+          0.232,
+          0.211
+        ],
+        "Spearman": [
+          0.527,
+          0.116
+        ],
+        "MAE": [
+          1.289,
+          0.258
+        ]
+      }
+    },
+    "guest_disjoint_5fold": {
+      "mean_predictor": {
+        "R2": [
+          -0.001,
+          0.001
+        ],
+        "Spearman": [
+          0.0,
+          0.0
+        ],
+        "MAE": [
+          1.657,
+          0.052
+        ]
+      },
+      "ECFP_RF": {
+        "R2": [
+          0.468,
+          0.05
+        ],
+        "Spearman": [
+          0.735,
+          0.02
+        ],
+        "MAE": [
+          1.036,
+          0.039
+        ]
+      },
+      "RDKitDesc_RF": {
+        "R2": [
+          0.642,
+          0.041
+        ],
+        "Spearman": [
+          0.817,
+          0.01
+        ],
+        "MAE": [
+          0.876,
+          0.03
+        ]
+      },
+      "PairDesc_RF": {
+        "R2": [
+          0.583,
+          0.04
+        ],
+        "Spearman": [
+          0.786,
+          0.018
+        ],
+        "MAE": [
+          0.963,
+          0.035
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "scope": "canonical_v19_gnn_comparison_only",
+  "comparison_counts": {
+    "total": 326,
+    "pass": 326,
+    "fail": 0,
+    "symmetric_unknown": 0,
+    "model_block_prediction_repeat": 176,
+    "model_block_metric_delta": 132,
+    "model_split_aggregate_delta": 18
+  },
+  "locked_roles": {
+    "run_a": "PREDECLARED_PRIMARY",
+    "run_b": "VERIFICATION_ONLY",
+    "selection_or_averaging": "FORBIDDEN"
+  },
+  "locked_thresholds": {
+    "block_metric_absolute_delta": {
+      "mae": 0.03,
+      "r2": 0.03,
+      "spearman": 0.03
+    },
+    "split_aggregate_absolute_delta": {
+      "mae": 0.02,
+      "r2": 0.02,
+      "spearman": 0.02
+    },
+    "prediction_repeat": {
+      "mae": 0.05,
+      "rmse": 0.075,
+      "p95_abs": 0.15,
+      "max_abs": 0.5
+    }
+  },
+  "maximum_defined_comparison_value": 0.0,
+  "validated_membership": "EXACT_CANONICAL_AUTHORITY_AND_ORDER",
+  "boundary": "This PASS applies only to the newly executed prespecified GNN repeat comparison. It does not erase the v16 213/326 FAIL history and does not adopt v19 results into the manuscript or main conclusions.",
+  "run_inputs": {
+    "run_a": {
+      "path": "results/canonical_gnn_run_a/predictions_gnn.csv",
+      "sha256": "05bd2329de4f3b4fc9d6837564653ea4b07678ee1eeadf2efec74e9a42a3ec77"
+    },
+    "run_b": {
+      "path": "results/canonical_gnn_run_b/predictions_gnn.csv",
+      "sha256": "05bd2329de4f3b4fc9d6837564653ea4b07678ee1eeadf2efec74e9a42a3ec77"
+    }
+  },
+  "comparison_output": {
+    "path": "results/canonical_gnn_comparison/gnn_repeat_comparison.tsv",
+    "sha256": "3bdc180c89feb12008fc4e4ee25ca9b4bdeaf49f24f8a44bc48564b6d535178c",
+    "bytes": 66829
+  },
+  "comparator_source": {
+    "path": "scripts/canonical_gnn/historical/compare_gnn_repeats.py",
+    "sha256": "bb872ab28339172a495176d588469622713e217e6a51c2cf8af4f1eb19dc7d51",
+    "scope": "Exact historical comparator source; its original layout-dependent lifecycle helper is retained for source audit rather than advertised as a standalone public rerun."
+  }
+}
